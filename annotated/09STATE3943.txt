@@ -1,0 +1,34 @@
+<code><pre>S E C R E T STATE 003943 E.O. 12958: [LOC DECL:  ] 01/14/2032 TAGS: <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/MNUC_0.html'>MNUC</a> <a href='/tag/IR_0.html'>IR</a> <a href='/tag/CH_0.html'>CH</a> SUBJECT: ( S ) NIAG 8233: TRANSFER OF MARAGING STEEL FROM [LOC CHINA  ] TO [LOC IRAN  ] Classified By: ISN ACTING A/S PATRICIA A. MCNERNEY , REASONS 1.4 ( B ) , ( C ) , AND ( D ) SUMMARY -------- <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG S//REL China  ] ) We have received information that [ORG XXXXXXXXXXXX  ] associated with [ORG XXXXXXXXXXXX  ] was making arrangements with [MISC Chinese  ] entity [ORG XXXXXXXXXXXX  ] to purchase maraging steel . 
+The steel was to be partially machined in order to disguise it as mechanical parts in order to evade [MISC Chinese  ] customs officials . 
+Certain types of maraging steel are controlled by the [ORG Nuclear Suppliers  ] , Group’s Dual Use List , under item 2 . 
+[ORG C.  ] 11. <a id='par2' href='#par2'>¶</a>2 . 
+[ORG XXXXXXXXXXXX  ] ACTION REQUEST -------------- <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG S//REL China  ] ) [ORG Post  ] is instructed to inform appropriate-level [MISC Chinese  ] officials of this transaction , and request that they investigate the entity and individuals involved . 
+[ORG Post  ] should also remind the [ORG PRC  ] that [ORG XXXXXXXXXXXX  ] could be sanctioned under [LOC U.S.  ] law . 
+[ORG Post  ] may draw from Summary , [ORG Objectives  ] , and Talking Points/Non-Paper below , as appropriate . 
+[MISC OBJECTIVES  ] ---------- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG S//REL China  ] ) [ORG Post  ] should pursue the following: -- Provide information regarding the transfer and encourage [MISC Chinese  ] officials to thoroughly investigate the transfer and the entities involved . 
+-- Encourage [MISC Chinese  ] officials to share the results of their investigation with us . 
+-- Emphasize that the [MISC Iranian  ] entities involved are linked to [MISC Iran’s  ] DIO , a designated entity under [ORG UNSCR  ] 1737 . 
+-- Note that , given [MISC Iran’s  ] continuing nuclear and missile related activities , now is not the time for business as usual with [LOC Iran  ] . 
+TALKING POINTS/NON-PAPER ------------------------ <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG S//REL China  ] ) [PER Begin  ] talking points/non-paper: -- We would like to share with you information regarding a transfer of maraging steel from the [ORG XXXXXXXXXXXX  ] . 
+-- Our information indicates that [ORG XXXXXXXXXXXX  ] XXXXXXXXXXXX [ORG XXXXXXXXXXXX  ] -- The purchase was to consist of approximately 25 metric tons of maraging steel , which was to be machined so as to be disguised as mechanical parts in order to evade [MISC Chinese  ] customs . 
+-- The pro forma invoice for this shipment includes the following details: --- Commodity: maraging steel rods , diameter: 38.1 mm , length: 450.2 mm --- Technical Standards/Specifications/Requirements: According to grade DIN . 
+1.270 ( X3NiCoMoTi18-9-5 ) or [ORG AISI  ] 18 Ni --- [PER Packing:  ] in seaworthy standard wooden boxes --- Price: free on Board ( [ORG FOB  ] ) [MISC Chinese  ] main port: 58.85 euro ( $75.47 ) PER KG , Cost and Freight ( [ORG CFR  ] ) [ORG XXXXXXXXXXXX:  ] 59 euro ( $75.55 ) per kg --- Partial shipment allowed , transshipment not allowed --- Shipment: By vessel in container --- Payment: 50 percent by telegraphic transfer prepaid and remaining 50 percent by cash at delivery , to be paid after the cargo has been received and the quality and quantity confirmed. --- Delivery time: within 80-140 days from the date of receipt of 50 percent prepaid payment --- Port of loading: any [MISC Chinese  ] port --- [ORG XXXXXXXXXXXX  ] We believe that other deals are also being discussed between these parties , possibly involving other forms of maraging steel . 
+-- Certain types of maraging steel are subject to control by the [ORG Nuclear Suppliers  ] , Group Dual Use List , under item 2 . 
+[PER C.  ] 11 , and by the [ORG Missile Technology Control Regime  ] under item 6C8 of [ORG Category II  ] . 
+-- Furthermore , supply to [LOC Iran  ] , s nuclear and missile programs of certain types of maraging steel are prohibited under [ORG UNSCR  ] 1737 as specified in the lists of [ORG UNSCR  ] documents [ORG S/2006/814  ] and [ORG S/2006/815  ] . 
+-- Although the solid maraging steel rods described previously are not explicitly controlled on these lists , the circumstances surrounding this case , i.e. , deceptive practices involving a proscribed entity and prospects for further deals between the parties , suggest that the transfer of this material would be inconsistent with [MISC China’s  ] obligations under [ORG UNSCR  ] 1737 . 
+-- Moreover , certain types of maraging steel are prohibited by [ORG UNSCR  ] 1803 from being transferred to [LOC Iran  ] . 
+-- As you are aware , we have discussed the proliferation related activities of [ORG XXXXXXXXXXXX  ] with the [MISC Chinese  ] Government on a number of occasions . 
+[ORG XXXXXXXXXXXX  ] could be sanctioned under [LOC U.S.  ] law for these activities . 
+-- Given the urgent nature of this nuclear-related transfer , we request that you investigate this transfer and take all necessary measures , consistent with your laws and authorities , to prevent it . 
+-- We hope your government will provide us with the results of this investigation . 
+END POINTS . 
+REPORTING REQUIREMENT --------------------- <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) [ORG Post  ] is requested to report results of its efforts within five business days of receipt of this cable . 
+[ORG XXXXXXXXXXXX  ] <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG U  ] ) [ORG Department thanks Post  ] for its assistance . 
+Please slug responses for EAP , ISN , [ORG NEA  ] , and [PER T. RICE</pre></code>  ] 

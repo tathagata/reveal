@@ -1,0 +1,37 @@
+<code><pre>C O N F I D E N T I A L TBILISI 001919 SIPDIS EO 12958 DECL: 10/19/2019 TAGS PARM , PGOV , PREL , [ORG KNNP  ] , [ORG DOE  ] , [ORG GG SUBJECT: GEORGIA: RADIOACTIVE MATERIAL  ] CROSSES THE BORDER REF: TBILISI 207 Classified By: Deputy Chief of [LOC Mission Kent Logsdon  ] for reasons 1.4 ( b ) AND ( d ) . <a id='par1' href='#par1'>¶</a>1 . 
+( C ) Summary . 
+On August 26 , a car carrying three [MISC Armenian  ] citizens entered [LOC Georgia  ] from [LOC Armenia  ] at the [MISC Sadakhlo  ] border crossing . 
+The car set off a gamma alarm on the radiation detection portal monitor . 
+The driver provided a cursory explanation for the alarm , and the patrol police did not detain the group . 
+On August 27 , the same car returned to [LOC Armenia  ] through the [MISC Sadakhlo  ] crossing , and again set off a gamma alarm . 
+At this point , the patrol police detained the occupants and searched the vehicle . 
+[MISC Georgian  ] officials determined that the car was contaminated with [MISC Cesium-137  ] . 
+However , because the search did not produce any radioactive material , the occupants were released and returned to [LOC Armenia  ] . 
+An [ORG FBI  ] officer is currently following up with the Government of [LOC Armenia  ] on the case . 
+End summary. <a id='par2' href='#par2'>¶</a>2 . 
+( C ) Comment . 
+This incident shows the value of radiation detection portal monitors at ports of entry in [LOC Georgia  ] , which have been installed across the country over the last several years by the [ORG Department of Energy/National Nuclear Security Administration/Second Line of Defense  ] ( [ORG SLD  ] ) program . 
+Without the monitors , this car would have probably entered and exited [LOC Georgia  ] with no one knowing that radioactive material may have been brought across the border . 
+Officers with the Patrol Police , Border Police and [MISC Georgian  ] Customs have received , and continue to receive , training from the [LOC United States  ] on detecting and deterring radioactive and nuclear material smuggling . 
+This includes instruction on how to operate the portal monitors . 
+This incident also reveals that some training gaps remain within the patrol police on how to appropriately handle alarms . 
+This vortex of knowledge likely results from the fairly recent ( January 2009 ) assumption of responsibility of ports of entry by the patrol police ( reftel ) . 
+End comment . 
+GAMMA ALARM ON THE WAY INTO [LOC GEORGIA  ] <a id='par3' href='#par3'>¶</a>3 . 
+( C ) On August 26 , a car carrying three [MISC Armenian  ] citizens entered [LOC Georgia  ] from [LOC Armenia  ] at the [MISC Sadakhlo  ] border crossing . 
+As the car passed through the radiation detection portal monitors , it set off a gamma alarm . 
+The patrol police manning the port of entry briefly detained the vehicle to try and determine the reason for the alarm . 
+The driver of the vehicle said that he had recently had surgery , during which time a radioactive isotope was injected into his body . 
+The patrol police accepted this explanation , requiring no documentation or proof from the driver , and allowed the vehicle and occupants to enter [LOC Georgia  ] ( Note: According to standard procedures , the driver should have had a doctor’s note or some documentation confirming this . 
+End note ) . 
+GAMMA ALARM ON THE WAY OUT OF [LOC GEORGIA  ] <a id='par4' href='#par4'>¶</a>4 . 
+( C ) On August 27 , the same car , carrying the same three [MISC Armenian  ] citizens , returned to the [MISC Sadakhlo  ] border crossing to exit from [LOC Georgia  ] . 
+The car again set off the gamma alarm on the radiation detection portal monitor . 
+At this point , the occupants were detained and the patrol police , using a handheld pager , determined that the car was contaminated with [MISC Qhandheld  ] pager , determined that the car was contaminated with [MISC Cesium-137  ] ( [MISC Cs-137  ] ) . 
+However , a search of the vehicle failed to produce any radioactive material . 
+An official with [ORG Georgia’s Nuclear and Radiation Safety Service  ] ( [ORG NRSS  ] ) was called to the site , and confirmed that there was [MISC Cs-137  ] contamination covering almost the entire car , even in the ventilation system . 
+A cloth in the car produced the highest radiation reading. <a id='par5' href='#par5'>¶</a>5 . 
+( C ) The occupants of the vehicle were questioned , and one of the detainees told the investigator that he may have been contaminated while at a radio station near his village in [LOC Armenia  ] . 
+Because no radioactive material was found , the occupants were released and sent back to [LOC Armenia  ] . 
+Using pictures of the alarms from the monitors as evidence that the alarm did go off as the car entered [LOC Georgia  ] , thereby establishing that the material originated in [LOC Armenia  ] vice [LOC Georgia  ] , the [ORG FBI’s Regional WMD Coordinator  ] is currently following up with the Government of [LOC Armenia  ] on this case . 
+BASS</pre></code> 

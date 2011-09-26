@@ -1,0 +1,21 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000028 SIPDIS OES/S FOR N. CARTER-FOSTER DEPARTMENT FOR WHA/CAR - [ORG KAREN  ] JO MCISAAC E.O. 12958: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/SOCI_0.html'>SOCI</a> <a href='/tag/UNDP_0.html'>UNDP</a> <a href='/tag/UNGA_0.html'>UNGA</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: DISTRACTED DRIVING DEMARCHE RESPONSE - [LOC ICELAND  ] REF: STATE 06703 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) [ORG Emboff  ] delivered points contained in reftel to [PER Emil Hreggvidsson  ] , Director of the [ORG Department of International Affairs  ] at the [ORG Icelandic Ministry of Foreign Affairs  ] , on January 15 . 
+In order to obtain the requested information , [ORG Emboff  ] also spoke with [PER Sigurdur Helgason  ] , an official at the [ORG Icelandic Ministry of Transportation.  ] <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) According to [PER Helgason  ] , there is an [MISC Icelandic  ] law in place that explicitly bans the use of a cell phone while driving . 
+Signed in 1987 , and amended in 2001 , the law ( [ORG Article  ] 47 of the [ORG Icelandic Traffic Code  ] ) states that the driver of a motor vehicle is not allowed to operate a cell phone without utilizing hands-free equipment ( e.g. headset ) . 
+The law has not been subsequently amended to explicitly outlaw texting while operating a motor vehicle and , according to [PER Helgason  ] , there are no imminent plans to do so. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG U  ] ) There is little available data regarding casualties , injuries or crashes in [LOC Iceland  ] related to talking on the phone or texting . 
+[PER Helgason  ] told [ORG Emboff  ] that existing figures on this topic are , essentially , worthless as very few drivers involved in a crash admit that cell phone usage or texting played a role in the accident , primarily because they can be fined if this turns out to be the case . 
+He did note , however , that law enforcement officials hand out an average of 10-15 tickets per month to drivers of vehicles who are using a cell phone or texting . 
+The current fine for breaking the law is ISK 5,000 ( approximately 40 USD ) . <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG U  ] ) Telephone and insurance companies have sponsored nation-wide awareness campaigns to discourage drivers from using cell phones or texting while operating a motor vehicle . 
+Shortly after the law came into force , phone companies either offered headsets to people for free or provided them at a significant discount . 
+Many private companies have also provided their employees with the equipment for free . 
+Insurance companies , meanwhile , have publicly encouraged people to park their vehicles while texting or speaking on the phone if they don't possess the necessary headset equipment. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG U  ] ) There are some indications that these legal measures and awareness campaigns in [LOC Iceland  ] are working . 
+The [ORG Association of Icelandic Insurance Companies  ] has conducted several surveys on the topic and their studies indicate that the usage of hands-free equipment among drivers is increasing . 
+It is estimated , according to these studies , that about 25% of [MISC Icelandic  ] drivers currently use the hands-free equipment on a regular basis. <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) The overall use of cell phones and text messaging devices remains prevalent in [LOC Iceland  ] . 
+According to the [ORG Office of Statistics in Iceland  ] , 99 percent of the nation 's citizens carry a cell phone . 
+The [ORG Office of Statistics  ] also reported that the total number of cell phone minutes utilized in [LOC Iceland  ] in 2008 was 677,880 ( thousands of minutes ) ; the total number of short text messages ( SMS ) sent were 143,216 ( thousands of messages ) ; and the total number of multimedia messaging services ( MMS ) sent were 941 ( thousands of messages ) . 
+WATSON</pre></code> 

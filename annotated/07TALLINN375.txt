@@ -1,0 +1,118 @@
+<code><pre>S E C R E T SECTION 01 OF 04 [ORG TALLINN  ] 000375 SIPDIS DEPT FOR EUR/NB E.O. 12958: [LOC DECL:  ] 06/06/2017 TAGS: <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/NATO_0.html'>NATO</a> <a href='/tag/RS_0.html'>RS</a> <a href='/tag/EN_0.html'>EN</a> SUBJECT: ESTONIA'S CYBER ATTACKS: LESSONS LEARNED REF: A ) [ORG TALLINN  ] 366 B ) LEE-GOLDSTEIN EMAIL 05/11/07 B ) [ORG TALLINN  ] 347 Classified By: Charge d'Affaires [PER Jeff Goldstein  ] for reasons 1.4 ( b ) & ( d ) <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG S  ] ) Summary . 
+On April 27 , [LOC Estonia  ] became the unprecedented victim of the world 's first cyber attacks against a nation state . 
+Although an analysis of events is ongoing , this event demonstrated the vulnerability of both government and private sector internet infrastructure . 
+Working together with [MISC Estonian  ] cyber security experts , the [ORG Ministry of Defense  ] ( [ORG MOD  ] ) is preparing a report analyzing the crisis , evaluating the strengths and weaknesses of the [MISC Estonian  ] response , and recommend changes to [LOC Estonia  ] 's cyber defenses and security . 
+The [ORG GOE  ] and [MISC Estonian  ] cyber defense experts all agree that while they successfully responded to these attacks , they will need to improve [LOC Estonia  ] 's defenses to prevent what they described as the nightmare scenario: a shutdown of [LOC Estonia  ] 's internet infrastructure as a result of more serious attacks at some point in the future . 
+End Summary . 
+The Nature of the Attacks ------------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) Starting on April 27 , [LOC Estonia  ] became the world 's first victim of cyber attacks against a nation state 's political and economic infrastructure . 
+For over a month , government , banking , media , and other [MISC Estonian  ] websites , servers , and routers came under a barrage of ever-shifting and coordinated cyber attacks that tried to shut down specific strategic targets ( Ref A ) . 
+Unlike traditional cyber attacks which try to " hack " into a system , the attacks against [MISC Estonian  ] sites used the basic architecture of the internet to disrupt their operation . 
+At Post 's request [ORG XXXXXXXXXXXX  ] visited [ORG Tallinn  ] to assess the situationApril 16-18 . 
+[ORG XXXXXXXXXXXX  ] opined that it is not technically feasible to prevent attacks of this nature , no matter how sophisticated a country 's cyber-defenses are . 
+However , due to [LOC Estonia  ] 's rapid response , the attacks did not seriously threaten [LOC Estonia  ] 's cyber network and infrastructure. <a id='par3' href='#par3'>¶</a>3 . 
+( C ) The cyber attacks exposed the strengths and weaknesses of [LOC Estonia  ] 's cyber defense system . 
+[PER XXXXXXXXXXXX  ] told us that the [ORG Ministry of Defense  ] is preparing a report to submit to the [ORG GOE  ] by the end of June . 
+Based on our discussions with [ORG GOE  ] , [ORG CERT  ] , and private [MISC Estonian  ] cyber security experts , it is clear that the [MISC Estonians  ] are working furiously to analyze where their cyber defenses and protocols worked , failed , and/or need improvement . 
+Although these cyber attacks were unprecedented in nature , our [MISC Estonian  ] interlocutors all agreed that the outcome could have been much worse . 
+They also note that the [ORG MOD  ] 's report notwithstanding , the impact on cyber defense policy for both the public and private sectors will be discussed and felt for a very long time . 
+The following is a summary of [ORG GOE  ] " lessons learned " from these attacks . 
+Lessons Learned: What Worked ---------------------------- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) STRENGTH IN BEING SMALL . 
+With a population of 1.3 million people , [LOC Estonia  ] 's small size was its strongest asset in reacting rapidly to the cyber attacks . 
+[LOC Estonia  ] 's [ORG CERT  ] , the [ORG GOE  ] 's Cyber Defense Unit , and private IT Security Managers all knew each other for years before the crisis and were , thus , able to work closely together . 
+Information sharing and decision making were rapid and flexible . 
+Everything was handled - from the working level to the leadership - in an almost seamless fashion throughout the attacks . 
+" We're talking about a group of ten key people in the government and private sector who 've known each other for years , trust one another , and all have direct access to [ORG TALLINN  ] 00000375 002 OF 004 each other " [PER XXXXXXXXXXXX  ] , commented to us . 
+" Therefore , there was no inter-agency bureaucracy or red tape to cut through . 
+" <a id='par5' href='#par5'>¶</a>5 . 
+( C ) E-VOTING . 
+In March 2007 , [LOC Estonia  ] held the world 's first national election where e-voting was used . 
+From the outset of the crisis , the e-voting security team was immediately seconded to [ORG CERT  ] and became a vital asset in responding to the attacks . 
+Although [LOC Estonia  ] 's [ORG CERT  ] has only two full time staff , [PER XXXXXXXXXXXX  ] said he was able to call upon a roster of 200 programmers and security experts from the e-voting security team to ensure a 24/7 response mechanism against incoming cyber attacks . 
+As the e-voting team was already at work on next generation security measures ( in anticipation for [LOC Estonia  ] 's 2009 local elections ) , there was no need for them to " catch up " according to [PER XXXXXXXXXXXX  ] . 
+These experts were invaluable in addressing the wide variety of attacks ( e.g. , bots , spam , DDoS , [MISC Trojan Horses  ] , etc . 
+) . <a id='par6' href='#par6'>¶</a>6 . 
+( C ) INFORMATION GATHERING . 
+Our [ORG MOD  ] interlocutors credit [MISC Estonian  ] law enforcement and cyber security experts' ( public and private ) close monitoring of [MISC Russian-language  ] internet forums as key to [ORG CERT  ] 's ability to rapidly respond to the attacks . 
+On April 28 , less than 24 hours after the first cyber attacks , [MISC Russian-language  ] internet forums ( e.g. , http://2ch.ru and http://forum.xaker.ru ) were exhorting people to attack specific [ORG GOE  ] websites and offering links to software tools . 
+Patient monitoring of these internet-forums led to intelligence on targets , dates , and exact times for coordinated attacks . 
+[PER XXXXXXXXXXXX  ] told us privately that without this information , the cyber attacks against [ORG GOE  ] sites could hav inflicted far more damage than they did. <a id='par7' href='#par7'>¶</a>7 . 
+( C ) SECURE ONLINE BANKING . 
+[ORG Hansabank  ] and [ORG SEB  ] successfully weathered the cyber attacks against them because of defensive measures and procedures already in place . 
+According to [ORG CERT  ] , the banks' procedures are in many ways superior to the [ORG GOE  ] 's . 
+[PER XXXXXXXXXXXX  ] said that due to the longstanding problem of cyber crime in the region - often with banks as prime targets - the banks were well prepared for the attacks . 
+For example , [PER XXXXXXXXXXXX  ] told us , organized gangs have employed bot attacks in the past . 
+As a result , [ORG Hansabank  ] had the necessary cyber security measures in place to defend against this type of attack . 
+In the end , Hansabank-s sites successfully repelled every attack and were able to provide their [MISC Estonian  ] customers access to their online accounts . 
+( Note . 
+Almost 90% of all financial transactions ( e.g. , bill payments ) are done online . 
+[ORG Hansabank  ] and [ORG SEB  ] alone handle over three-fourths of that traffic . 
+End Note . 
+) Lessons Learned: What Failed ---------------------------- <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG S  ] ) FORMAL PROCEDURES . 
+[PER XXXXXXXXXXXX  ] told us he believes that [MISC Estonia-s  ] formal and institutional procedures for responding to cyber attacks failed completely . 
+Throughout the crisis , ad hoc meetings and decision making based on established informal contacts and relationships were used to disseminate information - instead of formalized institutional channels with clear communication chains . 
+Additionally , [PER XXXXXXXXXXXX  ] told us that the [ORG GOE  ] did not keep an official record or log of decisions and actions taken during the crisis . 
+Consequently , it is uncertain how thorough the [ORG GOE  ] 's post-crisis assessment or efforts to improve [LOC Estonia  ] 's formal cyber defense procedures will be . 
+[PER XXXXXXXXXXXX  ] explained that neither [ORG CERT  ] nor the [ORG GOE  ] had the personnel to " put out the fire and also act as a secretary to take down the minutes . 
+" ( Note: XXXXXXXXXXXX claims of staff shortages are somewhat questionable given that he told us that neither he nor any of his staff had to work over-time during the cyber attacks . 
+End Note . 
+) <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG S  ] ) LACK OF CENTRALIZED [ORG GOE  ] POLICY . 
+[ORG MOD  ] interlocutors admitted that there was no consistent [ORG GOE  ] policy across [ORG TALLINN  ] 00000375 003 OF 004 ministries on cyber security , broadband capacity , and information sharing . 
+For example , some ministries use static websites while others use more vulnerable dynamic websites . 
+Ministries also use different internet providers which have different security procedures in place . 
+This unnecessary complexity made initial information sharing between ministries more cumbersome and confusing , especially for ministries with fewer resources for IT risk management ( e.g. , the [ORG Ministry of Population , Ministry of Education , Ministry of Culture  ] , etc . 
+) . 
+[PER XXXXXXXXXXXX  ] , told us that creating a consistent policy for the various ministries will be a key recommendation in the [ORG MOD  ] 's report. <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG S  ] ) MONITORING . 
+The cyber attacks also exposed [LOC Estonia  ] 's total lack of a comprehensive monitoring system . 
+[LOC Estonia  ] does not have a national [MISC IP  ] ( internet protocol ) network of sensors to precisely monitor traffic for cyber attacks . 
+As a result , the [ORG GOE  ] and [ORG CERT  ] did not have any hard data on the number of computers and/or servers that were used in the attacks . 
+[PER XXXXXXXXXXXX  ] , [LOC Estonia  ] 's main telecommunication and IT provider , told us that his company relies on [MISC U.S.-based  ] [ORG Arbor Networks  ] to monitor its network . 
+Our [ORG MOD  ] and private sector interlocutors all agreed on how important it was for [LOC Estonia  ] to have its own monitoring network , but they could not confirm on the likelihood that the [ORG GOE  ] would invest in this infrastructure upgrade. <a id='par11' href='#par11'>¶</a>11 . 
+( [ORG S  ] ) WHACK-A-MOLE . 
+In the initial stages of the cyber attacks , the [MISC Estonian  ] method of response was to block each and every attack through its corresponding ISP address as it happened . 
+[PER XXXXXXXXXXXX  ] dubbed this the " whack-a- mole " response and opined that prior to April 27 this approach might have been sufficient . 
+However , the sheer volume of the recent cyber attacks quickly overwhelmed the [MISC Estonian  ] defenses . 
+[ORG CERT  ] , [ORG Elion  ] , and the [ORG GOE  ] 's Cyber Defense Unit were eventually forced to apply broader and more stringent filtering mechanisms on all internet traffic to prevent the attacks from entering [LOC Estonia  ] . 
+[PER XXXXXXXXXXXX  ] observed that unlike the [LOC United States  ] and many [ORG European Union  ] members who routinely filter foreign internet traffic , prior to the recent attacks , the [MISC Estonian  ] network filtered very little foreign traffic. <a id='par12' href='#par12'>¶</a>12 . 
+( [ORG S  ] ) INDUSTRY VULNERABILITY . 
+While [ORG Hansabank  ] and [ORG SEB  ] successfully weathered the cyber attacks , many other smaller private [MISC Estonian  ] sites that were attacked were overwhelmed . 
+With no industry standard or best practice in place in [LOC Estonia  ] , many smaller businesses and/or private organizations ( e.g. , schools , [ORG NGOs  ] , etc . 
+) did not have the technical expertise or financial means to ramp up their broadband capacity . 
+[PER XXXXXXXXXXXX  ] claimed that [ORG CERT  ] 's log of complaints and reported cyber attacks since April 27 is over 10 [ORG Tb  ] ( [PER Tera  ] bits ) . 
+( Note . 
+One [ORG TB  ] is equal to one million [MISC Mega  ] bits . 
+To put this in perspective , the entire content of the online [ORG U.S. Library of Congress  ] uses less than 10 [ORG TB  ] . 
+End Note . 
+) As the majority of [MISC Estonian  ] ( [ORG SME  ] ) small and medium size enterprises employ online services as part of their daily business , the [ORG GOE  ] is now aware that an industry standard with readily available cyber defensive software , tools , training , and public awareness-raising must become a part of [LOC Estonia  ] 's cyber defenses . 
+Lessons Learned: Nightmare Scenarios ------------------------------------ <a id='par13' href='#par13'>¶</a>13 . 
+( [ORG S  ] ) TARGETING KEY ROUTERS AND SITES . 
+Our [MISC Estonian  ] interlocutors all agreed that even during the attacks' peak , [LOC Estonia  ] 's cyber network was not in any serious danger of being shut down . 
+In some ways , [LOC Estonia  ] was lucky . 
+[PER Rein Ottis  ] , [ORG MOD  ] Cyber Defense Chief , noted that had the attacks specifically targeted [LOC Estonia  ] 's key servers and routers , they could have shut down [LOC Estonia  ] 's entire cyber infrastructure . 
+On May 4 , two routers belonging to the [ORG GOE  ] and [ORG Elion  ] were attacked with an unknown data packet that crashed the routers almost immediately . 
+[PER XXXXXXXXXXXX  ] told us that if enough key routers and/or servers were shut down , it would be the internet " equivalent of blowing up key roads and [ORG TALLINN  ] 00000375 004 OF 004 intersections in the city [ORG Tallinn  ] to bring all traffic to a halt . 
+" <a id='par14' href='#par14'>¶</a>14 . 
+( [ORG S  ] ) UNANNOUNCED AND BETTER TIMED ATTACKS . 
+Most of the cyber attacks were discussed in advance on [MISC Russian-language  ] internet forums , giving the [MISC Estonians  ] the opportunity to ramp up broadband capacity in advance . 
+[PER XXXXXXXXXXXX  ] told us that the perpetrators gave away the element of surprise and often timed their attacks in the evening ( when [LOC Estonia  ] 's internet usage is at its lowest ) . 
+Had they not made these mistakes , [PER XXXXXXXXXXXX  ] opined that the attacks could have shut down their [ORG GOE  ] targets for up to a week . 
+[PER XXXXXXXXXXXX  ] was thankful that they had advance information about th May 15 attacks against [ORG Hansabank  ] and [ORG SEB  ] . 
+However , many of the attacks which employed bots were unannounced and far more challenging , and in some cases did crash their targets . 
+If all attacks had been like this , [PER XXXXXXXXXXXX  ] and [PER XXXXXXXXXXXX  ] could not confidently predict whether [LOC Estonia  ] 's defenses would have held. <a id='par15' href='#par15'>¶</a>15 . 
+( [ORG S  ] ) 2ND TIER STRATEGIC ATTACKS . 
+[LOC Estonia  ] 's banks were generally well prepared for cyber attacks . 
+However , the economic impact could have been worse if the attacks had focused on 2nd tier strategic targets which possessed less formidable defenses ( Ref B ) . 
+[PER XXXXXXXXXXXX  ] speculated the fallout would have been far more significant if [LOC Estonia  ] 's logistic-transport companies had been attacked . 
+" As over three-fourths of all grocery stores , petrol stations , and shops rely on the internet for their orders and deliveries , " asked [PER XXXXXXXXXXXX  ] , " can you imagine the damage this would bring ? 
+Cyber crime seems abstract to most people . 
+There 's nothing abstract about empty shelves in stores . 
+" [PER XXXXXXXXXXXX  ] also listed a whole range of other strategic services and businesses that would have been far easier to crash than the banks . 
+The [ORG MOD  ] felt that [PER XXXXXXXXXXXX  ] descriptions were far fetched , bordering on " science fiction . 
+" However , when we mentioned [PER XXXXXXXXXXXX  ] 's comments to [PER XXXXXXXXXXXX  ] he felt that recent events have changed the parameters of the debate on possible threat scenarios . 
+He said , " Last year , I would 've considered a cyber war against my country as science fiction , too - but not anymore . 
+" GOLDSTEIN</pre></code> 

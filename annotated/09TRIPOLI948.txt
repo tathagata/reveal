@@ -1,0 +1,52 @@
+<code><pre>UNCLAS SECTION 01 OF 02 [LOC TRIPOLI  ] 000948 SENSITIVE SIPDIS STATE FOR NEA/MAG ; OES/IHA , OES/IHB , [ORG CDC  ] ATLANTA FOR CCID E.O. 12958: N/A TAGS: <a href='/tag/SOCI_0.html'>SOCI</a> <a href='/tag/CASC_0.html'>CASC</a> <a href='/tag/LY_0.html'>LY</a> <a href='/tag/KFLU_0.html'>KFLU</a> <a href='/tag/AEMR_0.html'>AEMR</a> <a href='/tag/ASEC_0.html'>ASEC</a> <a href='/tag/KFLO_0.html'>KFLO</a> <a href='/tag/TBIO_0.html'>TBIO</a> <a href='/tag/KSAF_0.html'>KSAF</a> <a href='/tag/KPAO_0.html'>KPAO</a> SUBJECT: MGSF01: [LOC LIBYA  ] REPORTS FIRST DEATH DUE TO H1N1 , WITH 84 CONFIRMED CASES REF: STATE 00120578 [LOC TRIPOLI  ] 00000948 001.2 OF 002 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary: According to [MISC Libyan  ] state-run media , a pregnant 40-year old [MISC Libyan  ] woman recently died in the country 's first reported H1N1-related death . 
+The number of [MISC H1N1  ] cases in the country reached 84 as of December 1 , a jump from the official figure of 20 provided by the [ORG Libyan National Center for Infectious Disease Prevention and Control  ] on November 21 . 
+International schools in [LOC Tripoli  ] , including the [MISC American  ] School , have reported several [MISC H1N1  ] cases among students . 
+To prepare for the expected outbreak of influenza , , including [MISC H1N1  ] , [LOC Libya  ] 's General People 's [ORG Committee for Health and Environment  ] ( [ORG Ministry of Health-equivalent  ] ) expanded the mandate of an existing avian flu committee to cover various types of pandemic flu , with the aim of preparing the [MISC Libyan  ] health establishment to deal with a probable outbreak of flu , including [MISC H1N1  ] . 
+The [MISC H1N1  ] vaccine is not yet publicly available in [LOC Libya  ] , although a rumor is circulating that the vaccine can be purchased for a fee of USD 1,000 . 
+Since May , incoming travelers have been screened for flu symptoms at international ports of entry , including [ORG Tripoli International Airport  ] and the [MISC Tunisian  ] border . 
+Due to the poor state of the [MISC Libyan  ] healthcare network , it is unclear how the state system would respond to a serious health crisis . 
+Post will hold an [ORG EAC  ] later today to review and update pandemic tripwires . 
+End summary. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) On November 29 , [MISC Libyan  ] national television announced the country 's first H1N1-related death -- that of a 40-year old [MISC Libyan  ] woman , who was 25 weeks pregnant . 
+In press reports on November 30 , the Secretary of Health ( minister-equivalent ) [PER Mahmoud Mohamed  ] al-Hijazi stated that the deceased 's case had initially been misdiagnosed and that she had been prescribed antibiotics to control her infection , rather than the [MISC H1N1  ] treatment . 
+Her symptoms worsened , requiring hospitalization , at which point she was diagnosed with the [MISC H1N1  ] virus but was too ill to respond to the appropriate treatment . 
+The website of the [ORG Libyan National Center for Infectious Disease Prevention and Control  ] ( nidcc.gov.ly ) announced on December 1 there were 84 confirmed cases of [MISC H1N1  ] in [LOC Libya  ] , all of which were being treated and controlled . 
+( Comment: The figure of around 84 cases is a marked increase in a short amount of time , given that 20 cases were reported to be confirmed as of November 21 . 
+It is unclear whether surveillance methods are improving or whether authorities realized more accurate figures would need to be provided to the public . 
+End comment . 
+) <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) On December 2 , the website of the General People 's [ORG Committee for Health and Environment  ] reported that Secretary al-Hijazi convened a meeting of the committee for [ORG Pandemic Flu Preparedness  ] to discuss the status of the pandemic in [LOC Libya  ] . 
+He confirmed that the figures ( of 84 cases ) that had been published by the [ORG National Center for Infectious Disease Prevention and Control  ] were correct . 
+He explained that although the current situation of the virus is under control , he predicted that the number of cases would increase with the start of the winter season . 
+He also provided a hot-line telephone number that people could call to report flu symptoms and to be referred to treatment centers . 
+( [MISC Note:  ] The [MISC Embassy  ] called the number on December 2 but the number was out of service . 
+End note ) . 
+He also cautioned [MISC Libyans  ] against taking unnecessary overseas trips , especially to [LOC Europe.  ] <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) Confirmed cases of [MISC H1N1  ] among students at [LOC Tripoli  ] 's international schools - including three cases at the [MISC American  ] School - have been reported . 
+Two cases at the [MISC French  ] school were reported the week of November 22 , and there were unconfirmed reports of [MISC H1N1  ] cases at the [MISC German  ] school during the same week . 
+While there are reports of many cases of seasonal flu and colds among students and teachers at the International School of [LOC Tripoli  ] , there are no reported cases of [MISC H1N1  ] . 
+On December 1 , the [MISC Embassy  ] was informed that a [LOC UK  ] diplomat 's two children were also diagnosed with [MISC H1N1  ] ; the [LOC UK  ] diplomat also later was diagnosed with a [MISC H1N1  ] . 
+In response to the upsurge in [MISC H1N1  ] cases , Post issued a warden message on November 23 referencing the reported cases and reiterating [LOC TRIPOLI  ] 00000948 002.2 OF 002 Department guidance on [ORG Pandemic Flu  ] precautions. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) In 2005 , the [MISC Libyan  ] General People 's [ORG Committee for Health and Environment  ] ( [ORG Ministry of Health-equivalent  ] ) created a committee for [ORG Avian Flu Preparedness  ] , headed by the Secretary ( Minister-equivalent ) of [LOC Health  ] and [ORG Environment  ] , [PER Mahmoud Mohamed  ] al-Hijazi . 
+In July 2009 , the work of the committee was expanded to include [MISC H1N1  ] and the name was changed to [ORG Pandemic Flu Preparedness Committee  ] . 
+The goals of the committee are to ensure the country is prepared to deal with the threat of pandemic flu , including swine flu ( [MISC H1N1  ] ) , and to coordinate the response of the health establishment , such as clinics , hospitals and the diagnostic laboratories . 
+An official at the [ORG Libyan National Center for Infectious Disease Prevention and Control  ] informed Emboff on December 1 that [MISC H1N1  ] vaccines had been ordered and that an initial stock had been used to vaccinate [MISC Libyans  ] travelling to [LOC Saudi Arabia  ] for the Hajj ; numbers of people vaccinated were not available . 
+He reported six million doses had been ordered ( which is also the population of [LOC Libya  ] ) but the entire stock had not yet arrived . 
+According to some private doctors , the [MISC Libyan  ] government has stocks of [MISC H1N1  ] vaccine but the strategy for administering the vaccine is unclear . 
+A rumor is circulating around [LOC Tripoli  ] that the vaccine is available but only for a fee of [LOC U.S.  ] 1,000 dollars and there are no details as to where the vaccine can be procured. <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) Since May , incoming travelers have been screened for flu symptoms at international ports of entry , including [ORG Tripoli International Airport  ] and the [MISC Tunisian  ] border . 
+Travelers on international flights and at the land borders must fill out a card that asks if they or family members have been ill with flu-like symptoms ( fever , cough ) and the passengers must walk in front of an infrared camera , which detects unusually-high body temperatures . 
+Medical personnel are standing by to question any travelers who indicate a positive response on their cards or whose temperatures indicate a fever. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) In the past , the [MISC Libyan  ] government has been responsive to offers of technical assistance in responding to and preventing infectious diseases , including from the [ORG U.S. Government  ] . 
+Through post 's scientist engagement program , various [MISC Libyan  ] infectious disease specialists have participated in [LOC U.S.  ] programs to enhance [LOC Libya  ] 's capacity in safeguarding public health . 
+The [ORG Libyan National Center for Infectious Disease Prevention and Control  ] has been particularly responsive to [MISC U.S.-sponsored  ] programs . 
+For example , in October , the [ORG Center  ] sent two [MISC Libyan  ] laboratory specialists to a training course on diagnosing [ORG Avian Influenza  ] and [ORG Newcastle Disease  ] sponsored by the [ORG U.S. Department of Agriculture  ] . 
+The [ORG Center  ] has also participated in similar training courses offered by the [ORG U.S. Navy Medical Research Unit  ] ( [ORG NAMRU-3  ] ) in [LOC Cairo  ] , [LOC Egypt.  ] <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) Comment: Due to the poor state of the [MISC Libyan  ] healthcare network , it is unclear how the state system would respond to a serious health crisis . 
+Now that [LOC Libya  ] has publicly acknowledged the existence of the [MISC H1N1  ] and a related death , it must place a priority on procurement of [MISC H1N1  ] vaccines given the increasing incidence of the virus . 
+Post is seeking further information from the [MISC Libyan  ] equivalent of the ministry of health ( General People 's [ORG Committee for Health and Environment  ] ) for further details on [LOC Libya  ] 's pandemic flu strategy , and to assess if the ministry would be amenable to [LOC U.S.  ] assistance to procure [MISC H1N1  ] vaccines or in offering other healthcare assistance . 
+We also will hold an expanded Emergency Action [ORG Committee  ] meeting on December 3 to update our tripwires ( in response to reftel ) , and to tap into the extensive resources within the [MISC Embassy  ] community , including our [MISC Libyan  ] colleagues , to ensure post is ready to respond to pandemic flu in [LOC Libya  ] . 
+We will report the [ORG EAC  ] 's discussions septel . 
+End comment . 
+POLASCHIK</pre></code> 

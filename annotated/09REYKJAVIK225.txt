@@ -1,0 +1,26 @@
+<code><pre>S E C R E T [ORG REYKJAVIK  ] 000225 NOFORN SIPDIS DEPT . 
+FOR DS/IP/EUR , DS/ICI/CI , [PER DS/TIA/ITA E.O.  ] 12958: [LOC DECL:  ] 12/24/2019 TAGS: <a href='/tag/ASEC_0.html'>ASEC</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: [ORG REYKJAVIK  ] CIWG ANNUAL MEETING REF: A ) STATE 133533 B ) 08 STATE 111936 C ) 08 [ORG REYKJAVIK  ] 298 Classified By: A/DCM [PER Kathleen Eagen  ] for Reasons 1.4 ( a ) and ( c ) <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG S/NF  ] ) On December 17 , 2009 , [MISC American  ] Embassy [ORG Reykjavik  ] convened a [ORG Counter Intelligence Working Group  ] ( [ORG CIWG  ] ) meeting . 
+CDA [PER Sam Watson  ] chaired the meeting . 
+In attendance were A/DCM , [ORG POL  ] , [ORG PAO  ] , [ORG CONS  ] , [ORG ECON  ] , [ORG IPC  ] , [ORG MILREP  ] , [ORG MGT  ] and [ORG RSO  ] . 
+Ref A discusses [PER Post  ] 's previous [ORG CIWG  ] . 
+Ref C discusses [PER Post  ] 's previous [ORG CIWG  ] meeting. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG S/NF  ] ) [ORG RSO  ] began the meeting by discussing [PER Post  ] 's current ratings on the [ORG Security Environment Threat List  ] ( [ORG SETL  ] ) . 
+Per Ref A. , [PER Post  ] 's HUMINT rating remains LOW , and [PER Post  ] 's [ORG Technical  ] rating is considered to be MEDIUM . 
+[ORG RSO  ] advised that the current CRITICAL threat countries represented in [LOC Iceland  ] are [LOC Russia  ] and [LOC China  ] and the HIGH threat country is [LOC France  ] . 
+In addition to the countries noted above , accredited diplomatic missions in [LOC Iceland  ] include [LOC Germany  ] , [LOC Norway  ] , [LOC Sweden  ] , [LOC Denmark  ] , [LOC India  ] , [LOC Poland  ] , [LOC Japan  ] , [LOC Finland  ] , [LOC Canada  ] and the [LOC United Kingdom.  ] <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG S/NF  ] ) It is believed that the [MISC Chinese  ] are continuing to utilize their TECHNICAL and HUMINT capabilities to conduct industrial espionage . 
+It is also believed that the [MISC Russians  ] are monitoring the [MISC Chinese  ] actions . 
+The current [MISC Russian  ] DCM in [LOC Iceland  ] is considered to be a [LOC China  ] expert . 
+The current [MISC Chinese  ] AMB to [LOC Iceland  ] is a known [LOC U.S.  ] expert . 
+It is unknown if there is any targeting of the mission or any of its employees by the [MISC Russians  ] or [MISC Chinese  ] . 
+There is no current [MISC GRPO  ] presence at [PER Post  ] and visits are infrequent. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG S/NF  ] ) [ORG RSO  ] reminded the [ORG CIWG  ] that [PER Post  ] 's classified information processing level goes only to SECRET . 
+The [MISC C-LAN  ] , STE , classified [MISC FAX  ] , conversations , storage , etc. , should remain at the SECRET level or below. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG S/NF  ] ) [ORG RSO  ] apprised the [ORG CIWG  ] that there are [MISC NO/NO  ] technical security exceptions at [PER Post  ] and that [MISC NO/NO  ] electronic items ( unless securely procured and shipped to post via classified pouch ) are permitted in the controlled access area ( [ORG CAA  ] ) at any time . 
+[ORG RSO  ] also counseled the [ORG CIWG  ] that all personal items brought into a [ORG CAA  ] must be screened and logged by the [ORG RSO  ] . 
+The [ORG CIWG  ] approved the secure procurement of a television to [PER Post  ] to be placed in the [ORG CAA  ] , to be procured through secure means and shipped via classified pouch per regulations. <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG S/NF  ] ) [ORG IMO  ] recommended that the proposed sound masking equipment to be procured for the [ORG IPC  ] was not necessary . 
+Due to high costs of equipment and lengthy wait times , coupled with the low overall threat in [LOC Iceland  ] , [ORG IMO  ] recommended that the current situation did not merit the procurement of the equipment . 
+[ORG CIWG  ] voted against the procurement of the equipment , but agreed to reassess the necessity of such equipment again in the future . 
+WATSON</pre></code> 

@@ -1,0 +1,67 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000291 STATE FOR INL , EUR/RPM AND EUR/NB DEA FOR OFFICE OF DIVERSION CONTROL TREASURY FOR FINCEN JUSTICE FOR AFMLS , [LOC OIA  ] , AND NDDS COPENHAGEN FOR DEA E.O. 12958: N/A TAGS: <a href='/tag/SNAR_0.html'>SNAR</a> <a href='/tag/KTFN_0.html'>KTFN</a> <a href='/tag/EFIN_0.html'>EFIN</a> <a href='/tag/KCRM_0.html'>KCRM</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: ICELAND: 2009 INTERNATIONAL NARCOTICS CONTROL STRATEGY REPORT ( [ORG INCSR  ] ) PART 2: MONEY LAUNDERING REFS: A ) STATE 104800 B ) [ORG REYKJAVIK  ] 259 <a id='par1' href='#par1'>¶</a>1 . 
+Post provides the following submission for Part 2 of the [ORG INCSR  ] report . 
+Part 1 ( Narcotics ) was transmitted [PER Ref B.  ] <a id='par2' href='#par2'>¶</a>2 . 
+Begin text of submission: [LOC Iceland  ] Money laundering is not considered a major problem in [LOC Iceland  ] , though international observers have questioned the effectiveness of the anti-money laundering regime in the country . 
+The [ORG Icelandic Penal Code  ] criminalizes money laundering regardless of the predicate offense , although the code specifies that sentences in cases involving multiple crimes be determined based on the worst crime . 
+Therefore , if a case involves both drug offenses and money laundering , the sentence will be based on the laws that concern the drug case . 
+In cases that concern money laundering activities only , the maximum sentence is ten years' imprisonment . 
+[LOC Iceland  ] based its money laundering law on the [ORG Financial Action Task Force  ] 's ( [ORG FATF  ] 's ) Forty Recommendations . 
+In June 2006 , the parliament passed the [MISC Act on Measures  ] to [MISC Counteract Money  ] Laundering and the Financing of [ORG Terrorist Acts  ] ( [ORG MCML-FTA  ] ) . 
+This legislation replaces the 1993 [MISC Act on Measures  ] to [MISC Counteract Money  ] Laundering ( [ORG MCML  ] ) and subsequent amendments . 
+The legislation covers a broad range of financial institutions , but is more specific than the previous legislation , and imposes obligations on legal entities to report any suspicious activities to the authorities . 
+The legislation extends requirements against money laundering and financing of terrorism to the full range of designated non-financial businesses and professions . 
+The [ORG MCML-FTA  ] covers a broader scope of designated non-financial business and professions in items , including attorneys , auditors , real estate dealers , and other service providers and dealers in accordance with [ORG FATF  ] recommendations . 
+The [ORG MCML-FTA  ] also applies due diligence laws to the legal entities that fall under the reporting requirement . 
+There are provisions in the law that allow for a fine for failure to comply . 
+The regulation for the [ORG MCML-FTA  ] requires that any suspicion that a transaction can be traced to money laundering or terrorist financing shall be reported to the [ORG Economic Crime Division  ] of the National Commissioner of Police , specifically to the [ORG Financial Intelligence Unit  ] ( [ORG FIU  ] ) . 
+The law requires those legal entities that fall under the reporting requirement to pay special attention to non-cooperative countries and territories ( [MISC NCCTs  ] ) that do not follow international recommendations on money laundering . 
+The [ORG Financial Supervisory Authority  ] ( [ORG FME  ] ) , the main supervisor of the [MISC Icelandic  ] financial sector , is to publish announcements and instructions if special caution is needed in dealing with any such country or territory . 
+The [ORG MCML  ] requires banks and other financial institutions , upon opening an account or depositing assets of a new customer , to have the customer prove his or her identity by presenting personal identification documents . 
+The legal entities that fall under the reporting requirement shall verify customers' reliability: when they make individual transactions amounting to 15,000 euros ( [MISC ISK  ] 2.25 million ) or more ; at the beginning of a permanent business relationship ; when making currency exchange amounting to 1,000 euros ( [MISC ISK  ] 150,000 ) or more , whether the transaction takes place in one or more related transactions ; when there is suspicion of money laundering or the financing of terrorist acts , without regard to exceptions or limitations of any kind ; or when there is doubt that information about a customer is correct or reliable enough . 
+An individual party may not leave the country with more than the equivalent of 15,000 euros in cash , unless it is accounted for at the customs authorities . 
+As [LOC Iceland  ] is now facing a severe financial crisis , the parliament granted the [ORG Central Bank  ] the authority to issue rules on foreign exchange in order to support the exchange value of the [MISC ISK  ] . 
+On December 1 , the [ORG Central Bank  ] used its authority to issue such rules . 
+Among other things , the rules dictate that [MISC Icelandic  ] banks cannot sell more than 500,000 [MISC ISK  ] in foreign currency to any individual party per calendar month . 
+These rules are meant to be temporary measures . 
+Financial institutions record the name of every customer who seeks to buy or sell foreign currency . 
+All records necessary to reconstruct significant transactions are maintained for at least seven years . 
+Employees of financial institutions are protected from civil or criminal liability for reporting suspicious transactions . 
+In July 2007 , the [ORG FATF  ] released its first evaluation of the [MISC Icelandic  ] money laundering and terrorist financing regime since the passage of the new legislation . 
+The report expressed concerns regarding the effectiveness of the enforcement system . 
+It noted that penalties for money laundering seem disproportionately low and as a result not dissuasive . 
+In addition , there has been a decline in the number of money laundering prosecutions and convictions in recent years , despite a rise in the number of [ORG Suspicious Transaction Reports  ] ( [ORG STR  ] ) , a steep increase in the number of drug crimes , and an extraordinary expansion of the financial sector . 
+On terrorist financing , the report noted that the law defines terrorist financing in broad terms but fails to fully cover the financing of acts listed in the [ORG Terrorist Financing Convention  ] . 
+The effectiveness of provisional and confiscation measures is satisfactory , but further improvement would make them even more effective . 
+The report recommends that [LOC Iceland  ] adopt a comprehensive mechanism to freeze assets in the context of [ORG UN Security Council Resolution S/RES/1373  ] . 
+Furthermore , the [ORG FATF  ] report suggests that [MISC Icelandic  ] authorities increase sanctions for directors and managers of financial institutions found to be in violation of the law . 
+As noted , suspicious transaction reports ( [MISC STRs  ] ) have consistently risen in [LOC Iceland  ] in recent years , but [MISC Icelandic  ] authorities continue to ascribe this to better training and awareness of the issue . 
+The [ORG FIU  ] has an officer assigned to cover suspicious transactions and has expanded the training provided to financial institutions to include those working at financial intermediaries such as lawyers and accountants . 
+The [ORG FIU  ] received 241 [MISC STRs  ] in 2003 , 301 [MISC STRs  ] in 2004 , 283 [MISC STRs  ] in 2005 , 323 [MISC STRs  ] in 2006 , and 496 [MISC STRs  ] in 2007 . 
+The first successful prosecution under the money laundering law occurred in 2000 . 
+There have been nine cases prosecuted since then , with convictions resulting in each case . 
+There were no money laundering prosecutions in 2008 . 
+[LOC Iceland  ] 's [ORG FIU  ] is the primary government agency responsible for asset seizures and is authorized under the criminal code to freeze or seize funds based on reasonable suspicion of criminal activity . 
+There are no significant obstacles to asset seizure in practice . 
+The [ORG FME  ] and the [ORG FIU  ] make every effort to enforce existing drug-related asset seizure and forfeiture laws . 
+In recent years , asset seizure has become quite common in embezzlement crimes , while only a small fraction of total asset seizures has related to money laundering . 
+Under the [MISC Icelandic  ] [LOC Penal Code  ] , any assets confiscated on the basis of money laundering investigations must be delivered to the [MISC Icelandic  ] State Treasury . 
+There have been no instances of the [LOC U.S.  ] or any other government requesting seized assets from [LOC Iceland  ] . 
+Foreign transfer or sharing of seized assets is not covered by existing legislation . 
+[MISC Icelandic  ] law specifically criminalizes terrorism and terrorist acts , and requires the reporting of suspected terrorist-linked assets and transactions involving possible terrorist operations or organizations . 
+A March 2003 amendment to the Law on Official Surveillance on Financial Operations strengthened [LOC Iceland  ] 's ability to adhere to international money laundering and asset freezing initiatives and agreements . 
+In accordance with international obligations or resolutions to which [LOC Iceland  ] is a party , the [ORG FME  ] shall publish announcements on individuals or legal entities ( companies ) whose names appear on the [ORG UNSCR  ] 1267 [ORG Sanction Committee  ] 's consolidated list or on [ORG European Union  ] clearinghouse list and whose assets or transactions [MISC Icelandic  ] financial institutions are specifically obliged to report to authorities and freeze . 
+Prior to the amendment , the government had to publish the names of terrorist individuals and organizations in the [ORG National Gazette  ] in order to make them subject to asset freezing . 
+The government formally enacted financial freeze orders against individuals and entities on the [ORG UNSCR  ] 1267 [ORG Sanction Committee  ] 's consolidated list . 
+Government of [LOC Iceland  ] officials have said they will consider applying their terrorist asset freeze strictures against [MISC U.S.-only  ] designated entities ( i.e. , names not on [ORG UN  ] or [ORG EU  ] lists ) on a case-by-case basis . 
+To date , [LOC Iceland  ] has discovered no terrorist-related assets or financial transactions . 
+When dealing with other [ORG European Economic Area  ] ( [ORG EEA  ] ) member countries , the [ORG FME  ] can disclose confidential information to other governments , provided that this sharing is beneficial for conducting investigations of suspicious money laundering activities , and that [ORG EU Data Protection  ] guidelines are followed . 
+Concerning requests for information from countries outside of the [ORG EEA  ] , the [ORG FME  ] may , on a case-by-case basis , disclose to supervisory authorities information under the same conditions of confidentiality . 
+To date there have been no requests from either [ORG EEA  ] or non-EEA countries for an exchange of information concerning suspected acts of money laundering . 
+There is currently no agreement ( nor discussions toward one ) between [LOC Iceland  ] and the [LOC United States  ] to exchange information concerning financial investigation , and no [ORG Mutual Legal Assistance Treaty  ] ( [ORG MLAT  ] ) . 
+The [ORG National Commissioner of Police  ] has acted on tips from foreign law enforcement agencies in the investigation of money laundering activities , and the process of international cooperation with the law enforcement authorities of other countries appears to work smoothly . 
+[LOC Iceland  ] is a party to the 1988 [ORG UN Drug Convention  ] ; the [ORG Council of Europe Convention  ] on Laundering , Search , Seizure , and Confiscation of the Proceeds from Crime ; the [ORG UN Convention  ] against [ORG Transnational Organized Crime  ] ( ratified May 2008 ) ; and the [ORG UN International Convention  ] for the [ORG Suppression  ] of the Financing of Terrorism . 
+[LOC Iceland  ] is party to several multilateral conventions on terrorism and rules of territorial jurisdiction , including the 1977 [ORG European Convention  ] on the [ORG Suppression  ] of Terrorism . 
+[LOC Iceland  ] is a member of the [ORG FATF  ] , and its financial intelligence unit is a member of the [ORG Egmont Group  ] . 
+The Government of [LOC Iceland  ] should continue to enhance its anti-money laundering/counterterrorist financing regime through the enforcement of existing laws , review and implementation of [ORG FATF  ] recommendations for effective use of that legislation and reinforcement of relevant institutions' understanding of the regime . 
+End text of submission . 
+[PER VAN VOORST</pre></code>  ] 

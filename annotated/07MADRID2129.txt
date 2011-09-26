@@ -1,0 +1,71 @@
+<code><pre>UNCLAS SECTION 01 OF 03 [LOC MADRID  ] 002129 SIPDIS SENSITIVE SIPDIS EUR/WE EEB/IFD/OMA E.O. 12958: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EFIN_0.html'>EFIN</a> <a href='/tag/ELAB_0.html'>ELAB</a> <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/KIPR_0.html'>KIPR</a> <a href='/tag/PTER_0.html'>PTER</a> <a href='/tag/SOCI_0.html'>SOCI</a> <a href='/tag/TBIO_0.html'>TBIO</a> <a href='/tag/SP_0.html'>SP</a> EINV SUBJECT: [LOC MADRID  ] WEEKLY ECON/AG/COMMERCIAL UPDATE - NOVEMBER 12-16 [LOC MADRID  ] 00002129 001.2 OF 003 Table of [MISC Contents: ECON:  ] [MISC Spanish  ] economy grew by 0.7% during the third quarter of 2007 EINV: [LOC Spain  ] the number four foreign investor in the [LOC U.S.  ] SENV: [ORG UN  ] SYG to attend [LOC Valencia  ] [ORG IPCC  ] meeting SENV: CO2 emissions expected to rise in 2007 after declining in 2006 KIPR: Commercial Counselor and EconOff meet with [MISC R&D-based  ] pharmaceutical representatives [ORG ECON: Autonomous Communities'  ] 2008 budget proposals show large increases PTER/KCRM: [ORG ETA  ] estimated to have collected 3.5 million euros through extortion since June 2007 [MISC ELTN: New  ] high-speed train to the north close to opening EMIG: [LOC Spain  ] signs work permit agreement with [LOC Senegal  ] ETRD: [PER Jamon Iberico  ] arrives in the [LOC US  ] market , heading to [LOC China  ] SENV: [ORG Galicia  ] 5 years after the Prestige disaster [MISC SPANISH  ] ECONOMY GREW BY 0.7% DURING THE THIRD QUARTER OF 2007 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) The 0.7% quarter-on-quarter GDP growth figure was lower than the second quarter 's 0.9% , so it tracks with other signs of a slowdown . 
+The [MISC Spanish  ] government forecasts full-year 2007 growth of 3.8% . 
+( Comment: The big question is how much lower growth will be in 2008 . 
+The opposition conservative [ORG PP  ] party is trying to make the economy an issue in the March 2008 election . 
+Inflation ( people are complaining about rising food prices ) , interest rates , and rising unemployment creation is of concern to the government . 
+The opposition [ORG PP  ] is hoping to get some traction on economic issues , even though the overall state of the economy remains good . 
+( [ORG Europa Press  ] , 11/13/07 ) [LOC SPAIN  ] THE NUMBER FOUR FOREIGN INVESTOR IN THE [LOC U.S.  ] <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) During the first ten months of 2007 , [MISC Spanish  ] companies invested USD 21.3 billion in the [LOC U.S.  ] , behind only [LOC Canada  ] , the [LOC UK  ] and [LOC Holland  ] . 
+[ORG BBVA  ] 's purchase of [ORG Compass Bank  ] and [ORG Iberdrola  ] 's purchase of [ORG Energy East  ] were two of the biggest acquisitions during this period . 
+Other [MISC Spanish  ] companies such as [ORG Ferrovial  ] , [ORG FCC  ] , [ORG Acciona  ] , [ORG Ebro Puleva  ] , [ORG Gamesa  ] , [ORG Inditex  ] and [ORG Telvent  ] are also very active in the [LOC U.S  ] . 
+( Comment: This level of investment in the [LOC U.S.  ] is truly new for corporate [LOC Spain  ] . 
+Acquisitions , rather than traditional [ORG FDI  ] , seem to be the preferred [MISC Spanish  ] mode of getting into the [LOC U.S.  ] market . 
+) ( [ORG El Pais  ] , 11/11/07 ) [ORG UN  ] SYG TO ATTEND VALENCIA [ORG IPCC  ] MEETING <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG U  ] ) The [ORG Intergovernmental Panel on Climate Change  ] ( [ORG IPCC  ] ) meeting this week in [LOC Valencia  ] is scheduled to conclude on Saturday , November 15 , with the release of a summary report of the most recent state of knowledge on the science of climate change . 
+This " summary for policymakers " is based on three previously released reports that the [ORG USG  ] played a significant role in developing and fully supports . 
+The fourteen person-U.S. delegation is being led by [PER Harlan Watson  ] of [ORG OES  ] and [PER Sharon Hays  ] of the [LOC White House Office of Science  ] and Technology . 
+[ORG U.N.  ] Secretary General [PER Ban Ki-moon  ] plans to attend the closing of the [ORG IPCC  ] meeting , and he discussed global warming with [MISC Spanish  ] President [PER Zapatero  ] in [LOC Madrid  ] on Wednesday , November 14 . 
+CO2 EMISSIONS EXPECTED TO RISE IN 2007 AFTER DECLINING IN 2006 <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG U  ] ) [LOC Spain  ] 's CO2 emissions are expected to increase by 1 percent during 2007 after experiencing a 4 percent reduction in 2006 . 
+Electricity generation figures show that through November 12 , [LOC Spain  ] has increased its production of coal-generated electricity by nearly 5 percent while reducing its use of nuclear electricity by 7.6 percent and natural gas-generated electricity by 2.3 percent . 
+The implication of these shifts , according to the [MISC Spanish  ] representative of [ORG Worldwatch Institute  ] , is an estimated 1 percent increase in [LOC Spain  ] 's CO2 emissions for the year . 
+A 1 percent increase would bring [LOC Spain  ] 's emissions to about 50 percent above their level in 1990 . 
+Under the [LOC Kyoto Protocol  ] , [LOC Spain  ] 's emissions are required to be no higher than 15 percent above its 1990 level . 
+An article in the pro-government [ORG El Pais  ] newspaper noted that it was the previous government that had agreed to the [LOC Kyoto  ] target that now looks unattainable . 
+The article added that [MISC European  ] countries' excessive issuance of emissions quotas to companies had caused a dramatic drop in the cost of carbon dioxide emission allowances , reducing the incentive for companies to reduce emissions . 
+The article [LOC MADRID  ] 00002129 002.2 OF 003 also pointed out inconsistent use of data by the government . 
+When she opened the [ORG IPCC  ] meeting earlier this week , Vice President [PER Fernandez de la Vega  ] had cited [ORG Worldwatch  ] 's estimated 4 percent 2006 decline as proof that it was possible for the economy to grow while emissions declined , but the GoS had not used [ORG Worldwatch  ] 's 2007 estimate even though it had issued advance forecasts before the end of 2006 when the news was better . 
+( [ORG El Pais  ] , 11/15/2007 ) COMMERCIAL COUNSELOR AND ECONOFF MEET WITH R&D BASED PHARMACEUTICAL REPRESENTATIVES <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) Visiting [ORG Pharma  ] representative [PER Jonathan Kimball  ] and a local pharmaceutical industry representative , [PER Gema Delgado  ] , explained on 11/14 that the industry is still trying to persuade the [MISC Spanish  ] government to grant retroactive product patent protection for drugs that only benefited from process patent protection prior to 1992 . 
+[PER Kimball  ] said that [LOC Finland  ] had recently changed legislation in ways that were potentially relevant to the [MISC Spanish  ] situation . 
+He said he would send more information . 
+[PER Kimball  ] also said that [ORG Pharma  ] representatives would be meeting in the next few weeks with [ORG USTR  ] and [ORG USPTO  ] representatives to explain the industry 's [ORG TRIPS  ] rationale for [LOC Norway  ] 's providing retroactive product patent protection along the lines that industry wants in [LOC Spain  ] . 
+( [PER Note: At  ] least in the [MISC Spanish  ] case , [ORG USG  ] lawyers have not found a [ORG TRIPS  ] argument for arguing for retroactive patent law change , although the local industry uses [ORG TRIPS  ] arguments in local court cases , in some cases successfully . 
+) Commercial Counselor and EconOff reiterated the [ORG Embassy  ] 's willingness to broker meetings with the government and to make policy-based arguments on behalf of the [MISC R&D-based  ] pharmaceutical industry . 
+Commercial Counselor explained that the Ambassador 's 11/14/07 lunch for the Minister of Health , to which pharmaceutical industry representatives were invited , was part of that effort . 
+[MISC AUTONOMOUS COMMUNITIES'  ] 2008 BUDGET PROPOSALS SHOW LARGE INCREASES <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) The 2008 [ORG Autonomous Communities'  ] budget proposals , which were recently made public , project increases in real terms over 2007 . 
+The combined budgets of the regional governments for operations and personnel expenses total 164.4 billion euros , an amount that is 7.8 percent higher than the central government 's allocation for similar expenses . 
+Overall , the regional budget total represents a 22.5 percent increase in investment over 2007 and a 7.9 percent increase in administrative funding . 
+The largest increases are proposed by the [MISC Basque  ] region , while the largest budgets overall are in [LOC Andalucia  ] and [LOC Catalonia  ] . 
+( Expansion , Nov. 9 ) [ORG ETA  ] ESTIMATED TO HAVE COLLECTED 3.5 MILLION EUROS THROUGH EXTORTION SINCE JUNE 2007 <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG U  ] ) According to research by the [ORG Department Head of Terrorism Economics  ] at the [ORG University of Madrid Complutense  ] , the [MISC Basque  ] terrorist group [ORG ETA  ] has successfully extorted approximately 3.5 million euros since the end of its cease fire in June 2007 . 
+This amount far surpasses the estimated 1.35 million euros collected by [ORG ETA  ] in all of 2006 through the same means . 
+Over the past summer , there were numerous reports of [ORG ETA  ] extortion letters reaching businesses in the [MISC Basque  ] and [LOC Navarra  ] regions . 
+( Comment: [ORG ETA  ] continues to carry out occasional attacks , but a combination of good police work and a bit of luck has thus far allowed the [ORG GOS  ] to disrupt or thwart several planned attacks . 
+) ( Expansion , Nov. 9 ) NEW HIGH-SPEED TRAIN TO THE NORTH CLOSE TO OPENING <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG U  ] ) Perhaps to show that not all railway news these days is bad , on November 15 Public Works Minister [PER Alvarez  ] took reporters on a test ride on the high-speed " [MISC AVE  ] " train connecting [LOC Madrid  ] with the northwest cities of [LOC Segovia  ] and [LOC Vallodolid  ] , which is expected to open on December 22 . 
+This project , which was co-financed with [ORG European Union  ] funds , will cut the travel time to [LOC Segovia  ] and [LOC Vallodolid  ] by a third . 
+This is likely welcome news , given the continuing unanticipated interruptions in [LOC Barcelona  ] commuter rail service caused by construction of the long-delayed [MISC AVE  ] rail line that will link [LOC Madrid  ] and [LOC Barcelona  ] . 
+( [ORG El Mundo  ] , Expansion , Public Bulletin , 11/16 ) [LOC SPAIN  ] SIGNS WORK PERMIT AGREEMENT WITH [LOC SENEGAL  ] MADRID 00002129 003.2 OF 003 <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG U  ] ) [LOC Senegal  ] and [LOC Spain  ] signed an agreement granting 2,700 work permits to [MISC Senegalese  ] in an attempt to stem the wave of illegal migration to [LOC Europe  ] . 
+The agreement was signed by Labor Minister [PER Jesus Calderon  ] on Friday , November 9 . 
+A group of 2,000 [MISC Senegalese  ] will be trained to work on [MISC Spanish  ] fishing boats , and the remaining 700 will be employed in the agricultural sector . 
+( [ORG AFP  ] ) [ORG JAMON  ] IBERICO ARRIVES IN THE [LOC U.S.  ] MARKET , HEADING TO [LOC CHINA  ] <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG U  ] ) Customs in [LOC New York  ] received the first legal shipment of [MISC Iberian  ] ham ( " [PER Jamon Iberico  ] " ) , 300 pieces from [PER Salmantina Embutidos Fermin  ] , the only company to meet the current requirements . 
+Separately , after four years of negotiations , [LOC Spain  ] and [LOC China  ] signed an agreement on November 15 allowing exportation of [MISC Spanish  ] pork products into the country . 
+According to Secretary of State in the Industry and [ORG Commerce Ministry  ] , [PER Pedro Mejia  ] there are currently ninety [MISC Spanish  ] companies interested in selling pork and [PER Jamon Iberico  ] to [LOC China  ] . 
+( 20 minutos ) [ORG GALICIA  ] 5 YEARS AFTER THE PRESTIGE DISASTER <a id='par11' href='#par11'>¶</a>11 . 
+( [ORG U  ] ) November 13th marks the fifth anniversary of the most catastrophic oil spill in [LOC Europe  ] , when 70,000 tons of fuel were spilled off of [LOC Galicia  ] 's coast by the Prestige oil tanker . 
+The fishing villages of [LOC Galicia  ] were hit hard as their way of life came to an abrupt end . 
+Thousands of volunteers poured in to help clean up the disaster , and the villagers have moved to other work . 
+There are several manufacturing companies in the area , and more than half of the [MISC Spanish  ] naval fleet is manufactured in [LOC Galicia  ] . 
+A recent study of seagulls indicated that even birds born a year after the spill had high concentrations of hydrocarbons in their blood . 
+This study suggested that the estimated time of recuperation from the spill may have been underestimated . 
+The Director of the [ORG Spanish Oceanographic Institute  ] in [LOC Vigo  ] said that almost 98% of the affected area is now clean , even though the vessel continues to leak its remaining fuel. <a id='par12' href='#par12'>¶</a>12 . 
+( [ORG U  ] ) The recycling of the more than 60,000 tons of residual contaminants from the disaster is anticipated to be completed in 18 months , according to the President of the [MISC Galician  ] regional government . 
+[PER Emilio Perez Tourino  ] described the recycling process as " a technological pioneer and unique in the world . 
+" " Our capability to respond to the collection of hydrocarbourants has multiplied by thirty " thanks to initiatives such as this one . 
+( [PER Note:  ] The company that runs the industrial waste treatment plant that recycled the contaminants is seeking a patent for its recycling process , and countries such as [LOC France  ] have expressed interest . 
+) ( [ORG La Vanguardia Magazine  ] , 11/11/07 ) LLORENS</pre></code> 

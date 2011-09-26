@@ -1,0 +1,55 @@
+<code><pre>UNCLAS [LOC REYKJAVIK  ] 000191 SIPDIS SENSITIVE TREASURY FOR MYERS AND NORTON NSC FOR HOVENIER COMMERCE FOR DERSTINE E.O. 12958: N/A TAGS: <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EFIN_0.html'>EFIN</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: INVESTING IN ICELAND: OPPORTUNITIES AND OBSTACLES REF: [LOC Reykjavik  ] 176 Do not post on internet . 
+Contains business information. <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary: As [LOC Iceland  ] struggles to rebound from last year 's financial meltdown , the government is reevaluating the future direction of the country , including the role of foreign direct investment ( [ORG FDI  ] ) . 
+There is potential for investment in a variety of sectors , particularly those that utilize green energy . 
+The government has stated its desire to bring in [ORG FDI  ] to create jobs and rebuild the economy , yet recent actions have begun to discourage foreign investors from entering the market or expanding operations . 
+Creating and adhering to business-friendly tax policies will encourage more [ORG FDI  ] . 
+End summary . 
+Opportunities ------------- <a id='par2' href='#par2'>¶</a>2 . 
+( U ) [PER Katrin Juliusdottir  ] , [LOC Iceland  ] 's Minister of Industry ( [ORG SDA  ] ) , recently opened a conference on [ORG FDI  ] with her thoughts on why investors are attracted to [LOC Iceland  ] . 
+Investors , she said , come to the country to take advantage of [LOC Iceland  ] 's abundance of clean energy , educated population , and geographic location . 
+She added , however , that [LOC Iceland  ] must diversify its economy if it intends to create a sustainable and competitive financial system . 
+The country has identified several fields on which it is concentrating efforts , but is open to any idea that would utilize the country 's resources in a profitable , environmentally responsible manner. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) Several government leaders , including three Ministers , have told us that they view data centers as a key to the development future of [LOC Iceland  ] . 
+Data centers are an ideal industry for [LOC Iceland  ] due to the country 's naturally cool climate and low utility costs . 
+According to the director of the government-sponsored Invest in [LOC Iceland  ] Agency , data centers that invest in [LOC Iceland  ] can negotiate power supply prices for 20 years . 
+This could lead to savings of up to 40 percent per year on energy costs compared to data centers in [LOC London  ] . 
+As a result of these advantages , several data center firms are looking at [LOC Iceland  ] , including an [MISC American  ] company that is rumored to have lined up [ORG IBM  ] as a client. <a id='par4' href='#par4'>¶</a>4 . 
+( U ) The government of [LOC Iceland  ] is also actively trying to attract [ORG FDI  ] in the field of health tourism . 
+An American-financed company is planning to open a private hospital outside of [LOC Reykjavik  ] that will specialize in hip and knee surgeries for foreigners . 
+Invest in [LOC Iceland  ] is also seeking investors for carbon fiber production , utilizing the energy stream from geothermal plants to power greenhouses , cultivation of aquatic biomass , and polysilicon production . 
+Similarly , the property manager of the old [ORG NATO  ] base in [LOC Keflavik  ] is actively seeking businesses to set up operations . 
+It is focusing on areas such as data centers , a renewable energy research center , health tourism and a flight school , but is flexible and open to other industries . 
+The area is close to the international airport and a harbor and has access to renewable energy . 
+Obstacles --------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) A major obstacle to investing in [LOC Iceland  ] is the uncertainty created in the fallout of last year 's financial crisis . 
+The representative of one of the first companies trying to open a data center in [LOC Iceland  ] noted at the recent [ORG FDI  ] conference that the country is perceived as a risky place to do business as a result of last year 's financial meltdown , the [ORG Icesave  ] issue , and the ongoing currency restrictions . 
+Capital controls remain in effect , though it is anticipated that the [ORG Central Bank  ] will begin gradually lifting the restrictions upon receipt of the next tranche from the [ORG IMF  ] . 
+The managing director of the [LOC McDonald 's  ] franchise in [LOC Iceland  ] announced the closure of all three restaurants effective November 1 , citing the rising cost of importing ingredients and the lack of any signs of an economic recovery. <a id='par6' href='#par6'>¶</a>6 . 
+( U ) A second obstacle is [LOC Iceland  ] 's evolving tax structure . 
+[PER Fred Vossen  ] , a partner with [ORG PriceWaterhouseCoopers  ] in [LOC Belgium  ] , stated at the [ORG FDI  ] conference that the lack of certainty regarding the tax environment impedes investment . 
+The government currently views increasing tax revenue as one of its few options in the struggle to reduce the record deficit that is projected to exceed 10% of GDP in <a id='par2010' href='#par2010'>¶</a>2010 . 
+[PER Vossen  ] argued that a proposed uniform energy tax ( reftel ) would kill [LOC Iceland  ] 's national competitive advantage in energy intensive industries . 
+Media reports indicate that foreign companies have already halted at least seven different projects after learning about the proposed energy tax and are looking to establish operations in other countries. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) The data center representative agreed with [PER Voss  ] , noting that the uncertainty surrounding tax issues is the number one problem today . 
+Despite [LOC Iceland  ] 's stated desire to attract data centers , for example , its prospective tax policy could produce the exact opposite effect . 
+( Note: In addition to taxing the data center itself , the [ORG Ministry of Finance  ] is considering classifying each server as a physical presence in [LOC Iceland  ] , which would subject each data center client to additional taxation . 
+End note . 
+) <a id='par8' href='#par8'>¶</a>8 . 
+( U ) Another potential obstacle to foreign investment is a rising nationalistic movement in [LOC Iceland  ] . 
+A growing number of Icelanders are increasingly wary of foreign investors and deeply protective of maintaining ownership of [LOC Iceland  ] 's natural resources . 
+The government has stated that it would also like to diversify the economy beyond the aluminum and fishing industries . 
+As a result , aluminum projects planned years ago have been delayed or canceled . 
+For example , the Minister of Environment did not renew a letter of intent for the construction of an [MISC American  ] smelter in the north to allow the government to investigate more environmentally friendly options that could create more jobs or income . 
+( Note: It is perceived that the long-term contracts negotiated by the aluminum industry contain unfavorable terms for the government , particularly regarding the cost of energy usage . 
+End note . 
+) The Minister of Environment also called for a review of an environmental impact assessment for another [MISC American  ] aluminum smelter near [LOC Keflavik  ] already under construction . 
+Her decision could delay the project anywhere from two months to two years and raises the question of whether [LOC Iceland  ] will honor previous commitments to foreign firms . 
+Comment ------- <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG SBU  ] ) The Minister of Industry recognizes that [ORG FDI  ] is a key element in creating jobs and rebuilding [LOC Iceland  ] 's economy ; however , she faces some strong opposition in creating such a reality , especially from the minority members of the ruling coalition . 
+The potential exists for [ORG FDI  ] in [LOC Iceland  ] , ranging from small business to large scale investment . 
+Yet the debate regarding the appropriate types and level of [ORG FDI  ] in [LOC Iceland  ] must be resolved in short order for [LOC Iceland  ] to restore its credibility in the international business community . 
+Implementing a business-friendly tax policy is the first step , which the government must do in consultation with key industry players . 
+[LOC Iceland  ] should also create an incentive package for inward investment that is in line with [ORG EU  ] regulations , to include tax incentives , training grants , and cash grants for fixed asset investments . 
+However , since the government has yet to fully grasp the importance of implementing such measures , a comprehensive investment strategy including such incentives is unlikely to materialize any time soon . 
+End comment.</pre></code> 

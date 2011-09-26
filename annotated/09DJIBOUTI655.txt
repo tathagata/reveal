@@ -1,0 +1,53 @@
+<code><pre>UNCLAS SECTION 01 OF 03 [LOC DJIBOUTI  ] 000655 SENSITIVE SIPDIS DEPARTMENT FOR AF/E AND OES ADDIS ABABA FOR REO E.O. 12958: N/A TAGS: <a href='/tag/ENRG_0.html'>ENRG</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/SENV_0.html'>SENV</a> <a href='/tag/SOCI_0.html'>SOCI</a> <a href='/tag/IC_0.html'>IC</a> <a href='/tag/ET_0.html'>ET</a> <a href='/tag/DJ_0.html'>DJ</a> SUBJECT: DJIBOUTI: MIXED PROGRESS TOWARD RENEWABLE SOLUTIONS FOR INCREASING ENERGY NEEDS REF: 08 [LOC DJIBOUTI  ] 859 ; 09 [LOC DJIBOUTI  ] 337 ; 09 [LOC DJIBOUTI  ] 164 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) SUMMARY . 
+[LOC Djibouti  ] continues to struggle with a widening gap between electricity demand from consumers , and a constrained supply of expensive , diesel-generated electricity provided by the national electricity company . 
+Realizing that improved supplies of lower-cost energy are imperative to maintain economic momentum and meet the basic needs of ordinary [MISC Djiboutians  ] , the [ORG GODJ  ] has partnered with a variety of bilateral and corporate partners ( including at least one [LOC U.S.  ] company ) to begin developing [LOC Djibouti  ] 's considerable renewable energy resources . 
+Senior [ORG GODJ  ] energy officials recently expressed optimism about [LOC Djibouti  ] 's future potential as an energy producer , but some frustration about possible financing gaps and bilateral misunderstandings impacting the largest renewable project currently on tap: a planned 50-100 megawatt [LOC Djibouti-Iceland  ] geothermal plant at [LOC Lac Assal  ] . 
+END SUMMARY. --------------------------------------------- ---------------------- -------- SUMMER SHORTAGES CONTINUE ; OVERALL DEMAND GROWS --------------------------------------------- ---------------------- -------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) In a May 27 meeting with Ambassador , Minister of Energy [PER Moussa Bouh Odowa  ] and his Secretary-General [PER Farah Ali Ainan  ] stressed the urgency of finding solutions to [LOC Djibouti  ] 's current and projected energy shortfalls . 
+[LOC Djibouti  ] 's parastatal electricity monopoly [ORG EDD  ] ( Electricity of [LOC Djibouti  ] ) has an installed capacity of 100 megawatts ( [ORG MW  ] ) , Secretary-General [PER Ainan  ] said . 
+However , [ORG EDD  ] 's realistic production capacity is much lower-closer to 47 [ORG MW  ] . 
+[ORG EDD  ] is capable of sustaining a short-term " surge " in production to 60-70 [ORG MW  ] , but not for prolonged periods . 
+Current summertime demand ( when [LOC Djibouti  ] 's hot season leads to greater air conditioner use and a peak in energy demand ) is now at 87 [ORG MW  ] , leaving a significant gap between production and consumption needs . 
+Furthermore , [PER Ainan  ] underlined , the [ORG Ministry of Energy  ] projects that by 2010 , [LOC Djibouti  ] 's energy needs will reach 125 MW--or even higher if [LOC Djibouti  ] continues to attract large-scale foreign direct investment projects. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) Before tackling these large , long-term projected needs , [PER Ainan  ] said , the [ORG Ministry first  ] needed to address [LOC Djibouti  ] 's immediate shortfall , which he estimated at 25 [ORG MW  ] . 
+( NOTE . 
+For several weeks in late May , [ORG Djibouti City  ] experienced multiple , prolonged power cuts of up to 9 hours a day . 
+[ORG EDD  ] had announced the unusually severe cuts in advance , after one of its main generators failed . 
+By the end of May , one faulty generator had reportedly been repaired , and power supply improved throughout the city . 
+However , as in every summer , [MISC Djiboutians  ] still grapple with frequent power cuts . 
+END NOTE . 
+) While [LOC Djibouti  ] had been hoping that the planned [MISC Djibouti-Ethiopia  ] electricity interconnection ( ref A ) would be part of the solution to [LOC Djibouti  ] 's energy woes , Minister [PER Odowa  ] said that recent delays in the project construction , along with reports of drought-related power shortages in [LOC Ethiopia  ] , were worrisome to [LOC Djibouti.  ] --------------------------------------------- ------- [MISC ICELAND-DJIBOUTI  ] GEOTHERMAL PROJECT --------------------------------------------- ------- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) In 2008 , the [ORG GODJ  ] signed several agreements with [LOC Iceland  ] to begin feasibility studies for [LOC Djibouti  ] 's most ambitious planned renewable energy project to date , a projected 50-100 [ORG MW  ] geothermal plant at [LOC Lac Assal  ] ( ref A ) . 
+During the financial crisis , [LOC Iceland  ] had reportedly assured [LOC Djibouti  ] that the money set aside for the [LOC Lac Assal  ] project had been safely sequestered . 
+Recently , however , Minister [PER Odowa  ] said that he was not as confident that [LOC Iceland  ] had [LOC DJIBOUTI  ] 00000655 002 OF 003 the full [MISC USD  ] 25-30 million available to fund the project feasibility phase . 
+( NOTE . 
+[ORG Reykjavik Energy Invest  ] ( [ORG REI  ] ) signed agreements in 2008 with the [ORG International Finance Corporation  ] 's [ORG InfraVentures  ] fund , which agreed to cover 35% of the [LOC Djibouti  ] project 's exploration costs , up to a contribution ceiling of [MISC USD  ] 4 million . 
+END NOTE . 
+) <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) The [ORG GODJ  ] still remains committed to the [LOC Lac Assal  ] project , Minister [PER Odowa  ] told [ORG Regional Environmental Officer  ] ( REO ) during a June 4 meeting , and would potentially be able to finance any funding gap for the feasibility phase from its own resources . 
+If this happened , [PER Odowa  ] said that the [ORG GODJ  ] would then want to adjust the terms of the [MISC Iceland-Djibouti  ] agreements accordingly , to reflect the [ORG GODJ  ] 's greater initial investment . 
+Beyond questions of finance , [PER Odowa  ] told Ambassador that Iceland-which currently has no permanent representation on the ground in [LOC Djibouti-had  ] somewhat irritated the bilateral relationship through a few errors of protocol and communication . 
+Nevertheless , [PER Odowa  ] said that the feasibility phase was on track to begin this autumn , with [ORG Reykjavik Energy Invest  ] ( [ORG REI  ] ) working " this week " on the bidding process for companies competing to drill the three planned test wells. <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) In addition to its collaboration with [LOC Iceland  ] , [PER Odowa  ] said that [LOC Djibouti  ] remained interested in working with a wide variety of partners . 
+( NOTE . 
+The [ORG GODJ  ] recently signed an agreement with the [LOC U.S.  ] firm [ORG Maple Indian Ocean Resources  ] ( ref B ) to develop wind and solar resources , and is reportedly working with an [MISC Indian  ] firm interested in exploiting geothermal energy at [LOC Lac Abbe  ] , on [LOC Djibouti  ] 's border with [LOC Ethiopia  ] . 
+END NOTE . 
+) Ambassador noted that other [MISC American  ] firms-including [ORG Geothermal Development Associates  ] ( [ORG GDA  ] ) , which worked with the [ORG U.S. Trade and Development Agency  ] ( [ORG USTDA  ] ) in 1999 on a geothermal feasibility study at [LOC Lac Assal-might  ] well be interested in geothermal and other energy projects in [LOC Djibouti.  ] ------------------------------------------- [ORG GODJ  ] CITES CAPACITY CHALLENGES ------------------------------------------- <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) Now that [LOC Djibouti  ] has several energy projects on the horizon , Secretary-General [PER Ainan  ] told REO , the next major challenge will be developing an effective regulatory framework to respond to [LOC Djibouti  ] 's new , diversified energy environment . 
+( NOTE . 
+Post has previously submitted a proposal to host an [ORG Embassy Science Fellow  ] ( ref C ) with expertise in energy policy . 
+END NOTE ) . 
+Minister [PER Odowa  ] said that now , oil and gas companies interested in [LOC Djibouti  ] 's offshore and onshore potential were " pushing " the [ORG GODJ  ] to allow exploration . 
+Before negotiating with such companies , he said , the [ORG GODJ  ] would like to have much better baseline data on [LOC Djibouti  ] 's realistic potential , and eventually , assistance in negotiation . 
+Without proper baseline data , [PER Odowa  ] said that the [ORG GODJ  ] feared that it would not be able to negotiate fair deals , and asked whether the [ORG USG  ] might be able to fund assistance for such data studies. <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) COMMENT . 
+[LOC Djibouti  ] 's basic diplomatic strategy leans toward welcoming all comers and skillfully balancing a range of friends and allies . 
+It is therefore no surprise that in the field of renewable energy development , [LOC Djibouti  ] has encouraged courtship from a full range of potential partners . 
+As one long-time [ORG GODJ  ] energy official told [LOC EmbOffs  ] , [LOC Djibouti  ] wants to " keep a lot of options on the shelf , " ready to implement when the time is right . 
+Ideally , [LOC Djibouti  ] would also like prospective investors to foot much or most of the bill for costly-and relatively risky-feasibility studies to evaluate potential projects . 
+As [LOC Djibouti  ] 's renewable resources look more and more lucrative , the [ORG GODJ  ] may well succeed in negotiating these kinds of arrangements . 
+However , as its own energy needs become daily more acute , the [ORG GODJ  ] may also become more willing to put up what capital it can-alongside its contribution of the raw resource-in order to assure that projects come to timely fruition . 
+Post will continue to monitor the status of renewable energy projects in [LOC Djibouti  ] , especially in light of potential opportunities for [LOC U.S.  ] business [LOC DJIBOUTI  ] 00000655 003 OF 003 involvement . 
+END COMMENT . 
+SWAN</pre></code> 

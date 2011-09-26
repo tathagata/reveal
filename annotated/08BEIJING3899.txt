@@ -1,0 +1,27 @@
+<code><pre>UNCLAS [LOC BEIJING  ] 003899 SIPDIS ENSITIVE FOR EAP/CM PAMELA PARK TREASURY FR OASIA/WINSHIP E.O. 12958: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EFIN_0.html'>EFIN</a> <a href='/tag/CH_0.html'>CH</a> SUBJECT: [LOC China  ] 's SAFE Cautious about [LOC U.S.  ] Lending [ORG Ref: Beijing  ] 03888 THIS CABLE IS SENSITIVE BUT UNCLASSIFIED . 
+NOT FOR INTERNET DISTRIBUTION. <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary . 
+[ORG State Administration of Foreign Exchange  ] ( SAFE ) Deputy Director General [PER Liu Jiahua  ] on October 9 said his agency remained very concerned about counterparty risk in repo market lending to [LOC U.S.  ] financial institutions . 
+While SAFE 's policy towards [LOC U.S.  ] Government-supported [MISC Enterprise  ] ( [MISC GSE  ] ) debt has not changed and the amount of debt purchased has not decreased , portfolio managers had shifted toward shorter- term debt . 
+[PER Liu  ] also said SAFE now was focusing more on sovereign risk among developed countries , in part due to concern that the large amount of debt guaranteed by the [LOC U.S.  ] and [MISC European  ] governments could impact their fiscal budgets and their ability to service debt . 
+Finally , [PER Liu  ] observed that the recent [LOC U.S.  ] announcement of another arms sale to [LOC Taiwan  ] made it more difficult for the [MISC Chinese  ] Government to explain its policies supportive of the [LOC U.S.  ] to the [MISC Chinese  ] public . 
+End Summary. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) SAFE DDG [PER Liu  ] [PER Jiahua  ] told Finatt on October 9 that SAFE is very concerned over the danger involved in lending [LOC U.S.  ] treasuries to [LOC U.S.  ] financial institutions in the repurchase agreement ( repo ) market , without some kind of guarantee against counterparty risk . 
+With the collapse of [ORG Lehman Brothers  ] , [PER Liu  ] said , they no longer believe any institution can be considered low risk . 
+In response , Finatt emphasized the stability of large , deposit-taking [LOC U.S.  ] banks . 
+He also noted that the [LOC U.S.  ] [ORG FDIC  ] 's expanded powers include the ability to guarantee bank liabilities to support the banking system and address the systemic financial risk that could be caused by a potential bank failure . 
+[PER Liu  ] remained non-committal on the possible resumption of lending , but agreed that SAFE had sufficient confidence in those institutions and would consider a system whereby the [ORG Federal Reserve  ] or other [LOC U.S.  ] government agency would act as a guarantor. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) [PER Liu  ] stressed that SAFE 's policy towards [LOC U.S.  ] Government-supported [MISC Enterprise  ] ( [MISC GSE  ] ) debt - specifically , [ORG Fannie Mae  ] and [ORG Freddie Mac  ] -- has not changed , and he thought the amount of debt purchased has not decreased . 
+If there has been a shift by the portfolio managers toward shorter-term debt , he believed it was due to uncertainty on what might happen to [ORG Fannie Mae  ] and [ORG Freddie Mac  ] in the longer-term ( beyond five years ) future , particularly if those [ORG GSEs  ] eventually are privatized . 
+[PER Liu  ] agreed that the ideal form would be to separate existing guaranteed liabilities from any new , privatized entities . 
+He emphasized that SAFE did not want to take any actions that would affect the market and/or undermine confidence in the [ORG GSEs  ] . 
+New Worry: [MISC Sovereign Risk  ] ------------------------- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) Though [PER Liu  ] again emphasized that SAFE has not changed its policy , he said they now also are focusing more on sovereign risk among developed countries . 
+Given the large amount of debt guaranteed by the [LOC United States  ] and [MISC European  ] governments , [PER Liu  ] said there is concern that this could impact their fiscal budgets and their ability to service debt . 
+In that regard , [PER Liu  ] said USD depreciation is also a concern . 
+Public Opinion a [MISC Factor  ] ----------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) In conclusion , [PER Liu  ] said SAFE has noted the actions taken to date by the [LOC U.S.  ] government to provide relief and restore investor confidence ; those measures are very welcome and positive . 
+The SAFE working group on the crisis would welcome opportunities to exchange views with their [LOC U.S.  ] counterparts . 
+[PER Liu  ] - citing an Internet discussion forum -- said that as in the [LOC United States  ] , the [MISC Chinese  ] leadership must pay close attention to public opinion in forming policies . 
+In that regard , the recent announcement that the [LOC United States  ] intends to sell another arms package to [LOC Taiwan  ] increases the difficulty the [MISC Chinese  ] Government faces in explaining any supporting policies to the [MISC Chinese  ] public ( ref ) . 
+PICCUTA</pre></code> 

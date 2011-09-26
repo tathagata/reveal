@@ -1,0 +1,41 @@
+<code><pre>C O N F I D E N T I A L SECTION 01 OF 02 [LOC MOSCOW  ] 002723 SIPDIS WHITE HOUSE ALSO FOR USTR: WILSON , HAFNER GENEVA FOR WTO REPS COMMERCE FOR MEDWARDS E.O. 12958: [LOC DECL:  ] 11/04/2019 TAGS: <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/EINV_0.html'>EINV</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/RS_0.html'>RS</a> <a href='/tag/WTO_0.html'>WTO</a> SUBJECT: INTEL'S [ORG CRYPTO IMPORTATION WAIVER: LESS  ] THAN A BREAKTHROUGH Classified By: Ambassador [PER John Beyrle  ] , Reasons 1.4 b&d. <a id='par1' href='#par1'>¶</a>1 . 
+( C ) Summary: [ORG Intel  ] representatives recently briefed us on the waiver it received to import 1,000 encrypted platforms for the development of software . 
+[ORG Intel  ] was able to by-pass the cumbersome licensing process by engaging in high-level lobbying and capitalizing on [LOC Russia  ] 's desire to become a " knowledge-based " economy . 
+Contrary to recent [MISC Russian  ] statements , this waiver does not appear to represent a breakthrough in the importation of commercial products with cryptographic content . 
+[LOC Russia  ] continues to operate under the old regulations ; proposed new regulations do not meet the terms of the 2006 U.S.- [LOC Russia  ] side agreement on cryptography . 
+End Summary. <a id='par2' href='#par2'>¶</a>2 . 
+( C ) On October 28 Emboffs met with [ORG XXXXXXXXXXXX XXXXXXXXXXXX  ] to discuss [ORG Intel  ] 's recent waiver on importing cryptographic goods . 
+[ORG Intel  ] believes this breakthrough is one that other IT companies could piggy-back on . 
+[ORG XXXXXXXXXXXX  ] stated that the waiver allows [ORG Intel  ] to import 1,000 development kits containing encrypted platforms necessary to design and develop software . 
+The waiver allows the importation without the required laboratory analysis and approval by the [ORG Federal Security Bureau  ] ( [ORG FSB  ] ) . 
+However , the waiver allows only 1,000 units to be imported ; if [ORG Intel  ] needs to import more , they need to request a new waiver . 
+The waiver applies to only one specific customs code ( item ) , with no variations . 
+As well , these cryptographic items can only be used in [LOC R&D  ] ; they cannot appear on the commercial market . 
+Once [ORG Intel  ] is finished with the platforms they must be submitted to a designated state-run industrial waste disposal company for their destruction. ---------- Background ---------- <a id='par3' href='#par3'>¶</a>3 . 
+( C ) In 2006 [LOC Russia  ] signed a side agreement to its WTO bilateral [ORG Working Party Agreement  ] with the [LOC U.S.  ] in which [LOC Russia  ] agreed to streamline and simplify its procedures for the importation of items containing cryptographic information . 
+Nearly three years later , progress in meeting the terms of this agreement has been slow and its results minimal . 
+[LOC Russia  ] 's proposed new regulations do not meet the terms laid out in the side agreement or in WTO regulations . 
+To date , companies still must follow the existing cumbersome rules in applying for permission to import items containing any level of cryptographic information , including cell phones . 
+This permission request usually involves submitting samples of the item to an [ORG FSB  ] approved laboratory for analysis , raising concerns about the violation of intellectual property through reverse engineering . 
+So far , [LOC U.S.  ] firms have not voiced major concern over this last issue ; rather , their focus has been on the time consuming process for the importation of crypto-related products . 
+Current procedures take six months to complete and must be done for each shipment. ------------------------------ What It Took to Get the Waiver ------------------------------ <a id='par4' href='#par4'>¶</a>4 . 
+( C ) In order to get the waiver , [ORG Intel  ] capitalized on the [ORG GOR  ] 's desire to develop [LOC Russia  ] as a knowledge-based economy . 
+Several high-level [ORG Intel  ] officers , including CEO [PER Craig Barrett  ] , and other officials , such as [ORG American Chamber  ] of Commerce President [PER Andrew Somers  ] , highlighted to their [ORG GOR  ] interlocutors , including President [PER Medvedev  ] , the role [ORG Intel  ] plays in employing over 1,000 [MISC Russian  ] engineers . 
+[ORG Intel  ] 's advocates emphasized that if [ORG Intel  ] could not quickly import these development kits , there would be no programming work available and [ORG Intel  ] would have to lay off over 200 engineers . 
+In addition , [LOC R&D  ] work in [LOC Russia  ] would have to move to [LOC India  ] or [LOC China  ] . 
+This high-level lobbying secured [ORG Intel  ] a meeting with key [ORG FSB  ] officials to explain its needs . 
+[ORG Intel  ] was able to demonstrate the reasonableness of its request and , as a result , by-passed the current extensive licensing requirement. ---------------------------------------- But It Does Not [MISC Solve  ] the [ORG Crypto Problem  ] ---------------------------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( C ) [ORG XXXXXXXXXXXX  ] highlighted however , that this breakthrough does not apply to [ORG Intel  ] 's commercial products . 
+He stated that [ORG Intel  ] is currently evaluating options for approaching [LOC MOSCOW  ] 00002723 002 OF 002 the [ORG GOR  ] on how to expedite importation of cryptographic commercial products , a significant source of [ORG Intel  ] 's sales revenue . 
+The procedures that [LOC Russia  ] agreed to change in 2006 remain in place three years later . 
+Recently proposed new regulations do not appear to significantly reduce the need to apply for permission for each shipment of goods with cryptographic components. <a id='par6' href='#par6'>¶</a>6 . 
+( C ) During a July visit , [ORG USTR Russia  ] and [ORG Eurasia  ] Director [PER Elizabeth Hafner  ] raised concerns with the [ORG FSB  ] and the [ORG Ministry of Economic Development  ] ( [ORG MED  ] ) , that the proposed new regulations , if implemented without revision , would set up [LOC Russia  ] to be in violation of WTO regulations from the moment of its accession . 
+[ORG MED  ] understood the situation , but felt that it might be more effective to implement the new procedures , see where there are problems and fix them as they appear . 
+To date , we have not seen a more recent version of the proposed new regulations for the importation of cryptographic goods to see if the [ORG FSB  ] took USG comments under advisement. ------- Comment ------- <a id='par7' href='#par7'>¶</a>7 . 
+( C ) During several recent high-level meetings between [LOC U.S.  ] and [MISC Russian  ] interlocutors , the [MISC Russians  ] have highlighted the [ORG Intel  ] waiver as a major breakthrough in [LOC Russia  ] 's trade regime dealing with cryptographic goods , and thus a step forward on their WTO to-do list . 
+The information from [ORG Intel  ] , however , indicates this is a specific , limited waiver only for use in [LOC R&D  ] . 
+While this does demonstrate some limited flexibility on the part of the [ORG FSB  ] - and thus a step forward ) , whether other [LOC U.S.  ] companies can receive similar waivers remains to be seen . 
+Additional [ORG GOR  ] actions will be required to streamline [LOC Russia  ] 's procedures for the importation of cryptographic goods for commercial sale . 
+[LOC Russia  ] continues to lag in the timetables and provisions it agreed to in the 2006 side-agreement on cryptology . 
+Embassy will follow-up with the [ORG FSB  ] and [ORG MED  ] officials , to urge implementation of the 2006 side-agreement , especially with regard to commercial goods . 
+Beyrle</pre></code> 

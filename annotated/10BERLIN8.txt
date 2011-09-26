@@ -1,0 +1,101 @@
+<code><pre>UNCLAS SECTION 01 OF 05 [LOC BERLIN  ] 000008 STATE FOR INR/R/MR , [LOC EUR/PAPD  ] , [LOC EUR/PPA  ] , [LOC EUR/CE  ] , [LOC INR/EUC  ] , [LOC INR/P  ] , [ORG SECDEF  ] FOR [LOC USDP/ISA/DSAA  ] , [LOC DIA  ] FOR [MISC DC-4A  ] VIENNA FOR CSBM , [LOC CSCE  ] , [LOC PAA  ] " PERISHABLE INFORMATION -- DO NOT SERVICE " SIPDIS E.0 . 
+12958: [PER N/A TAGS:  ] <a href='/tag/AF_0.html'>AF</a> <a href='/tag/IF_0.html'>IF</a> <a href='/tag/XF_0.html'>XF</a> <a href='/tag/IC_0.html'>IC</a> <a href='/tag/EFIN_0.html'>EFIN</a> SUBJECT: MEDIA REACTION: [LOC U.S.  ] , [LOC AFGHANISTAN  ] , [LOC IRAN  ] , [LOC MIDEAST  ] , [LOC ICELAND  ] , [LOC DEFENSE  ] , ECONOMIC ; [LOC BERLIN  ] <a id='par1' href='#par1'>¶</a>1 . 
+Lead Stories Summary <a id='par2' href='#par2'>¶</a>2 . 
+( [LOC U.S  ] . 
+) [ORG Obama - Intelligence Services' Meeting  ] <a id='par3' href='#par3'>¶</a>3 . 
+( [LOC Afghanistan  ] ) [ORG London Conference  ] <a id='par4' href='#par4'>¶</a>4 . 
+( [LOC Iran  ] ) Ban to Talk to Foreign Institutions <a id='par5' href='#par5'>¶</a>5 . 
+( [LOC Mideast  ] ) [MISC New Peace Efforts  ] <a id='par6' href='#par6'>¶</a>6 . 
+( [LOC Iceland  ] ) Government Won't Repay Debts <a id='par7' href='#par7'>¶</a>7 . 
+( [LOC Defense  ] ) A 400 M <a id='par8' href='#par8'>¶</a>8 . 
+( [LOC Economic  ] ) State of [LOC U.S.  ] Economy <a id='par1' href='#par1'>¶</a>1 . 
+Lead Stories Summary The main story in today 's print media is the conflict between Foreign Minister [PER Westerwelle  ] and the head of the [ORG Expellee Organization  ] , [PER Erika Steinbach  ] , on her future job as board member of the [ORG Foundation " Flight  ] , Expulsion , Reconciliation . 
+" Other stories deal with [LOC Iceland  ] 's refusal to repay debts to the [LOC UK  ] and the [LOC Netherlands  ] ( [ORG Handelsblatt  ] , [ORG FT Deutschland  ] ) and the most recent unemployment figures ( [ORG Berliner Zeitung  ] ) . 
+Editorials focused on the [PER Steinbach- Westerwelle  ] conflict and on the renewable energies project in the [LOC North Sea  ] . 
+[ORG ZDF-TV  ] 's early evening newscast heute and [ORG ARD-TV  ] 's early evening newscast [ORG Tagesschau  ] opened with reports on [LOC Steinbach.  ] <a id='par2' href='#par2'>¶</a>2 . 
+( [LOC U.S  ] . 
+) [ORG Obama - Intelligence Services' Meeting  ] Under the headline " [PER Obama  ] acts as counterterrorism President , " [ORG Spiegel Online  ] led with a story noting: " He wanted to move away from the warlike politics of his predecessor [PER George W. Bush  ] , but the failed [LOC Detroit  ] attack makes clear: the fight against terrorism is also the main business for [PER Barack Obama  ] . 
+His speech after the intelligence meeting shows how much the new role will change his style of government . 
+" [ORG Berliner Zeitung  ] ( 1/6 ) noted: " One result was clear already prior to the security meeting: The dark shadow of terror fears has settled down around [PER Obama  ] 's presidency . 
+Before the [LOC Detroit  ] plot , the topic hardly played a role eight years after 9/11.. . 
+Experts now believe that it will play a greater role on [PER Obama  ] 's agenda this year . 
+" [ORG FT Deutschland  ] ( 1/6 ) carried a page on [LOC America  ] 's airport security policy , highlighting: " [LOC America  ] closes down - In fear of new terror attacks , the [LOC U.S.  ] tightens its entry regulations . 
+However , many of the protectionist measures are ineffective and put off tourists and businessmen . 
+[LOC Israel  ] shows how to create high security standards with little use of technology . 
+" [ORG Berliner Zeitung  ] ( 1/6 ) headlined " Double agent humiliates the [ORG CIA  ] , " and notes in its intro: " Many things that happened last week at the [ORG CIA  ] outpost [LOC Forward Operating Base Chapman  ] in the [MISC Afghan  ] border region are still unclear... . 
+However , it seems to be clear what led to the [LOC BERLIN  ] 00000008 002 OF 005 serious setback: the suicide bomber was obviously a double agent with connections to al [MISC Qaida...  ] . 
+The terror network humiliated the [ORG CIA  ] with a cat-and-mouse game . 
+" <a id='par3' href='#par3'>¶</a>3 . 
+( [LOC Afghanistan  ] ) [ORG London Conference Frankfurter Allgemeine  ] ( 1/6 ) editorialized on Foreign Minister [PER Westerwelle  ] 's statement that he seeks a " political " solution to the conflict in [LOC Afghanistan:  ] " He believes that this will allow him to avoid the discussion over an increase of [MISC German  ] troops in [LOC Afghanistan  ] . 
+The reality looks different . 
+[PER Westerwelle  ] and the [MISC Americans  ] share the same goal , but they differ on the path to get there . 
+2,500 [MISC American  ] soldiers are supposed to be deployed to [LOC Kunduz  ] , which is in the north of the country , where the [MISC Germans  ] bear the responsibility . 
+Some of them are supposed to train 4,000 [MISC Afghan  ] soldiers ; other units will protect the camp and secure the region... . 
+This makes clear what a challenge it is to set up [MISC Afghan  ] security forces . 
+It will not be possible without additional foreign assistance , including a military component . 
+" <a id='par4' href='#par4'>¶</a>4 . 
+( [LOC Iran  ] ) Ban to Talk to Foreign Institutions Under the headline " [LOC Iran  ] also focuses on [MISC German  ] foundations , " [ORG Die Welt  ] ( 1/6 ) reported that " the regime imposed a ban on contacting 60 institutions in the country and abroad... . 
+The prohibition to talk to international broadcasters further limits the freedom to move for opposition leader [PER Musawi  ] and [PER Medhi Karubi  ] . 
+" [ORG Frankfurter Allgemeine  ] ( 1/6 ) headlined " Regime in [LOC Iran  ] Broadens its Censorship , " adding " Given the ongoing protests against the regime , the [MISC Iranian  ] intelligence service tries to isolate 60 domestic and international institutions . 
+" <a id='par5' href='#par5'>¶</a>5 . 
+( [LOC Mideast  ] ) [MISC New Peace Efforts  ] [ORG Frankfurter Allgemeine  ] ( 1/6 ) commented: " The kind of two-state solution that would be acceptable to [MISC Israelis  ] and [MISC Palestinians  ] is not a secret . 
+It is more difficult to get both conflicting parities to reach these compromises despite the great political risks . 
+The current path of building confidence has not worked . 
+President [PER Obama  ] and his [LOC Mideast  ] envoy [PER Mitchell  ] obviously want to try it the other way around: they lure both sides into new negotiations by promising that they will be finished after two years... . 
+Given the many failed efforts , the new attempt is worthwhile . 
+However , the [MISC Israelis  ] and [MISC Palestinians  ] - and their leaders - must be willing themselves to create peace . 
+" <a id='par6' href='#par6'>¶</a>6 . 
+( [LOC Iceland  ] ) Government Won't Repay Debts Several papers ( 1/6 ) reported that the [LOC Iceland  ] 's President [PER Grimsson BERLIN  ] 00000008 003 OF 005 announced that he would veto the repayment of 3.5 billion euro to foreign depositors and that he refused to sign a bill from which primarily [MISC British  ] and [MISC Dutch  ] savers would have profited . 
+[ORG Frankfurter Allgemeine  ] reported under the headline: " [LOC Iceland  ] Blocks Compensations , " while [ORG Die Welt  ] headlined: " [LOC Iceland  ] 's President Uses His Right to [MISC Veto Compensation of Savors  ] " and reported: " It was the second time in the 65-year history of the country that a president whose job is primarily to represent the country , used his right to refuse to approve a bill . 
+According to the [LOC Constitution  ] , a referendum must decide in such a case . 
+[PER Grimsson  ] 's step is likely to intensify domestic turbulence in the island state , which has been especially hard hit by the financial crisis... . 
+The unresolved compensation question is an obstacle to [MISC Icelandic  ] efforts to join the [ORG EU  ] and to get support from the [ORG IMF  ] . 
+" [ORG Tagesspiegel  ] headlined: " [MISC Presidential Veto Plunges Iceland  ] Into Crisis , " while [ORG Financial Times Deutschland  ] led with the lead story: " [LOC Iceland  ] Risking Accession to the [ORG EU  ] . 
+" [ORG Handelsblatt  ] carried a lead story under the headline: " [LOC Iceland  ] Risking Conflict with [ORG IMF  ] . 
+" [ORG Berliner Zeitung  ] ( 1/6 ) analyzed the situation in the country and wrote: " The nation held its breath , for what usually happens was declared a vital question this time . 
+More than 60,000 Icelanders - one quarter of al voters - called upon their president in a petition to stop the so-called compensation bill . 
+He did it yesterday and suggested a referendum on it . 
+This bill is more than a technical formality . 
+It is the key document for the self understanding of the Icelanders after the collapse of their economy but also for their country 's rapprochement with [LOC Europe  ] . 
+However , a referendum could jeopardize [LOC Iceland  ] 's quick accession to the [ORG EU  ] because it cannot bypass [LOC London  ] and The [PER Hague  ] on its way to [LOC Brussels  ] . 
+And both governments clearly signaled yesterday that , without compensation for foreign depositors , there will be no accession and no further [ [ORG EU  ] ] loans . 
+" In a front-page editorial , [ORG Handelsblatt  ] ( 1/6 ) argued under the headline: " Fear of State Bankruptcy , " that " [LOC Iceland  ] 's refusal clearly shows that , in 2010 , we will have to fight fears that countries do not or are incapable of repaying their debt . 
+Cases such as [LOC Dubai  ] , [LOC Greece  ] , [LOC Latvia  ] , and [LOC Ukraine  ] are nurturing this fear . 
+But [LOC Iceland  ] is a special case and has good chances to recover... . 
+The country does not have to repay external debt by the end of 2011 and will have good chances with a high per capita income to be in a better situation soon if it wants to get fresh money from investors . 
+Despite the economic misery it is at least possible to play a poker game , as the president and the Icelanders are doing . 
+Other states such as [LOC Greece  ] do not have such possibilities - and we will hear quite a lot from these countries in [LOC BERLIN  ] 00000008 004 OF 005 2010 . 
+" According to [ORG Financial Times Deutschland  ] ( 1/6 ) , " The [MISC Icelandic  ] government signed a contract in which it gave assurances to pay compensation . 
+Serious contractors stick to such promises when the contract has not even entered into force . 
+By withholding his signature , the [MISC Icelandic  ] president is now also questioning [LOC Iceland  ] 's membership of the circle of industrialized countries that need to be taken seriously , let alone its declared goal of joining the [ORG EU  ] . 
+Obviously , neither the protesting people nor the President are aware of what is at risk . 
+In addition to the country 's political respectability , [LOC Iceland  ] 's economic prosperity is at risk . 
+Who wants to invest in the country on whose promises we cannot rely ? 
+And who will save [LOC Iceland  ] and its currency during the next crisis if the [MISC Europeans  ] - and this is understandable - have had enough ? 
+" <a id='par7' href='#par7'>¶</a>7 . 
+( [LOC Defense  ] ) A 400 [ORG M Frankfurter Allgemeine  ] ( 1/6 ) carried a report under the headline: " [MISC Airbus Threatens To Scrap Military Transportation Aircraft  ] , " and wrote: " The tone in the controversy over the financing of the A 400 [ORG M  ] military transportation aircraft is getting sharper . 
+[ORG Airbus  ] is now openly threatening to scrap the program if the governments do no make concessions in the talks with the company . 
+[ORG Financial Times Deutschland  ] reported that [ORG EADS  ] CEO [PER Thomas Enders  ] only sees a 50:50 chance for a successful agreement . 
+This threat is primarily direct against the [MISC German  ] government , which is taking the toughest position in the talks . 
+The parliamentary Undersecretary of [LOC Defense  ] , [PER Christian Schmidt  ] ( [ORG CSU  ] ) explained the [MISC German  ] position towards FAZ: 'Cancelling the contract is not the subject matter of talks.' 
+The negotiating partner would be [ORG EADS  ] , not [ORG Airbus  ] , he said , and added: 'For us , the contract is the basis . 
+Additional demands from [ORG EADS  ] are on the table and that is the subject matter of talks.' 
+" According to [ORG Die Welt  ] ( 1/6 ) , " the [MISC Europeans  ] are threatened with a disgrace . 
+When [ORG Airbus  ] is threatening to scrap the A 400 [ORG M  ] military transportation aircraft , then this is in reality the last attempt to save the project . 
+Saber rattling is a well tested tactical game in difficult negotiations...and a continuation of the project is very likely . 
+First , the end of the project would also be expensive for [ORG EADS  ] . 
+In addition , [ORG EADS  ] 's reputation as a reliable supplier would be at risk... . 
+And the nations that have ordered the plane will not be able to avoid additional payments either . 
+They must also be blamed for an increase in costs . 
+[LOC Germany  ] , [LOC France  ] , and the other countries wanted to demonstrate together with [ORG EADS  ] that [LOC Europe  ] is able to finance enormous arms projects such as the A 400 [PER M. It  ] would be a disgrace for the producer and for the ordering nations to display [LOC BERLIN  ] 00000008 005 OF 005 the three prototypes of the aircraft , whose development already cost billions of euros , in a museum . 
+" <a id='par8' href='#par8'>¶</a>8 . 
+( Economic ) State of [LOC U.S.  ] Economy Under the headline: " [ORG U.S. Recovery Lacks Strength  ] , " [ORG Handelsblatt  ] ( 1/6 ) editorialized: " The [LOC U.S.  ] economy is turning around , profits and orders increase and the stock markets are cheering , but the biggest economy has been put on drugs and these drugs are losing their effect . 
+The arguments of the optimists , according to which the [LOC U.S.  ] economy has embarked upon a path of growth , are only true for the short term . 
+The current upswing is based on the fact that companies have increased their production after previous historic cuts and are rebuilding inventories . 
+On paper , this creates a strong increase in production , even though the turnover of many companies has hardly recovered from their plunge . 
+Experience teaches us that such recoveries , which are only based on a change with respect to inventories , do not last very long . 
+In addition , the optimists hardly say that the upswing rests almost exclusively on state doping . 
+This effect is , on a short term basis , stimulating , but in the long run , dangerous . 
+For a long-term recovery , the [LOC U.S.  ] economy , which is driven by domestic consumption , needs signs of relaxation from the highly indebted consumers and profound optimism on the part of the companies to initiate a new wave of investments . 
+The optimists can wish for such a development , but they cannot make it happen . 
+" DELAWIE</pre></code> 

@@ -1,0 +1,154 @@
+<code><pre>UNCLAS [LOC BERLIN  ] 000485 STATE FOR INR/R/MR , [LOC EUR/PAPD  ] , [LOC EUR/PPA  ] , [LOC EUR/CE  ] , [LOC INR/EUC  ] , [LOC INR/P  ] , [ORG SECDEF  ] FOR [LOC USDP/ISA/DSAA  ] , [LOC DIA  ] FOR [MISC DC-4A  ] VIENNA FOR CSBM , [LOC CSCE  ] , [LOC PAA  ] " PERISHABLE INFORMATION -- DO NOT SERVICE " E.0 . 
+12958: [PER N/A TAGS:  ] <a href='/tag/OPRC_0.html'>OPRC</a> <a href='/tag/KMDR_0.html'>KMDR</a> <a href='/tag/KPAO_0.html'>KPAO</a> <a href='/tag/GM_0.html'>GM</a> <a href='/tag/US_0.html'>US</a> <a href='/tag/IZ_0.html'>IZ</a> <a href='/tag/PK_0.html'>PK</a> <a href='/tag/SF_0.html'>SF</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: MEDIA REACTION: SWINE FLU , [LOC IRAQ  ] , [LOC OBAMA  ] , [ORG TALIBAN  ] , [ORG CIA  ] , [LOC ARMENIA  ] , [LOC SOUTH AFRICA  ] , [LOC ICELAND  ] <a id='par1' href='#par1'>¶</a>1 . 
+Lead Stories Summary <a id='par2' href='#par2'>¶</a>2 . 
+Outbreak of [LOC Swine Flu  ] in [LOC Mexico  ] <a id='par3' href='#par3'>¶</a>3 . 
+Secretary [PER Clinton  ] in [LOC Baghdad  ] <a id='par4' href='#par4'>¶</a>4 . 
+President [PER Obama  ] 's First 100 Days <a id='par5' href='#par5'>¶</a>5 . 
+[LOC Pakistan  ] 's Fight against the [ORG Taliban  ] <a id='par6' href='#par6'>¶</a>6 . 
+CIA/Rule of Law <a id='par7' href='#par7'>¶</a>7 . 
+[ORG U.S.-Russian Disarmament Talks  ] <a id='par8' href='#par8'>¶</a>8 . 
+[MISC Turkish Reaction  ] to [PER Obama  ] Remarks on [LOC Armenia  ] <a id='par9' href='#par9'>¶</a>9 . 
+[MISC South African  ] Elections <a id='par10' href='#par10'>¶</a>10 . 
+[LOC Iceland  ] Elections <a id='par1' href='#par1'>¶</a>1 . 
+Lead Stories Summary Editorials focused on the debate over the possibility of social unrest if the financial crisis continues , the outbreak of swine flu and the outcome of the elections in [LOC South Africa  ] . 
+The headlines in the national press focused on the swine flu , while [LOC Berlin  ] 's dailies opened with stories on the failed campaign to allow [LOC Berlin  ] students to take religion courses instead of mandatory ethics classes . 
+[ORG ZDF-TV  ] 's early evening newscast Heute and [ORG ARD-TV  ] 's early evening newscast Tagesschau opened with stories on swine flu. <a id='par2' href='#par2'>¶</a>2 . 
+Outbreak of [LOC Swine Flu  ] in [LOC Mexico  ] Frankfurter Allgemeine headlined: " First suspected cases of [LOC Swine Flu  ] in [LOC Europe  ] " and wrote: " the outbreak of the swine flu with a previously unknown virus has resulted in alarming statements from health authorities all over the world . 
+" The daily also carried a front-page commentary saying: " It is conspicuous that primarily young , healthy people have become sick , a parallel to the devastating 'Spanish flu' almost 100 years ago . 
+But what this means for the pandemic potential of the [MISC Mexican  ] flu will come to the fore only in the coming days . 
+" " WHO is Afraid of [LOC Swine Flu  ] Pandemic , " [ORG Die Welt  ] headlined , and reported: " Following the outbreak of the swine flu , more than 80 people have died and more than 1,300 people have been infected in [LOC Mexico  ] . 
+[MISC German  ] health authorities are beginning to prepare for the scenario that the virus will arrive in [LOC Germany  ] . 
+A spokesman for the [ORG Robert-Koch Institute  ] [ which coordinates such efforts ] said that 'the risk for [LOC Germany  ] cannot yet be assessed.' 
+The [ORG Foreign Ministry  ] said that it will not yet issue a travel warning for [LOC Mexico  ] . 
+" In a front-page editorial , the daily judged: " The WHO is using drastic words and is making it unmistakably clear that that the new virus has the potential for a pandemic . 
+However , this is in strange contrast to the measures that have been proposed thus far . 
+" Handelsblatt editorialized: " It is ironic that a similar plague [ such as [ORG SARS  ] ] among [MISC Mexican  ] pigs is now causing new fears of a pandemic . 
+At least it is now becoming visible how little mankind is able to do to defend itself with precautionary measures against the surprises of nature . 
+Now it will be important to stop the spread of the virus with security measures especially at airports and to insist on the fact that countries where the virus broke out such as [LOC Mexico  ] and the [LOC United States  ] prevent a further spread of the disease . 
+But there is not a single reason for causing panic like two years ago . 
+" In a front-page editorial , die tageszeitung had this to say: " If we surf on Twitter for too long , we get the unavoidable desire to run to the next pharmacy to buy [MISC Tamiflu  ] and breathing masks . 
+One Twitter page that is run by the [ORG U.S. Center for Disease Control  ] had more than one million hits on Saturday alone . 
+Of course , it is good to see how quickly important information is spread these days , but the problem is the assessment . 
+The media and individual people make mistakes , get panicky and infect others , and do this faster than the swine flu does . 
+When looking back at the last candidate for a pandemic , [ORG SARS  ] , then we must say that little remained , at least here . 
+Of course , we must take precautionary measures , but panic is not the right antidote . 
+" <a id='par3' href='#par3'>¶</a>3 . 
+Secretary [PER Clinton  ] in [ORG Baghdad Frankfurter Allgemeine  ] wrote under the headline ; " [MISC Clinton: We Continue  ] to Stick to Withdrawal Plans , " and added: " During her first visit to [LOC Baghdad  ] since taking office , Secretary of State [PER Hillary Clinton  ] confirmed that , despite the increase in violence , the [LOC United States  ] would stick to its withdrawal plans from [LOC Iraq  ] . 
+On Thursday and Friday , more than 150 people were killed during the worst attacks in this year . 
+" The paper added: " [LOC U.S.  ] and [MISC Iraqi  ] government officials said that one of the reasons for the most recent attacks is that the [LOC U.S.  ] withdrawal and the transfer of responsibilities to [MISC Iraqi  ] security forces has resulted in security gaps which are now being exploited by the [ORG Jihadists  ] . 
+" Sueddeutsche carried a report under the headline: " First Visit to a Country in Fear " and quoted an unnamed [MISC Iraqi  ] citizen as having said: " To be frank we are scared , and many people have no confidence in the [MISC Iraqi  ] security forces . 
+" The daily added: " This is a problem that [PER Hillary Clinton  ] is likely to have addressed in talks with [LOC U.S.  ] Chief of Staff , [ORG Admiral  ] [PER Mike Mullen  ] , who also traveled for a surprise visit to [LOC Iraq  ] . 
+There are also a few [LOC U.S.  ] generals who are afraid that the troop withdrawal , which President [PER Obama  ] promised , will take place too fast and that this is one of the reasons for the [ recent ] violence . 
+" [ORG Frankfurter Allgemeine  ] commented: " For many months it looked like [LOC Iraq  ] had calmed down a great deal . 
+However , the recent attacks made clear that fanatics could dash the hopes for a permanent pacification of the country at any time... . 
+One can assume that [MISC Sunni  ] extremists are behind the attacks . 
+However , this is not certain at all . 
+Let 's hope that the [ [MISC Iraqi  ] ] government 's recently successful attempts to reduce the violence will work again in the future because the sooner the date for the [MISC American  ] withdrawal comes , the greater the risk for new violence . 
+" [ORG Frankfurter Rundschau  ] argued: " Following the most recent devastating attacks in [LOC Iraq  ] , [PER Hillary Clinton  ] 's words sound like holding out slogans . 
+During her visit , she gave [LOC Iraq  ] assurances that the [LOC United States  ] would offer unrestricted support , but that the [LOC U.S.  ] would also continue to stick to its withdrawal strategy . 
+But what else could she have said ? 
+The most recent problems will bind [LOC U.S.  ] forces much more than the planners are thinking . 
+This could jeopardize the [LOC U.S.  ] strategy for [LOC Afghanistan  ] and [LOC Pakistan  ] , where the [LOC U.S.  ] wants to create calm with more soldiers . 
+These are not good prospects for anyone . 
+" <a id='par4' href='#par4'>¶</a>4 . 
+President [PER Obama  ] 's First 100 Days Sunday 's [ORG Frankfurter Allgemeine  ] highlighted in a feature article on President [PER Obama  ] 's first 100 days: " Although the President is popular , many people believe he is overreaching... . 
+[PER Obama  ] started his presidency with messianic furor.. . 
+Since [PER Obama  ] 's inauguration , 600,000 jobs have been lost every month , the number of foreclosures is still rising , house prices continue to fall , the flow of loans is still bumpy , and bankruptcy is the key word in [LOC Detroit  ] . 
+Given all this , was it really necessary to start a dispute over the brutal interrogations of the [ORG CIA  ] ... . 
+Less would have been more in the first 100 days . 
+" Under the headline " The Riddle of [PER Obama  ] , " Sueddeutsche commented on the [MISC President:  ] " The day will come when this man will be human again - no longer a demigod - who has been enchanting the world as a verbal magician . 
+He will no longer be the one who walks on water , but an ordinary politician... . 
+This day of soberness will come , but nobody is talking of it this week as [LOC America  ] 's idol is celebrating his 100th day in office.. . 
+The President has achieved more in the first three months than all his predecessors since [PER Franklin D. Roosevelt...  ] . 
+[PER Obama  ] always succeeds in selling his policy as a necessity - a simple result of sheer reason , a logical step that is not based on any ideology . 
+However , tedious pragmatism does not explain the hysteria . 
+The key to the riddle is his personality , which meets the desire for visionary leadership . 
+" [ORG Tagesspiegel  ] editorialized: " The majority of the [MISC Americans  ] would still make the same decision . 
+[PER Obama  ] is their President . 
+He is not coming to terms with [PER Bush  ] through the courts , but by showing through his policies and reforms that [LOC America  ] can change . 
+" <a id='par5' href='#par5'>¶</a>5 . 
+[LOC Pakistan  ] 's Fight against the [ORG Taliban  ] A Sueddeutsche editorial highlighted that " [LOC Pakistan  ] can't stop focusing on [LOC India  ] , although the [ORG Taliban  ] pose the greatest threat " and added: " The [LOC U.S.  ] is having nightmares over the idea that the [MISC Pakistani  ] nuclear arsenal could fall into the hands of radical [MISC Muslims  ] , who are also leading the fight against the [LOC West  ] in [LOC Afghanistan  ] . 
+The [LOC U.S.  ] has little understanding for [LOC Pakistan  ] 's sentiments . 
+[LOC Washington  ] hopes in vain that the fight against terrorism will be a uniting bond . 
+[LOC Pakistan  ] has an archenemy and this is [LOC India  ] , not the [ORG Taliban  ] . 
+The [MISC Pakistani  ] perception is overblown . 
+However , we have to deal with it... . 
+[LOC U.S.  ] Secretary [PER Clinton  ] now admitted a mistake made in the past . 
+This was overdue . 
+The [LOC U.S.  ] cannot mediate between [LOC Pakistan  ] and [LOC India  ] at the moment . 
+The resentment is too big . 
+" Sunday 's [ORG Die Welt  ] commented: " [LOC Pakistan  ] 's future is at stake . 
+This is not just important for [LOC Pakistan  ] , but also for whole international community because the country posses nuclear weapons... . 
+As the [ORG Taliban  ] are leaving their refuge of the [LOC Swat Valley  ] and moving towards [LOC Islamabad  ] , alarm bells are ringing , particularly in [LOC Washington...  ] . 
+President [PER Obama  ] , who is willing to hold talks , will not make compromises when it comes to national security . 
+The [MISC Pakistani  ] government of [PER Zardari  ] is under extreme international and particularly [MISC American  ] pressure . 
+It must end its hesitating and ambiguous policies... . 
+It must realize that the [ORG Taliban  ] pose a threat to a democratically organized civilian society . 
+A Talibanization of [LOC Pakistan  ] would have a serious impact on the war in [LOC Afghanistan  ] , which the [LOC West  ] must win if it wants to prevent the return of the breeding ground of terrorism that led to September 11 . 
+" Sunday 's [ORG Frankfurter Allgemeine  ] remarked: " Regardless of whether the peace agreement was a sign of weakness or simply a failed attempt to drive a wedge between the [MISC Islamist  ] groups in the country , [LOC Islamabad  ] does not seem to have a strategy for fighting the extremists in its own country . 
+The capture of [LOC Islamabad  ] is not imminent... but the situation is a cause for concern . 
+The consequences of the mixture of weak state structures , social misery and [MISC Islamic  ] radicalization in the region can be studied in the neighboring [LOC Afghanistan  ] . 
+" <a id='par6' href='#par6'>¶</a>6 . 
+CIA/Rule of Law Under the headline " Torture must be punished , " [ORG Die Welt  ] commented: " President [PER Obama  ] 's amnesty for [ORG CIA  ] officials who applied brutal interrogation methods might be understandable . 
+However , it is not appropriate . 
+The mistreatment , torture and harassment that were part of the interrogation of detainees in [LOC Guantanamo  ] violate [MISC American  ] and international laws . 
+The majority of inmates were terrorists . 
+The interrogations were about protecting [LOC America  ] 's and the world 's security... . 
+However , torture must not be the tool to gather information . 
+This had never been the case in the [LOC U.S.  ] until September 11 , 2001 changed the country . 
+One can understand the amnesty , but it is not right . 
+" <a id='par7' href='#par7'>¶</a>7 . 
+[ORG U.S.-Russia Disarmament Talks According  ] to [ORG Frankfurter Allgemeine  ] , " the chances for a quick success are nowhere as great as in the [MISC U.S.-Russian  ] talks about a reduction of strategic nuclear weapons . 
+The START treaty expires at the end of this year . 
+Even before the change of government in [LOC Washington  ] , both governments agreed that there should be a follow-on agreement with lower ceilings for nuclear warheads and carrier systems . 
+That is why it is no surprise that , after the beginning of the talks in [LOC Rome  ] , people see a promising beginning . 
+Each disarmament step begins with START , but time will tell whether [LOC Russia  ] will turn into a reliable partner at eye level . 
+" <a id='par8' href='#par8'>¶</a>8 . 
+[MISC Turkish Reaction  ] to [PER Obama  ] Remarks on [ORG Armenia Frankfurter Allgemeine  ] opined: " Even though President [PER Obama  ] did not explicitly use the term 'genocide' in his statement , leading [MISC Turkish  ] politicians expressed their dissatisfaction with his view on the 'Armenian atrocities.' 
+[LOC Turkey  ] insists on the establishment of a 'commission of historians' and this view is based on the opinion that [LOC Turkey  ] 's version is likely to be reconfirmed . 
+But what would happen if this did not come true ? 
+This controversy cannot be kept away from politics . 
+But probably , the government in [LOC Ankara  ] would be more accessible if [LOC Armenia  ] did not always question the [MISC Kars-G|mr  ] border treaty from 1912 . 
+[LOC Turkey  ] is also afraid of compensations payments . 
+The issue is not about 'honor' alone . 
+" According to an editorial in [ORG Die Tageszeitung  ] under the headline: " Not a Big Disaster , " at first glance , " [PER Barack Obama  ] was unable to reconcile all sides involved . 
+The only ones whose irritation is now well-founded , however , are the [MISC Azeris  ] , because the [MISC Turkish  ] government , in consent with [PER Barack Obama  ] , is of the opinion that only a new real rapprochement between [LOC Turkey  ] and [LOC Armenia  ] can improve the poisoned atmosphere between both sides . 
+The opening of borders and the free exchange of people and goods would be an important step for this . 
+Thus far , no [LOC U.S.  ] president wanted to insult [LOC Turkey  ] . 
+But it was [PER Obama  ] , who , a few weeks ago , addressed the issue of coming to terms with the past . 
+Publisher [PER Hrant Dink  ] , who was killed in [LOC Istanbul  ] three years ago , once said: 'I consider the conscience of my [MISC Turkish  ] friend to be more important than the things the powers-that-be in the world have to say.' 
+And at the beginning of the year , 30,000 [LOC Turks  ] signed a declaration in which they apologize for the 'Great Disaster from 1915 to their [MISC Armenian  ] neighbors . 
+Thus President [PER Obama  ] knows what he is talking about . 
+" <a id='par9' href='#par9'>¶</a>9 . 
+[MISC South African Elections In  ] a front-page editorial , [ORG Frankfurter Allgemeine  ] had this to say: " The [ORG ANC  ] has now lost four percent in the elections , and thus its two-thirds majority . 
+Basically , the real winner of this election is the [ORG Democratic Alliance  ] ( [ORG DA  ] ) with Capetonian Mayor [PER Hellen Zille  ] at the helm . 
+These elections signal a change , but more than the [ORG DA  ] , Cope is responsible for it . 
+It achieved two goals at the same time: it was able to convey in a credible way that it is not tantamount to treason not to vote for the [ORG ANC  ] , and to establish itself as a reservoir for the black and white middle class . 
+The [ORG ANC  ] will now have to adjust to the view that it will be unable to increase its share beyond 66 percent . 
+The party will rather be threatened with a massive loss of votes if it is again unable to create the promised jobs and inexpensive housing . 
+After a long lasting economic boom , the country is now in a recession , and more than 300,000 jobs will be cut in the mining and automobile sectors . 
+It will be the [PER Zuma  ] government 's prime task to reduce this social unrest until the next elections . 
+However , it is unclear how to do this in view of an inefficient educational system , economic decline , and an unemployment rate of almost 40 percent . 
+" Regional daily [ORG Schwaebische Zeitung  ] of [LOC Leutkirch  ] argued: " [PER Jacob Zuma  ] has often been characterized as a bogeyman , as unpredictable and as an enemy to the economy . 
+But this is exaggerated . 
+Of course , [PER Zuma  ] is a populist . 
+He played the card of left-wing populism in the campaign in order to be elected . 
+Trade unionists and the party 's left wing have paved his way to the presidency . 
+They will now demand something in return . 
+In view of the high expectations , it will be impossible for [PER Zuma  ] to avoid disappointments . 
+" <a id='par10' href='#par10'>¶</a>10 . 
+[LOC Iceland  ] Elections " [LOC Iceland  ] 's Left-Wing [MISC Achieves Absolute Majority  ] , " is the headline in [ORG Frankfurter Allgemeine  ] which noted: " In the early [MISC Icelandic  ] elections , in the voters have reacted to the financial debacle with a clear slide to the left.. . 
+However , the result was less obvious that previous opinion polls allowed us to assume . 
+[LOC Iceland  ] 's new Prime Minister [PER Sigurdardsttir  ] called the outcome a 'd ay of reckoning with [MISC Neo-liberalism.'  ] 
+" [ORG Sueddeutsche Zeitung  ] editorialized: " Following these elections , the outcome of the referendum on [LOC Iceland  ] 's accession to the [ORG EU  ] is totally open . 
+Prime Minister [PER Sigurdardsttir  ] will have difficulty convincing her people of the advantages of the [ORG EU  ] , for [MISC Europeans  ] and [ORG Icelanders  ] have totally differing expectations of an accession . 
+The [ORG Icelanders  ] like the [ORG EU  ] because of the strong euro , but in other areas , they do not want to have any [ORG EU  ] interference such as in fishery policies . 
+If the [ORG EU  ] , however , were able to convince the [ORG Icelanders  ] of these advantages , this would have a symbolic effect , and [LOC Brussels  ] would be able to strengthen its influence in a strategically and economically important region . 
+" In an editorial , [ORG Frankfurter Rundschau  ] noted: " The early elections in [LOC Iceland  ] have resulted in the expected day of reckoning with the ones who were politically responsible for the financial chaos . 
+Now the island is knocking at the [ORG EU  ] 's doors . 
+But making this happen will be difficult because only the [MISC Social Democrats  ] clearly advocated [LOC Iceland  ] 's accession to the [ORG EU  ] . 
+" [ORG Die tageszeitung  ] opined: " Now the [ORG Icelanders  ] have achieved all the things for which they took to the streets over the past few weeks . 
+The old government stepped down , the heads of the [ORG Central Bank  ] were fired , and early elections took place over the weekend . 
+In any case , the high voter turnout signals that that the [ORG Icelanders  ] have not lost their confidence in the political system . 
+And the election result shows that they think they have found the ones to blame for the misery , and a majority voted for a social democratic/green coalition . 
+" KOENIG</pre></code> 

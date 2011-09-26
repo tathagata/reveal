@@ -1,0 +1,54 @@
+<code><pre>UNCLAS [LOC SAO PAULO  ] 000660 SENSITIVE SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/PINR_0.html'>PINR</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/KPAO_0.html'>KPAO</a> <a href='/tag/KIRF_0.html'>KIRF</a> <a href='/tag/BR_0.html'>BR</a> REF: [LOC BRASILIA  ] 1250 ; [LOC RECIFE  ] 66 ; ( 08 ) [ORG SAO PAULO  ] 581 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) [ORG Summary: Workers Party  ] ( [ORG PT  ] ) insiders acknowledge [PER Dilma Rousseff  ] 's 2010 presidential candidacy has run into some problems , but express confidence her campaign will rebound . 
+Across a series of recent meetings , [ORG PT  ] leaders in [LOC Sao Paulo  ] say [PER Dilma  ] can come from behind and beat likely [MISC PSDB  ] nominee [PER Jose Serra  ] . 
+They , as well as some non-PT contacts , argue that the press is too negative on [PER Dilma  ] and [PER Lula  ] can work his vote-transfer magic in [PER Dilma  ] 's favor ( despite his failure to do the same for [ORG PT  ] [LOC Sao Paulo  ] Mayoral candidate [PER Marta Suplicy  ] in November 2008 -- Ref C ) . 
+They also suggest the [ORG PT  ] 's alliance with the [LOC Brazil  ] 's largest party , the [ORG PMDB  ] , will guarantee ample TV time , that wild-card candidate [PER Ciro Gomes  ] will make a perfect attack dog against [PER Jose Serra  ] ( Ref B ) and , perhaps most significant , that the [ORG PT  ] has a strategy for outreach to [MISC Christian  ] voters , both [MISC Catholic  ] and Evangelical . 
+End Summary . 
+[PER Dilma  ] 's [MISC Rousseff: Looking  ] [PER More Vulnerable  ] <a id='par2' href='#par2'>¶</a>2 . 
+( U ) Despite strong support from a popular President , [PER Dilma Rousseff  ] 's candidacy as the [ORG PT  ] 's presumptive nominee has yet to take off . 
+Her pre-campaign has been beset with a number of obstacles , including: a cancer scare , a dust-up over alleged exaggerations in her resume , a problem with the tax authorities , and , most recently , weak poll results that showed possible [ORG PSB  ] candidate [PER Ciro Gomes  ] polling slightly ahead of her and gave a wide lead to her most likely opponent , [LOC Sao Paulo  ] Governor [PER Jose Serra  ] ( Refs [MISC A-C  ] ) . 
+Compounding [PER Dilma  ] 's apparent difficulties are broader , PT-related problems , most notably President [PER Lula  ] 's vigorous defense of [ORG PMDB  ] ally Senator [PER Jose Sarney  ] against corruption charges and the subsequent departure of former [ORG PT  ] stalwart and Environment Minister [PER Marina Silva  ] from the party in August to run as the [ORG Green Party  ] ( [ORG PV  ] ) presidential candidate. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) The pile-up of dim news for [PER Dilma  ] caused one local [MISC PMBD-oriented  ] pundit , [PER Gaudencio Torquato  ] , to tell [PER Poloff  ] recently that he was revising his ideas on [PER Rousseff  ] 's chances . 
+Just a few months ago , [PER Torquato  ] had considered [PER Rousseff  ] a shoe-in to win the presidency citing a long list of popular programs -- [ORG Bolsa Familia  ] , [PER Minha Casa  ] ( My [ORG House  ] ) , cuts in taxes for car purchases , as well as the plans to distribute oil revenues from the pre-sal deposits off [LOC Rio de Janeiro State  ] -- as well as the backing of a popular president . 
+Nonetheless , she remains stuck in the polls and the [ORG PT  ] apparently has no " plan B , " according to [PER Torquato  ] . 
+He stated that , while it was too early to write [PER Dilma  ] off , her candidacy seemed far more fragile than just a few months ago . 
+Compounding these programs , [PER Torquato  ] said , is [PER Dilma  ] 's difficult personality and lack of experience in national politics . 
+[ORG PT Regulars Dismiss  ] the [ORG Doubts/Describe  ] the Strategy <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) [ORG PT  ] insiders dismiss these doubts and radiate confidence that [PER Dilma Rousseff  ] , with President [PER Lula  ] 's help , can win the presidency . 
+Their assurances appear to reflect more than just the party loyalty . 
+In discussions with various [ORG PT  ] insiders , they laid out cogent arguments that could underpin a come-from-behind second-round win for [PER Dilma  ] based on several factors , the most novel of which is the [ORG PT  ] 's ongoing efforts to court [MISC Christian  ] voters , both [MISC Catholics  ] and [MISC Evangelicals  ] . 
+Among the chief reasons they cited for optimism: -Many of [PER Dilma  ] 's troubles are nothing more than a press meme . 
+The media , in the words of [PER Walter Pomar  ] , like to report every problem [PER Dilma  ] confronts as a " fatal bullet " that will do in her candidacy. -The Lula-Transfer Factor: President [PER Lula  ] retains sky-high popularity and can be expected to accompany [PER Rousseff  ] on constant attempts to showcase government programs , events that will , in the words of [ORG PT State Deputy  ] [PER Rui Falcao  ] , " bathe [PER Dilma  ] in the people . 
+" When [PER Poloff  ] noted President [PER Lula  ] 's failure to help [ORG PT  ] candidate [PER Marta Suplicy  ] win the November 2008 [LOC Sao Paulo  ] Mayor 's race ( despite strenuous efforts - Ref A ) , [ORG PT  ] representatives dismissed the comparison . 
+[ORG PT International Relations  ] Secretary [PER Walter Pomar  ] said that [LOC Sao Paulo  ] has always been tough territory for [PER Lula  ] and the [ORG PT  ] , and that this limited [PER Lula  ] 's ability to help [PER Suplicy  ] . 
+Once a national campaign begins in earnest , the [PER Lula  ] campaign machine will begin to roll and , particularly in the [ORG Northeast  ] , [ORG PT  ] insiders believe the vote transfer from [PER Lula  ] to [PER Dilma  ] will be very high. -Television Time: [ORG PT  ] contacts seemed somewhat embarrassed by President [PER Lula  ] 's September defense of [PER Jose Sarney  ] . 
+They acknowledged , however , that " it was all about TV time . 
+" The [ORG PMDB  ] brings TV time to its alliance with the [ORG PT  ] , and this will be a crucial factor favoring [PER Dilma  ] in the campaign. -Ciro [PER Gomes  ] as Hatchet Man: [ORG PT  ] insiders professed joy at [PER Gomes  ] possible candidacy ( Ref B ) . 
+They stated that [PER Gomes  ] does not like Governor [PER Serra  ] and will go after him , opening up a second flank that [PER Serra  ] will have to cover . 
+At the same time , they seemed doubtful that [PER Gomes  ] could control his own rhetoric enough to reach the second round . 
+In any case , without large amounts of TV time , [PER Gomes'  ] cannot upset the basic two-way nature of the [MISC PT-PSDB  ] race. -The Religion Factor: In recent years , the [ORG PT  ] has worked out a careful balancing act with both its [MISC Catholic  ] Church supporters and the new , rising Evangelical Churches , according to [PER Pomar  ] . 
+[MISC Catholic  ] support for the [ORG PT  ] is historical , but as the party has gained support among [MISC Evangelicals  ] , the [MISC Catholic  ] Church had cooled to the [ORG PT  ] . 
+[ORG PT  ] insiders maintain the party has countered with a unified strategy to smooth relations on both fronts . 
+[ORG PT City Councilman  ] for [LOC Sao Paulo  ] [PER Jose Americo  ] cited a recent concordat signed between [PER Lula  ] and the [LOC Vatican  ] as a key strategic move to placate [MISC Catholics  ] . 
+( Note: President [PER Lula  ] signed the concordat in question in November 2008 and the [ORG Senate  ] approved it on October 8 of this year . 
+Among several planks , it guarantees continued [MISC Catholic  ] education in the public schools . 
+End Note . 
+) [PER Americo  ] also lauded the potential political influence of popular [MISC Charismatic Catholics  ] , often represented by young priests who sing or are talented entertainers , and strong potential vote-mobilizers for the [ORG PT  ] . 
+[ORG PT State Deputy  ] [PER Rui Falcao  ] added that the [ORG GOB  ] had recently widened its advertising . 
+Formerly limited to [MISC Catholic  ] publications , the [ORG GOB  ] is now putting public service messages in publications put out by the Universal Church of the [MISC Kingdom of God  ] ( [ORG Igreja Universal  ] do [LOC Reino  ] de Deus , [ORG UCG  ] ) , a controversial Evangelical Church that has sometimes been investigated by the government for corruption . 
+The [ORG UCG  ] owns [LOC Brazil  ] 's second largest television network. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) The [ORG PT  ] would appear to be putting the religion strategy into practice . 
+[PER Dilma Rousseff  ] participated in the annual two-million person religious procession of the [MISC C  ] ? ? ? ? rio of [LOC Nazar  ] ? ? ? ? in [LOC Belem  ] on October 11 . 
+The candidate admitted that she had never attended such an event before . 
+She expressed surprise that many of the faithful carried miniature houses or even bricks in their hands , in hopes of receiving a place to live , according to press reports . 
+During the same trip , [PER Dilma  ] also met with [MISC Evangelicals  ] . 
+She indicated to journalists that her religious outreach would not end with this one visit because " In [LOC Brazil  ] , this [ popular religious feeling ] can't be contained . 
+" ( [ORG NOTE: Post  ] plans to report more on religion and the upcoming elections septel . 
+END NOTE . 
+) Comment: <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) The confidence of [ORG PT  ] insiders regarding [PER Dilma Rousseff  ] 's candidacy appears to be based on more than just the party line . 
+Their logic for , among other things , a powerful [PER Lula  ] vote-transfer at the national level ( particularly in the northeast ) and an intelligent strategy of outreach to [MISC Christians  ] , both [MISC Catholic  ] and Evangelical , is understandable . 
+Likewise , [PER Dilma  ] can count on both the resources of her party and a popular President to help her in the lengthy contest to reach [LOC Planalto  ] . 
+Nonetheless , [PER Dilma  ] 's lack of personal charisma , apparent limited personal connection with influential religious voters , and lingering doubts about her health and overall presidential credentials will remain challenges for her campaign . 
+End Comment . 
+White</pre></code> 

@@ -1,0 +1,35 @@
+<code><pre>Monday , 17 March 2008 , 18:27 [ORG C O N F  ] I D E N T I A L [LOC LONDON  ] 000797 SIPDIS NOFORN SIPDIS EO 12958 DECL: 03/17/2018 TAGS ECON , [LOC EFIN  ] , [LOC UK  ] SUBJECT: BANKING CRISIS NOW ONE OF SOLVENCY NOT LIQUIDITY SAYS BANK OF [LOC ENGLAND  ] GOVERNOR Classified By: AMB RTUTTLE , reasons 1.4 ( b ) and ( d ) Summary ------- <a id='par1' href='#par1'>¶</a>1 . 
+( C/NF ) Since last summer , the nature of the crisis in financial markets has changed . 
+The problem is now not liquidity in the system but rather a question of systemic solvency , [ORG Bank of England  ] ( [ORG BOE  ] ) Governor [PER Mervyn King  ] said at a lunch meeting with [ORG Treasury  ] Deputy Secretary [PER Robert Kimmitt  ] and Ambassador [PER Tuttle  ] . 
+[PER King  ] said there are two imperatives . 
+First to find ways for banks to avoid the stigma of selling unwanted paper at distressed prices or going to a central bank for assistance . 
+Second to ensure there’s a coordinated effort to possibly recapitalize the global banking system . 
+For the first imperative , [PER King  ] suggested developing a pooling and auction process to unblock the large volume of financial investments for which there is currently no market . 
+For the second imperative , [PER King  ] suggested that the [LOC U.S.  ] , [LOC UK  ] , [LOC Switzerland  ] , and perhaps [LOC Japan  ] might form a temporary new group to jointly develop an effort to bring together sources of capital to recapitalize all major banks . 
+END SUMMARY Systemic Insolvency Is Now The Problem -------------------------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( C/NF ) [PER King  ] said that liquidity is necessary but not sufficient in the current market crisis because the global banking system is undercapitalized due to being over leveraged . 
+He said it is hard to look at the big four [LOC UK  ] banks ( [ORG Royal Bank of Scotland  ] , [ORG Barclays  ] , [ORG HSBC  ] , and [ORG Lloyds TSB  ] ) and not think they need more capital . 
+A coordinated effort among central banks and finance ministers may be needed to develop a plan to recapitalize the banking system . 
+Unblocking Illiquid [ORG Mortgage-Backed Securities  ] --------------------------------------------- - <a id='par3' href='#par3'>¶</a>3 . 
+( C/NF ) [PER King  ] said it is also imperative to find a way for banks to sell off unwanted illiquid securities , including mortgage backed securities , without resorting to sales at distressed valuations . 
+He said sales at distressed values only serve to lower the floor to which banks must mark down their assets ( mark to market ) , thereby forcing unwarranted additional write downs . 
+He said we need to find an auction system where banks could move paper they want to sell without fear of stigma that the market views selling at a low price as a sign that a bank is in trouble . 
+[PER King  ] said , however , he did not yet know how to structure such an auction and that further dialogue was needed . 
+[PER Kimmitt  ] acknowledged the need to find ways to unblock these markets and said we should remain in touch bilaterally as well as in the [ORG G-7  ] , the [ORG Financial Stability Forum  ] , and the central banks . 
+A Possible Approach To Recapitalization --------------------------------------- <a id='par4' href='#par4'>¶</a>4 . 
+( C/NF ) The [ORG G-7  ] is almost dysfunctional on an economic level , said [PER King  ] . 
+Key economies are not included , especially those that have large and growing pools of capital . 
+[PER King  ] said that a new international group was needed to address the issue . 
+It could be a temporary group , and he suggested that perhaps the central banks and finance ministers of the [LOC U.S.  ] , the [LOC UK  ] , and [LOC Switzerland  ] could coordinate discussions with other countries that have large pools of capital , including sovereign wealth funds , about recycling dollars to recapitalize banks . 
+[PER King  ] said [LOC Japan  ] might not be included because it has little to offer . 
+[PER King  ] noted , though that including the [MISC Japanese  ] might force their hand in finally marking to market impaired assets . 
+[PER Kimmitt  ] said that he was cautious about starting new groups in the international financial community because of the inevitable debate around whom to include . 
+Comment ------- <a id='par5' href='#par5'>¶</a>5 . 
+( [LOC C  ] ) The [PER King  ] proposals were not casual ideas developed in the course of luncheon conversation . 
+It was clear that his principal objective in the meeting was to outline his outside-the-box thinking for [PER Kimmitt  ] . 
+[PER King  ] included very few details about his proposals and was content to present broad concepts , thereby planting the seeds for future discussion . 
+END COMMENT. <a id='par6' href='#par6'>¶</a>6 . 
+( U ) Participants: USG: Ambassador [PER Robert Tuttle  ] ; Deputy Secretary [PER Kimmitt  ] ; [PER Eric Meyer  ] , Office Director for [LOC Europe  ] ; SIPDIS [PER Robert Saliterman  ] , Spokesman , International Affairs , [ORG U.S. Treasury  ] ; [PER Warren Chane  ] , [ORG ECONOFF  ] . 
+UK: [PER Mervyn King  ] , Governor , [ORG Bank of England  ] ; [PER Chris Salmon  ] , Private Secretary. <a id='par7' href='#par7'>¶</a>7 . 
+( U ) Deputy Secretary [PER Kimmitt  ] has cleared this message . 
+[ORG Visit London’s Classified Website:  ] http://www.state.sgov.gov/p/eur/london/index. cfm [ORG TUTTLE Visit London’s Classified Website:  ] http://www.state.sgov.gov/p/eur/london/index. cfm TUTTLE</pre></code> 

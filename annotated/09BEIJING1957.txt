@@ -1,0 +1,39 @@
+<code><pre>UNCLAS SECTION 01 OF 02 [LOC BEIJING  ] 001957 SENSITIVE SIPDIS STATE FOR EAP/CM - SFLATT , JHABJAN STATE EEB/CIP - SFLYNN , FSAEED USTR FOR AWINTER , JMCHALE , TWINELAND COMMERCE FOR [ORG MAC COMMERCE  ] FOR ITA - NMELCHER NSC FOR JLOI EO 12958 N/A TAGS ETRD , PHUM , PGOV , [LOC ECON  ] , CH SUBJECT: [ORG GOOGLE CLAIMS  ] HARRASSMENT BY [MISC CHINESE  ] GOVERNMENT <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary . 
+[ORG XXXXXXXXXXXXX  ] claim the company’s services have been blocked by the [MISC Chinese  ] government periodically over the past three years . 
+After users reported on June 18 that Google.cm search engine was not filtering returns for pornographic sites , the government on June 24 again blocked the company’s services for 24 hours resulting in the loss of 20 percent of its traffic that day.XXXXXXXXXXXXX believe the real reason for the government’s wrath is the company’s refusal to remove a link to google.com from the google.cn website . 
+They argue doing so would be in violation of a commitment the company made with [ORG Congress  ] . 
+End Summary. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) In conversations [ORG XXXXXXXXXXXXX  ] told [ORG ADCM  ] and EconOff that the [MISC Chinese  ] government has been blocking several of Google’s [MISC Internet  ] sites periodically for the past three years . 
+They said the blocking and other harassment had intensified in June 2009 , purportedly because of the search engine’s failure to filter some inappropriate or illicit content found on the web. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) [ORG XXXXXXXXXXXXX  ] said that [ORG XXXXXXXXXXXXX  ] a group of [MISC Chinese  ] [MISC Internet  ] users reported that [PER Google.cn  ] was not effectively filtering pornographic sites . 
+[ORG XXXXXXXXXXXXX  ] said [ORG Google China  ] representatives were called to a meeting co-hosted by the [ORG State Council Information Office  ] ( [ORG SCIO  ] , responsible for controlling [MISC Internet  ] content ) , the [ORG Ministry of Industry and Information Technology  ] ( [ORG MIIT  ] , responsible for [MISC Internet  ] technology and policy ) , and the [ORG Ministry of Public Security  ] ( [ORG MPS  ] , responsible for [MISC Internet  ] crime ) . 
+The [ORG Ministries  ] demanded [ORG Google  ] provide better filtering on its [PER Google.cn  ] search engine and temporarily stop indexing sites outside of [LOC China  ] . 
+[ORG XXXXXXXXXXXXX  ] The company refused this request. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) [ORG Google  ] then experienced a wave of “attacks” in the media reporting that pornographic material could be found through the [ORG Google  ] search engine . 
+( Note: In the nine days following the June 18 incident , an incomplete list of reporting in the [MISC Chinese  ] press contains 57 separate articles attacking [ORG Google  ] . 
+End Note ) . 
+On June 24 servers in [LOC China  ] were virally infected , causing them to redirect computers attempting to reach [ORG Google  ] pages to an unknown web site . 
+These attacks made [ORG Google  ] services unavailable to many [MISC Chinese  ] users for approximately 24 hours , and caused the company to lose 20% of its traffic on that day . 
+Lose the [MISC Google.com  ] ------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) BothXXXXXXXXXXXXX believe the real reason for the government’s wrath is Google’s refusal to remove the link to [MISC Google.com  ] from the [LOC Google.cn  ] website.XXXXXXXXXXXXX explained that , when the company decided to enter the [MISC Chinese  ] market , it testified before [ORG Congress  ] that it would agree to censor its search results in [LOC China  ] as required by [MISC Chinese  ] law based on three principles . 
+First , the company would not store private user information so as to avoid persecution of individuals based on their use of Google’s services . 
+Second , the company would disclose to users when a search result had been censored . 
+Third , [ORG Google  ] would maintain a link from the [LOC Google.cn  ] homepage to [ORG Google.com.  ] <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) According to [ORG XXXXXXXXXXXXX  ] , from 2007 through 2009 [ORG Google  ] received numerous informal inquiries from the [MISC Chinese  ] government as to the possibility of removing the [LOC Google.com  ] link . 
+The company repeatedly explained that it could not , based on its promise to [ORG Congress  ] . 
+[ORG XXXXXXXXXXXXX  ] said the government , for the first time , verbally requested the company remove the link . 
+[ORG Google China  ] explained removing the link was not required under [MISC Chinese  ] law and reiterated that doing so would violate the company’s commitment . 
+This was the first time the company had explicitly denied a government request , [ORG XXXXXXXXXXXXX  ] stated . 
+Pulling Out an Option --------------------- <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) [ORG XXXXXXXXXXXXX  ] said the June 24 blocking of Google’s services is only the most recent of a three year history of blockings . 
+He noted the company’s [ORG You Tube  ] service has been entirely blocked since March 24 . 
+He believes the company is being harassed . 
+[ORG XXXXXXXXXXXXX  ] said the negative press coverage and service outages have caused the company to lose market share . 
+XXXXXXXXXXXXXsays the company is regularly audited by tax authorities , and [ORG XXXXXXXXXXXXX  ] . 
+[ORG XXXXXXXXXXXXX  ] said that , faced with the continual [LOC BEIJING  ] 00001957 002 OF 002 difficulties of doing business in [LOC China  ] , the company may even consider pulling out of the market. <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) Comment . 
+[ORG Google  ] is the only international search engine still doing business in [LOC China  ] . 
+It is an important symbol . 
+If [ORG Google  ] were forced to withdraw from the market , the move could attract heavy international attention . 
+End Comment.</pre></code> 

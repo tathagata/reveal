@@ -1,0 +1,22 @@
+<code><pre>S E C R E T STATE 123431 SIPDIS E.O. 12958: [LOC DECL:  ] 12/02/2034 TAGS: <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/MTCRE_0.html'>MTCRE</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/IR_0.html'>IR</a> <a href='/tag/BR_0.html'>BR</a> SUBJECT: ATTEMPTS BY [MISC IRANIAN  ] FIRM TO ACQUIRE MACHINE TOOLS FROM [LOC BRAZIL  ] ( [ORG S  ] ) Classified By: ISN/MTR DIRECTOR PAM DURHAM FOR REASONS 1.4 ( B ) , ( C ) , AND ( D ) . <a id='par1' href='#par1'>¶</a>1 . 
+( U ) This is an action request . 
+[ORG Embassy Brasilia  ] , Please see paragraph 3. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG S  ] ) Background: We want to alert the government of [LOC Brazil  ] to a possible effort by the [MISC Iranian  ] firm [ORG Machine Sazi Tabriz  ] to acquire machine tools from a [MISC Brazilian  ] company . 
+[ORG Machine Sazi Tabriz  ] is the largest manufacturer of machine tools in [LOC Iran  ] and has likely supplied imported machine tools to [LOC Iran  ] 's nuclear and ballistic missile programs . 
+Because we are concerned that any export of machine tools to [ORG Machine Sazi Tabriz  ] potentially could be diverted to [LOC Iran  ] 's Weapons development programs , we want to share this information with [MISC Brazilian  ] officials and ask that they investigate this activity . 
+We also want to request that they take all appropriate measures , including the use of their catch-all controls , to closely scrutinize all machine tool exports to [LOC Iran  ] to prevent such equipment from being used to support programs of proliferation concern. <a id='par3' href='#par3'>¶</a>3 . 
+( U ) Action Request: Request [ORG Embassy Brasilia  ] approach appropriate host government officials to deliver talking points in paragraph 4 and report response . 
+Talking point may also be left as a non-paper. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG S  ] ) Begin talking points/non-paper: ( [ORG SECRET//REL BRAZIL  ] ) -- We would like to alert you to information of potential proliferation concern and request your assistance in investigating this activity . 
+-- The [LOC United States  ] has information that in October 2009 [LOC Iran  ] 's [ORG Machine Sazi Tabriz  ] was working to finalize a purchase of machine tools from [LOC Brazil  ] 's [ORG Mello S.A. Maquinas  ] e Equipamentos . 
+The [MISC Iranian  ] intermediary [PER Poshtiban Abzar Parswas  ] helping to facilitate this transaction . 
+-- [ORG Machine Sazi Tabriz  ] is the largest machine tool manufacturer in [LOC Iran  ] and likely supplies some imported machine tools to [LOC Iran  ] 's nuclear and ballistic missile programs . 
+-- We are bringing this matter to your attention to Support your export control efforts as we are concerned that [ORG Machine Sazi Tabriz  ] could potentially be seeking machines from [LOC Brazil  ] on behalf of weapons-related end-users in [LOC Iran  ] . 
+-- In addition , [ORG UN Security Council Resolution  ] 1737 Requires states to take necessary measures to prevent the supply , sale or transfer of items that a state determines would Contribute to [LOC Iran  ] 's ballistic missile or nuclear- related activities . 
+-- We hope you will investigate this activity and use your catch-all authorities to closely scrutinize all machine tool exports to [LOC Iran  ] to ensure that such equipment is not used to support weapons development applications . 
+-- We look forward to continued cooperation on export Control and nonproliferation issues and would appreciate hearing of the actions you take in response to this information at The earliest possible time . 
+End talking points/non-paper <a id='par5' href='#par5'>¶</a>5 . 
+( U ) [LOC Washington  ] POC is ISN/MTR [PER James Mayes  ] ( [PER Phone: XXXX  ] ) . 
+Please slug any reporting on this issue for [MISC ISN/MTR.  ] <a id='par6' href='#par6'>¶</a>6 . 
+( U ) A word version file of this document will be posted at www.state.sgov.gov/demarche . 
+CLINTON</pre></code> 

@@ -1,0 +1,55 @@
+<code><pre>UNCLAS SECTION 01 OF 02 [LOC LONDON  ] 002598 SENSITIVE SIPDIS EO 12958 N/A TAGS ECON , PGOV , EFIN , MOPS , [LOC PINR  ] , [LOC UK  ] SUBJECT: LITTLE ENTHUSIASM FOR LEGISLAITVE PRIORITIES IN [MISC QUEEN’S SPEECH  ] REF: [LOC LONDON  ] 02582 [LOC LONDON  ] 00002598 001.2 OF 002 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) Summary . 
+In an annual tradition , the Queen formally opened the new session of Parliament November 18 and laid out the [ORG Government’s  ] legislative priorities for the coming Parliamentary session . 
+In a speech drawn up by the Government , the Queen announced plans for 10 new bills , two draft bills , and three bills carried over from last year - a long way behind the 38 bills contained in the [ORG Queen’s Speech  ] prior to the 2005 general election . 
+The majority of bills focused on economic recovery . 
+PM Brown hoped the measures would lay out clear battle lines for the electorate between his [ORG Labour  ] government and the [MISC Conservative  ] opposition in the run-up to next year’s general election . 
+Opposition leaders criticized the speech as an election vehicle for the [ORG Labour Party  ] . 
+There may not be sufficient time in the parliamentary calendar to pass many of the proposed bills prior to adjournment six weeks prior to the next general election , which must take place on or before June 3 , 2010 . 
+End Summary . 
+[ORG Financial Reforms  ] , Debt , and [ORG Social Measures  ] -------------------- ----------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) The Queen announced that a new [ORG Financial Services Bill  ] would create a [ORG Council for Financial Stability  ] and strengthen the role of the [ORG Financial Services Authority  ] ( [ORG FSA  ] ) . 
+The bill would also increase consumer financial education programs and consumer protection measures . 
+As previously announced by the [ORG FSA  ] , the bill would also include provisions on compensation policies and put in place tougher requirements on systemically important financial firms , requiring them to set up recovery and resolution plans ( or “living wills” . 
+) The [ORG Conservative Party  ] has already said , if elected , it will shut down the [ORG FSA  ] and fold it into the [ORG Bank of England  ] . 
+Financial firms cautioned against legislation that would put the [LOC UK  ] at a disadvantage via-a-vis other financial centers . 
+[ORG KPMG  ] said that the idea of a living will , while attractive as a concept , would not be easy in practice since bank structures have developed over 20-30 years and are extremely complex. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG U  ] ) The [ORG Fiscal Responsibility Bill  ] would halve the UK’s deficit over four years , as previously announced by the Chancellor . 
+HMG will have no further details , however , until the [ORG Pre-Budget Report  ] launch on December 9 . 
+Among the new social measures , a Personal Care at Home [PER Bill  ] will guarantee free at home care for 280,000 elderly and needy people . 
+A [ORG City Council  ] member for [LOC Westminster  ] , however , commented that the proposed social care bill fails to recognize that local governments are already facing large cuts and budget shortfalls . 
+Also planned are new measures to tackle youth unemployment . 
+On education , parents and children will be given new guarantees about children’s schooling under the Children , School and Families bill . 
+Under the [ORG Child Poverty Bill  ] , carried over from the last Parliamentary year , the Government plans to codify its commitment to end child poverty by 2020 . 
+Low Carbon and a [ORG Digital Economy  ] --------------- ---------------- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG U  ] ) The [ORG Government’s Energy Bill  ] would support carbon capture and storage ( [ORG CCS  ] ) and help the most vulnerable households with energy costs through price subsidies and rebates . 
+The new bill would supplement the government’s July Low Carbon Transition Plan , which aims to cut emissions by 34 per cent on 1990 levels by 2020 on the way to achieving a reduction of at least 80 per cent by 2050 . 
+The bill would support the construction of up to four commercial-scale carbon capture and storage ( [ORG CCS  ] ) demonstration projects in the [LOC UK  ] . 
+In addition , a new bill on the [ORG Digital Economy  ] would aim to improve digital infrastructure , and provide for greater government investment in cell phone , digital radio , and wireless broadband technologies . 
+It would also address intellectual property concerns through the creation of a legal and regulatory framework to combat illegal file sharing and online copyright infringement . 
+Reforming Government -------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG U  ] ) The Queen said “the Government will publish draft legislation on proposals for a reformed second chamber of Parliament with a democratic mandate.” Many parliamentary reformers , however , were disappointed this legislation remains in draft form only: the Government remains undecided on how to conclude the reform process started 12 years ago . 
+The [ORG Constitutional Reform and Governance Bill  ] , carried over from the last session , aims to rebalance the relationship between parliament and the public , but appears at this stage more aspirational than a concrete legislative proposal . 
+Defense and [LOC International Aid  ] ----------------------------- <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) The [ORG Queen’s  ] legislative program included a bill on banning cluster munitions . 
+This was unsurprising as the ban is one of the only issues which all three major political parties firmly support . 
+The [LOC UK  ] signed on to the [ORG Cluster Munitions Convention  ] in December [LOC LONDON  ] 00002598 002.2 OF 002 2008 , and this bill would fulfill the UK’s commitment to ratify the treaty . 
+The [LOC UK  ] was instrumental in shaping the [ORG Convention  ] , including adding [ORG Article  ] 21 , which allows signatories to cooperate in military actions with non-signatories , even if the non-signatories are using cluster munitions. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG U  ] ) The Queen said her government would present legislation to make binding the UK’s previous commitment to appropriate 0.7 percent of national income on international development by 2013 . 
+This would implement the commitment the [LOC UK  ] made at the [LOC G-8 Summit  ] in [LOC Gleneagles  ] in 2005 . 
+She further reaffirmed [LOC UK  ] commitments to support efforts in [LOC Pakistan  ] and [LOC Afghanistan  ] , peace in the [LOC Middle East  ] , and nuclear disarmament . 
+On corruption , the Queen said there would be a new bill on bribery . 
+This legislation would criminalize bribery in the [LOC UK  ] or abroad , in the public or private sectors , and it would make bribery of a foreign public official to obtain or retain business an offense ( see reftel [LOC LONDON  ] 02582 ) . 
+Initial Reactions ----------------- <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG U  ] ) Even prior to its delivery , Conservative Leader [PER David Cameron  ] and [ORG Liberal Democrat  ] Leader [PER Nick Clegg  ] called the [ORG Queen’s Speech  ] a waste of time because there were so few days in the Parliamentary year prior to the election . 
+The press clocked the speech as the shortest in 100 years . 
+As expected , [PER Cameron  ] dismissed the remarks as “half-baked” and called it a “Labour press release on Palace parchment.” He complained that real proposals - such as a plan to reduce the deficit , welfare reform , reform of the national healthcare system , and measures to implement the [PER Kelly  ] report curbing MP expenses - were glaringly absent . 
+[PER Nick Clegg  ] blasted [PER Brown  ] for squandering the opportunity to reform Parliament . 
+He called the financial responsibility legislation to halve the deficit in four years absurd , adding “It’s like passing a law promising to get up early every morning.” Some [ORG Labour  ] [MISC MPs  ] privately expressed surprise that no measures were included on the health services , a strong [ORG Labour  ] battleground. <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG U  ] ) Media reports questioned where the money would come from to pay for costly measures like the personal care bill for the elderly . 
+Of [MISC Brown’s  ] supposed omission in tackling political and parliamentary reform , the left-leaning [ORG Guardian  ] said that [PER Brown  ] “seems to have no grasp of the scale and importance of public dissatisfaction with [MISC MPs  ] and the political system.” The [PER Times  ] said that “all the hard choices were left.” <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG U  ] ) Prime Minister [PER Brown  ] robustly defended his measures yesterday afternoon in Parliament , saying his measures were not an electoral tool but “in the national interest.” [PER Brown  ] dismissed Conservative plans for dealing with the economy and accused the party of not having any policies to close the gap between rich and poor . 
+He criticized a Conservative commitment to pass an inheritance tax cut , saying “99 per cent of the benefit goes to the richest few in the country.” Comment ------- <a id='par11' href='#par11'>¶</a>11 . 
+( [ORG SBU  ] ) Yesterday’s [ORG Queen’s Speech  ] was the [ORG Government’s  ] last chance to show the electorate its priorities for the upcoming general election and to attempt to set out clear dividing lines with the opposition . 
+The general response , however , from media and pundits was that [ORG Labour  ] had missed the mark with a mixed bag of populist proposals that there was little time to pass . 
+SUSMAN</pre></code> 

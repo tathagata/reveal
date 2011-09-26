@@ -1,0 +1,95 @@
+<code><pre>UNCLAS [LOC BERLIN  ] 001054 STATE FOR INR/R/MR , [LOC EUR/PAPD  ] , [LOC EUR/PPA  ] , [LOC EUR/CE  ] , [LOC INR/EUC  ] , [LOC INR/P  ] , [ORG SECDEF  ] FOR [LOC USDP/ISA/DSAA  ] , [LOC DIA  ] FOR [MISC DC-4A  ] VIENNA FOR CSBM , [LOC CSCE  ] , [LOC PAA  ] " PERISHABLE INFORMATION -- DO NOT SERVICE " E.0 . 
+12958: [PER N/A TAGS:  ] <a href='/tag/OPRC_0.html'>OPRC</a> <a href='/tag/KMDR_0.html'>KMDR</a> <a href='/tag/KPAO_0.html'>KPAO</a> <a href='/tag/GM_0.html'>GM</a> <a href='/tag/US_0.html'>US</a> <a href='/tag/RS_0.html'>RS</a> <a href='/tag/IR_0.html'>IR</a> <a href='/tag/PK_0.html'>PK</a> <a href='/tag/IN_0.html'>IN</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: MEDIA REACTION: [LOC JAPAN  ] , [LOC CLIMATE  ] , [LOC MIDEAST  ] , [LOC GERMANY  ] <a id='par1' href='#par1'>¶</a>1 . 
+Lead Stories Summary <a id='par2' href='#par2'>¶</a>2 . 
+( [LOC Japan  ] ) Outcome of Parliamentary Elections <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG UN  ] ) [ORG Climate Conference  ] <a id='par4' href='#par4'>¶</a>4 . 
+( [LOC Mideast  ] ) [MISC Peace Process  ] <a id='par5' href='#par5'>¶</a>5 . 
+( [LOC Germany  ] ) Outcome of State Parliament Elections <a id='par1' href='#par1'>¶</a>1 . 
+Lead Stories Summary There is only one item that dominates all the print media: the outcome of the state parliament elections in [LOC Thuringia  ] , [LOC Saxony  ] , and the [LOC Saarland  ] . 
+Editorials also focused on the outcome of the state parliament elections and on the results of the parliamentary elections in [LOC Japan  ] . 
+[ORG ZDF-TV  ] 's early evening newscast heute and [ORG ARD-TV  ] 's early evening newscast Tagesschau also centered on the elections in [LOC Thuringia  ] , the [LOC Saarland  ] , and [LOC Saxony.  ] <a id='par2' href='#par2'>¶</a>2 . 
+( [LOC Japan  ] ) Outcome of Parliamentary Elections According to an editorial in [ORG Frankfurter Allgemeine Zeitung  ] , " it is likely that changes will happen in [LOC Japan  ] 's foreign policy . 
+Even though the [ORG DJP  ] has a majority in the [ORG Lower House  ] , [PER Hatoyama  ] plans to form a coalition government . 
+One of the possible partners is the [ORG Social Democratic Party  ] which is very traditional . 
+It rejects sending [MISC Japanese  ] soldiers abroad . 
+The [ORG DJP  ] , in turn , is much more pragmatic , but differences of opinion will not prevent the formation of a new coalition government . 
+But they could deteriorate relations with the [LOC United States  ] and other allies , to the detriment of [LOC Japan  ] and its allies . 
+But this is something no one wants in [LOC Japan  ] right now . 
+The people just hope that the situation will improve . 
+Disappointments are likely but it cannot be expected that the longing for a return of the [ORG LDP  ] will erupt . 
+" Under the headline: " Revenge of the [MISC Japanese  ] Voter , " [ORG Sueddeutsche Zeitung  ] argued: " Former Prime Minister [PER Taro Aso  ] is probably the last face of the [ORG LDF  ] before it will enter the history books . 
+In the past eleven months , he hardly had a chance to turn around the wheel . 
+On the other hand , the party with [PER Aso  ] at the helm showed its true face: it was arrogant , self righteous , snotty and demonstrated a deeply-rooted disrespect for the ordinary people . 
+[PER Aso  ] 's derogatory remarks over pensioners , women , minorities and low-incomers alone would be a justification for the voters' slap in the party 's face . 
+" [ORG Financial Times Deutschland  ] headlined: " [MISC Democratic Revolution  ] " and editorialized: " Only before was the allegation correct that a party was on the road to collapse as in [LOC Japan  ] . 
+That is why it is all the more important that the voters in [LOC Japan  ] have now voted for a historic change . 
+The opposition [ORG Democratic Party  ] has now ended this de facto one-party rule . 
+This revolution offers [LOC Japan  ] a chance in several respects . 
+[ORG DJP  ] front runner [PER Yukio Hatoyama  ] has a good initial position to become a strong prime minister . 
+The change of power also offers the [MISC Japanese  ] economy a great chance . 
+With its sharp collapse in the global economic crisis , it has become clear how dangerous [LOC Japan  ] 's dependency on exports has become . 
+But in contrast to politicians in [LOC Germany  ] , [PER Hatoyama  ] has learned his lesson from the crisis . 
+He is determined to reprocess the country 's business model and to correct [LOC Japan  ] 's dependency on exports . 
+" [ORG Tagesspiegel  ] wondered: " Will [PER Yukio Hatoyama  ] bring about change which he promised ? 
+No , certainly not . 
+The [MISC Japanese  ] only know two states: radical total reforms in all spheres of life or a tough sticking to traditions . 
+Currently , the latter dominates in the country . 
+An aging and discouraged society prefers to return to the glittering 1980s , when [MISC Japanese  ] companies were about to buy the [LOC United States  ] . 
+But despite his nice phrases of change and new paths , the [MISC Japanese  ] did not elect him to depart for a new future . 
+They still want to seal off their country against immigration , do not want to improve relations with their neighbors , and do not want to offer their armed forces for international missions . 
+They also do not dare reduce the state 's record indebtedness . 
+Instead , [PER Hatoyama  ] is promising the impossible: a higher minimum wage , higher children allowances , free autobahns , and reduced pensioner contributions to the healthcare system . 
+In the long run , he will ruin the state 's budget with such a policy . 
+[PER Hatoyama  ] knows this , and he is risking the disappointment of his voters ; but first of all he wants to be elected . 
+" [ORG Frankfurter Rundschau  ] had this to say: " The new government will now face the same problems as former Premier [PER Koizumi  ] . 
+It is inexperienced with respect to governing , let alone regarding implementing reforms . 
+And the old boys' network within the [ORG LDP  ] is still active . 
+Even though it no longer has the say in the [ORG Diet  ] , the power center still lies within the [ORG LDP  ] . 
+But , nevertheless , [PER Hatoyama  ] still has one great advantage over [ORG Koizumi:  ] a true democratic mandate . 
+Time will tell what the value of this mandate in [LOC Japan  ] will be . 
+" <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG UN  ] ) [ORG Climate Conference Die Welt  ] carried a lengthy editorial on the attempts to reach a post-Kyoto agreement , wondering whether " the climate protection goals have failed already before the [LOC Copenhagen  ] summit ? 
+" The commentary notes: " The [MISC Danish  ] government cancelled 20,000 room reservations for the climate summit in [LOC Copenhagen...  ] . 
+If you needed any more evidence that the preparations are stuck in a crisis , this is it... . 
+There will be no agreement that comes anywhere close to the high expectations concerning the reduction of carbon dioxide , which had been built up since the [ORG Intergovernmental Panel  ] on [ORG Climate Change  ] ( [ORG IPCC  ] ) shocked the world in 2007... . 
+The emerging countries will not make obligations on reducing carbon dioxide . 
+Given that they will soon be the greatest emitters , the burden to which [LOC Europe  ] will commit its shaken industries and consumers will be insignificant . 
+Neither does [LOC America  ] go down the same path ; the new unpromising climate protection law has not been enforced yet . 
+In addition , [LOC Russia  ] , [LOC Canada  ] and [LOC Australia  ] are skeptical about drastic reduction goals , and the disagreements within [LOC Europe  ] are becoming increasingly clear . 
+[ORG Eastern Europe  ] is increasingly skeptical , warning against the loss of jobs . 
+It is an illusion that the summit will agree on payments worth hundreds of billions , which emerging countries could get from industrialized countries to encourage their green policies . 
+Even when the economic crisis is over , the high deficits will remain . 
+" <a id='par4' href='#par4'>¶</a>4 . 
+( [LOC Mideast  ] ) [ORG Peace Process Die Welt  ] ( 8/29 ) commented: " Even if all [MISC Israeli  ] settlements in the [LOC West Bank  ] were gone tomorrow , there would be no peace in the in the [LOC Mideast  ] . 
+[PER Netanyahu  ] has rightly pointed this out to his interlocutors in [LOC London  ] and [LOC Berlin  ] . 
+The topic of the settlements is not the only obstacle on the path to peace . 
+The [MISC Israeli  ] government is therefore annoyed , arguing... that only if the [MISC Palestinians  ] recognize [LOC Israel  ] as the [MISC Jewish  ] state , would there be a chance for peace . 
+" <a id='par5' href='#par5'>¶</a>5 . 
+( [LOC Germany  ] ) Outcome of [ORG State Parliament Elections Sueddeutsche Zeitung  ] judged: " This dress rehearsal was not rapturous but a nice success for the [ORG SPD  ] , which primarily consists of the sharp decline of the [ORG CDU  ] 's support in the [LOC Saarland  ] and in [LOC Thuringia  ] . 
+But the [ORG SPD  ] is beginning to sing drinking songs when the members only got mineral water . 
+A success will thus turn into a great victory and a downward trend , which has just come to an end , will turn into a turnabout for the [ORG SPD  ] . 
+We do not grudge the [ORG SPD  ] this . 
+The party will now have to show whether it is able to take advantage of this favorable moment and take advantage of it in coalition talks , i.e. that the party does not forfeit its fortune in such a miserable way as it did in [LOC Hesse  ] . 
+" In the view of [ORG Financial Times Deutschland  ] , " this triple election does not change the situation before the [ORG Bundestag  ] election because the [ORG SPD  ] , despite the heavy [ORG CDU  ] losses , cannot claim that the situation has changed in its favor . 
+In [LOC Saxony  ] , it achieved a similarly miserable result as in 2004 . 
+In [LOC Thuringia  ] , it clearly trails behind the [ORG Left Party  ] and it would be absurd if it demanded the portfolio of minister president . 
+It is true that a coalition with the [ORG Left Party  ] and the [ORG Greens  ] under the leadership of the [ORG SPD  ] could happen , but in view of the fact that the [ORG SPD  ] rules out such a coalition at the federal level , it cannot deviate from the party line . 
+The only insight is that , instead of a coalition between the [ORG FDP  ] and the [ORG CDU  ] at the federal level , there can be a continuation of the grand coalition . 
+But this was already known before . 
+" Regional daily Nordsee-Zeitung of [LOC Oldenburg  ] judged: " Chancellor [PER Merkel  ] is in a dilemma . 
+If she now begins to attack the [ORG FDP  ] and unmasks the liberals , the [ORG CDU/CSU  ] would gain votes but , in the end , she would not get enough votes for a coalition between the [ORG CDU  ] and the [ORG FDP  ] . 
+At the same time , the [ORG CDU  ] seems to be unable to attract votes from the [ORG SPD  ] , for its values can be described as only the dregs . 
+If [PER Merkel  ] is not blinded by personal opinion ratings , she should also see at the horizon something that frightens many , but has become more likely since yesterday: a smaller grand coalition , second attempt . 
+" M|nchener Abendzeitung argued: " This [ result ] will have consequences: The coming [ORG Bundestag  ] elections will enter the history books as an election that will not be decided in the center . 
+It will be decided in the political struggle between two camps: the right-wing camp made up of the [ORG CDU  ] and the [ORG FDP  ] and the left-wing camp made up of the [ORG SPD  ] , the [ORG Left Party  ] , and the [ORG Greens  ] . 
+Parts of the [ORG CSU  ] have already realized this , but the Chancellor is turning a blind eye to this . 
+And what about the [ORG SPD  ] ? 
+It would prefer to win the [ORG Bundestag  ] election without showing a clear position . 
+It is unable to score points even if it has a clear position . 
+Its hopes rest - and this is a bitter fact for the [ORG SPD  ] members - on [ORG Left Party  ] Chairman [PER Oskar Lafontaine  ] . 
+" [ORG Hannoversche Allgemeine Zeitung  ] noted: " Many people are now wondering what use will the Chancellor 's great popular support be if it does not find its expression in corresponding votes for her party ? 
+[PER Merkel  ] will certainly also be asked whether her election campaign style , which consists primarily of not making this look like an election campaign , is really the best approach . 
+Some in the [ORG CDU/CSU  ] are already calling for attacks on the [ORG SPD  ] , the [ORG Left Party  ] , and the [ORG Greens  ] , and think that this is the ideal strategy for the coming four weeks before the [ORG Bundestag  ] elections . 
+The more thoughtful members recommend leaving the debate over the [ORG Left Party  ] to [ORG SPD  ] frontrunner [ORG Steinmeier  ] . 
+It is true that [ORG Steinmeier  ] and [ORG SPD  ] chairman M|ntefering must still explain why their supporters in the Ldnder are delighted that they have the chance to decide on future coalitions on their own , while such coalitions [ with the [ORG Left Party  ] ] are out of the question on the federal level . 
+" MURPHY</pre></code> 

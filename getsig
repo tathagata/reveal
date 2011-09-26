@@ -1,0 +1,7 @@
+cat data/names | awk -F "," '{$1="";print $0}' | sed '/^\s*$/d' | sort | uniq -c | sort -nr | awk '{c=$1;$1="";print $0", ("c")"  }' > /tmp/sortednames
+count_names=`cat /tmp/sortednames |wc -l `
+sig_count=$(( 20*$count_names/100))
+head -n $sig_count /tmp/sortednames > sig_names
+
+
+

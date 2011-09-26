@@ -1,0 +1,10 @@
+<code><pre>UNCLAS [LOC TRIPOLI  ] 000006 SENSITIVE SIPDIS DEPT FOR NEA/MAG AND NEA/RA ; STATE PLEASE PASS TO USTR E.O. 12958: N/A TAGS: <a href='/tag/KBCT_0.html'>KBCT</a> <a href='/tag/ABLD_0.html'>ABLD</a> <a href='/tag/PHUM_0.html'>PHUM</a> <a href='/tag/AL_0.html'>AL</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/AMGT_0.html'>AMGT</a> <a href='/tag/ASUP_0.html'>ASUP</a> <a href='/tag/AFIN_0.html'>AFIN</a> <a href='/tag/LY_0.html'>LY</a> SUBJECT: LIBYA: SECTION 565 WAIVER OF PROHIBITION AGAINST CONTRACTING WITH FIRMS COMPLYING WITH [LOC AL  ] BOYCOTT REF: STATE 128056 1 . 
+( U ) The Government of [LOC Libya  ] ( [ORG GOL  ] ) does not maintain diplomatic relations with [LOC Israel  ] . 
+Local firms are required by national law to comply with the [ORG Arab League  ] ( [ORG AL  ] ) boycott , and would therefore not be able to sign the required [LOC U.S.  ] certification without exposing themselves to civil and/or criminal penalties . 
+Post accordingly requests a waiver of the [LOC AL  ] boycott certification. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) In 2007 , the [ORG Ministry of Trade and Economy  ] informed Post that the [ORG GOL  ] does not enforce the boycott ; however , the government continues to use the boycott as a means by which to selectively sanction foreign corporations and boycott language continues to appear in contracts . 
+Bills of lading and customs declarations for imports cannot indicate trade with [LOC Israel  ] , and shippers are legally required to certify that no goods are of [MISC Israeli  ] origin . 
+[LOC Libya  ] continues to enforce a travel ban for passports containing [MISC Israeli  ] visas or entry/exit stamps. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) Embassy [LOC Tripoli  ] has reviewed the contractor certification requirements and determined that without such a waiver it would be unable to obtain essential supplies and services in-country . 
+This is particularly critical as we re-establish our diplomatic presence in [LOC Tripoli  ] , including consolidating Embassy operations in one location . 
+CRETZ</pre></code> 

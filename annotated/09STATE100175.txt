@@ -1,0 +1,18 @@
+<code><pre>UNCLAS STATE 100175 SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/KPKO_0.html'>KPKO</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: COTE D'IVOIRE: PRESIDENTIAL STATEMENT <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) [ORG USUN  ] is authorized to join consensus on issuance of a Presidential Statement on September 29 , expressing concern at delays in preparations for the November 29 presidential and parliamentary elections in [LOC Cote d'Ivoire  ] , and urging the [MISC Ivorian  ] parties to respect their commitment to the electoral timeline . 
+Mission should consult with [LOC Washington  ] if there are any substantive changes to the text of the Statement ( paragraph 2 ) . <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) [PER Begin  ] text: ( 1 ) The [ORG Security Council  ] reiterates its full support to the [LOC Ougadougou  ] political process and to the electoral timeline endorsed by all the main [MISC Ivorian  ] political actors and leading to the first round of open , free , fair and transparent presidential elections on 29 November 2009 . 
+It commends the Facilitator , President [PER Blaise Compaore  ] of [LOC Burkina Faso  ] , for his continued efforts to support the peace process in [LOC Cote d'Ivoire  ] . 
+( 2 ) The [ORG Security Council  ] further reiterates its determination to bring its full support to a credible electoral process and highlights the importance of an inclusive participation of the [MISC Ivorian  ] civil society . 
+It stresses that it has extended to this end the mandate and the troop level of the [ORG United Nations Operation  ] in Cte d , [PER Ivoire  ] ( [ORG UNOCI  ] ) , most recently in its resolution 1880 ( 2009 ) . 
+It further stresses that it expressed in this resolution its intention to authorize the Secretary-General to redeploy troops , as may be needed , between the [ORG United Nations Mission in Liberia  ] ( [ORG UNMIL  ] ) and [ORG UNOCI  ] . 
+( 3 ) The [ORG Security Council  ] expresses its concern at the delayed publication of the provisional voters list , and highlights that further delays in the publication of the voters list may put at risk the timeline for open , free , fair and transparent presidential elections . 
+( 4 ) The [ORG Security Council  ] recalls that the [MISC Ivorian  ] political actors are bound to respect the electoral timeline . 
+It urges all [MISC Ivorian  ] political actors to comply fully with their commitments , in order for the voters list to be published in the next weeks in the framework of a transparent and inclusive process . 
+It recalls that the Special Representative of the Secretary General will certify the voters list explicitly . 
+( 5 ) The [ORG Security Council  ] will review the situation by 15 October 2009 , consistent with its resolution 1880 ( 2009 ) . 
+It expresses its intention to react as appropriate towards those who would be accountable for blocking the progress of the electoral process . 
+It further expresses its intention to launch an active reflection on the future direction of [ORG UNOCI  ] by reviewing its mandate and the benchmarks for a possible drawdown of the operation by 15 October in light of the progress of the electoral process . 
+It stresses that [ORG UNOCI  ] 's presence in [LOC Cote d'Ivoire  ] is temporary . 
+End text . 
+CLINTON</pre></code> 

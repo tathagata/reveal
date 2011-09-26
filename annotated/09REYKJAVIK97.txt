@@ -1,0 +1,7 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000097 STATE FOR OES/IHB AND EUR/NB [LOC COPENHAGEN  ] FOR ESTH HUB [LOC LONDON  ] FOR J.SILVA SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/KFLU_0.html'>KFLU</a> <a href='/tag/AMED_0.html'>AMED</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/TBIO_0.html'>TBIO</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: FIRST CASE OF H1N1 INFLUENZA CONFIRMED IN [LOC ICELAND  ] ( U ) On May 23 , [LOC Iceland  ] 's Chief Epidemiologist Dr. [PER Haraldur Briem  ] announced that a case of H1N1 influenza ( " swine flu " ) had been confirmed . 
+The patient , an [MISC Icelander  ] , had recently returned from [LOC New York City  ] . 
+Initially , it was suspected that six members of his family were infected as well but tests have confirmed that the family is not infected . 
+According to [PER Briem  ] , the infected man is not critically ill and is on his way to recovery . 
+[PER Briem  ] also said that no extra precautions were being taken beyond health authorities' earlier advice to maintain good hygiene standards . 
+More information can be found on the [ORG Icelandic Government  ] 's swine flu website , www.influensa.is . 
+KLOPFENSTEIN</pre></code> 

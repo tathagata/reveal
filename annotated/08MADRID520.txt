@@ -1,0 +1,67 @@
+<code><pre>UNCLAS [ORG MADRID  ] 000520 SENSITIVE SIPDIS STATE FOR EEB/TPP/IPE , EUR/WE STATE PASS USTR E.O. 12958: N/A TAGS: <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/KIPR_0.html'>KIPR</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: SPECIAL 301 [ORG IPR  ] FOLLOWUP MEETING WITH SECSTATE ROS REF: A. [ORG MADRID  ] 477 <a id='parB' href='#parB'>¶</a>B . 
+[ORG MADRID  ] 293 <a id='parC' href='#parC'>¶</a>C . 
+[ORG MADRID  ] 211 <a id='parD' href='#parD'>¶</a>D . 
+07 [ORG MADRID  ] 2128 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) [MISC Summary:  ] The vice-minister responsible for intellectual property rights ( [ORG IPR  ] ) , [PER Francisco Ros  ] , told Charge on May 6 that the ending of the national election season meant that this was the time for the new [ORG GOS  ] to make progress on [ORG IPR  ] issues . 
+He said the [ORG GOS  ] intended to pass a new [ORG IPR  ] law during this legislature , and he thought the new law could increase the visibility of the existing interministerial anti-piracy commission . 
+He cautioned that the [LOC U.S.  ] and [MISC Spanish  ] legal systems were not compatible and that it might not be possible to take the exact steps the [ORG USG  ] wanted , particularly on the 2006 [ORG Justice Ministry  ] file sharing [ORG Circular  ] . 
+Charge urged [PER Ros  ] to amend the [ORG Circular  ] to address industry concerns , and [PER Ros  ] emphasized that his office understood the concerns and would see what it could do . 
+He agreed to set up a working group on [ORG IPR  ] issues with Embassy staff , and he welcomed the idea of visiting the [LOC U.S.  ] to discuss [ORG IPR  ] and other issues . 
+Although [PER Ros  ] complained about the phrasing of the Special 301 report and appeared at times to be focusing too much on philosophical questions , he also showed a clear determination to make progress now that it is politically possible . 
+End Summary. <a id='par2' href='#par2'>¶</a>2 . 
+( U ) Charge Llorens met on May 6 with [PER Francisco Ros  ] , [ORG GOS  ] Secretary of State ( vice minister ) for [ORG Telecommunications  ] and the [ORG Information Society  ] within the [ORG Ministry of Industry  ] , [ORG Tourism  ] , and [ORG Commerce  ] , to discuss [ORG USG  ] [ORG IPR  ] concerns and follow up on the Special 301 [ORG Watch List  ] announcement and the Ambassador 's April 24 meeting with [MISC Ros'  ] minister , Minister of [ORG Industry , Tourism  ] , and [ORG Commerce  ] [PER Miguel Sebastian  ] ( ref a ) . 
+Charge was accompanied by EconCouns . 
+[PER Ros  ] was accompanied by [ORG Information Society Development  ] Director General [PER David Cierco Jimenez  ] and Deputy Director General for [ORG Information Society Services Salvador Soriano  ] . 
+No Surprise on [ORG Watch List  ] , but Disagreement over Phrasing --------------------------------------------- ------------ <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) [PER Ros  ] said he had realized it would be difficult for [LOC Spain  ] to avoid [ORG Watch List  ] placement this year . 
+He said on several occasions during the meeting that the election season had made certain actions politically impossible during the last year . 
+[PER Ros  ] described some of the language in the report as " a little excessive . 
+" In questioning whether it was necessary or accurate to call the [MISC GOS'  ] efforts inadequate , he reviewed positive developments during the last year , including a high-profile international conference his office had organized ( ref d ) , [ORG GOS  ] promotion of negotiations between ISPs and rights holders , a [ORG GOS  ] program to reduce use of illicit software , and significant declines in the rate of software piracy and street piracy . 
+He said that during the visit two weeks ago of [ORG Microsoft  ] CEO [PER Steve Ballmer  ] , unlike on previous visits [PER Ballmer  ] had no complaints about [ORG GOS  ] actions against piracy . 
+He also questioned the [LOC U.S.  ] copyright industry 's statement that [LOC Spain  ] has one of [LOC Europe  ] 's worst internet piracy problems , saying that he was not aware of any hard data that could be used to compare piracy rates between countries . 
+He cited an [ORG International Intellectual Property Alliance  ] ( [ORG IIPA  ] ) report as saying that music piracy and entertainment software piracy rates had declined , and he said [ORG Culture Ministry  ] data showed that the piracy rate was below [ORG IIPA  ] 's estimate . 
+Next Steps and [LOC New Law  ] ---------------------- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) Looking to the future , [PER Ros  ] assured Charge of the [MISC GOS'  ] determination to address [ORG IPR  ] concerns and said his office wanted to see what it could do as soon as possible , saying this was the best moment for action . 
+He echoed Minister [PER Sebastian  ] 's statement that the [ORG GOS  ] intended to pass a new intellectual property law . 
+The lead was with the [ORG Culture Ministry  ] , which had asked [MISC Ros'  ] secretariat for assistance . 
+On notice and takedown and the [ORG Justice Ministry  ] 's 2006 [ORG Circular  ] , he cautioned that mechanisms in [LOC U.S.  ] law could not be transferred directly to [MISC Spanish  ] law . 
+He said he had spoken to the Prosecutor General ( " Fiscal General " ) , who had assured him that peer-to-peer file sharing in and of itself was not in fact illegal under [MISC Spanish  ] law , although judicial action was possible if it was proven that file sharing was used illegally ( i.e. , to violate property rights ) . 
+He added that [LOC Spain  ] would need to find other ways to protect [ORG IPR  ] . 
+The Charge emphasized that businesses viewed the [ORG Circular  ] as prejudicing their legitimate efforts to protect their property , and he urged [PER Ros  ] to see how the [ORG Circular  ] could be changed to address these concerns. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) [PER Ros  ] said that unauthorized downloads were a difficult topic that posed problems for all countries , and he acknowledged that many [MISC Spanish  ] users did not see them as wrong . 
+He said his secretariat would consider whether it could do " something in this line . 
+" He said his office would be looking closely at [LOC France  ] 's experience . 
+His impression was that to date , [LOC France  ] 's announced system had not yet been put in practice , and it was not entirely clear how or whether the system would work . 
+( Note: As a result of our encouragement , [PER Cierco  ] and [ORG Soriano  ] both plan to attend Embassy Paris' June 2 copyright and counterfeit conference . 
+) Intragovernmental Coordination ------------------------------ <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) In response to Charge 's comments about the importance of improved coordination of [ORG GOS  ] [ORG IPR  ] efforts , [PER Ros  ] noted that the existing intellectual property law had established an interministerial anti-piracy commission under the leadership of the [ORG Ministry of Culture  ] . 
+He thought that as part of the new law it might be possible to give that commission more visibility and media prominence . 
+The Charge welcomed this possibility . 
+He stressed the value of increased public outreach efforts by the [ORG GOS  ] , noting that while the [MISC French  ] system may not be in place , President [PER Sarkozy  ] has laid down a marker about the importance of [ORG IPR  ] protection . 
+Coordination with [ORG USG  ] and Visit to [LOC U.S.  ] --------------------------------------- <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) [PER Ros  ] agreed to set up a working group with Embassy staff to consider [ORG IPR  ] issues . 
+Post and [MISC Ros'  ] staff are seeking to meet within two weeks . 
+The Charge encouraged [PER Ros  ] to visit the [LOC U.S.  ] to discuss its efforts and plans with the [ORG USG  ] and industry representatives . 
+[PER Ros  ] was very receptive and spoke of the possibility of going in June or early July . 
+[PER Cierco  ] noted that [LOC Spain  ] 's rapid growth in internet use meant that it should be a potentially attractive market for [LOC U.S.  ] companies . 
+Post will follow up separately on plans for a trip . 
+[ORG MPA Access  ] ---------- <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) [PER Ros  ] expressed concern at having heard from his minister that the new [ORG Motion Picture Association  ] ( [ORG MPA  ] ) representative in [LOC Madrid  ] thought he did not have sufficient access to the [ORG GOS  ] . 
+One of the representative 's main concerns is that he and other content provider representatives are not members of the [ORG GOS Telecommunications  ] and [ORG Information Society Advisory Council  ] ( [ORG CATSI  ] ) . 
+[PER Ros  ] acknowledged that the [ORG CATSI  ] 's composition was outdated and no longer realistic , but he said it could only be changed by law and that there had not been time to do so before the March elections . 
+He said that the [ORG GOS  ] hoped to make that change , and he noted that the internet service provider association [ORG REDTEL  ] also did not participate and wanted to do so . 
+He welcomed the prospect of suggestions from [ORG MPA  ] or other industry groups . 
+Deputy Chief of Staff --------------------- <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG SBU  ] ) Separately , EconCouns met on May 6 with Minister [PER Sebastian  ] 's deputy chief of staff , [PER Juan Abascal  ] , to follow up on the meeting with the Minister and provide [PER Abascal  ] , who is new in his position , with background on [ORG USG  ] concerns . 
+[PER Abascal  ] brought up the Minister 's interest in an [MISC Embassy-GOS  ] working group and promised to help set one up . 
+He said First Vice President [PER Fernandez de la Vega  ] 's office had been heading the effort to draft a new [ORG IPR  ] law and had been working with the [ORG Ministry of Culture  ] as well as Industry and [ORG Commerce  ] . 
+Comment ------- <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG SBU  ] ) Comment: Although [PER Ros  ] appeared to us at times to be focusing on philosophical questions and nonessential details , we were encouraged by his determination to make progress now that the [ORG GOS  ] believes it is politically possible . 
+The drafting of a new law should offer a significant opportunity , and we will engage with the [ORG Ministry of Culture  ] as well as [MISC Ros'  ] office . 
+The interest in raising the profile of the interministerial piracy group is welcome . 
+While [PER Ros  ] noted several times that the [MISC Spanish  ] and [LOC U.S.  ] legal systems were not compatible and so some of what we wanted might not be possible in the way we wanted , our interest is in addressing the problem effectively regardless of which mechanisms are used . 
+Interestingly , [PER Ros  ] did not devote much time in the meeting to discussing the talks his ministry has encouraged between content providers and ISPs . 
+After several weeks of working on process issues , the first substantive working group meetings took place this week , and we are seeking industry reactions . 
+We also were pleased with [MISC Ros'  ] interest in visiting the [LOC U.S.  ] and will work with [LOC Washington  ] agencies and industry groups to arrange a strong program that can help advance our interests . 
+End Comment . 
+Llorens</pre></code> 

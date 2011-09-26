@@ -1,0 +1,5 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000034 SIPDIS SENSITIVE SIPDIS DEPT FOR P , EUR , EUR/SCE , [PER EUR/NB E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/KV_0.html'>KV</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: [LOC ICELAND  ] RECOGNIZES KOSOVO'S INDEPENDENCE REF: [ORG REYKJAVIK  ] 0027 <a id='par1' href='#par1'>¶</a>1 . 
+( U ) On March 5 , 2008 , [LOC Iceland  ] recognized the [LOC Republic  ] of [LOC Kosovo  ] as an independent state. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) Comment: Although the recognition comes almost two weeks after the initial date the Foreign Minister suggested to the Ambassador ( see reftel ) , it falls neither first nor last among the [MISC Nordic  ] countries , which is where the Icelanders wanted to be . 
+When poloff asked about the delay today , an [ORG MFA  ] official said the issue was " complicated , " but offered no substantive explanation . 
+[PER Van Voorst</pre></code>  ] 

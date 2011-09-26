@@ -1,0 +1,20 @@
+<code><pre>UNCLAS [LOC TRIPOLI  ] 000978 SIPDIS SENSITIVE SIPDIS DEPT FOR NEA/MAG ; COMMERCE FOR MASON ; ENERGY FOR ERICKSON E.O. 12958: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EINV_0.html'>EINV</a> <a href='/tag/EPET_0.html'>EPET</a> <a href='/tag/ENRG_0.html'>ENRG</a> <a href='/tag/LY_0.html'>LY</a> SUBJECT: [ORG EXXONMOBIL  ] ADDS NEW OFFSHORE ACREAGE 1 . 
+( [ORG SBU  ] ) [ORG ExxonMobil  ] has clinched a deal with [LOC Libya  ] 's [ORG National Oil Corporation  ] to increase its acreage in the country by about fifty percent . 
+The soon-to-be announced deal is for a giant offshore bloc adjacent to another it secured in the December 2006 Exploration and Production Sharing Agreement ( [ORG EPSA  ] ) bidding round . 
+The latest move marks another step for [ORG ExxonMobil  ] towards regaining a major share in the [MISC Libyan  ] market , which it dominated before it left the country in 1986 . 
+2 . 
+( [ORG SBU  ] ) Econoff learned on November 20 that [ORG ExxonMobil  ] will announce soon that it was awarded today a vast new offshore area to explore for hydrocarbon resources . 
+The area in question covers more than 2.5 million square acres , and is located roughly 100 miles off the central [MISC Libyan  ] coast . 
+The new area is said to be in deep water , requiring world-class deepwater operations that are performed by only a handful of international oil companies . 
+The parcel , referred to as Area 21 , is adjacent to another identically-sized concession awarded to [ORG ExxonMobil  ] as part of the Exploration and Production Sharing ( [ORG EPSA  ] ) bid round process that concluded in December 2006 . 
+[ORG ExxonMobil  ] had previously secured another large offshore parcel ( area 44 ) , located along the [MISC Egyptian-Libyan  ] maritime border , in the [ORG EPSA  ] bid round that concluded in October 2005 . 
+3 . 
+( [ORG SBU  ] ) Post has learned that the workplan for this area will be substantial , to include 4,000km of 2D seismic , 2,000km of 3D seismic and the drilling of at least one well . 
+Terms of a signing bonus , production share and other features of the deal were not disclosed . 
+4 . 
+( [ORG SBU  ] ) Comment: While significant , particularly in terms of the quantity of more labor-intensive and costly 3D seismic , this set of requirements is significantly smaller in scope than that attendant to [ORG ExxonMobil  ] 's winning bid in the most recent [ORG EPSA  ] round in December 2006 ( 20,000km of 2D , 1,000km of 3D , 4 wells , and a $10 million signing bonus ) . 
+The formal [ORG EPSA  ] bid rounds have become increasingly competitive since they were inaugurated in January 2005 . 
+The less demanding requirements for the Area 21 deal underscore the potential advantages for [ORG IOC  ] 's of concluding deals outside the [ORG EPSA  ] rubric . 
+Securing Area 21also places [ORG ExxonMobil  ] in the top tier of offshore operators in [LOC Libya  ] and marks the company 's return to the head of the pack in a market it first opened to oil and gas operations with the discovery of [LOC Libya  ] 's first viable oilfield in 1960 . 
+End comment . 
+[ORG STEVENS  ] 0 11/20/2007</pre></code> 

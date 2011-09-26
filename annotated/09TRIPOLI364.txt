@@ -1,0 +1,7 @@
+<code><pre>UNCLAS [ORG TRIPOLI  ] 000364 [ORG SIPDIS DEPARTMENT FOR ISN/WMDT AND NEA/MAG E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/KNNP_0.html'>KNNP</a> <a href='/tag/NL_0.html'>NL</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/PTER_0.html'>PTER</a> <a href='/tag/MNUC_0.html'>MNUC</a> <a href='/tag/KGIC_0.html'>KGIC</a> <a href='/tag/LY_0.html'>LY</a> SUBJECT: [MISC LIBYAN  ] DELEGATION INFORMATION FOR JUNE GICNT PLENARY AT [LOC THE HAGUE  ] REF: [PER A. STATE  ] 35549 <a id='parB' href='#parB'>¶</a>B . 
+[ORG TRIPOLI  ] 313 1.Post received a diplomatic note on April 28 informing the Embassy of the [ORG GOL  ] 's participation in the 5th [MISC Plenary Meeting  ] ( 2009 [MISC Plenary Meeting  ] ) of the [ORG Global Initiative to Combat Nuclear Terrorism  ] ( GICNT ) at [LOC The Hague  ] , [LOC Netherlands  ] on June 16-17 , 2009 . 
+Attendees will be: -- [PER Mahdi Salah El-Mijbri  ] , head of delegation , Director , [ORG International Organizations Department  ] , [ORG MFA  ] . 
+-- [PER Tajuri Sharadi Tajuri  ] , head of the [ORG International Security and Disarmament Department  ] , [ORG MFA  ] . 
+-- [PER Sihem Youssef Shammakhi  ] , [ORG International Organizations Department  ] , [ORG MFA  ] . 
+-- A delegate from the [ORG Atomic Energy Board  ] , [ORG TBD  ] . 
+CRETZ</pre></code> 

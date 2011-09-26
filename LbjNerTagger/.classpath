@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="LBJ2.jar"/>
+	<classpathentry kind="lib" path="LBJ2Library.jar"/>
+	<classpathentry kind="lib" path="stanford-ner.jar"/>
+	<classpathentry kind="lib" path="stanford-ner.src.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

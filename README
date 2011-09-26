@@ -1,0 +1,9 @@
+LbjNerTagger - the named entity tagger
+annotated - the annotated cables
+cables - the raw cables
+data - the data by name, loc etc.
+annontate - the script that calls LbjNerTagger
+cables.py - an attemp to write the stuff using python
+dump_names - script to grep out name tags
+extraction - python script for 
+index.php - scratch work for frontend

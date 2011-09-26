@@ -1,0 +1,5 @@
+#!/bin/sh
+clear
+cpath="LBJ2.jar:LBJ2Library.jar:bin"
+cd LbjNerTagger/ 
+java -classpath $cpath -Xmx2000m  LbjTagger.NerTagger -annotate t-verfier-diff-sent t-verfier-diff-sent.ann true LbjNerTagger/Config/allFeaturesBigTrainingSet.config 

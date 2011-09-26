@@ -1,0 +1,47 @@
+<code><pre>C O N F I D E N T I A L [PER BRASILIA  ] 000796 C O R R E C T E D COPY - [ORG PARA  ] 1 , 2 , 6 SIPDIS STATE FOR WHA/BSC , [PER PM/DDTC E.O.  ] 12958: [LOC DECL:  ] 06/22/2019 TAGS: <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/ETTC_0.html'>ETTC</a> <a href='/tag/MASS_0.html'>MASS</a> <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/BR_0.html'>BR</a> SUBJECT: BRAZIL'S EXPORT CONTROLS ON MILITARY SALES: HOW THEY WORK REF: A. [ORG BRASILIA  ] 34 <a id='parB' href='#parB'>¶</a>B . 
+STATE 11869 <a id='parC' href='#parC'>¶</a>C . 
+[PER BRASILIA  ] 613 Classified By: DCM [PER Lisa Kubiske  ] . 
+Reason: 1.4 ( d ) <a id='par1' href='#par1'>¶</a>1 . 
+( C ) SUMMARY . 
+[MISC Brazilian  ] policy supports increasing [LOC Brazil  ] , s exports of military goods and technology as part of the development of [LOC Brazil  ] , s own defense sector . 
+[LOC Brazil  ] currently has a system of export controls that has been effective in ensuring that [LOC Brazil  ] , s limited military exports do not fall into the wrong hands . 
+[MISC Brazilian  ] controls are based on policies aimed at not contributing to conflicts and observing [ORG UN  ] and other international standards . 
+The GOB is preparing new regulations that set procedures into code and enhance the role of [ORG Ministry of Defense  ] licensing authorities . 
+[MISC Brazilian  ] export control authorities are open to dialogue on [LOC U.S.  ] practices , particularly electronic licensing . 
+END SUMMARY. <a id='par2' href='#par2'>¶</a>2 . 
+( C ) [LOC Brazil  ] 's December 2008 Defense Strategy ( ref a ) mandated efforts to revitalize [LOC Brazil  ] 's defense industry by promoting exports of [MISC Brazilian  ] defense products . 
+While [LOC Brazil  ] had a niche as a supplier of armored vehicles and other low-end military products , primarily to fellow non-aligned nations , during the [MISC Cold War  ] , defense exports have since remained relatively low , at a rate of only about a thousand per year , according to [ORG Ministry of External Relations  ] ( [ORG MRE  ] ) Director for [LOC Commerce Promotion  ] ( responsible for export controls ) [PER Norton Andrade  ] . 
+The largest number of these cases are for export of ammunition and small arms . 
+[LOC Brazil  ] 's current system of export controls has effective procedures but lacks a formal set of regulations with legal force similar to the [ORG U.S. International Traffic  ] in Arms Regulations ( [ORG ITAR  ] ) and reflects the limited volume of exports and the relatively low level of technology involved. <a id='par3' href='#par3'>¶</a>3 . 
+( C ) The [MISC Brazilian  ] export licensing process currently begins when an exporter has an opportunity to sell a product outside of the country and consults the [ORG MRE  ] and other relevant Ministries about the proposed sale . 
+This process , referred to as &prenegotiation , 8 is a key to the [MISC Brazilian  ] system of control . 
+In effect , the GOB will tell the exporter if the proposed export is likely to be approved leading to an approval rate of almost one hundred percent on the actual applications . 
+[PER Andrade  ] likened the process for licensing to a &gentlemen , s agreement8 and said that most [MISC Brazilian  ] exporters had a good idea of what exports would normally be approved and over what items the GOB will exercise greater control . 
+[LOC Brazil  ] , s [ORG Ministry of Industry  ] has published a code of what items require export licensing ( equivalent to the [ORG USML  ] ) . 
+Once an application is submitted , it undergoes a process of interagency consultation that normally takes about a week , then is forwarded to the [ORG MOD  ] for approval . 
+Cases involving higher technology , for example anti air missiles , can take up to two months for interagency review. <a id='par4' href='#par4'>¶</a>4 . 
+( C ) [MISC Brazilian  ] export control policy is based on two principles: not contributing to existing conflicts and upholding [ORG UN  ] standards . 
+[LOC Brazil  ] requires end user certifications for all military exports and will block those it believes will not go to legitimate military organizations . 
+For example , in 2008 , [LOC Brazil  ] turned down an export of small arms ammunition to [LOC Chad  ] because of concerns it would either contribute to internal conflict or be diverted across the border to [LOC Sudan  ] . 
+Although [LOC Brazil  ] , s role in [LOC Africa  ] is expanding , it still treats exports of military items there with caution . 
+One exception has been the training [LOC Brazil  ] has provided to the [LOC Mozambique  ] army for [ORG African Union  ] peacekeeping operations . 
+As of April 2009 , however , this training did not include equipment or weaponry . 
+[MISC Brazilian  ] policy is to support all [ORG UN  ] restrictions on arms transfers , although where specific [ORG UN  ] measures do not exist , [LOC Brazil  ] generally will approve sales . 
+[LOC Brazil  ] , s 2005 attempt to sell [MISC Super Tucano  ] aircraft to [LOC Venezuela  ] , a sale blocked by [ORG USG  ] refusal to agree to retransfer of [MISC U.S.-origin  ] items on the aircraft provided a case where [MISC Brazilian  ] and [LOC U.S.  ] policies diverged . 
+[LOC Brazil  ] argued that such a sale would give [LOC Brazil  ] more influence with [PER Chavez  ] , military that could be a moderating force and complained that the denial of the turboprop [MISC Super Tucano  ] trainers led to [LOC Venezuela  ] , s decision to procure advanced jet fighters from [LOC Russia  ] . 
+It is likely that [LOC Brazil  ] , s desire to market the [ORG Super Tucanos  ] was driven by the plane , s manufacturer , [ORG Embraer  ] , putting pressure on the GOB to approve in order to protect industrial jobs in the runup to the 2006 elections rather than any [MISC Brazilian  ] policy toward [LOC Venezuela  ] . 
+Recently , [LOC Brazil  ] received protests from [LOC India  ] for a proposed sale of anti-radiation missiles to [LOC Pakistan.  ] <a id='par5' href='#par5'>¶</a>5 . 
+( C ) COMMENT . 
+As [LOC Brazil  ] , s economy and technological base keep growing , so will its role as an exporter of military items . 
+Both President [PER Lula  ] and Defense Minister [PER Jobim  ] have stated that developing strong defense industries that thrive on exports will enhance [LOC Brazil  ] , s security . 
+It is therefore probable that governments and non-government actors seeking access to military technology will increasingly turn to [LOC Brazil  ] . 
+This year , s [MISC Latin American  ] Aerospace and [ORG Defense Exposition LAAD  ] ( ref c ) was notable for the high profile given to [MISC Brazilian  ] products . 
+[LOC Brazil  ] , s current system of export controls , with its emphasis on informal consultations and understanding that &all our exporters know what they should do , 8 while sufficient for the present , could become inadequate . 
+The GOB is working on elements for greater controls through a technology transfer working group and possibly adding a process for adjudicating which exports require licensing as defense products . 
+According to [PER Andrade  ] , [LOC Brazil  ] also hopes to make greater use of technology in its export licensing process. <a id='par6' href='#par6'>¶</a>6 . 
+( C ) These changes create an opportunity for the [ORG USG  ] to offer to share our best practices with [LOC Brazil  ] . 
+[PER Andrade  ] indicated informally that he would be interested in " the [MISC American  ] system " with particular attention to [ORG State Department  ] experiences with e-licensing and [ORG USG  ] interaction with the [LOC U.S.  ] export community . 
+Post recommends seeking an opportunity to establish contacts between [MISC Brazilian  ] licensing authorities , both from the [ORG MRE  ] and [ORG MOD  ] , and [ORG PM/DDTC  ] . 
+In addition to the above topics , the [MISC Brazilians  ] could benefit from information on the [ORG USG Commodity Jurisdiction  ] ( CJ ) process and on compliance issues . 
+The October 2008 visit of a [ORG Blue Lantern  ] team ( ref b ) gave an overview of licensing and compliance issues , but an exchange of information on trends in arms trafficking in [MISC Latin America  ] would serve to sensitize [LOC Brazil  ] to the need for developing a compliance program of its own . 
+SOBEL</pre></code> 

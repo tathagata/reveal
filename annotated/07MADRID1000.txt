@@ -1,0 +1,12 @@
+<code><pre>UNCLAS [ORG MADRID  ] 001000 SIPDIS SENSITIVE SIPDIS EUR/WE FOR ALLEGRONE , CLEMENTS AND CERVETTI L/LEI FOR PROPP , [MISC KULISH  ] , AND [PER JOHNSON E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/MARR_0.html'>MARR</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: SPAIN/COUSO CASE: JUDGE REJECTS CHIEF PROSECUTOR'S APPEAL ; CASE MOVES ON TO APPEALS TRIBUNAL REF: A. [ORG MADRID  ] 910 <a id='parB' href='#parB'>¶</a>B . 
+[ORG MADRID  ] 899 <a id='parC' href='#parC'>¶</a>C . 
+[ORG MADRID  ] 800 AND OTHERS <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) On May 24 [MISC Spanish  ] investigative magistrate Judge [PER Santiago Pedraz  ] rejected the appeal of [ORG National Court Chief  ] Prosecutor [PER Javier Zaragoza  ] to drop the charges against three [LOC U.S.  ] servicemen accused of killing [MISC Spanish  ] television cameraman [PER Jose Couso  ] during a firefight in [LOC Baghdad  ] in April <a id='par2003' href='#par2003'>¶</a>2003 . 
+Despite the rejection by Judge [PER Pedraz  ] , this case will proceed to the [ORG National Court  ] appeals tribunal , which will rule on the merits of the arguments put forth by [PER Pedraz  ] and by the [ORG National Court  ] prosecutors . 
+As we reported in [LOC REFTEL A  ] , [PER Zaragoza  ] contacted us on May 14 to report that he had appealed the [PER Pedraz  ] decision to file formal charges against the three servicemen , saying that his technical and legal review of the facts led him to conclude that the killing of [PER Couso  ] was not intentional , and therefore the soldiers could not be charged with war crimes or murder . 
+In today 's ruling Judge [PER Pedraz  ] claimed to be surprised by [PER Zaragoza  ] 's appeal , as the [ORG National Prosecutors Office  ] did not oppose his initial ruling to reactivate arrest warrants for the servicemen and therefore tacitly agreed with the case. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) Comment . 
+Today 's ruling by [PER Pedraz  ] was not a surprise as judges do not normally change their original ruling after an appeal based on the technical or legal review of the [ORG National Court Prosecutors Office  ] . 
+This case , as we expected , will now be forwarded to the [ORG Criminal Division  ] of the [ORG National Court  ] . 
+Post will continue to report on this case as it develops . 
+LLORENS</pre></code> 

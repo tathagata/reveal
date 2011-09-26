@@ -1,0 +1,6 @@
+#!/bin/sh
+clear
+cpath="LBJ2.jar:LBJ2Library.jar:bin"
+#cd LbjNerTagger
+#java -classpath LBJ2.jar:LBJ2Library.jar:bin -Xmx2000m  LbjTagger.NerTagger -annotate $1 $2 false Config/allFeaturesBigTrainingSet.config 
+java -classpath $cpath -Xmx2000m  LbjTagger.NerTagger -annotate ../sentences ../sentences.ann true Config/allFeaturesBigTrainingSet.config 

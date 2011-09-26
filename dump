@@ -1,0 +1,8 @@
+#/bin/bash
+cd annotated/
+egrep "\[LOC (([^]])*) \]"  -RoHis * >> /tmp/locos
+egrep "\[MISC (([^]])*) \]" -RoHis * >> /tmp/miscs
+egrep "\[PER (([^]])*) \]"  -RoHis * >> /tmp/names
+egrep "\[ORG (([^]])*) \]"  -RoHis * >> /tmp/orgs
+cd .. 
+python printnames.py

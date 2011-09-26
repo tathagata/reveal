@@ -1,0 +1,35 @@
+<code><pre>UNCLAS [LOC MADRID  ] 001909 SIPDIS SIPDIS SENSITIVE E.O. 12958: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EWWT_0.html'>EWWT</a> <a href='/tag/ENRG_0.html'>ENRG</a> <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: SPAIN: UPDATE ON MEGAPORTS NON-PROLIFERATION [ORG INITIATIVE  ] <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary . 
+On September 17-18 , representatives from the [ORG National Nuclear Security Administration  ] ( [ORG NNSA  ] ) visited [LOC Spain  ] to assess the implementation of the [ORG Megaports  ] program at the [LOC Port  ] of [LOC Algeciras  ] and negotiate a cost-sharing expansion to [LOC Spain  ] 's other leading ports: [LOC Barcelona  ] and [LOC Valencia  ] . 
+The [ORG Megaports Initiative  ] is a [ORG Department of Energy  ] ( [ORG DOE  ] ) program to detect illicit nuclear and radioactive cargo at ports and was inaugurated in [LOC Algeciras  ] in June 2006 . 
+The delegation learned that although the program is successfully being implemented for import and export traffic , union stevedores are blocking the full implementation of the selective scanning program for transshipment cargo . 
+For the time being , transshipment cargo represents 90-97 percent of all traffic at the [LOC Port  ] of [LOC Algeciras  ] . 
+Despite this setback , [ORG NNSA  ] is moving forward with plans to expand the [ORG Megaports  ] program to [LOC Barcelona  ] and [LOC Valencia  ] . 
+The earliest date by which the [LOC Barcelona  ] and [LOC Valencia  ] [ORG Megaports  ] programs could be implemented is December 2008 . 
+This cable has been cleared by representatives from [ORG NNSA  ] . 
+End Summary. --------------------------------------------- ------ PROBLEMS WITH MEGAPORTS IMPLEMENATION AT [LOC ALGECIRAS  ] --------------------------------------------- ------ <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) In a visit to the [LOC Port  ] of [LOC Algeciras  ] September 17 , [ORG NNSA  ] representatives and EconOff learned that while [ORG Megaports  ] is being implemented for import and export traffic , transshipment cargo was virtually being ignored . 
+The [ORG Port of Algeciras  ] , one of the most important shipping ports in [LOC Spain  ] and worldwide , receives 90-97 of its shipping in transshipment cargo ( cargo that is offloaded from one ship to another ) . 
+To address this shipping pattern , the [ORG NNSA  ] installed two specialized sets of radiation portal monitors on the quay so that a sample of shipping containers could be quickly scanned before being transferred to another ship . 
+The import/export traffic is more easily scanned via portal monitors installed at the entry/exit gates of the [ORG Port of Algeciras.  ] <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) According to port officials , unionized stevedores are largely to blame for the lack of implementation of the transshipment portion of the program . 
+The reasons behind the union workers' reluctance to implement the program vary . 
+Some argue that this program will affect them financially . 
+The stevedores are paid by the number of containers moved , and a diversion of their normal routes may impact how many containers they can move per day . 
+Others have expressed broader discomfort with the program , erroneously associating the nuclear detecting portals with potential health hazards . 
+Still others may be using this issue as a bargaining chip to leverage other union issues during an upcoming collective bargaining process between the unions and the [MISC Port.  ] <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) Despite efforts to educate the union workers to the benefits of this program , an unrelated July port accident which resulted in the deaths of two union workers has temporarily halted talks . 
+Emotions are high on the July crane deaths , and port officials fear that if they attempt to push for [ORG Megaports  ] implementation at this sensitive juncture , this move may backlash and potentially jeopardize [ORG Megaports  ] implementation at other [MISC Spanish  ] ports . 
+Port officials advised that it was best to stand down on [ORG Megaports  ] negotiations while the sensitivities surrounding the unrelated incident diminish. ----------------------------------- EXPANSION TO [LOC VALENCIA  ] AND [LOC BARCELONA  ] ----------------------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) [ORG NNSA  ] wrapped up their visit in [LOC Madrid  ] with a meeting that included representatives from [MISC Spanish  ] customs , the Ports of [LOC Valencia  ] and [LOC Barcelona  ] , and [LOC Spain  ] 's [ORG Nuclear Safety Advisory  ] . 
+Despite the problems encountered with transshipment cargo in [LOC Algeciras  ] , the participants agreed that expansion to [LOC Barcelona  ] and [LOC Valencia  ] would still be worthwhile since those ports handle a large quantity of export and import traffic ( on average about 80 percent ) . 
+All parties expressed enthusiasm for the expansion . 
+They also were tentatively willing to share costs , pending budget approval from the appropriate channels . 
+[MISC Spanish  ] central customs officials added that training on the [ORG Megaports  ] equipment was ongoing and had been incorporated as part of their standard training program in the [LOC Madrid  ] central training center . 
+[ORG NNSA  ] offered to look into supporting these training efforts. ------- COMMENT ------- <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) Despite problems with union workers , the GOS is extremely supportive of the [ORG Megaports  ] program . 
+In addition to expanding to [LOC Valencia  ] and [LOC Barcelona  ] , [MISC Spanish  ] customs authorities expressed interest in expanding the [ORG Megaports  ] concept to as many ports in [LOC Spain  ] as possible . 
+Over the next few months , [ORG NNSA  ] contractors will travel to [LOC Spain  ] to assist in the planning of [ORG Megaports  ] expansion efforts . 
+We will continue to report on their progress as well as any other developments relating to [LOC Algeciras  ] . 
+The earliest date by which the [ORG Megaports  ] programs in [LOC Valencia  ] and [LOC Barcelona  ] would be up and running would be December 2008 . 
+LLORENS</pre></code> 

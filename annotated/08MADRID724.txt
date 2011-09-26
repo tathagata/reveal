@@ -1,0 +1,47 @@
+<code><pre>UNCLAS [LOC MADRID  ] 000724 SIPDIS STATE FOR EUR/OHI ( JKENNEDY ; JBECKER ) STATE FOR EEB/IPE ( [ORG JURBAN  ] ) STATE FOR EUR/WE , OES , L/OES STATE PASS USTR ( DWEINER ) E.O. 12958: N/A TAGS: <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/KIPR_0.html'>KIPR</a> <a href='/tag/PBTS_0.html'>PBTS</a> <a href='/tag/PHSA_0.html'>PHSA</a> <a href='/tag/SCUL_0.html'>SCUL</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: AMBASSADOR'S MEETING WITH MINISTER OF CULTURE <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) Summary: Ambassador met with Minister of Culture [PER Cesar Antonio Molina  ] on 6/30/08 . 
+The minister told the Ambassador that he was willing to meet with the claimant or his representative in a [MISC Nazi  ] art loot case . 
+The minister emphasized he was willing to continue to fight intellectual property rights ( [ORG IPR  ] ) piracy . 
+He was also clearly following the Odyssey case closely and made it clear that the [ORG GOS  ] would exercise all of its legal options . 
+The minister discussed cultural cooperation with the [LOC U.S.  ] as well . 
+End Summary PARTICIPANTS ------------ <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) The minister was accompanied by [ORG Cultural Industries Policy  ] Director General [PER Guillermo Corral van Damme  ] . 
+The Ambassador was accompanied by EconOff . 
+[PER CASSIRER  ] CLAIM -------------- <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG U  ] ) The Ambassador stressed the [ORG USG  ] 's interest in direct discussions between the [MISC Spanish  ] government and [PER Claude Cassirer  ] , the [MISC AmCit  ] claimant of a painting by [PER Camille Pisarro  ] ( " Rue [LOC St. Honore  ] " ) in the [ORG Thyssen Museum  ] . 
+The Ambassador noted also that while the Odyssey and [PER Cassirer  ] claim were on separate legal tracks , it was in both governments' interest to avail themselves of whatever margin for manuever they had , consistent with their legal obligations , to resolve both matters in a way that favored the bilateral relationship . 
+The minister listened carefully to the Ambassador 's message , but he put the accent on the separateness of the issues . 
+[PER Molina  ] said that no [MISC Spanish  ] government could return the painting ( if this is what the claimant wants ) . 
+To begin with , while the minister presides over the board that manages the [ORG Thyssen Museum  ] 's collection , the minister could not oblige the board to return the painting without a ( [MISC Spanish  ] ) legal judgment . 
+The minister added that paying compensation , as the [MISC British  ] government has reportedly done in a number of cases , also posed legal problems . 
+Director General [PER van Damme  ] said , however , that perhaps the [MISC Spanish  ] government had " sinned " ( pecado ) in not meeting with the claimant or his representative . 
+The minister said that he was willing to meet with the claimant or his representative in connection with a trip to [LOC Washington  ] , [LOC D.C.  ] in September or October this year . 
+[ORG IPR  ] --- <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG U  ] ) The minister emphasized that he remains committed to fighting piracy . 
+He said that on July 10 , he would preside over the [MISC Spanish  ] government 's inter-ministerial anti-piracy coordinating body . 
+[PER Van Damme  ] said that this meeting would serve to " relaunch efforts " to fight piracy . 
+The Ambassador noted that the [ORG USG  ] had waited a number of years to place [LOC Spain  ] on the Special 301 Watch List , but that this year , continued alarming internet piracy levels had precipitated the Watch List decision . 
+Having said that , the Ambassador also praised recent vigorous enforcement actions , for instance the arrests of 32 suspected [MISC Chinese  ] DVD and CD pirates . 
+The Ambassador noted that the subsequent press conference , in which the minister said that Spaniards should not buy pirated products because such products harmed culture , was especially significant . 
+Both the minister and director general emphasized the importance of the internet . 
+[PER Van Damme  ] said it was especially important to create attractive business models for selling content on-line . 
+The Ambassador suggested that the minister meet with [ORG IPR  ] and internet service provider representatives when he travels to [LOC Washington  ] this fall , and he agreed to do so . 
+ODYSSEY ------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG U  ] ) The minister explained that one of the reasons for his September or October [LOC Washington  ] trip was to meet with the law firm the [MISC Spanish  ] government has retained in the Odyssey case . 
+The minister added that he was following the court proceedings in [LOC Tampa  ] , [LOC Florida  ] closely . 
+He expressed indignation at a recent [ORG CNN  ] interview of Odyssey CEO [PER Greg Stemm  ] who indicated that he would be willing to keep the gold coins found at the salvage site and return items of purely archeological interest . 
+The Ambassador explained that the [ORG USG  ] was cognizant of its international law responsibilities in these kinds of salvage cases and that [MISC American  ] government lawyers would study carefully the legal implications and obligations arising from the [LOC Tampa  ] court 's decisions . 
+[ORG CULTURAL COOPERATION  ] -------------------- <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) The minister and the director general expressed great enthusiasm for cultural cooperation with the [LOC U.S.  ] in general and [LOC Washington  ] , [LOC D.C.  ] in particular . 
+With respect to [LOC Washington  ] , for instance , the minister talked about [MISC Spanish  ] support for an exhibition of 1970s and 80s art . 
+He also talked about a more ambitious project , a " museum of " [MISC Latin  ] " art ( not clear where this would be , but he did talk about a " museum " , not just a one-off exhibit ) . 
+This would be separate from Ambassador [PER Westendorp  ] 's ( [LOC Spain  ] 's ambassador to the [LOC U.S  ] . 
+) idea of using the former [MISC Spanish  ] Ambassador 's residence in the [LOC Washington  ] for some form of cultural repository . 
+COMMENT ------- <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG U  ] ) The minister 's expressed willingness to meet with [PER Claude Cassirer  ] or his representative is a modest step forward . 
+We will remind the minister of this commitment whem he finalizes his [LOC Washington  ] travel plans . 
+With respect to [ORG IPR  ] , we think the minister is sincere in his desire to combat piracy . 
+Our challenge as an Embassy is to find ways to convince the [ORG GOS  ] and stakeholders ( especially the [MISC ISPs  ] ) that action against internet piracy cannot be held hostage to the mantra that " new business models " are required in this area . 
+They certainly are necessary and desirable ( both for [MISC ISPs  ] and content providers ) . 
+However , action against piracy may , in some cases , be necessary to make those models feasible . 
+AGUIRRE</pre></code> 

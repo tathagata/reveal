@@ -1,0 +1,19 @@
+<code><pre>UNCLAS [LOC MADRID  ] 002985 SIPDIS SIPDIS STATE FOR EUR/WE DOE/NNSA BETTY.SHORTER@NNSA.DOE.GOV E.O. 12958: N/A TAGS: <a href='/tag/TSPA_0.html'>TSPA</a> <a href='/tag/OTRA_0.html'>OTRA</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: [LOC SPAIN  ] COUNTRY CLEARANCE FOR DOE/NNSA/NA25/NNTRAV PERSONEL REF: SECSTATE 192079 <a id='par1' href='#par1'>¶</a>1 . 
+Embassy grants country clearance to [ORG NNSA  ] Personnel: [PER Thomas Deforest  ] , [PER Rita Pool  ] , [PER Craig Stinson  ] , [PER Cody Hostick  ] , [PER Michael Bedke  ] , [PER Stephanie Clarke  ] , [PER Whitney Creer  ] , and [PER Adrian Pidlusky  ] to travel to [LOC Madrid  ] , [LOC Spain  ] on December 9 to December <a id='par17' href='#par17'>¶</a>17 . 
+The purpose of this visit is to meet with [LOC Taiwan  ] officials in [LOC Spain  ] to observe operational procedures employed by [MISC Spanish  ] Customs at the [LOC Port of Algeciras  ] under the [ORG Megaports Initiative.  ] <a id='par2' href='#par2'>¶</a>2 . 
+[PER Post  ] understands that no assistance is required. <a id='par3' href='#par3'>¶</a>3 . 
+Visitors are reminded that bearers of diplomatic and official passports coming to [LOC Spain  ] on official business need to obtain a [MISC Spanish  ] visa prior to arrival to [LOC Spain.  ] <a id='par4' href='#par4'>¶</a>4 . 
+[PER Post  ] can provide DoS email access via [MISC OpenNet  ] ( unclassified system ) to [ORG State Department  ] travelers who have active [MISC OpenNet  ] accounts . 
+[PER Post  ] can also support users who wish to access their email accounts using FOBs or [ORG OWA  ] . 
+Exchange 5.5 users ( ask your system manager to provide Exchange server version ) who have to use remote login to access their exchange email accounts will need to provide [PER Post  ] , s [ORG IM  ] section with the name of their DoS Domain and their Exchange Server name and/or [ORG IP  ] address. <a id='par5' href='#par5'>¶</a>5 . 
+THREAT ASSESSMENT: In general , [LOC Spain  ] is safe . 
+However , [LOC Madrid  ] , [LOC Barcelona  ] and other large cities in [LOC Spain  ] -- including resort/convention areas such as Benidorm -- attract a large number of criminals and pickpockets and frequent incidents of crime of opportunity against the unwary do occur . 
+[PER Carry  ] only essential items including a photocopy of your passport 's photo page . 
+Visitors can protect themselves against crime by being street-smart , alert and aware of their surroundings . 
+In the event you are victimized by crime , or experience any security-related incident , please contact the Embassy 's [ORG Regional Security Office  ] at 91-587-2550 or after hours at 91-587-2355 . 
+Official visitors to the Embassy in [LOC Madrid  ] or the Consulate General in [LOC Barcelona  ] are encouraged to receive a security briefing from the [ORG RSO  ] office at their earliest convenience . 
+Additional information regarding safety and security in [LOC Spain  ] is available on the [ORG U.S. Department of State  ] 's website ( www.embusa.es ) . 
+Travelers are encouraged to review the most recent Worldwide Caution issued by the [ORG Department of State  ] . 
+As the [ORG Department of State  ] continues to develop information on any potential security threats to [MISC Americans  ] overseas , it shares credible threat information through its [ORG Consular Information Program  ] documents , available on the [MISC Internet  ] at http://travel/state.gov . 
+In addition to information on the [MISC Internet  ] , [LOC U.S.  ] travelers can hear recorded information by calling the [ORG Department of State  ] in [LOC Washington  ] , [LOC D.C.  ] at 202-647-5225 from their touch-tone telephone , or receive information by automated telefax by dialing 202-647-3000 from their fax machine . 
+AGUIRRE</pre></code> 

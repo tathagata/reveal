@@ -1,0 +1,65 @@
+<code><pre>UNCLAS SECTION 01 OF 03 [ORG SAO PAULO  ] 000423 SIPDIS SENSITIVE STATE FOR WHA/BSC , WHA/EPSC FOR FCORNEILLE , E FOR GMANUEL , EEB/ESC/IEC FOR BHAENDLER STATE PASS USTR FOR KDUCKWORTH STATE PASS DOE/NREL FOR HCHUM DEPT OF TREASURY FOR JHOEK , BONEILL DEPT OF ENERGY FOR AMIRANDA , GWARD , CGILLESPIE E.O. 12958: N/A TAGS: <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/ENRG_0.html'>ENRG</a> <a href='/tag/EAGR_0.html'>EAGR</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EINV_0.html'>EINV</a> <a href='/tag/TRGY_0.html'>TRGY</a> <a href='/tag/BR_0.html'>BR</a> SUBJECT: [LOC DOHA  ] , ETHANOL , AND THE WTO: WILL [LOC BRAZIL  ] FIGHT ? 
+[LOC SAO PAULO  ] 00000423 001.5 OF 003 SENSITIVE BUT UNCLASSIFIED--PLEASE PROTECT ACCORDINGLY Summary ------- <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) The collapse of the [LOC DOHA  ] round [ORG WTO  ] negotiations brings with it a call to continue fighting [LOC US  ] agriculture subsidies directly through the [ORG WTO  ] . 
+In particular , the [MISC Brazilian  ] [ORG Foreign Ministry  ] ( [ORG Itamaraty  ] ) may choose this fall to initiate a [ORG WTO  ] case against the [LOC US  ] tariff on ethanol imports from [LOC Brazil  ] . 
+MRE U/S [PER Roberto Azevedo  ] has said publicly that a case this September is a strong possibility . 
+Such a move may be attractive politically , and certainly ethanol producers represented by [ORG UNICA  ] stand to reap a significant profit were the tariff removed . 
+However , the rapid growth of ethanol demand in the [LOC United States  ] and the significant disparity between [MISC Brazilian  ] and [LOC U.S.  ] prices could lead to an increase in ethanol exports and potentially increase local prices thus feeding into [MISC Brazilian  ] inflation concerns . 
+Removing the tariff could result in an immediate squeeze in domestic supply . 
+Increased exports would have to be sourced from ethanol that would otherwise be sold as [MISC E-100  ] . 
+So while Foreign Minister [PER Celso Amorim  ] publicly calls for removal of these tariffs , many in the private sector are not as enthusiastic for an immediate tariff removal and key legislators are hesitant as well . 
+End Summary . 
+Ethanol Supply , Demand , Consumption ----------------------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) The [ORG Agricultural Trade Office  ] ( [ORG ATO  ] ) in [LOC Sao Paulo  ] expects continued strong growth in [LOC Brazil  ] 's ethanol production for the coming two to three years , as well as continued strong demand growth for ethanol by [MISC Brazilian  ] consumers . 
+Ethanol supply and demand expectations for Market Year ( MY ) 2008/9 are that total supply will increase to 26,357 billion liters and domestic demand increasing to 22,452 billion liters . 
+( Note: MY 07/8 figures are 22,255.5 and 18,970 respectively . 
+End Note . 
+) Exports are forecast to reach 4,800 billion liters , the majority of which will find its way to the [LOC United States  ] , and an increase over the 3,630 billion liters for export from MY 07/8 . 
+( Note: It should be noted that the export forecast was recently increased from 3.9 billion liters after a run-up in corn futures prices made [MISC Brazilian  ] ethanol exports profitable even with the [MISC US$0.54/gallon  ] import duty paid . 
+End Note . 
+) <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) Higher domestic demand for ethanol during MY 08/9 is in large part due to the vigorous sales of flex-fuel vehicles . 
+The [MISC Brazilian  ] Association of [ORG Vehicle Manufacturers  ] ( [ORG ANFAVEA  ] ) reports that flex fuel vehicles represent some 23 percent of the total vehicle fleet of [LOC Brazil  ] ( 5.43 million units out of 23.685 units in 2007 ) , but more importantly represent over 90% of new car sales . 
+The result of this has been a fundamental change in the energy matrix of [LOC Brazil  ] . 
+Since February of this year ethanol has accounted for a higher share of vehicle fuels use than gasoline . 
+Two years ago , gasoline sales were roughly twice the volume of ethanol use. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) Ethanol is sold as a gasoline additive ( at a required rate of 25% ) , sold pure as [MISC E-100  ] , and exported . 
+Approximately 18% of total production will be exported in 2008/09 , leaving 82% for blending and direct sales as [MISC E-100  ] . 
+[ORG ATO  ] estimates that approximately 33-37% of total production will be blended with gasoline ( representing 25% of the volume of " gasoline " in [LOC Brazil  ] ) and 45-49% of production will be sold as [MISC E-100  ] . 
+As efficiencies for ethanol generally run at 70% that of gasoline , the price point at which consumers choose one over the other is fairly well established . 
+The state of [LOC Sao Paulo  ] is the largest ethanol consuming state and home to the largest producers of ethanol . 
+In addition , in [LOC Sao Paulo  ] the industry enjoys low transportation costs and significant tax incentives from the state government . 
+Nonetheless , the industry must discount ethanol in order to stimulate demand in outlying states where tax treatment is not as generous , and the retail price for ethanol in [LOC Sao Paulo  ] is currently some 40-45% the cost of gasoline . 
+Rational consumers should [ORG SAO PAULO  ] 00000423 002.3 OF 003 continue to buy ethanol over gasoline even if the price were to increase close to 70% the value of gasoline . 
+Goodbye Tariff , Hello Shortage ? ------------------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) Removing the tariff could result in an immediate squeeze in domestic supply . 
+While the [ORG GOB  ] mandate for blending with gasoline ( currently 25% by volume ) could easily be reduced in a tight market environment , increases in [MISC E-100  ] prices would inevitably stimulate increased gasoline consumption and demand for ethanol for blending would rise in response . 
+[ORG ATO  ] [LOC Sao Paulo  ] therefore believes that volumes of ethanol destined for blending would be unlikely to change substantially . 
+Increased exports would have to be sourced from ethanol that would otherwise be sold as [MISC E-100  ] . 
+If those volumes were sufficient to allow domestic producers to concentrate on core markets ( especially [LOC Sao Paulo  ] ) , prices would rise toward the market clearing rate for a more concentrated market characterized by more favorable tax rates and low transport and handling costs . 
+If retail prices were to approach 70% of the gasoline price in the [LOC Sao Paulo  ] market , this would imply an increase on the order of fifty percent in prevailing ethanol prices , possibly fueling inflation concerns . 
+This scenario would almost certainly unfold in the event that export volumes were to double ( to 30% of the total production ) . <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) These potential market distortions have many in the [LOC Brazil  ] ethanol industry viewing either a gradual tariff reduction or a move towards a quota system as preferable . 
+Either move would allow for [MISC Brazilian  ] ethanol production to increase over time to supply the [LOC US  ] demand while minimizing disruptions in the domestic market . 
+Former Director General of [ORG UNICA  ] ( association that represents the majority of sugar growers and ethanol distillers in [LOC Brazil  ] ) , [PER Fernando Ribeiro  ] , stated that he sees the [LOC US  ] ethanol mandate as well as demand by ethanol buyers , distributors , and end-users in the [LOC US  ] as eventually leading to either a tariff reduction or institution of a quota system in the near term . 
+While a quota would allow better control over export volumes , [PER Ribeiro  ] believes that a gradual tariff reduction would be better as it would continue to help promote growth of ethanol production in third countries . 
+He also stated that he believes the [ORG GOB  ] would take " aggressive " steps to control export volumes if there were a real threat to supply for the domestic market. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) [PER Roberto Giannetti de Fonseca  ] of [ORG FIESP ( Federation of Industries  ] of [LOC Sao Paulo  ] ) told Econoff that he would prefer to see a two-tiered system of tariffs on ethanol exports to the [LOC US  ] with ethanol for blending staying in a tariff regime and [MISC E-100  ] for [LOC US  ] flex fuel vehicles imported duty free . 
+He stated that a movement towards a completely open trading regime would cause short-term distortions in the domestic market ; however , he emphasized that in the medium to long-term , [LOC Brazil  ] would be able to take advantage of this opportunity to supply the [LOC US  ] demand. <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) Dra . 
+[PER Heloisa Lee Burnquist  ] , Researcher at the [ORG Center for Advanced Studies  ] on [ORG Applied Economics  ] ( [ORG CEPEA  ] ) of the [ORG University of Sao Paulo  ] stated that Foreign Minister [PER Amorim  ] 's statement on seeking redress at the [ORG WTO  ] count to eliminate countervailing duties in the [LOC U.S.  ] on [LOC Brazil  ] 's ethanol export appeared " more political than anything else . 
+" She agreed that in the absence of a tariff , producers would welcome the ability to sell abroad at higher prices . 
+However , she does not see the same possibility for distortions in domestic supply that others have indicated. <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG SBU  ] ) Chairman of the [ORG Senate Biofuels Committee  ] Chairman [PER Joao Tenorio  ] has a different concern . 
+[PER Tenario  ] told [LOC Brasilia  ] Econoff he worries that if the tariff were removed , the [MISC Brazilian  ] biofuels industry would ramp up production . 
+But without the tariff in place protecting the [LOC U.S.  ] domestic industry , [PER Tenario  ] worries that [LOC U.S.  ] reliance on ethanol as a fuel will never reach its real potential , resulting in backsliding of ethanol use . 
+Such a development in his view could leave an over-stimulated [MISC Brazilian  ] industry with nowhere to turn for a viable market to absorb its product . 
+[LOC SAO PAULO  ] 00000423 003.3 OF 003 <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG SBU  ] ) [MISC COMMENT: On  ] the surface , pursuing a [ORG WTO  ] case on the ethanol tariff may be a logical plan B approach to lack of resolution through the [LOC Doha Round  ] . 
+In analyzing existing stocks of ethanol , future production in the short-term , the volume of [LOC US  ] demand , and the key role that ethanol plays in the [MISC Brazilian  ] fuels matrix , a complete removal of the tariff would likely cause disruption to the [MISC Brazilian  ] economy . 
+In order to counteract this threat , the [ORG GOB  ] may be forced to act itself in placing a quota on exports of ethanol to the [LOC US  ] in order to maintain domestic supply . 
+While this should give the [ORG GOB  ] pause in pursuing a [ORG WTO  ] case against the ethanol tariff , politics may win over economics . 
+[ORG UNICA  ] will likely foot the bill for any [ORG GOB  ] attempt to seek redress at the [ORG WTO  ] as its members stand to gain immediately from any reduction in the ethanol tariff ; however this too remains unresolved as we understand industry is pressing for [ORG GOB  ] to cover part of litigation costs , estimated at three million dollars . 
+END COMMENT. <a id='par11' href='#par11'>¶</a>11 . 
+This cable was coordinated with and cleared by the Embassy in [LOC Brasilia  ] and the [ORG ATO  ] in [LOC Sao Paulo  ] . 
+Story</pre></code> 

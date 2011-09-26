@@ -1,0 +1,32 @@
+<code><pre>UNCLAS STATE 058722 SIPDIS [LOC COLOMBIA  ] FOR ARI NATHAN AND [LOC BRAZIL  ] FOR PETER TINSLEY E.O. 12958: N/A TAGS: <a href='/tag/ETTC_0.html'>ETTC</a> <a href='/tag/KOMC_0.html'>KOMC</a> <a href='/tag/CO_0.html'>CO</a> <a href='/tag/BR_0.html'>BR</a> SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK ON LICENSE 050073566 REF: 2006 BLUE LANTERN GUIDEBOOK <a id='par1' href='#par1'>¶</a>1 . 
+This is an Action Request . 
+See paragraphs 2-4. <a id='par2' href='#par2'>¶</a>2 . 
+The [ORG Department 's Office of Defense Trade Controls Compliance  ] ( [ORG PM/DTCC  ] ) requests Embassies , assistance in conducting a post-shipment check on license 050073566 for the export of [MISC Super Tucano  ] aircraft parts to [LOC Colombia  ] . 
+Embassies are requested to complete this [ORG Blue Lantern  ] check within 45 days . 
+Lack of response to a [ORG Blue Lantern  ] check will affect pending and future licenses involving parties to this license . 
+3 . 
+Reason for request: Lack of documentation from [MISC Colombian  ] [ORG Air Force  ] ( [ORG CAF  ] ) , and unfamiliar foreign intermediate consignee , [ORG Darrigo & Valente Transportes  ] , [PER Ltda  ] . 
+( in [LOC Brazil  ] ) . <a id='par4' href='#par4'>¶</a>4 . 
+ACTION Bogota: Embassy is requested to make inquiries with appropriate host government officials to determine if the [ORG CAF  ] has received the [MISC Super Tucano  ] spare parts from [ORG Embraer  ] and that the articles are being used for the purpose stated on the license . 
+Export data indicates that items worth $1,898 shipped from the [LOC United States  ] on January 7 , 2008 . 
+Due to lack of documentation from the end-user , post is requested to exercise its contacts within the [MISC Colombian  ] [ORG MOD  ] to verify this order . 
+( It may be helpful to reference the [ORG Embraer  ] POC , [PER Raul Calminatti  ] , XXXX , [ORG Purchase Order No.  ] 900192943 signed October 3 , 2007 ) . 
+END ACTION [LOC BOGOTA  ] ACTION Brasilia: Department requests that Embassy conduct a site visit to [ORG Darrigo & Valente Transportes  ] , [PER Ltda  ] . 
+( [ORG DVT  ] ) in order to verify its bona fides . 
+Embassy is urged to assess [ORG DVT  ] , s reliability as a recipient of [MISC USML  ] articles , and assess its operations and on-site security . 
+Emphasize that the unauthorized re-export and retransfer of [MISC USML  ] items is strictly prohibited . 
+Can [ORG DVT  ] provide documentation establishing its order for the items in question and that the [ORG CAF  ] is the final end user ? 
+END ACTION BRASILIA. <a id='par5' href='#par5'>¶</a>5 . 
+Details of license application: [PER DTC Case:  ] 050073566 [ORG QUANTITY/COMMODITY:  ] 6 P/N 3E2652 Mounting Bracket 1 P/N 3E2311 Timer License Value: USD 1,898 [ORG SELLER: Goodrich Corporation De-Icing & Specialty Systems Division  ] 1555 [ORG Corporate Woods Pkwy  ] . 
+[LOC Uniontown  ] , [LOC OH  ] 44685-8799 FOREIGN CONSIGNEE: [ORG Embraer  ] - [ORG Empresa Brasileira De Aeronautica S/A  ] [ORG Avenida Brigadeiro  ] [PER Faria Lima  ] , 2170 [ORG Sao Jose Dos Campos Brazil  ] FOREIGN INTERMEDIATE CONSIGNEE [ORG Darrigo & Valente Transportes  ] , [PER Ltda  ] . 
+[ORG Rua Oslo  ] , 187-Vila Letonia [ORG Sao Jose  ] dos [LOC Campos Brazil  ] Figwal Transportes Internacionais , [PER Ltda  ] . 
+[ORG Rua Felix  ] de [PER Sousa  ] , 71-VI . 
+Congonhas [ORG Sao Pablo Brazil Minoica Global Logistica  ] , [PER Ltda  ] . 
+[ORG Rua Jose Sierra  ] , 21- [ORG Eldorado Centro Industrial  ] e Empresarial [ORG Sao Jose  ] dos [LOC Campos Brazil  ] ATrade de Cargo do Brasil , [PER Ltda  ] . 
+[PER Rodovia Helio Smitdt  ] , s/n 2 [ORG Andar Sala  ] 25 [ORG Aeroporto Internacional  ] de [ORG Sao Palo Guarulhos Brazil  ] FOREIGN END-USER: [MISC Colombian  ] [ORG Air Force Ministerio De Defensa Nacional Grupo Contratacion Estatal Avenida  ] [LOC El Dorado  ] CAN [PER Carrera  ] 52 - [ORG Oficina  ] 203 [LOC Bogota  ] [ORG DC Colombia  ] PURPOSE: For incorporation into the [MISC Super Tucano  ] aircraft manufactured by [ORG Embraer  ] , or to be used as spare parts for the said aircraft , for delivery to the [MISC Colombian  ] [ORG Air Force.  ] <a id='par6' href='#par6'>¶</a>6 . 
+Please slug reply for [ORG PM/DTCC  ] - BLUE LANTERN COORDINATOR and include the words " [ORG Blue Lantern  ] " and the case number in the subject line . 
+[ORG PM/DTCC  ] can fax documentation to post upon request . 
+POC is [PER Tim Mazzarelli  ] , Phone: XXXX ; Email: XXX ; SIPRNET: XXXXX . 
+The [ORG Blue Lantern Guidebook  ] ( ref ) is available as a [MISC PDF  ] file in the [LOC Bunche Library  ] 's [ORG E-Book Collection  ] on the DOS [MISC Intranet:  ] http://buncheelectroniclibrary.state.gov/eboo ks/ BlueLanternGuidebook2006%20 final .pdf <a id='par7' href='#par7'>¶</a>7 . 
+Department is grateful for post 's assistance in this matter . 
+RICE</pre></code> 

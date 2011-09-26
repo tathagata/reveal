@@ -1,0 +1,13 @@
+cat data/orgs | awk -F "," '{$1="";print $0}' | sed '/^\s*$/d' | sort | uniq -c | sort -nr | awk '{c=$1;$1="";print $0", ("c")"  }' > /tmp/sortedorgs
+count_orgs=`cat /tmp/sortedorgs |wc -l`
+sig_count=$(( 20*$count_orgs/100))
+head -n $sig_count /tmp/sortedorgs > sig_orgs
+
+rm -f  *.log orgsfile.log *.html 
+while read LINE;do
+name=${LINE%,*}
+echo "<a href=\"http://dl.dropbox.com/u/18146922/cables/orgs/"$name".html\">"$LINE"</a><br/>" >> orgsfile.html
+echo "<h2>$LINE</h2><hr/>" > "${name/\//_}".html
+grep "$name" data/orgs | awk -F"," '{printf("<a href=\"http://dl.dropbox.com/u/18146922/cables/%s\">%s, </a>\n",$1,$1);}' | sort | uniq | tr '\n' ',' >> "${name//\//_}".html
+done < sig_orgs
+#cp *.html /home/tathagata/Dropbox/Public/cables/.

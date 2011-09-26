@@ -1,0 +1,34 @@
+<code><pre>UNCLAS E F T O SECTION 01 OF 02 [LOC LONDON  ] 000021 SIPDIS NOFORN TREASURY FOR HORTON , WINN [ORG NSC  ] FOR [ORG HOVENIER  ] , [PER BRADLEY E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EINV_0.html'>EINV</a> <a href='/tag/IC_0.html'>IC</a> <a href='/tag/NE_0.html'>NE</a> <a href='/tag/UK_0.html'>UK</a> SUBJECT: [LOC UK  ] - UNHAPPY WITH [MISC ICELANDIC  ] PRESIDENT'S DECISION ON [ORG ICESAVE  ] , BUT NO OFFICIAL PROTEST - YET REF: REYKJAVIK 000003 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU/NF  ] ) [MISC Summary:  ] The [LOC UK  ] government did not anticipate that [LOC Iceland  ] President [PER Grimsson  ] would block the legislation on [ORG Icesave  ] with [ORG UK Treasury  ] officials telling us that until the morning of January 5 , [MISC Icelandic  ] officials had reassured the [LOC UK  ] that the law would be signed . 
+Given that [LOC Iceland  ] 's PM was taken aback by [PER Grimsson  ] 's decision and had even questioned whether such an action was constitutional , the [MISC British  ] government wants to give the [MISC Icelandic  ] government time to work this out internally . 
+The [LOC UK  ] hopes that [LOC Iceland  ] does not take any precipitous steps - such as holding a referendum - that could further complicate this situation and undermine support for [LOC Iceland  ] 's [ORG EU  ] 's membership and an additional [ORG IMF  ] tranche . 
+Official [LOC UK  ] comments to the press have referenced the risks to [LOC Iceland  ] 's [ORG EU  ] membership . 
+End Summary . 
+[ORG UK Reaction  ] ----------- <a id='par2' href='#par2'>¶</a>2 . 
+( U ) In reaction to the announcement by the President of [LOC Iceland  ] that he would not sign into law the [ORG Icesave  ] bill passed by [LOC Iceland  ] 's parliament on December 30 and would instead refer the bill to a national referendum , [PER Lord Myners  ] , the financial services minister , said [LOC Iceland  ] risked pariah status if voters rejected the loan repayment plan . 
+He added that [LOC Iceland  ] was aware of the risks to its relationship with the [ORG IMF  ] and [ORG EU  ] if it failed to repay the money . 
+" I do not think it is a case of us having to warn them , " he said . 
+The Prime Minister 's office issued the following statement: " The government expects the loan to be repaid . 
+We are obviously very disappointed by the decision by the [MISC Icelandic  ] president , but we do expect [LOC Iceland  ] to live up to its legal obligations and repay the money . 
+" <a id='par3' href='#par3'>¶</a>3 . 
+( U ) On the eve of [PER Grimsson  ] 's announcement , [ORG Chancellor of the  ] Exchequer [PER Darling  ] had urged the [MISC Icelandic  ] president to sign the legislation . 
+[PER Darling  ] told the [MISC British  ] press that " We have spent many , many months in productive meetings with [MISC Icelandic  ] authorities and the [MISC Icelandic  ] government to enter an agreement to make sure that money was reimbursed to us . 
+" [PER Darling  ] said it was vital for [LOC Iceland  ] 's economic future that the [ORG Icesave  ] compensation was repaid . 
+" I would say to the people in [LOC Iceland  ] that it is difficult but you have to realize that the [MISC British  ] government had to step in to deal with a very difficult situation with savers in [MISC Icelandic  ] banks . 
+" <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU/NF  ] ) [ORG Treasury  ] Head of [ORG Financial Services Strategy  ] [PER Gary Roberts  ] told ECOUNS January 6 that the [LOC UK  ] has consistently maintained and will continue to emphasize that [LOC Iceland  ] needs to meet its [ORG European Economic Area  ] ( [ORG EEA  ] ) obligations . 
+However , [PER Roberts  ] said that [LOC UK  ] at this stage wanted to avoid making a direct linkage between repayment and [LOC Iceland  ] 's membership in the [ORG EU  ] . 
+However , the [LOC UK  ] government would be forced to react if the [ORG European Commission  ] proceeded in considering [LOC Iceland  ] 's membership if [LOC Iceland  ] were in violation of its [ORG EEA  ] obligations . 
+Under such rules , a nation cannot join the [ORG EU  ] if it has failed to insure its banking deposits outside its borders . 
+[PER Roberts  ] noted that the [LOC UK  ] hoped that other interested parties would ensure that the loan question was resolved before any membership discussion was conducted. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU/NF  ] ) [ORG HMT  ] officials said it would be difficult for the [LOC UK  ] to support the next [ORG IMF  ] review for [LOC Iceland  ] if the decision on repayment were still unresolved . 
+It would also be in no one 's interest , postulated [PER Roberts  ] , to have a review anytime soon , since no one knows yet what the macro-economic effects of [PER Grimsson  ] 's decision will be . 
+Note: Immediately after the [MISC Icelandic  ] president 's decision , [PER Fitch  ] downgraded [LOC Iceland  ] 's credit rating to junk status . 
+The Terms --------- <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU/NF  ] ) [PER Roberts  ] reiterated that discussions with [MISC Icelandic  ] officials have always been productive and cordial , and called press stories about an acrimonious " dispute " between the [LOC UK  ] and [LOC Iceland  ] over the terms " erroneous . 
+" The [LOC UK  ] will not renegotiate terms of agreement , said [PER Roberts  ] . 
+Terms were " generous " , with payments spread out over several years , a waiver of interest rate payments for seven years , and a 5.5 percent interest rate consistent with ten-year [LOC LONDON  ] 00000021 002 OF 002 gilts . 
+Moreover , [LOC UK  ] terms were better than the [MISC Nordics  ] , which had interest rates 200-300 basis points higher , he noted. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU/NF  ] ) According to the [LOC UK  ] press , [ORG HMT  ] will begin talks with [LOC Brussels  ] and its counterparts in the [LOC Netherlands  ] . 
+[PER Roberts  ] said [ORG HMT  ] wants to ensure that neither the [LOC UK  ] nor [MISC Dutch  ] government takes precipitous action that would hamper the [MISC Icelandic  ] government 's ability to sort this out itself . 
+Visit [LOC London  ] 's Classified Website: http://www.intelink.sgov.gov/wiki/Portal:Unit ed_Kingdom LeBaron</pre></code> 

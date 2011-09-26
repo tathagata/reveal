@@ -1,0 +1,92 @@
+<code><pre>UNCLAS SECTION 01 OF 03 [LOC BRASILIA  ] 001302 SIPDIS SENSITIVE SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/EAIR_0.html'>EAIR</a> <a href='/tag/EIND_0.html'>EIND</a> <a href='/tag/OPRC_0.html'>OPRC</a> <a href='/tag/BR_0.html'>BR</a> SUBJECT: BRAZIL: VARIG'S DEATH THROES REF: [LOC Brasilia  ] 1185 and previous ( U ) This cable is business-sensitive . 
+Please protect accordingly. <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary . 
+On June 23 , Rio Bankruptcy court Judge [PER Luiz Roberto Ayoub  ] declared the bid by [ORG VARIG  ] workers group [ORG TGV  ] as failed since it unsurprisingly was unable to make its first required payment of [MISC USD  ] 75 million . 
+Judge [PER Ayoub  ] also said that he will now focus on the [MISC USD  ] 485 million bid for [ORG VARIG  ] by former subsidiary [ORG VarigLog  ] , which is partially owned by [PER MatlinPatterson  ] subsidiary [LOC Volo Brasil  ] . 
+Coincidentally , on the same day , [LOC Brazil  ] 's civil aviation administration [ORG ANAC  ] ended its investigation of the [ORG VarigLog  ] sale to [PER Volo  ] , saying that it has determined to its satisfaction that [PER Volo  ] meets [MISC Brazilian  ] foreign ownership restrictions , although that decision will ultimately lie with [MISC Brazilian  ] tax authorities . 
+Since June 10 , [ORG VARIG  ] 's average cancellation rate has been 62.5 percent per day , and it has cancelled flights to 10 international destinations and reduced frequencies to another eight until further notice . 
+Wait times for flights that do take off average 100-240 minutes . 
+The company is operating an estimated 30 planes of its 65 aircraft fleet . 
+It has been removed from the [ORG IATA  ] clearing house , resulting in at least 11 companies' non-acceptance of VARIG-endorsed tickets . 
+[MISC Brazilian  ] authorities are planning for the worst , but saying little , with the military readying five aircraft to transport [ORG VARIG  ] passengers and [ORG ANAC  ] encouraging [ORG TAM  ] and GOL to free up seats to [ORG VARIG  ] ticket holders . 
+Legal actions threaten to: hold the Rio judge accountable for his delayed acceptance of [ORG TGV  ] 's bid , place [ORG VARIG  ] executives in the [LOC US  ] in jail , prevent [ORG VarigLog  ] from acquiring [ORG VARIG  ] , and open the any potential buyer to further liability from creditors . 
+End Summary . 
+SPENDING BEYOND THEIR MEANS --------------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) The [ORG VARIG  ] workers group [ORG TGV  ] finally admitted , to the surprise of no one , that it did not have the required [MISC USD  ] 75 million to effectuate the initial payment for the company . 
+Rio Bankruptcy judge [PER Luiz Roberto Ayoub  ] then declared [ORG TGV  ] 's auction bid void . 
+The announcement came after two days of meetings with [LOC Brazil  ] 's [ORG National Development Bank  ] ( [ORG BNDES  ] ) to negotiate a loan and a 7-hour extension . 
+Group representatives , who have still refused to name their financial backers , hold the Judge responsible for their failure to raise the funds , blaming his delay in accepting their bid , the short amount of time given to effectuate payment , and his general handling of the whole process ; they have mentioned litigation more than once . 
+LESS MONEY , MORE PROBLEMS ------------------------- <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) Oddly enough , the [ORG TGV  ] did not blame other factors that may have played a part in discouraging financial backers . 
+Since June 10 , [ORG VARIG  ] cancellation rates have hovered between 55-70 percent . 
+Those flights that take off see a 100-240 minute average delay . 
+After earlier denials to econoff by a Sao [MISC Paulo-based  ] [ORG VARIG  ] sales manager , [ORG IATA  ] announced June 20 that it had removed [ORG VARIG  ] from its clearing house , meaning VARIG-endorsed tickets for passengers whose flights are cancelled have no financial backing . 
+[ORG IATA  ] did not announce how much money it is owed , but said that [ORG VARIG  ] has been in arrears since April . 
+Other airlines are no longer obligated to take their passengers . 
+On June 21 [ORG VARIG  ] announced its suspension of flight operations to [LOC Milan  ] , [LOC Munich  ] , [LOC Madrid  ] , [LOC Paris  ] , [LOC New York  ] , [LOC Los Angeles  ] , [LOC Mexico City  ] , [LOC Monetivideo  ] , [LOC Assuncion  ] and [LOC Bogota  ] , or 72 percent of its international flights . 
+It is has also further reduced its frequency to [LOC Miami  ] and [LOC London  ] to once per day . 
+( Note: Some [LOC London  ] flights have been cancelled . 
+) A company spokesman said the move was precipitated by its failure to come to amicable terms with leasing companies . 
+Many of its international flights have been cancelled through June . 
+Such cancellation rates are understandable since the company is operating about 30 aircraft. <a id='par4' href='#par4'>¶</a>4 . 
+( U ) To add injury to insult , one of [ORG Boeing  ] 's [MISC MD-11s  ] leased to [ORG VARIG  ] was involved in a serious incident at [LOC Brasilia  ] 's international airport on June 17 , in which the middle landing gear failed to [LOC BRASILIA  ] 00001302 002 OF 003 initialize properly . 
+The ensuing break in the middle wheel well damaged the fuselage and the [ORG BSB  ] landing strip , causing a 2 hour closure of the runways at the airport . 
+Because of lack of funding , many [ORG VARIG  ] aircraft lay fallow or worse with no available resources to fix them or fuel them . 
+MONEY TALKS: [ORG VARIGLOG  ] TO THE RESCUE ? ------------------------------------ <a id='par5' href='#par5'>¶</a>5 . 
+( U ) During his June 23 announcement to annul the [ORG TGV  ] bid , the judge also stated that he would now turn his attention to [ORG VarigLog  ] 's bid for [ORG VARIG  ] . 
+[ORG VarigLog  ] , which has partial ownership by [PER Volo Brasil  ] , a [PER MatlinPatterson  ] ( [LOC U.S.  ] investment fund ) subsidiary , offered to buy its former parent company for [MISC USD  ] 485 million . 
+While [ORG VarigLog  ] had made an earlier [MISC USD  ] 350 million bid for [ORG VARIG  ] in April , it was rejected outright under [ORG ANAC  ] suspicion that [PER Volo  ] was not fully in compliance with [MISC Brazilian  ] laws regarding foreign investment control . 
+In fact , during meetings with Emboffs in April , [ORG ANAC  ] officials went far as to rule out the sale of [ORG VarigLog  ] to [PER Volo  ] . 
+However , after months of investigating , [ORG ANAC  ] leadership conceded , also on June 23 , that such a determination was not within their purview and that the [MISC Brazilian  ] tax authorities would determine ownership . 
+The [ORG ANAC  ] determination coincided with press reports that [ORG VarigLog  ] was prepared to immediately inject [LOC US  ] 20 million into the company to assist it with short term credit problems . 
+Thus far , [ORG VarigLog  ] has given [MISC USD  ] 3 million as a sign of good faith of its intentions . 
+It plans other deposits to keep the airline going until Judge [PER Ayoub  ] makes a decision about sale or liquidation . 
+[PER Ayoub  ] must now call a meeting with creditors to determine the viability of the bid . 
+[ORG VARIG  ] will once again go to auction , and one assumes , with only one buyer . 
+[ORG TGV  ] 's failed bid automatically disqualifies it from further participation. <a id='par6' href='#par6'>¶</a>6 . 
+( U ) However , two issues cast long shadows of doubt over the auction . 
+First , the [MISC Brazilian  ] [ORG Treasury  ] ( [ORG Receita Federal  ] ) and the [MISC Brazilian  ] [ORG Social Security Administration  ] ( [ORG INSS  ] ) obtained an injunction against the sale until the issue of whether the money raised in a new auction would be used to pay taxes and social security debts , which total [MISC USD  ] 1.56 billion . 
+Second , [ORG VARIG  ] 's administrator , [ORG Deloitte  ] , insists that the " old [ORG VARIG  ] " continue to operate with a guaranteed 5 percent of the new [ORG VARIG  ] formed by the buyers . 
+According to many legal analysts , this would mean that , legally , [ORG VarigLog  ] would assume [ORG VARIG  ] 's debt ( Reftel ) . 
+THIS IS THE LAST TIME ; I MEAN IT -------------------------------- <a id='par7' href='#par7'>¶</a>7 . 
+( U ) The reprieves that [ORG VARIG  ] has customarily received have been from GoB entities [MISC BR Distribuidora  ] , a [ORG Petrobras  ] subsidiary and from airport administrator [ORG INFRAERO  ] . 
+These abeyances will perhaps soon end . 
+[ORG VARIG  ] has renegotiated a payment plan with [MISC BR Distribuidora  ] seven times in 5 weeks , sometimes for just 24-hour periods . 
+This is after [MISC BR  ] spokesmen vehemently proclaimed in April , May and June that the time to support [ORG VARIG  ] out of their own pockets had come to an end . 
+[ORG INFRAERO  ] once again set a firm date of July 1 when [ORG VARIG  ] must pay its airport fees before landing in a [MISC Brazilian  ] airport , or not be allowed to land . 
+The date has slipped four times since April when [ORG INFRAERO  ] first announced that it would resume charging the tax to all cairlines after a seven-month hiatus , which caused [ORG INFRAERO  ] more than its share of financial pain . 
+Complaints piled as regular maintenance went undone , some of which was linked to anaccident at [LOC Congonhas Airport  ] , [LOC Brazil  ] 's busiest ( Reftel ) . <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) All the while , [ORG ANAC  ] , which has never publicly announced its contingency plan if [ORG VARIG  ] goes under , has pressured local carriers [ORG TAM  ] , [ORG GOL  ] and [ORG OceanAir  ] to transport stranded [ORG VARIG  ] passengers on their flights and they have accepted . 
+On the non-announcement of a definitive plan , shares in [ORG TAM  ] and [ORG GOL  ] which had enjoyed upward pressure since February , fell due to negative hedging on how much absorbing [ORG VARIG  ] 's estimated 28,000 customers will cost them . 
+[ORG ANAC  ] did announce that all [ORG Star Alliance  ] partners will ensure that [MISC Brazilians  ] in foreign locations will be accommodated . 
+[ORG Star Alliance  ] leadership , however , corrected [ORG ANAC  ] 's announcement stating that the airline partnership is a commercial activity between [ORG VARIG  ] and its alliance partners , not between [ORG ANAC  ] and the [ORG Star Alliance  ] . 
+The [LOC BRASILIA  ] 00001302 003 OF 003 [MISC Brazilian  ] military has made ready five aircraft to transport [ORG VARIG  ] passengers if they are stuck overseas without option . 
+[MISC Brazilian  ] diplomatic posts have notified host-country authorities to be prepared for a [ORG VARIG  ] failure . 
+The [MISC Brazilian  ] Embassy in [LOC Washington  ] has notified [ORG FAA  ] to expect a diplomatic note petitioning for the accreditation of [MISC Brazilian  ] airline [ORG OceanAir  ] , a company currently with no long-haul capabilities . 
+AT LEAST NO ONE IS GOING TO JAIL , YET ------------------------------------- <a id='par9' href='#par9'>¶</a>9 . 
+( U ) Numerous current and potential legal battles surrounding [ORG VARIG  ] 's bankruptcy promise to erupt into mayhem . 
+[ORG VARIG  ] itself has sued the GoB for damages it believes it is owed for operating under the strict pricing rules following 9/11 . 
+( Note: [ORG TAM  ] and other airlines have also sued ; the case has not yet been decided . 
+) [ORG ILFC  ] , the most vociferous foreign player in the [ORG VARIG  ] bankruptcy universe , had asked the [ORG New York Bankruptcy  ] court judge to order prison sentences for the [ORG VARIG  ] executives who are in the [LOC U.S.  ] until the company returned their planes . 
+The judge denied the prison sentence request , but did stipulate that [ORG VARIG  ] had to ground [ORG ILFC  ] planes and was not allowed to cannibalize , or dismantle the leased aircraft and transfer parts . 
+[PER Willis Lease  ] , another aircraft company received a court injunction to prevent [ORG VARIG  ] from using its craft . 
+Econoff spoke to a [ORG Boeing  ] representative who said all but one of [ORG Boeing  ] 's ten planes leased to [ORG VARIG  ] are grounded , either because of maintenance issues or by court order . 
+They have not yet taken possession of their aircraft . 
+The cancellations of [ORG Boeing  ] aircraft covered routes ensured that for now. <a id='par10' href='#par10'>¶</a>10 . 
+( U ) The [ORG National Airlines Association  ] ( [ORG SNEA  ] in [MISC Portuguese  ] ) announced on June 24 that it will now seek an injunction against the sale of [ORG VARIG  ] to [ORG VarigLog  ] . 
+The association says that [ORG VarigLog  ] has not proven that it has less than 20 percent foreign participation to qualify as a [MISC Brazilian  ] controlled company . 
+The [ORG Public Ministry  ] and the [ORG Superior Court  ] handling the government 's accounts may be forced to sue [ORG INFRAERO  ] if it offers yet another reprieve to [ORG VARIG  ] to pay landing taxes . 
+Currently , only [ORG VARIG  ] is relieved from paying the fees . 
+[ORG TAM  ] , [ORG GOL  ] and other airlines have complained publicly that they had to pay the reinstituted fees and thus so should [ORG VARIG  ] . 
+They have also threatened legal action . 
+Now that [ORG TGV  ] 's bid has been disqualified and the group forbidden to participate in the next auction , should it happen , the group may pursue a legal case against Judge [PER Ayoub  ] for what it called an 'unjustified delay' that endangered its bid . 
+COMMENT ------- <a id='par11' href='#par11'>¶</a>11 . 
+( [ORG SBU  ] ) The legal wrangling , delays , cancellations , timed announcements and misinformation surrounding [ORG VARIG  ] 's protracted failure promise to continue through the fall , if not further . 
+Even if Judge [PER Ayoub  ] allows the [ORG VarigLog  ] bid to move forward , the company has a number of legal hoops to jump through , if it so chooses . 
+Why a company would choose to buy [ORG VARIG  ] , with the assured promise of legal liability for past debt , is beyond us . 
+The bigger bang for the buck is obviously to await declared failure of the airline and then swoop in and acquire assets and airport space . 
+Judge [PER Ayoub  ] 's continued delay in making decisions on the fate of the airline and [ORG NY Bankruptcy  ] judge Drain 's unwillingness to allow lessors to physically re-take their craft , in a sense , is killing [ORG VARIG  ] through kindness . 
+It is increasingly clear that pressure from the [LOC Lula  ] administration during an election year is the only thing that could be keeping this process dragging on . 
+We consider that the only plausible explanation for [MISC BR Distribuidora  ] and [ORG INFRAERO  ] 's leniency on [ORG VARIG  ] , and [ORG ANAC  ] 's consideration of a legally questionable acquisition of [ORG VARIG  ] by [ORG Volo  ] via [ORG VarigLog  ] . 
+Unfortunately for everyone , creditors and passengers included , the airline industry and [LOC Brazil  ] 's investment climate will be left to deal with the wreckage . 
+CHICOLA</pre></code> 

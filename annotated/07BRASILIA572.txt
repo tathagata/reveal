@@ -1,0 +1,36 @@
+<code><pre>UNCLAS [ORG SECTION  ] 01 OF 02 [LOC BRASILIA  ] 000572 SIPDIS SENSITIVE SIPDIS STATE FOR EB/TRA: JEFF HORWITZ , JOEL REIFMAN TSA FOR VICKI REEDER , [PER SUSAN HASMAN  ] SIPDIS [ORG FAA  ] FOR [PER C. TERE FRANCESCHI  ] , [PER CECILIA CAPESTANY  ] , MAYTE ASHBY DEPT OF TRANSPORTATION FOR [MISC BRIAN HEDBERG E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/EAIR_0.html'>EAIR</a> <a href='/tag/OTRA_0.html'>OTRA</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/BR_0.html'>BR</a> REF: [PER A. BRASILIA  ] 485 <a id='parB' href='#parB'>¶</a>B . 
+06 [LOC BRASILIA  ] 2315 <a id='parC' href='#parC'>¶</a>C . 
+06 [LOC BRASILIA  ] 2521 <a id='parD' href='#parD'>¶</a>D . 
+06 [LOC BRASILIA  ] 2680 <a id='parE' href='#parE'>¶</a>E . 
+06 [LOC BRASILIA  ] 2578 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary: Embassy enthusiastically endorses the concept of posting an [ORG FAA  ] attache in [LOC Brazil  ] to provide for a regional [ORG FAA  ] presence in [LOC South America  ] . 
+[LOC Bilaterally  ] , such a presence would allow [ORG FAA  ] and [ORG Mission Brazil  ] to work together to assist the [MISC Brazilians  ] in dealing with their air traffic control crisis through greater training and information exchange efforts . 
+End Summary. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) As indicated in reftels , [LOC Brazil  ] has been plagued with a host of air travel issues since the collapse of national carrier Varig in early 2006 . 
+The stress on [LOC Brazil  ] 's aviation infrastructure was exacerbated by the mid-air collision between [LOC Gol Flight  ] 1907 and a private plane on September 29 , 2006 , which led to the [LOC Gol  ] jet 's crash and loss of all 154 persons on board . 
+Air traffic controllers ( [ORG ATCs  ] ) in [LOC Brazil  ] subsequently enacted a work-to-rule slowdown to better comply with [ORG International Civil Aviation Organization  ] ( [ORG ICAO  ] ) regulations following allegations of potential errors in their operations just prior to the crash , and also to protest their overall working conditions ( as military personnel , [MISC Brazilian  ] [ORG ATCs  ] are paid the usual military pay rate depending on their rank , not a skilled-personnel salary such as is paid to [LOC U.S.  ] [ORG ATCs  ] . 
+) <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) Now oft-referred to as a " crisis , " the civil aviation situation shows no imminent signs of improvement , having flared up several times since last year , with particularly onerous flight delays and cancellations during heavily traveled weekends and holiday periods . 
+This past weekend , air traffic controllers went on strike , effectively paralyzing air traffic in the country on Friday and Saturday ( septel ) . 
+Over the past few years , air travel in [LOC Brazil  ] has increased dramatically , without a corresponding increase in the [ORG GOB  ] 's budget and other resources devoted to aviation infrastructure. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG U  ] ) [ORG Mission Brazil  ] enthusiastically supports the idea of posting a regional [ORG FAA  ] attache in-country , either at the Consulate in [LOC Sao Paulo  ] or the Embassy in [LOC Brasilia  ] , to allow for increased cooperation and technical exchange . 
+We envision the [ORG FAA Attache  ] as the primary liaison with [ORG GOB  ] civil aviation authorities , working hand in hand with [ORG Mission Brazil  ] 's Military Liaison Office and [ORG Defense Attache Office  ] as long as air traffic control remains the responsibility of the [MISC Brazilian  ] Air Force , in addition to receiving appropriate assistance and support from the CivAir Officer in the [ORG Economic Section  ] for any non-military aviation concerns . 
+[LOC Brazil  ] is the largest country in the [LOC Southern Hemisphere  ] , with several airports offering flights from the [LOC U.S  ] . 
+( Comment: With the advent of [LOC U.S.  ] carrier flights from [LOC Miami  ] to [LOC Northeast Brazil  ] , planned in the near future , this will bring the number of airports in [LOC Brazil  ] that have flights from [LOC Miami  ] to four , possibly increasing to five airports in short order . 
+End Comment . 
+) <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG U  ] ) Despite the issues mentioned , [LOC Sao Paulo  ] still offers fairly ready access to other [LOC Southern Hemisphere  ] cities . 
+Posting an attache there would be more cost- and time-effective for regional coverage than having a person in [LOC Miami  ] or farther south in [LOC Buenos Aires  ] or [LOC Santiago  ] , for example . 
+In addition , aviation contacts in [LOC Brazil  ] are not centralized in [LOC Brasilia  ] ; although the federal government is based here , the air traffic control function still lies with the military . 
+[LOC Sao Paulo  ] offers the ability to conduct business both within [LOC Brazil  ] and externally , and would maximize the [ORG FAA  ] 's budget for regional activities . 
+The Ambassador stands ready to assist the establishment of an [ORG FAA  ] presence there. <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) In addition , [ORG Mission Brazil  ] would welcome and support the assignment of a TDY person from [ORG FAA  ] prior , or in addition , to the assignment of a longer-term attache , to expedite our aviation cooperation efforts with the [LOC GOB.  ] <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG U  ] ) [ORG Mission Brazil  ] thanks [ORG FAA  ] 's [ORG Western Hemisphere Office  ] ( [PER Mayte Ashby  ] , [PER Cecilia Capestany  ] , and [PER Tere Franceschi  ] ) for their communication , information and cooperation thus far . 
+We are ready to assist [ORG FAA  ] with developing its regional presence . 
+The point of contact for [ORG Mission Brazil  ] on military technical exchange subjects [LOC BRASILIA  ] 00000572 002 OF 002 is Lt. Col. [PER Joy Griffith  ] , [LOC United States  ] Military Liaison Office , [LOC Brasilia  ] , tel . 
+XXXXX e-mail XXXXX . 
+For general military aviation issues , the contact is Col. [PER Kevin Karol  ] , [ORG U.S. Defense Attache Office  ] , tel . 
+[ORG XXXX  ] , e-mail XXXXX . 
+The contact for civil aviation matters is [PER Gabrielle Sarrano  ] , [MISC Economic Section  ] , Tel . 
+XXXXX , e-mail [ORG XXXX  ] . 
+SOBEL</pre></code> 

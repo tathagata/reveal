@@ -1,0 +1,25 @@
+<code><pre>UNCLAS [LOC BRASILIA  ] 000717 SENSITIVE SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/TSPA_0.html'>TSPA</a> <a href='/tag/SENV_0.html'>SENV</a> <a href='/tag/KSCA_0.html'>KSCA</a> <a href='/tag/BR_0.html'>BR</a> SUBJECT: [LOC BRAZIL  ] LAUNCHES A TEST ROCKET AS A STEP TOWARD REVIVING ITS LAUNCH PROGRAM FROM [ORG ALCANTARA  ] LAUCNH [ORG CENTER  ] ( U ) THIS CABLE IS SENSITIVE BUT UNCLASSIFIED AND NOT FOR INTERNET DISTRIBUTION. <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) SUMMARY: On May 29 , [LOC Brazil  ] launched a research rocket from the [ORG Alcantara Launch Center  ] ( [ORG CLA  ] ) in the northeastern state of [LOC Maranhao  ] . 
+[MISC Brazilian  ] officials are considering the launch a success for the [MISC Brazilian  ] space program , and an important step toward putting a satellite into orbit . 
+[LOC Brazil  ] plans to launch three more rockets in 2009 , with the hopes that in 2010 it will become the first [MISC Latin American  ] country to put a satellite into space . 
+END SUMMARY. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) On May 29 , 2009 [LOC Brazil  ] launched a 19 ft. long [MISC Orion  ] rocket from its [ORG Alcantara Launch Center  ] ( [ORG CLA  ] ) in the northeastern state of [LOC Maranhao  ] under the mission name " [ORG Maracati  ] 1 . 
+" The [ORG Brazilian Space Agency  ] reports that the rocket traveled 93km ( 57.8 miles ) into the atmosphere before falling back into the ocean . 
+Both the [ORG Brazilian Space Agency  ] and the military are calling the launch a " total success . 
+" The rocket was equipped with tracking equipment to gather data during the flight for use in future launches. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) [LOC Brazil  ] plans to launch three more rockets from [ORG CLA  ] in 2009: one in July , one in September and one in November . 
+One of these launches will send a [MISC Brazilian  ] sounding rocket ( [MISC VSB-30  ] ) 200km above earth 's surface to gather further flight data . 
+These launches will be completed in preparation for a July 2010 launch in which [LOC Brazil  ] hopes to put a satellite into orbit aboard a [ORG Cyclone  ] 4 rocket . 
+If successful , the 2010 launch will mark the first time a [MISC Latin American  ] country has accomplished this technical feat. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) The May 29 launch comes after a two year hiatus . 
+The last launch at [ORG CLA  ] was in July 2007 using a sounding rocket . 
+Even though key components of the rocket were never recovered , [LOC Brazil  ] considered the launch a success . 
+Since its inception in 1994 , the [ORG Brazilian Space Agency  ] has attempted several times to launch a satellite into space , but has yet to succeed . 
+[LOC Brazil  ] tried to launch a satellite on two occasions , one in 1997 and another 1999 , but both rockets exploded shortly after take-off . 
+In 2003 , [LOC Brazil  ] attempted to send two satellites into space using one launch vehicle , but an explosion caused by a premature ignition of the rocket killed 21 people , and destroyed the launch pad. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) The facility at [ORG Alcantara  ] is the world 's closest launch facility to the equator . 
+This unique feature allows engineers to reduce fuel consumption by using the earth 's centripetal force to aid in the rocket 's assent . 
+Although the [ORG Brazilian Space Agency  ] uses the [ORG Alcantara  ] facilities for launch research , the site is operated by the [MISC Brazilian  ] Air [MISC Force.  ] <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) These launches are made possible through the extensive assistance provided by the [MISC Ukrainians  ] via the [MISC Ukrainian-Brazilian  ] joint venture [ORG Alcantara Cyclone Space  ] , which was created in 2002 . 
+The [MISC Ukrainians  ] had the responsibility for reconstructing the damaged launch facility , including the launch pad , while the [MISC Brazilians  ] provided and improved the transportation infrastructure to the launch site . 
+SOBEL</pre></code> 

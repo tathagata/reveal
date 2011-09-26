@@ -1,0 +1,10 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000201 SIPDIS SENSITIVE DEPT PASS IO COLLECTIVE OES/IHB FOR JONES , IO/HS FOR BLACKWOOD , EUR/NB FOR KRARUP E.O. 12958: N/A TAGS: <a href='/tag/AORC_0.html'>AORC</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/KFLU_0.html'>KFLU</a> <a href='/tag/WHO_0.html'>WHO</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: [LOC ICELAND  ] CURRENTLY UNABLE TO ASSIST WHO WITH H1N1 SUPPORT REF: STATE 99707 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) [ORG Econoff  ] delivered request contained in reftel to [PER Sveinn Magnusson  ] , [ORG Chief Medical Advisor  ] at the [ORG Ministry of Health on November  ] 3 . 
+[PER Mr. Magnusson  ] told [ORG Econoff  ] that [LOC Iceland  ] , as elsewhere , has been slow to receive the quantity of H1N1 vaccines ordered . 
+Currently , the vaccine is available only to individuals in the high risk categories . 
+Approximately 80 percent of those eligible have opted to receive the vaccine . 
+The vaccine will be made available to the general public , by appointment , at the end of this month. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) [PER Magnusson  ] thanked [ORG Econoff  ] for information regarding the request for WHO assistance but stated that [LOC Iceland  ] is unable to provide any contributions to the WHO at this time . 
+He anticipates that there will be no surplus of the vaccine after inoculations are completed . 
+[PER Magnusson  ] also said , however , that he will keep the request in mind should [LOC Iceland  ] 's situation change to where it might be in a position to contribute . 
+WATSON</pre></code> 

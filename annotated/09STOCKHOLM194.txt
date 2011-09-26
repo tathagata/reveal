@@ -1,0 +1,8 @@
+<code><pre>S E C R E T STOCKHOLM 000194 SIPDIS S/CT SHARRI R. [PER CLARK E.O.  ] 12958: [LOC DECL:  ] 03/20/2019 TAG PTER , [ORG PGOV  ] , [ORG ASEC  ] , [ORG EFIN  ] , [ORG ENRG  ] , [ORG KCIP  ] , SW SUBJECT: SWEDEN: [ORG CI/KR  ] RESPONSE FOR S/CT REF: SECSTATE 15113 Classified By: CDA [PER Robert Silverman  ] for reasons: 1/4 ( B ) , ( D ) , ( E ) , and ( G ) <a id='par1' href='#par1'>¶</a>1 . 
+( [LOC S  ] ) In response to reftel , post would like to add [LOC Sweden  ] 's communications infrastructure to the [ORG CI/KR  ] list . 
+Although [LOC Sweden  ] does not posses a direct undersea cable from the [LOC U.S.  ] , [LOC Sweden  ] is a central [MISC European  ] communications hub . 
+For example , [MISC Swedish  ] company [ORG TeliaSonera  ] is an international carrier that owns and manages 43,000 km of fiber optic cable linking [LOC Russia  ] and the [MISC Baltics  ] to the rest of [LOC Europe  ] and the [LOC U.S.  ] If these lines of communications were to be destroyed , disrupted , or exploited , it may compromise global communications. <a id='par2' href='#par2'>¶</a>2 . 
+( [LOC S  ] ) Post recommends keeping [MISC Swedish  ] pharmaceutical manufacturing company [ORG Recip AB  ] on the [ORG CI/KR  ] list for its production of [PER ThyroSafe  ] ( potassium iodide ) . 
+This resource provides protection in the aftermath of a nuclear emergency . 
+[PER ThyroSafe  ] is the only [ORG FDA  ] approved 65 mg potassium iodide tablet used to protect the thyroid gland against radioactive iodine released during a nuclear emergency . 
+SILVERMAN</pre></code> 

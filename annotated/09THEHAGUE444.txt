@@ -1,0 +1,24 @@
+<code><pre>S E C R E T THE HAGUE 000444 NOFORN SIPDIS E.O. 12958: [LOC DECL:  ] 07/22/2019 TAGS: <a href='/tag/ETTC_0.html'>ETTC</a> <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/ENRG_0.html'>ENRG</a> <a href='/tag/NL_0.html'>NL</a> <a href='/tag/IR_0.html'>IR</a> SUBJECT: NETHERLANDS: [MISC DUTCH  ] CONCERNS ABOUT ROTOR BLADE EXPORTS TO [LOC IRAN  ] Classified By: ACTING POLECON COUNSELOR SHAWN GRAY FOR REASONS 1.4 ( B ) and ( D ) <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG S/NF  ] ) [MISC SUMMARY:  ] The [MISC Dutch  ] export control authority has denied an export license for power plant turbine blades destined for [LOC Iran  ] . 
+[MISC Dutch  ] officials have formally asked other [MISC European  ] countries with companies that produce similar parts to block their export to [LOC Iran  ] . 
+The [MISC Dutch  ] have asked us informally to ensure [LOC U.S.  ] firms , such as [ORG General Electric  ] ( [ORG GE  ] ) , refrain from supplying these turbine blades to [LOC Iran  ] . 
+END SUMMARY . 
+2 . 
+( [ORG S/NF  ] ) [MISC Dutch  ] export control officials at the [ORG Ministries of Economic Affairs  ] ( [ORG MEA  ] ) and [ORG Foreign Affairs  ] ( [ORG MFA  ] ) asked to meet with EconOff June 30 . 
+[ORG MEA  ] , s [PER Kees Jan Steenhoek  ] described his office , s decision to block [ORG Sulzer Eldim BV  ] , s ( [MISC Dutch  ] subsidiary of [MISC Swiss  ] parent company [ORG Sulzer Metco  ] ) application to export gas-fired electricity turbine replacement rotor blades to [LOC Iran  ] . 
+[LOC PolMilOff  ] , s subsequent July 9 meeting with [ORG MFA  ] , s export control policy official [PER Josephine Frantzen  ] provided further detail. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG S/NF  ] ) Until 2009 , [MISC Dutch  ] customs authorities routinely stopped [ORG Sulzer Eldim  ] , s [ORG Iran-bound  ] shipments , then released them when satisfied the rotor blades were destined for civilian-use electricity production . 
+However , after discovering in January 2009 the [LOC UK  ] had blocked a GBP 45 million shipment of similar parts , [ORG MEA  ] used a &catch-all8 provision requiring [ORG Sulzer Eldim  ] to obtain an export license for the blades , on the grounds the electricity could be diverted to military or nuclear programs . 
+[ORG Sulzer Eldim  ] subsequently applied for an export license on a [ORG EUR  ] 40 million order . 
+The [MISC Dutch  ] recently denied the application and posted this information on the [ORG Nuclear Suppliers Group  ] ( [ORG NSG  ] ) [ORG Secure Information System  ] as [ORG NI-NL-09001.  ] <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG S/NF  ] ) The consignee in [LOC Iran  ] is a conglomerate that supplies the civilian power sector there , but also has ties to the military . 
+The [MISC Dutch  ] review of the case led them to believe the electricity produced by the turbines &might not be used for civilian purposes.8 One of [ORG Sulzer Eldim  ] , s directors is an [MISC Iranian  ] national . 
+[ORG MEA  ] estimates blocking the firm , s exports to [LOC Iran  ] could cause it to lose half its revenue . 
+[ORG Sulzer Eldim  ] has already laid off some of its 400-person staff , a controversial decision in the economically struggling southern province of [LOC Limburg  ] where the company is located. <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG S/NF  ] ) The [MISC Dutch  ] government has demarched other [MISC European  ] capitals -- including [LOC Paris  ] , [LOC Berlin  ] , and [LOC Rome  ] -- where rotor blade manufacturers are located . 
+According to [PER Frantzen  ] , the [MISC Italian  ] government had a &positive reaction , 8 but the others have not responded . 
+The [MISC Dutch  ] do not intend to demarche [LOC Washington  ] at this time . 
+However , [ORG GE  ] is capable of supplying the blades , and the [MISC Dutch  ] hope the [ORG USG  ] will not allow [ORG GE  ] to export these products to [LOC Iran  ] . 
+The [MISC Dutch  ] want other countries to be equally vigilant in denying export licenses for these parts so as to maintain cohesion within the [ORG NSG  ] and not disadvantage [MISC Dutch  ] business interests . 
+The [MISC Dutch  ] are particularly concerned [MISC German  ] company [ORG Siemens  ] will continue to export the blades to [LOC Iran  ] . 
+GALLAGHER</pre></code> 

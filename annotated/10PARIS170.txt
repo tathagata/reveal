@@ -1,0 +1,113 @@
+<code><pre>S E C R E T SECTION 01 OF 04 [LOC PARIS  ] 000170 NOFORN SIPDIS E.O. 12598 [LOC DECL:  ] 02/12/20 TAGS: <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/MOPS_0.html'>MOPS</a> <a href='/tag/MAR_0.html'>MAR</a> <a href='/tag/FR_0.html'>FR</a> <a href='/tag/IR_0.html'>IR</a> <a href='/tag/AF_0.html'>AF</a> <a href='/tag/NATO_0.html'>NATO</a> SUBJECT: [ORG SECDEF  ] GATES'S MEETING WITH [MISC FRENCH  ] MINISTER OF DEFENSE HERVE [PER MORIN  ] , FEBRUARY 8 , 2010 . 
+[LOC PARIS  ] 00000170 001.2 OF 004 Classified [PER By: Alexander Vershbow  ] , [ORG ASD/ISA  ] . 
+Reasons 1.4 ( b/d ) . 
+[ORG Ref: USNATO  ] 56 <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG S/NF  ] ) SUMMARY: Secretary of Defense [PER Robert Gates  ] ( [ORG SecDef  ] ) was hosted by [MISC French  ] Minister of [MISC Defense Herve Morin  ] for a working lunch during an official bilateral visit to [LOC Paris  ] on February 8 , 2010 . 
+[ORG SecDef  ] and [PER Morin  ] agreed on the basic themes to be included in [ORG NATO  ] 's revised [ORG Strategic Concept  ] . 
+On [LOC Missile Defense  ] , [ORG SecDef  ] refuted [PER Morin  ] 's contention that a [ORG European Missile Defense  ] system is both unwise and unnecessary but pledged to give [LOC France  ] and other [MISC Allies  ] better information on the costs and command and control structure of the [LOC U.S.  ] proposal . 
+Both [PER Morin  ] and [PER Gates  ] agreed that [LOC Iran  ] 's rejection of an engagement track meant that the time for pressure had arrived , but both noted concern over [LOC China  ] 's opposition to a new [ORG UN Security Council Resolution  ] ( [ORG UNSCR  ] ) . 
+On [LOC Afghanistan  ] , [ORG SecDef  ] praised [MISC French  ] contributions and highlighted ongoing trainer shortfalls . 
+[ORG SecDef  ] raised [LOC U.S.  ] concerns over the sale of a [MISC Mistral-class  ] helicopter carrier to [LOC Russia  ] as sending a mixed signal to both [LOC Russia  ] and our Central and [MISC East European Allies  ] . 
+[PER Morin  ] refuted this idea , arguing that the sale was a way to send a message of partnership to [LOC Russia  ] at a critical time . 
+[PER Morin  ] requested that the upcoming [LOC U.S.  ] [ORG Air Force Request for Proposal  ] ( [ORG RFP  ] ) for a new in-flight refueling tanker aircraft be unbiased . 
+[ORG SecDef  ] told [PER Morin  ] that he had full confidence that the [ORG RFP  ] would be as fair as possible . 
+END SUMMARY. ---------------------- [ORG NATO Strategic Concept  ] ---------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG S/NF  ] ) [PER Morin  ] welcomed [ORG SecDef  ] to [LOC France  ] and asked about [LOC U.S  ] positions regarding the revised [ORG NATO Strategic Concept  ] . 
+[PER Morin  ] noted [LOC France  ] 's interest in a document that would inject new ideas , be adopted with great momentum , and define [ORG NATO  ] 's roles and missions . 
+It should not just be a restatement of the conventional wisdom. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG S/NF  ] ) [ORG SecDef  ] told [PER Morin  ] he favored a short document that was perhaps three to five pages in length . 
+The [ORG Strategic Concept  ] should move [ORG NATO  ] from a traditional defensive alliance to a security alliance that can address a wide range of global threats . 
+[ORG SecDef  ] said that the [ORG Strategic Concept  ] must better align resources with [ORG NATO  ] 's level of ambition ; it must lay out a comprehensive approach to civil-military cooperation and enhance partnerships with the [ORG EU  ] , [ORG UN  ] and other international organizations . 
+[ORG SecDef  ] concluded that , above all , financial and broader structural reform must be pursued -- either as part of the [ORG Strategic Concept  ] or in parallel. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG S/NF  ] ) [PER Morin  ] agreed on length and the need for [ORG NATO  ] to take on new missions , but he wondered what types of missions members had in mind . 
+Cyber attacks ? 
+Terrorism ? 
+Proliferation ? 
+Missile Defense ? 
+[PER Morin  ] also stated his belief that [ORG NATO  ] needed to bring some clarity to its area of operation so that [ORG NATO  ] did not end up extending to the [LOC Pacific  ] . 
+He added that , in his view , extending the [ORG Alliance to Georgia  ] would weaken [ORG Article  ] 5 . 
+[ORG SecDef  ] stated his preference for [ORG NATO  ] to focus its efforts in the [LOC Euro-Atlantic  ] area , perhaps extending into the [MISC Mediterranean  ] . 
+He concurred with [PER Morin  ] that a bigger Alliance posed challenges. <a id='par5' href='#par5'>¶</a>5 . 
+( S//NF ) [PER Morin  ] told [ORG SecDef  ] that the [ORG UK MoD  ] had proposed drafting a joint [MISC French-UK  ] proposal on [ORG NATO  ] reform to then present to the [LOC U.S.  ] Noting that the objective was to overcome blockages from those countries that had underwhelming General Staffs , [PER Morin  ] asked whether [ORG SecDef  ] thought it would be better for [LOC Europe  ] to build consensus at home and work its own ideas , or for [LOC Europe  ] and the [LOC United States  ] to develop joint proposals . 
+[ORG SecDef  ] replied that he thought it best not to have two proposals , but that he would consult with [ORG SecState  ] . 
+He also said he hoped that the Senior Officials Group would come up with some concrete and viable ideas for reform. --------------- Missile Defense --------------- <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG S/NF  ] ) [PER Morin  ] , having expressed strong reservations to new [LOC U.S.  ] and [ORG NATO  ] missile defense ( [LOC MD  ] ) plans at the [ORG NATO  ] ministerial in [LOC Istanbul  ] ( reftel ) , said he wanted to explain how [LOC France  ] sees [LOC MD  ] and raise some questions . 
+First , he believes that the shift from [ORG Theater Missile Defense  ] ( [ORG TMD  ] ) to defense of populations and territory will give publics a false sense of security , since the sword was ultimately stronger than the shield . 
+For [LOC France  ] , security came from strong defense and deterrence . 
+Second , [PER Morin  ] asked what threat the system aims to counter . 
+Nuclear states or rogue states ? 
+Third , [PER Morin  ] asked about funding and how [MISC European  ] countries would participate in command and control ( C2 ) decisions . 
+[PER Morin  ] summarized his own personal opposition to [LOC MD  ] by asserting that the [LOC U.S.  ] and [LOC Europe  ] have differing mentalities on defense spending . 
+He said the [LOC U.S.  ] has true resiliency with [LOC PARIS  ] 00000170 002.2 OF 004 " infinite " means , while in [LOC Europe  ] defense spending has collapsed in every country but the [LOC UK  ] and [LOC France  ] . 
+As a result , any development needing common funding will dilute the already weak [MISC European  ] defenses . 
+[PER Morin  ] concluded by stating that it was folly to assume that [LOC MD  ] would give us added security. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG S/NF  ] ) [ORG SecDef  ] refuted [PER Morin  ] 's arguments , pointing out that [LOC MD  ] contributes to deterrence . 
+[ORG SecDef  ] explained to [PER Morin  ] that the system was aimed at nations with a handful of nuclear weapons and a limited but growing missile capability to launch them . 
+Noting [LOC Iran  ] fits that profile , [ORG SecDef  ] said that [LOC MD  ] provides a good deterrent against limited attacks. <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG S/NF  ] ) [ORG SecDef  ] agreed with [ORG MoD Morin  ] that the [LOC U.S.  ] owed [ORG NATO  ] answers on C2 , costs , and the role of common funding . 
+He pledged to provide more details on these issues , as well as on how [ORG ALTBMD  ] and the [LOC U.S.  ] [MISC Phased Adaptive Approach  ] ( [ORG PAA  ] ) fit together . 
+However , [ORG SecDef  ] said it was important to move ahead with the [LOC MD  ] study that was endorsed at the 2009 [ORG NATO  ] summit , since it would provide some of the answers [LOC France  ] was seeking . 
+[ORG SecDef  ] reminded [PER Morin  ] that POTUS will want to obtain a decision affirming the [ORG Alliance  ] role in [LOC MD  ] at the [LOC Lisbon  ] summit in late <a id='par2010' href='#par2010'>¶</a>2010. <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG S/NF  ] ) Responding to [ORG SecDef  ] 's discussion of [LOC MD  ] , [PER Morin  ] asked why there was a need to shift from theater to population defense . 
+[ORG SecDef  ] said the systems the [LOC U.S.  ] was deploying have broader applications . 
+For example the THAAD system , which the [LOC U.S.  ] had deployed to [LOC Hawaii  ] as a measure against [MISC North Korean  ] threat , protects both the theater and the population . 
+Gates offered the [MISC Aegis  ] ship-borne [MISC SM-3  ] , which was used to shoot down a defunct satellite , as a second example of a system that could also have broader applications and deter [LOC Iran  ] from holding us hostage by threatening missile launches. <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG S/NF  ] ) Recalling that [MISC Russian  ] Prime Minister [PER Putin  ] once told him [LOC Iran  ] was [LOC Russia  ] 's greatest threat , [ORG SecDef  ] noted that [LOC Russia  ] could plug into the new system . 
+[ORG SecDef  ] highlighted two [MISC Russian  ] objections to the former system: first , the radar in the [LOC Czech Republic  ] would have been so powerful that it could see into [LOC Russia  ] ; second , [LOC Russia  ] believed that the three-stage [MISC Ground-Based  ] Interceptor could have been converted easily to an offensive weapon . 
+The [MISC SM-3  ] missiles in the new approach can only be defensive in nature , however . 
+For these reasons , the [LOC U.S.  ] believed partnering with [LOC Russia  ] is once again potentially possible . 
+( NOTE: Following the meetings , [PER Morin  ] 's critical comments on Missile Defense were disavowed by senior officials at the [ORG MoD  ] and the [ORG MFA  ] , who said that his views were his own and that the [LOC U.S.  ] should essentially " erase " what he had just said . 
+END NOTE . 
+) ----- [LOC Iran  ] ----- <a id='par11' href='#par11'>¶</a>11 . 
+( [ORG S/NF  ] ) Shifting from Missile Defense to [LOC Iran  ] , [PER SecDef  ] noted that [LOC Russia  ] is now of a different mind on [LOC Iran  ] because of [LOC Tehran  ] 's persistent rejection of international proposals for negotiated solutions and its concealment of the [LOC Qom  ] facility . 
+[ORG SecDef  ] believed [LOC Russia  ] would be supportive of a new [ORG UNSCR  ] , although it may have different views on the severity of sanctions , but he expressed concern about [LOC China  ] . 
+[ORG SecDef  ] said that [LOC Russia  ] could perhaps help on [LOC China  ] , but that securing the support of other non-permanent [ORG Security Council  ] members was also an issue . 
+In this regard , [ORG SecDef  ] told [PER Morin  ] he had been blunt with [MISC Turkish  ] Prime Minister [PER Erdogan  ] , telling him that if [LOC Iran  ] developed nuclear weapons , we were facing two scenarios: nuclear proliferation in the [LOC Middle East  ] or a regional war ( or perhaps both ) . <a id='par12' href='#par12'>¶</a>12 . 
+( [ORG S/NF  ] ) [PER Morin  ] asked [ORG SecDef  ] if he believed [LOC Israel  ] had the capability to strike [LOC Iran  ] without [LOC U.S.  ] support . 
+[ORG SecDef  ] responded that he didn't know if they would be successful , but that [LOC Israel  ] could carry out the operation . 
+[ORG SecDef  ] told [PER Morin  ] that he believed a conventional strike by any nation would only delay [MISC Iranian  ] plans by one to three years , while unifying the [MISC Iranian  ] people to be forever embittered against the attacker. <a id='par13' href='#par13'>¶</a>13 . 
+( [ORG S/NF  ] ) [ORG MoD Morin  ] agreed that [LOC China  ] could be problematic on the [ORG UNSCR  ] and queried [ORG SecDef  ] how the [LOC U.S.  ] believed we could ensure their vote , especially in light of the upcoming [PER Dalai Lama  ] visit and the [LOC U.S.  ] weapons sale to [LOC Taiwan  ] . 
+[ORG SecDef  ] told [PER Morin  ] that because of Congressionally mandated rules , the [LOC U.S.  ] was required to provide defensive weapons for [LOC Taiwan  ] . 
+He observed that every time the [LOC U.S.  ] makes the sales to [LOC Taiwan  ] , the [MISC Chinese  ] suspend military-to-military relations , but only for the short term. -------- [LOC Pakistan  ] -------- <a id='par14' href='#par14'>¶</a>14 . 
+( [ORG S/NF  ] ) [PER Morin  ] expressed doubt about the willingness of the [MISC Pakistani  ] [LOC PARIS  ] 00000170 003 OF 004 government to fight extremists at home . 
+He noted that [PER Karzai  ] had told the [MISC French  ] that if the [MISC Pakistan-Afghanistan  ] border were closed , it would largely solve issues in [LOC Afghanistan  ] . 
+[ORG SecDef  ] replied that he had told the [MISC Pakistani  ] government two weeks earlier that [ORG Al Qaeda  ] was helping the [LOC Pakistan  ] [ORG Taliban  ] to destabilize [LOC Pakistan  ] . 
+[ORG SecDef  ] highlighted the dramatic changes in [LOC Pakistan  ] over the past 18 months , especially in [LOC Swat  ] and [LOC Bajaur  ] provinces , which offered some hope of progress . 
+[ORG SecDef  ] said that there was increasing coordination between [LOC U.S.  ] and [MISC Pakistani  ] forces across the border. ----------- [LOC Afghanistan  ] ----------- <a id='par15' href='#par15'>¶</a>15 . 
+( [ORG S/NF  ] ) Turning to [LOC Afghanistan  ] , [ORG MoD Morin  ] began by stating that although he had announced an additional 80 trainers , [LOC France  ] had also sent a non-official contribution as well . 
+( NOTE: [PER Morin  ] was referring to a classified deployment of [ORG French Special Forces  ] that have a limited mission to find two kidnapped [MISC French  ] journalists . 
+END NOTE . 
+) [LOC France  ] had also sent an additional deployment of engineers to work exclusively on the [MISC Counter-IED  ] mission . 
+[PER Morin  ] underscored that [LOC France  ] had significantly increased its contributions in [LOC Afghanistan  ] in the past 18 months from 2700 troops to nearly 4000. <a id='par16' href='#par16'>¶</a>16 . 
+( [ORG S/NF  ] ) [ORG SecDef  ] said the [LOC U.S.  ] understood the domestic situation and that he would not have pressed [LOC France  ] publicly for more forces until after the March elections . 
+However [ORG SecDef  ] requested that [LOC France  ] strongly consider substantially increasing military and police trainers . 
+[ORG SecDef  ] said that while he would publicly praise [MISC French  ] troops , which [LOC U.S.  ] troops consider terrific fighters , he was fine with keeping these discussions close hold. <a id='par17' href='#par17'>¶</a>17 . 
+( [ORG S/NF  ] ) Shifting topics , [PER Morin  ] questioned the decision to specifically name mid-2011 as the start of a withdrawal , which [PER Morin  ] thought would simply make the [ORG Taliban  ] wait it out . 
+[ORG SecDef  ] noted that whether to set a date for transition had led to one of the most protracted debates in [LOC Washington  ] in recent months . 
+[ORG SecDef  ] had come to the conclusion , however , that the [MISC Afghans  ] needed to be put on notice that they would need to take responsibility for their own security . 
+He pointed out that there is no end date for [LOC U.S.  ] involvement ; July 2011 is just the beginning of a process . 
+POTUS was very clear that the transition would be conditions-based . 
+[PER Morin  ] agreed with this and urged that clear benchmarks be set that could reassure public opinion . 
+[PER SecDef  ] concurred and observed that the [LOC U.S.  ] public will not tolerate a prolonged stalemate. -------------- Russia/Mistral -------------- <a id='par18' href='#par18'>¶</a>18 . 
+( [ORG S/NF  ] ) [PER SecDef  ] expressed [LOC U.S.  ] concerns about the [PER Mistral  ] sale to [LOC Russia  ] . 
+He told [PER Morin  ] that because of [ORG Sarkozy  ] 's involvement in brokering a ceasefire in [LOC Georgia  ] , which [LOC Russia  ] was not fully honoring , the sale would send the wrong message to [LOC Russia  ] and to our Allies in [LOC Central  ] and [LOC East Europe.  ] <a id='par19' href='#par19'>¶</a>19 . 
+( [ORG S/NF  ] ) [PER Morin  ] told [PER SecDef  ] pointedly that he had pushed hard for the sale . 
+He conceded that it was indeed a warship for power projection . 
+But [PER Morin  ] asked rhetorically how we can tell [LOC Russia  ] we desire partnership but then not trust them . 
+[PER Morin  ] told [PER SecDef  ] that he understood the [LOC U.S.  ] position on considering [LOC Central  ] and [LOC East European  ] Allies' concerns about the perceived threat from [LOC Russia  ] . 
+[PER Morin  ] argued , however , that this single ship would not make any difference with respect to [MISC Russian  ] capabilities , as [LOC Russia  ] 's naval production ability was severely degraded. <a id='par20' href='#par20'>¶</a>20 . 
+( [ORG S/NF  ] ) [PER SecDef  ] replied that [LOC U.S.  ] concerns were not about military capacity but about messaging . 
+Some allies , because of their past experiences , are still very concerned with [LOC Russia  ] and are not sure how much to trust the [LOC West  ] . 
+[PER SecDef  ] observed that [MISC Russian  ] democracy has disappeared and the government was an oligarchy run by the security services . 
+President [PER Medvedev  ] has a more pragmatic vision for [LOC Russia  ] than PM [PER Putin  ] , but there has been little real change. -------------- [PER KC-X Tanker  ] RFP -------------- <a id='par21' href='#par21'>¶</a>21 . 
+( [ORG S/NF  ] ) [PER Morin  ] told [PER SecDef  ] he had one final , but major , topic to raise , the [LOC U.S.  ] contract tender for a new tanker plane . 
+He asked that the RFP be issued so that competition was equal for both companies and there was no bias . 
+[PER Morin  ] stressed that it was important for our market economy to be a two-way street . 
+He told [PER SecDef  ] that if the terms of competition are unequal , [ORG EADS  ] would not submit a bid. <a id='par22' href='#par22'>¶</a>22 . 
+( [ORG S/NF  ] ) [PER SecDef  ] stated his belief that the RFP would be fair . 
+He [LOC PARIS  ] 00000170 004 OF 004 told [PER Morin  ] that the [ORG Air Force  ] had established the requirements . 
+He noted that since the previous competition , he had fired both the civilian and military leaders of the [ORG Air Force  ] and that there was a new person in charge of the [ORG Pentagon  ] 's acquisition policy . 
+[PER SecDef  ] said that it would be disappointing if [ORG EADS  ] did not submit a proposal. <a id='par23' href='#par23'>¶</a>23 . 
+( U ) [PER SecDef  ] has cleared this cable . 
+Drafted by OSD Staff . 
+RIVKIN</pre></code> 

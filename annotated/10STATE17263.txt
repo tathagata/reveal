@@ -1,0 +1,436 @@
+<code><pre>S E C R E T STATE 017263 SIPDIS E.O. 12958: [LOC DECL:  ] 02/24/2035 TAGS: <a href='/tag/ETTC_0.html'>ETTC</a> <a href='/tag/IR_0.html'>IR</a> <a href='/tag/KN_0.html'>KN</a> <a href='/tag/MTCRE_0.html'>MTCRE</a> <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/RS_0.html'>RS</a> <a href='/tag/TSPA_0.html'>TSPA</a> SUBJECT: [MISC U.S.-RUSSIA  ] [ORG JOINT THREAT ASSESSMENT TALKS  ] - DECEMBER 2009 REF: 09 STATE 082572 Classified By: [MISC ISN Acting A/S Vann H. Van Diepen  ] . 
+Reason 1.5 ( D ) ----------- ( U ) Summary ----------- <a id='par1' href='#par1'>¶</a>1 . 
+( S ) A [LOC U.S.  ] interagency team -- lead by [MISC ISN Acting Assistant Secretary Vann H. Van Diepen  ] -- met with a [MISC Russian  ] interagency team lead by [PER Vladimir Nazarov  ] , Deputy Secretary of the [ORG Russian National Security Council  ] ( full participants list is provided in paragraphs 76-77 below ) , on December 22 , 2009 for a second round of discussions on a [ORG Joint Threat Assessment  ] ( [ORG JTA  ] ) , as agreed by Presidents [PER Obama  ] and [PER Medvedev  ] in the 2009 [MISC U.S.-Russia Summit Joint Statement  ] on Missile Defense Issues . 
+The [MISC Russian  ] delegation came prepared to engage seriously , and made presentations on their evaluation of the missile programs of [LOC Iran  ] and the [LOC DPRK  ] ; a conceptual framework for evaluating the risk posed by various missile programs ; [MISC Russian  ] concerns about instability in [LOC Pakistan  ] and the security of nuclear weapons and missiles there ; and the work of the FSB ( [ORG Federal Security Service  ] ) in countering efforts by [MISC Iranian  ] and [MISC North Korean  ] agencies to either obtain nuclear and missile technologies and materials in [LOC Russia  ] or to transship the m through [MISC Russian  ] territory . 
+While the [MISC Russians  ] were prepared for discussions of cooperation at a strategic level on countering missile proliferation , their position remained the same: in their analysis , the missile programs of [LOC Iran  ] and the [LOC DPRK  ] are not sufficiently developed , and their intentions to use missiles against the [LOC U.S.  ] or [LOC Russia  ] are nonexistent , thus not constituting a " threat " requiring the deployment of missile defenses . 
+The discussions included a vigorous exchange of questions and answers , and concluded with an invitation by the [MISC Russians  ] to hold the next round of the [ORG JTA  ] in [LOC Moscow  ] in March or April 2010 . 
+The discussions lasted the full day . 
+End Summary. ------------------- ( U ) Opening remarks ------------------- <a id='par2' href='#par2'>¶</a>2 . 
+( S ) [PER Van Diepen  ] recalled that the July 2009 [MISC U.S.-Russia Joint Statement  ] called for [LOC U.S.  ] and [MISC Russian  ] experts to work together to analyze ballistic missile threats and that the [LOC U.S.  ] side had provided analyses of [LOC Iran  ] 's and [LOC North Korea  ] 's missile programs at the September [ORG JTA  ] . 
+He said that the [LOC U.S.  ] side looked forward to receiving [MISC Russian  ] perspectives on these programs and discussing areas of agreement and disagreement . 
+He added that the [LOC U.S.  ] hoped that development of a more shared perspective on these issues would help inform how the [LOC U.S.  ] and [LOC Russia  ] address missile threats bilaterally and multilaterally . 
+Consistent with the [ORG Joint Statement  ] and the non-paper [PER U/S Tauscher  ] provided to [LOC Russia  ] in November , this effort also could help the [LOC U.S.  ] and [LOC Russia  ] assess how to defend against missile threats if that becomes necessary . 
+[PER Van Diepen  ] ended by underscoring that the [LOC U.S.  ] looked forward to detailed discussions and then deciding on potential next steps. <a id='par3' href='#par3'>¶</a>3 . 
+( C ) [PER Nazarov  ] thanked [PER Van Diepen  ] for reminding both sides of the context for the work of the [ORG JTA  ] . 
+He noted that the July 6 [MISC Joint Statement  ] said that experts of both countries would analyze threats of the 21st century and make recommendations for political and diplomatic means to address them . 
+[LOC Russia  ] takes this seriously , and President [PER Medvedev  ] has given the highest priority to this work and has instructed that this work be coordinated under the [ORG Security Council  ] of the [LOC Russian Federation  ] . 
+Accordingly , [PER Nazarov  ] said , the [MISC Russian  ] delegation includes representatives from all of the [MISC Russian  ] agencies responsible for tracking missile threats and countering them . 
+He added that the [MISC Russian  ] side planned to make presentations , focusing primarily on [LOC Iran  ] and [LOC North Korea  ] . 
+After that , the [MISC Russian  ] delegation would be prepared to comment on the presentations made by the [LOC U.S.  ] at the last [ORG JTA  ] meeting in July . 
+He said the [MISC Russian  ] delegation had studied these materials closely and had several comments and questions. <a id='par4' href='#par4'>¶</a>4 . 
+( S ) [PER Nazarov  ] concluded by noting that [LOC Russia  ] looked forward to a creative dialogue and robust exchange of opinions between the experts of both sides . 
+He said [LOC Russia  ] would focus primarily on the threats from [LOC Iran  ] and [LOC North Korea  ] , noting that [LOC Russia  ] believed the long-term strategic interests of the [LOC U.S.  ] and [LOC Russia  ] largely coincide and that the acquisition of nuclear and/or missile capabilities by [LOC Iran  ] , [LOC North Korea  ] , or other threshold states is unacceptable . 
+[PER Nazarov  ] hoped that the discussions would be productive and potentially lead to the drafting of a joint assessment , and perhaps to the creation of a joint document. --------------------------------------------- ---- ( U ) [MISC Russian  ] Presentations on [LOC Iran  ] and [LOC North Korea  ] --------------------------------------------- ---- Iran: <a id='par5' href='#par5'>¶</a>5 . 
+( S ) [PER Evgeny Zudin  ] of the [MISC Russian  ] Ministry of Defense gave detailed presentations on the [MISC Russian  ] assessment of the [MISC Iranian  ] and [MISC North Korean  ] missile programs , and the degree to which [LOC Russia  ] believes these programs constitute threats requiring missile defense responses . 
+For [LOC Russia  ] , the bottom line is that , in essence , neither program constitutes a threat at the moment or in the near future . 
+NOTE: [LOC Russia  ] did not provide paper copies of either presentation to the [LOC U.S.  ] delegation . 
+END NOTE. <a id='par6' href='#par6'>¶</a>6 . 
+( S ) On [LOC Iran  ] , [PER Zudin  ] made the following points concerning [MISC Scud  ] missiles: --Given the challenging and complex situation of the regional context that surrounds [LOC Iran  ] , [LOC Iran  ] 's leaders view acquiring a missile capability as a deterrent to existent threats . 
+To that end , they also consistently exaggerate [LOC Iran  ] 's achievements in missile production. --The core of the [MISC Iranian  ] missile program has been the evolutionary development of liquid-fueled missiles based on [MISC Soviet Scud  ] technology from the 1960s. --Tehran acquired [MISC Scud  ] B systems from a number of countries during the 1980s. --The [MISC Iranian  ] version , called the [MISC Shahab-1  ] , has a range of 300 km and a reentry vehicle of 1 ton. --With scientific and technological assistance from [LOC North Korea  ] , [LOC Iran  ] acquired production capabilities for both the [MISC Scud  ] B and the [MISC Scud  ] C. --The [MISC Scud  ] C , called the Shahab-2 by the [MISC Iranians  ] , has a range of 550 km with a 700 kg payload. --Iran has also developed and commissioned a medium range ballistic missile ( [ORG MRBM  ] ) called the [LOC Shahab-3  ] , based on the [MISC North Korean  ] No [MISC Dong-1  ] and using [MISC Scud-based  ] technologies . 
+The [LOC Shahab-3  ] has a range of 1,500 km and a 700 kg payload. --Iran has done a good deal of work to improve the precision and range of this system , creating the [MISC Shahab-3M  ] , which [LOC Iran  ] claims has a range of 2,000 km , although so far the confirmed range is only 1,600-1,700 km. --Russia 's analysis indicates that this was achieved by reducing the re-entry vehicle weight to 250 kg and improving the engine . 
+-- [LOC Russia  ] also believes that this very nearly exhausts the potential for [LOC Iran  ] to increase the range of the [LOC Shahab-3  ] or make further improvements to [MISC Scud-based  ] missile technology. <a id='par7' href='#par7'>¶</a>7 . 
+( S ) Moving on from [MISC Scud-based  ] technology , [PER Zudin  ] made the following points on [LOC Iran  ] 's development of a 2,000 km-range solid propellant system: --Iran has been developing solid propellant MRBMs/IRBMs with better operational capability since 2000. --Currently , [LOC Russia  ] is seeing the development of a two-stage intermediate ( 2,000 km ) solid propellant missile. --The first test of this system in November 2007 failed . 
+During the second test on November 12 , 2008 , [LOC Iran  ] successfully accomplished the uplift stage of the missile. --Following the third test of the missile in May 2009 , [LOC Iran  ] announced that the launch was successful and that it would begin serial production of this missile. --This system was tested again on December 16 , 2009 , and [LOC Iran  ] also claimed this test was successful. --The [MISC Russian  ] assessment is that regardless of optimistic statements from [LOC Iran  ] , the test of this missile was actually just a test of a successful prototype and that what the test did was allow [LOC Iran  ] to practice first stage operation and stage separation. --Russia believes [LOC Iran  ] will need another 2-3 years of testing to perfect the missile . 
+[LOC Russia  ] believes it will not actually be deployed for 5-6 years. <a id='par8' href='#par8'>¶</a>8 . 
+( S ) [PER Zudin  ] said that another potential success indicator for [LOC Iran  ] 's missile program is the [ORG Safir  ] space launch vehicle ( [ORG SLV  ] ) program . 
+He said the [ORG Safir  ] launch on February 2 , 2009 was successful in putting the [MISC Omid  ] ( 26 kg ) satellite into orbit . 
+However , [LOC Iran  ] 's first attempt to launch the satellite into orbit on August 17 , 2008 was unsuccessful . 
+[LOC Russia  ] assesses that in order to achieve the successful launch , [LOC Iran  ] had used the maximum potential of its liquid-propellant technology ( the first stage of the [ORG Safir  ] was a [LOC Shahab-3  ] ) . 
+As for [LOC Iran  ] developing combat/offensive long-range missiles based on [ORG SLV  ] technology , [LOC Russia  ] believes , in theory , this is possible . 
+However , from a military technological perspective , [LOC Russia  ] believes this is unviable due to low throw weight of the system . 
+In addition , [LOC Russia  ] believes that development of a long-range missile based on its [ORG SLV  ] efforts would require [LOC Iran  ] to intensify its research and development , conduct a series of test launches outside its territory , and increase throw weight and accuracy . 
+Thus , in [LOC Russia  ] 's view , despite [LOC Iran  ] 's successful launch of a satellite , it is premature to talk about [LOC Iran  ] successfully developing the technology for a militarily useful long-range ballistic missile capacity. <a id='par9' href='#par9'>¶</a>9 . 
+( S ) [PER Zudin  ] summed up his presentation on [LOC Iran  ] by noting that over the last four years , [LOC Iran  ] has successfully launched a 26 kg satellite into orbit and conducted several successful launches of a solid propellant [ORG MRBM  ] , according to unconfirmed information . 
+However , [LOC Russia  ] believes [LOC Iran  ] 's " success " boils down to creating [ORG Shahab-3-class  ] liquid propellant missiles with an accuracy of several kilometers that can reach targets in the [LOC Middle East  ] and [LOC Southeastern Europe  ] , but given conventional warheads , these missiles cannot do substantial damage . 
+Under favorable conditions , [LOC Russia  ] believes [LOC Iran  ] might be able to begin a program to develop ballistic missiles with ranges of between 3,000-5,000 km after 2015 , but [LOC Russia  ] does not see [LOC Iran  ] taking any steps in this direction . 
+Rather , [LOC Russia  ] has concluded that [LOC Iran  ] 's ballistic missile program continues to be directed toward developing combat ready missiles to address regional concerns . 
+[ORG North Korea:  ] <a id='par10' href='#par10'>¶</a>10 . 
+( S ) [PER Zudin  ] made the following points with regard to the [LOC DPRK  ] 's missile program: --Over the last two decades [LOC North Korea  ] has paid increased attention to developing and producing ballistic missiles and [MISC SLVs.  ] --The [LOC DPRK  ] has commissioned the production of liquid propellant missiles such as [MISC Scud Bs  ] and [MISC Cs  ] ( which [LOC North Korea  ] calls the [ORG Hwasong  ] 5 and 6 ) , the No [PER Dong I  ] , the short-range [MISC KN-02  ] , and the " [MISC Luna-M  ] " tactical missile , plus solid propellant battlefield and tactical rockets. --The core of [LOC North Korea  ] 's missile capability is missile technology from the 1960s. --The potentially outdated No [MISC Dong-1  ] , with a range of 1,000-1,300 km and a reentry vehicle of one ton , is the most advanced missile commissioned by the [ORG North Korean  ] military. --In [LOC Russia  ] 's assessment , only the [MISC KN-02  ] , with a range of less than 100 km , is relatively modern. --Since early in the 1990s , [LOC North Korea  ] has slowly developed missiles of the [ORG Taepo Dong  ] class. --Russia estimates that the [ORG Taepo Dong-1  ] ( [ORG TD-1  ] ) was a prototype two-stage liquid propellant missile with a 2,000-2,500 km range. --The [MISC TD-I  ] first stage used a No [MISC Dong-1  ] engine , and the second stage used a [MISC Scud  ] engine. --The only flight test of the [MISC TD-I  ] was conducted on August 31 , 1998 , during which the [LOC DPRK  ] practiced separation of missile stages . 
+[LOC North Korea  ] declared this test to be an [ORG SLV  ] launch. --The [ORG Taepo Dong-2  ] ( [ORG TD-2  ] ) [ORG MRBM  ] is a two-stage liquid propellant missile with a range of 3,500-6,000 km , depending on the weight of the warhead. --A July 5 , 2006 test launch of the [MISC TD-II  ] failed as the missile exploded 40 seconds into flight. --Russia estimates that [LOC North Korea  ] tested elements of the [ORG Taepo Dong-2  ] with its April 5 , 2009 [ORG SLV  ] launch. --Russia believes [LOC North Korea  ] has demonstrated a certain level of progress in the missile area by creating a first stage engine with a thrust of 100 tons. --North [LOC Korea  ] conducted tests of nuclear devices on October 9 , 2006 and May 26 , 2009 . 
+However , it remains unproven whether [LOC North Korea  ] can make a nuclear warhead of the size and weight that would allow it to be carried by a ballistic missile. <a id='par11' href='#par11'>¶</a>11 . 
+( S ) [PER Zudin  ] said that in [LOC Russia  ] 's view , the widespread claims about [LOC North Korea  ] 's achievements in the missile area are dubious . 
+In particular , [LOC Russia  ] notes that it is claimed that [LOC North Korea  ] has a new missile based on the [MISC Soviet  ] R-27 ( NOTE: SS-N-6 . 
+END NOTE ) submarine-launched ballistic missile ( [ORG SLBM  ] ) that is capable of reaching ranges of 2,400-4,000 km . 
+However , the many published reports regarding this missile , which is known as the [MISC BM-25  ] , contain claims that are made without reference to any reliable sources . 
+Moreover , [PER Zudin  ] said , the fact is that there have been no successful tests of this missile in either [LOC North Korea  ] or [LOC Iran  ] . 
+[LOC Russia  ] also is unaware that this missile has ever been seen . 
+There are claims that 19 of these missiles were shipped to [LOC Iran  ] in 2005 , but there is no evidence for this and concealment of such a transfer would be impossible. <a id='par12' href='#par12'>¶</a>12 . 
+( S ) [PER Zudin  ] said [LOC Russia  ] believes the real missile potential of [LOC North Korea  ] is an impressive arsenal of outdated missiles with ranges no greater than 1,300 km and that are only a threat to countries in the region that [LOC North Korea  ] considers to be enemies . 
+[LOC Russia  ] estimates that in the years to come [LOC North Korea  ] will devote considerable effort to improving and perfecting its [ORG SLV  ] . 
+To this end , it will use the launch facility near the community of [LOC Tongchang-Dong  ] ( NOTE: Known to the [LOC U.S.  ] as the [LOC Yunsong  ] facility . 
+END NOTE ) . 
+[LOC Russia  ] assesses that [ORG North Korean  ] development of long-range ballistic missiles based on SLVs is possible in principle , but perfection will take years . 
+The prospects for [LOC North Korea  ] developing a combat operational system from such a process is not likely due to the inability to conduct concealed preparations for launch and the long preparation times. <a id='par13' href='#par13'>¶</a>13 . 
+( S ) Summing up , [PER Zudin  ] said [LOC Iran  ] 's and [LOC North Korea  ] 's missile programs can be characterized as follows: the only real successes are liquid propellant intermediate range missiles with ranges of 1,300 km , and both countries would face real technical difficulties in trying to make additional advances to increase the range of their systems. --------------------------------------------- ------ ( U ) Discussion on [MISC Iranian  ] and [ORG North Korean Missiles  ] --------------------------------------------- ------ <a id='par14' href='#par14'>¶</a>14 . 
+( S ) [PER Van Diepen  ] thanked the [MISC Russian  ] delegation for its presentations , noting that there appeared to be some areas where both sides agree , other areas where the two sides see the same thing a little differently , and areas where the two sides disagree . 
+He said it is good to have the opportunity to examine the differences and the reasons for them , and urged that this be done in a structured way . 
+[PER Van Diepen  ] proposed discussion begin with [LOC Iran  ] and [LOC North Korea  ] generally , and then move to specific categories of short-range , medium range , and long-range missiles . 
+On [LOC Iran  ] , he said it appeared that both sides had similar assessments at the technical level with regard to short range missiles in [LOC Iran  ] . 
+On medium range missiles in [LOC Iran  ] , both sides agree there is the original No [PER Dong  ] , a modified No [PER Dong  ] with longer range - although the [LOC U.S.  ] and [LOC Russia  ] have different ideas of the modifications made to achieve that longer range . 
+And both sides seem to agree that [LOC Iran  ] is developing a two-stage solid propellant missile . 
+Beyond that , [LOC U.S.  ] and [MISC Russian  ] assessments seem to diverge. <a id='par15' href='#par15'>¶</a>15 . 
+( S ) Based on the [MISC Russian  ] presentations , the [LOC U.S.  ] delegation posed a number of questions . 
+The [MISC Russian  ] delegation also raised a number of questions about [LOC U.S.  ] comments and the [LOC U.S.  ] presentations on [LOC Iran  ] and [LOC North Korea  ] from the September [MISC JTA  ] talks . 
+The topics raised and follow-up discussions were as follows: <a id='par16' href='#par16'>¶</a>16 . 
+( S ) [MISC Shahab-3 Reentry Vehicle Mass  ] The [LOC U.S.  ] noted that based on modeling , it assesses that the modified [ORG Shahab-3  ] has 600 kg re-entry vehicle mass at a range of 2,000 km , and asked for [LOC Russia  ] to explain the basis for its assessment of 250 kg re-entry vehicle mass . 
+The [LOC U.S.  ] also asked how useful such a missile would be as a military weapon . 
+[LOC Russia  ] responded that there is some uncertainty in its estimate , conceding that the 250 kg is at the low end of [LOC Russia  ] 's estimate . 
+However , [LOC Russia  ] believes that the low weight of the [ORG Shahab-3  ] warhead makes it pointless as a military weapon . 
+Although the range could be further increased with a lighter warhead , [LOC Russia  ] 's view is that such a missile also is pointless . 
+Additionally , while [LOC Russia  ] views the [LOC U.S.  ] 600 kg estimate as being close to the 700 kg weight of the basic [ORG Shahab-3  ] warhead , it assesses that the range of the system with that warhead is 1,300 km , not 2,000 km . 
+[LOC Russia  ] does not believe that if the weight of the warhead is decreased by just 50 kg , it is realistic to assess that the [ORG Shahab  ] 3 would achieve a 2,000 km range. <a id='par17' href='#par17'>¶</a>17 . 
+( S ) Aluminum Airframe The [LOC U.S.  ] said that its assessment of a 2,000 km range for the [ORG Shahab-3  ] is achieved through the use of an aluminum airframe instead of steel and increased engine thrust . 
+[LOC Russia  ] asked whether the assessment that the [ORG Shahab  ] 3 airframe is made with aluminum rather than steel is based on speculation or fact . 
+The [LOC U.S.  ] responded that the assessment derives from information relating to [LOC Iran  ] seeking various aluminum alloys . 
+Additionally , during the [MISC Information Exchange  ] ( [ORG IE  ] ) portion of the [ORG Missile Technology Control Regime  ] ( [ORG MTCR  ] ) Plenary , a number of presentations , including by the [LOC UK  ] and [LOC France  ] , also assessed that the [ORG Shahab-3  ] has an aluminum airframe and described a number of [MISC Iranian  ] attempts to procure aluminum for this purpose . 
+For this reason there also have been [ORG MTCR  ] proposals to add the types of aluminum sought by [LOC Iran  ] to the [ORG MTCR  ] Annex. <a id='par18' href='#par18'>¶</a>18 . 
+( S ) [ORG Safir  ] Airframes The [LOC U.S.  ] noted that it appears that the first stage of the [ORG Safir  ] [ORG SLV  ] is the [ORG Shahab-3  ] , and asked whether [LOC Russia  ] believes the [ORG Safir  ] could achieve orbit with a steel airframe . 
+[LOC Russia  ] answered that the facts are that the [ORG Safir  ] was used to put a satellite with a very low mass into orbit . 
+It is likely that the technologies used to achieve this were exploited to their utmost . 
+[MISC Russian  ] analysis showed that the size of the Omid is the limit of what [LOC Iran  ] could put into orbit . 
+The [LOC U.S.  ] agreed that a very low weight satellite was all that the [ORG Safir  ] could put into orbit , but assessed that even orbiting such a small satellite could only be done using an aluminum airframe . 
+In [LOC U.S.  ] modeling of the launch using a steel airframe , the [ORG Safir  ] was not able to get close to putting anything into orbit. <a id='par19' href='#par19'>¶</a>19 . 
+( S ) [LOC Russia  ] remarked that even if the [LOC U.S.  ] and [LOC Russia  ] disagree over the materials used in the airframe , both sides can agree that the capability of this missile was used to its maximum to get a satellite into orbit . 
+If there is agreement on this point , then both sides should be able to agree that using this system as a weapon is pointless . 
+The [LOC U.S.  ] responded that this was not necessarily so and would depend on how the rocket is used . 
+The [ORG Safir  ] launch might have been a technology demonstrator . 
+If one clustered or stacked the [ORG Shahab  ] , it could be used as a longer-range system . 
+The [LOC U.S.  ] added that something using a single [ORG Shahab  ] as its first stage will have limitations , but that is not the only option. <a id='par20' href='#par20'>¶</a>20 . 
+( S ) Using [MISC Clustered Engines Russia  ] noted that during the [MISC JTA  ] talks in [LOC Moscow  ] , the [LOC U.S.  ] discussed several options [LOC Iran  ] would have with regard to a cluster scheme . 
+However , in [LOC Russia  ] 's view , the problem with a cluster scheme is that it makes the missile nonviable for military purposes . 
+The [LOC U.S.  ] responded that a cluster scheme would make the system less mobile , but noted that it would provide a possibility for putting a missile further downrange . 
+However , the basic [LOC U.S.  ] point is that the [ORG Safir  ] could have been a technology demonstrator for staging , separation , ignition , and control of an upper stage . 
+[LOC Russia  ] noted that it views the [ORG Safir  ] launch as a success and has stated this . 
+Additionally , [LOC Russia  ] agrees there are ways to increase the throw weight , including the clustering of engines , but the goal of the [MISC Russian  ] review of [LOC Iran  ] 's missile capabilities was to examine whether the [MISC Iranian  ] program could create a combat ready missile that meets certain specifications . 
+In [LOC Russia  ] 's view it cannot , and talking about the [ORG Shahab-3  ] as a long-range combat missile is unrealistic. <a id='par21' href='#par21'>¶</a>21 . 
+( S ) The [LOC U.S.  ] agreed it is not realistic for a mobile missile , but thought it would be realistic for use in a silo or underground . 
+[LOC Russia  ] responded that such a missile would require a fixed launch pad . 
+Fifty years ago fixed launch pads deep inside a country were survivable , but now that is not realistic . 
+The [LOC U.S.  ] countered that both [LOC Russia  ] and the [LOC U.S.  ] still have hundreds of such launch sites . 
+[LOC Russia  ] said that was a topic for another discussion , not JTA. <a id='par22' href='#par22'>¶</a>22 . 
+( S ) [LOC Iran  ] Not Capable of Producing Longer-Range Missiles [LOC Russia  ] said its bottom line is that [LOC Iran  ] lacks appropriate structural materials for long-range systems , such as high quality aluminum . 
+[LOC Iran  ] can build prototypes , but in order to be a threat to the [LOC U.S.  ] or [ORG Russia Iran  ] needs to produce missiles in mass quantities , and it lacks materials sufficient for the type of mass production needed to be a security threat . 
+[LOC Russia  ] further noted that the technology for longer-range missiles is sophisticated and difficult to master . 
+For example , the elongated airframes [LOC Iran  ] is using might not survive the stresses of a ballistic flight path , and the guidance system for the missile ( [ORG Shahab-3  ] ) is outdated and does not allow for precision steering . 
+According to [MISC Russian  ] calculations , if the control system is used at a range of 2,000 km , it could veer as much as 6-7 km off its target ; at 5,000 km , the accuracy could be off by 50-60 km . 
+In addition , the liquid propellants used by the [MISC Iranians  ] are of low efficiency . 
+[LOC Iran  ] is working to improve the power of the engine and develop more efficient kinds of fuel . 
+However , it faces significant challenges . 
+[LOC Iran  ] also has problems with launch preparation times , although it has made some recent improvements. <a id='par23' href='#par23'>¶</a>23 . 
+( S ) Launching from [LOC Silos Russia  ] said it does not think a [ORG Shahab-3  ] derived system could be launched from a silo . 
+Ground launch sites that are for SLVs are not suitable for military launches , and missiles with side-based vent engines and clustered engines cannot be silo-based . 
+The [LOC U.S.  ] responded that this might be an area where [LOC U.S.  ] and [MISC Russian  ] assessments differ . 
+For example , the [LOC U.S.  ] thinks the [PER Taepo Dong-2  ] is a clustered missile that can be launched from a silo or underground launcher , adding that there are scenarios to compensate for shortcomings of this technology should the [MISC Iranians  ] or [LOC North Koreans  ] choose to pursue them. <a id='par24' href='#par24'>¶</a>24 . 
+( S ) [MISC Iranian  ] Solid Propellant MRBM The [LOC U.S.  ] said it does not see the solid-propellant MRBM as a technology demonstrator . 
+This system has been tested four times in the past two years , and the [LOC U.S.  ] assesses [LOC Iran  ] will be ready to field it in less than the 5-6 year timeframe [LOC Russia  ] envisions . 
+[LOC Russia  ] asked how soon the [LOC U.S.  ] thought the system could be ready . 
+The [LOC U.S.  ] said that it would not be surprised if a two-stage system with a range up to 2,000 km were fielded within a year , at least in limited numbers . 
+The [LOC U.S.  ] also noted that not all countries follow the same testing procedures as the [LOC U.S.  ] and [LOC Russia  ] . 
+[LOC North Korea  ] is an extreme example , but [LOC Iran  ] does not have the same test philosophy as either the [LOC U.S.  ] or [LOC Russia.  ] <a id='par25' href='#par25'>¶</a>25 . 
+( S ) The Path to [LOC Long Range Missile Development  ] in [LOC Iran  ] The [LOC U.S.  ] said the main potential avenue for [LOC Iran  ] developing long range missiles is by using current systems as building blocks . 
+For example , using the [ORG Shahab-3  ] with clustered or stacked engines could be one path . 
+Another path might be the so-called [MISC BM-25  ] missile that the [LOC U.S.  ] believes was sold to [LOC Iran  ] by [LOC North Korea  ] . 
+A third path might be development of a solid-propellant MRBM with more powerful motors . 
+[LOC Russia  ] said that its views on the [ORG Shahab  ] 3 had already been discussed . 
+[LOC Russia  ] had some questions about the other two paths the [LOC U.S.  ] had identified . 
+In addition , [LOC Russia  ] thinks it also will be very important to consider the intentions of [LOC Iran  ] and [LOC North Korea  ] that could lead to creation or improvement of its missiles . 
+This will affect what each side ( [LOC U.S.  ] and [LOC Russia  ] ) does to monitor what these countries ( [LOC Iran  ] and [LOC North Korea  ] ) do to acquire missile technologies , including procurement methods . 
+It also will help define the key technologies required by these countries now and in the future and in finding a means for protecting these technologies. <a id='par26' href='#par26'>¶</a>26 . 
+( S ) The [MISC BM-25  ] [LOC Russia  ] said that during its presentations in [LOC Moscow  ] and its comments thus far during the current talks , the [LOC U.S.  ] has discussed the [MISC BM-25  ] as an existing system . 
+[LOC Russia  ] questioned the basis for this assumption and asked for any facts the [LOC U.S.  ] had to provide its existence such as launches , photos , etc . 
+For [LOC Russia  ] , the [MISC BM-25  ] is a mysterious missile . 
+[LOC North Korea  ] has not conducted any tests of this missile , but the [LOC U.S.  ] has said that [LOC North Korea  ] transferred 19 of these missiles to [LOC Iran  ] . 
+It is hard for [LOC Russia  ] to follow the logic trail on this . 
+Since [LOC Russia  ] has not seen any evidence of this missile being developed or tested , it is hard for [LOC Russia  ] to imagine that [LOC Iran  ] would buy an untested system . 
+[LOC Russia  ] does not understand how a deal would be made for an untested missile . 
+References to the missile 's existence are more in the domain of political literature than technical fact . 
+In short , for [LOC Russia  ] , there is a question about the existence of this system. <a id='par27' href='#par27'>¶</a>27 . 
+( S ) The [LOC U.S.  ] repeated its earlier comment that [LOC Iran  ] and [LOC North Korea  ] have different standards of missile development than many other countries , including the [LOC U.S.  ] and [LOC Russia  ] . 
+[LOC North Korea  ] exported [PER No Dong  ] missiles after only one flight test , so it is not unimaginable that it would build and seek to export a system that has not been tested . 
+This is especially true for [LOC North Korea  ] because of its need for hard currency . 
+In the [LOC U.S.  ] view , the more interesting question is why would [LOC Iran  ] buy a missile that has not been tested . 
+One possible answer is that [LOC Iran  ] has recognized that the [MISC BM-25  ] 's propulsion technology exceeds the capabilities of that used in the [ORG Shahab-3  ] , and that acquiring such technology was very attractive . 
+[LOC Iran  ] wanted engines capable of using more-energetic fuels , and buying a batch of [MISC BM-25  ] missiles gives [LOC Iran  ] a set it can work on for reverse engineering . 
+This estimate would be consistent with the second stage of the [ORG Safir  ] SLV using steering engines from the [MISC BM-25  ] missile. <a id='par28' href='#par28'>¶</a>28 . 
+( S ) [ORG Safir  ] and [MISC BM-25  ] The [LOC U.S.  ] explained that based on a comparison of [MISC Internet  ] photos of the second stage of the [ORG Safir  ] , the [LOC U.S.  ] assessment is that the steering ( vernier ) engines on the [ORG Safir  ] are the same as on the [MISC R-27  ] . 
+The weld lines and tank volumes from the [ORG Safir  ] second stage show that the ratio of oxidizer to propellant is not consistent with Scud propellants and more consistent with unsymmetrical dimethylhydrazine ( [ORG UDMH  ] ) and nitrogen tetroxide ( N2O4 ) , which were used in the [MISC R-27  ] . 
+The [LOC U.S.  ] does not have any information on why [LOC Iran  ] has not flight tested the [MISC BM-25  ] . 
+It may be due to difficulties assembling the missiles , but it appears that they have at least done work with the steering ( vernier ) engines . 
+[LOC Russia  ] asked if the [LOC U.S.  ] was saying that its case for the existence of the [MISC BM-25  ] missile is that individual elements of the [ORG Safir  ] resemble the steering engines of the [MISC R-27  ] missile. <a id='par29' href='#par29'>¶</a>29 . 
+( S ) The [LOC U.S.  ] said that is only part of the case . 
+In the media , and more importantly in the [ORG MTCR Information Exchange  ] , countries have offered direct evidence of the transfer of the [MISC BM-25  ] from [LOC North Korea  ] to [LOC Iran  ] . 
+[LOC Russia  ] asked if the [LOC U.S.  ] had pictures of the missile in [LOC Iran  ] . 
+The [LOC U.S.  ] did not , but noted that [LOC North Korea  ] had paraded the missile through the streets of [LOC Pyongyang  ] . 
+[LOC Russia  ] disagreed . 
+[LOC Russia  ] said it had reviewed the video of the [MISC North Korean  ] military parade and concluded that [LOC North Korea  ] had shown a different missile . 
+[LOC Russia  ] does not think the [MISC BM-25  ] exists . 
+The missile appears to be a myth , and some say that it is based on a [MISC Russian  ] missile . 
+However , no one has seen it , and [LOC Russia  ] cannot find traces of it . 
+The [LOC U.S.  ] said it would endeavor to provide further information on the existence of the [MISC BM-25  ] at the next round of talks , noting that reaching agreement on this point will affect the joint assessment of [MISC Iranian  ] and [MISC North Korean  ] missile capabilities. <a id='par30' href='#par30'>¶</a>30 . 
+( S ) [ORG Safir  ] Fuel [LOC Russia  ] asked whether the [LOC U.S.  ] had any clear images of the [ORG Safir  ] that allow for the assessment of tank volumes and the ratio of fuel to oxidizer . 
+The [LOC U.S.  ] said that the weld lines of the second stage are clear in the pictures [LOC Iran  ] put on the [MISC Internet  ] , and [LOC U.S.  ] analysts were able to make pretty good calculations based on this information . 
+[LOC Russia  ] questioned this , saying that the photos did not allow for accurate measurements of distances . 
+The [LOC U.S.  ] undertook to provide more information on this point at the next round of talks. <a id='par31' href='#par31'>¶</a>31 . 
+( S ) The [LOC U.S.  ] then asked [LOC Russia  ] for its assessment of the types of propellant used in the [ORG Safir  ] second stage . 
+[LOC Russia  ] said it thinks that hydrazine is used . 
+The [LOC U.S.  ] asked whether [LOC Russia  ] thought [ORG UDMH  ] might be involved . 
+[LOC Russia  ] did not . 
+It said that there might be different combinations of fuel and oxidizers , but the base is hydrazine. <a id='par32' href='#par32'>¶</a>32 . 
+( S ) More on Propellants The [LOC U.S.  ] asked whether [LOC Russia  ] assesses that [LOC Iran  ] is moving beyond Scud propellants . 
+[LOC Russia  ] responded that it believes [LOC Iran  ] is trying to move in this direction because it wants something more powerful - something that can lift 40-50 tons . 
+With bigger engines , [LOC Iran  ] can improve missile range . 
+Thus , [LOC Iran  ] has been working to acquire more-energetic fuels and trying to produce [ORG UDMH  ] and N2O4 . 
+However , [LOC Iran  ] has been working on this for approximately 10 years , and [LOC Russia  ] has not seen any serious results . 
+[LOC Russia  ] further noted that [PER Malik Ashtar University  ] in [LOC Tehran  ] has been working on fuel combinations , but it apparently has not been successful . 
+The fact that [LOC Iran  ] has not succeeded in this area is evident in [LOC Iran  ] 's effort to seek this technology from abroad. <a id='par33' href='#par33'>¶</a>33 . 
+( S ) The [LOC U.S.  ] noted that it was significant that both the [LOC U.S.  ] and [LOC Russia  ] assess that [LOC Iran  ] is working on more-energetic propellants , even if the two sides differ in how far along they are . 
+[LOC Russia  ] responded that this is due to the fact that [LOC Iran  ] has not yet launched any longer range missiles . 
+There have been no tests , and statements from [LOC Iran  ] that it has missiles that can fly 2,000 km have not been substantiated . 
+The longest range that [LOC Russia  ] has seen is 1,700 km , and that was achieved only because of a reduced throw weight . 
+If the [LOC U.S.  ] has additional data to share , [LOC Russia  ] would be interested . 
+The [LOC U.S.  ] agreed to look into the matter and elaborate further at the next [ORG JTA  ] talks. <a id='par34' href='#par34'>¶</a>34 . 
+( S ) However , the [LOC U.S.  ] also noted that modeling shows that achieving a greater range is possible . 
+Just because a capability has not been demonstrated operationally does not mean that it is not possible . 
+Once a program has achieved 1,500 km , going a few hundred kilometers more is not that much of an obstacle . 
+Going from 1,700 to 2,000 km is not a great technological stretch . 
+[LOC Russia  ] said it could not agree because with a longer flight , various parts of the missile could burn through , the missile could fall apart , or it could go off course . 
+It needs to be tested at its maximum range . 
+As discussed earlier , the [LOC U.S.  ] believes [LOC Iran  ] can achieve the increased range due to a combination of increased thrust from more powerful engines , a slightly reduced payload , and the use of aluminum instead of steel. <a id='par35' href='#par35'>¶</a>35 . 
+( S ) [LOC Russia  ] disagreed with the [LOC U.S.  ] assessment that [LOC Iran  ] has been able to buy technology to produce solid propellant engines . 
+[LOC Russia  ] believes [LOC Iran  ] continues to work on the technology to mix and pour the propellant . 
+This is a very difficult process . 
+Solid fuel has to be very evenly mixed to work properly . 
+It must be put into the motor case and then allowed to solidify , and the resulting fuel must be homogeneous . 
+In addition , fuel loading is more complicated for larger engines , and [LOC Iran  ] has not mastered this . 
+[LOC Russia  ] also believes [LOC Iran  ] is experimenting with fuel composition , how long fuels can be preserved , and how temperatures can affect the mixture . 
+[LOC Russia  ] does not think that [LOC Iran  ] has solved the problem of thermal isolation of the engine from the airframe , as the junction with the engine tends to burn through . 
+[LOC Russia  ] also does not think that [LOC Iran  ] has solved the problem of thrust vector control and gas steering technologies . 
+The old technologies are not reliable , and [LOC Iran  ] has had a hard time getting components from abroad . 
+In addition , [LOC Iran  ] cannot produce high-quality spherical aluminum powder and without this it cannot reliably produce solid fuel . 
+[LOC Russia  ] noted that even [LOC Israel  ] needs to buy ammonium perchlorate from abroad . 
+[LOC Iran  ] has been trying to produce it indigenously , but [LOC Russia  ] has no information indicating it has been successful . 
+In [LOC Russia  ] 's view , [LOC Iran  ] appears to be having very serious problems with engine development. <a id='par36' href='#par36'>¶</a>36 . 
+( S ) The [ORG Ashura Russia  ] said that in June 2008 , it had received information from the [ORG State Department  ] that within the framework of the [ORG Ashura  ] program , [LOC Iran  ] is producing a 3-stage missile called the [MISC Ghadr-110  ] . 
+At that time , the [LOC U.S.  ] told [LOC Russia  ] that this missile is very similar to the [MISC Pakistani  ] [ORG Shaheen-II  ] and has a range of 2,000 km with a throw weight of one ton . 
+Testing of the [MISC Ghadr-110  ] may have started in 2008 , and [LOC Russia  ] would like additional information on this system . 
+The [LOC U.S.  ] said that there appeared to be some confusion: the [ORG Ashura  ] is a two-stage solid propellant missile with a 2,000 km range , and the [MISC Ghadr-110  ] is the [MISC Fateh-110  ] , a single-stage SRBM. <a id='par37' href='#par37'>¶</a>37 . 
+( S ) Sejjil [LOC Russia  ] asked whether the [ORG Sejjil  ] was part of the [ORG Ashura  ] program . 
+The [LOC U.S.  ] said it thinks the [ORG Sejjil  ] is another name for the [ORG Ashura  ] . 
+In addition , [LOC Iran  ] also has a short range solid propellant system called the [MISC Fateh-110  ] . 
+The experience gained from that program has been used in the development of the [ORG Ashura  ] and helps explain how [LOC Iran  ] acquired the capability to develop larger motors . 
+In the 1990s , [LOC Iran  ] received production technology and infrastructure from [LOC China  ] to develop solid propellants . 
+That infrastructure was used in the [MISC Fateh-110  ] and now is being used as the technological basis for the [ORG Ashura  ] . 
+While the [LOC U.S.  ] would agree that a larger solid propellant engine is challenging , [LOC Iran  ] has over a decade of experience producing solid propellant motors and it got an important head start from [LOC China  ] . 
+Independent of what [LOC Iran  ] has since acquired , this head start allowed [LOC Iran  ] to develop the [ORG Ashura  ] , which has been flight tested successfully , and also to work toward longer-range systems . 
+[LOC Russia  ] did not fully agree , saying that the technology for an SRBM is quite different from medium and longer range systems. <a id='par38' href='#par38'>¶</a>38 . 
+( S ) [MISC Iranian Challenges Noting  ] that [LOC Russia  ] had mentioned several problems with [LOC Iran  ] 's efforts to develop larger motors , the [LOC U.S.  ] asked for the basis of [LOC Russia  ] 's assessment and specifically whether it derived from the results of ground testing . 
+[LOC Russia  ] responded that [LOC Iran  ] is having problems generally because it did not develop the technology in [LOC Iran  ] and is trying to work off of [MISC North Korean  ] technology . 
+The [LOC U.S.  ] then asked how [LOC Russia  ] would explain the [ORG Ashura  ] having been flight tested twice successfully . 
+[LOC Russia  ] said there is nothing special there as the technology is all old technology as described in detail in the literature of the [MISC Chinese  ] [ORG Long March  ] 4 engine . 
+The [LOC U.S.  ] pointed out that the [ORG Long March  ] is a liquid propellant system , and the [ORG Ashura  ] is a solid propellant system . 
+If [LOC Iran  ] has successful tests , it shows [LOC Iran  ] has built [ORG MRBM  ] rocket motors . 
+[LOC Russia  ] countered that all it shows is that [LOC Iran  ] is testing parts of the missile . 
+[LOC Iran  ] may have claimed success but that is not the reality . 
+If [LOC Iran  ] wants it to be reliable , the missile has to be tested many times before it can be deployed . 
+This is what [LOC Russia  ] believes . 
+[LOC Russia  ] understands the [LOC U.S.  ] has a different point of view and this can be discussed again another time. <a id='par39' href='#par39'>¶</a>39 . 
+( [ORG S  ] ) [MISC North Korean  ] Scuds The [LOC U.S.  ] said it seemed that both sides had a common evaluation of what types of short range systems [LOC North Korea  ] possesses: the [MISC Scud  ] B , [MISC Scud  ] C , and the new solid propellant [ORG MRBM  ] . 
+[LOC Russia  ] said that in 2008 , the [LOC U.S.  ] indicated that [MISC North Korean  ] Scuds were launched at longer ranges . 
+[LOC Russia  ] asked for any specific data on these missile launches and for [LOC U.S.  ] thinking on why these systems are extended range [MISC Scuds  ] and not [MISC Scud  ] C missiles . 
+The [LOC U.S.  ] said that it would try to provide more information on this issue at the next round of talks . 
+However , it is known that there have been at least two cases of [LOC North Korea  ] helping other countries to develop [MISC Scuds  ] with longer ranges than the [MISC Scud  ] [LOC C. One  ] example is [LOC Libya  ] . 
+When [LOC Libya  ] gave up its [MISC MTCR-class  ] missile programs in 2003 , it showed the [LOC U.S.  ] a missile it called the " [MISC Scud-C  ] . 
+" However , it had a longer range than the missile we refer generally refer to as the [MISC Scud-C  ] . 
+Additionally , many presentations in the [ORG MTCR Information Exchange  ] have reported that [LOC North Korea  ] is helping other countries , particularly [LOC Syria  ] , develop a [MISC Scud  ] with a longer range . 
+These presentations have referred to this longer range system as the [MISC Scud-D.  ] <a id='par40' href='#par40'>¶</a>40 . 
+( S ) [MISC No Dong  ] The [LOC U.S.  ] thought that both sides had similar assessments of the [MISC No Dong  ] . 
+Referring to the [LOC U.S.  ] presentation from the previous [MISC JTA  ] talks , [LOC Russia  ] noted that the [LOC U.S.  ] said there were seven launches of the [MISC No Dong  ] in July 2009 by [LOC North Korea  ] . 
+[LOC Russia  ] has no information on such tests , and wondered if there [LOC U.S.  ] had been referring to 2006 . 
+The [LOC U.S.  ] said that there had been tests of the [MISC No Dong  ] just after July 4 , 2009 , and that there had been plenty of [MISC South Korean  ] and [MISC Japanese  ] reporting at that time . 
+[LOC Russia  ] agreed there were July 4 missile launches , but of missiles with shorter ranges , not [MISC Scuds  ] or [MISC No Dongs  ] . 
+Given the confusion on this point , [LOC Russia  ] urged that the issue be revisited during the next round of talks. <a id='par41' href='#par41'>¶</a>41 . 
+( S ) UDMH [LOC Russia  ] asked whether the [LOC U.S.  ] thinks [LOC North Korea  ] is trying to develop a new engine that uses UDMH . 
+The [LOC U.S.  ] said it believes this effort is connected with a new system [LOC North Korea  ] is working on . 
+The [LOC U.S.  ] thinks this new system is an [MISC IRBM.  ] <a id='par42' href='#par42'>¶</a>42 . 
+( [ORG S  ] ) IRBM [LOC Russia  ] asked whether the [LOC U.S.  ] has any specific data on this system . 
+The [LOC U.S.  ] said it believes the system exists and has been sold to [LOC Iran  ] as the [MISC BM-25.  ] <a id='par43' href='#par43'>¶</a>43 . 
+( [ORG S  ] ) [MISC Taepo Dong  ] The [LOC U.S.  ] agreed with [LOC Russia  ] that the [ORG Taepo Dong-1  ] was a technology demonstrator that is no longer being used , and that the [ORG Taepo Dong-2  ] has had two tests that have been unsuccessful . 
+However , there is not agreement on the purpose of the [ORG Taepo Dong-2  ] system . 
+In tests , the intent has been billed as putting a satellite into orbit , but the [LOC U.S.  ] also thinks it is very much intended as part of the development of an intercontinental ballistic missile ( [LOC ICBM  ] ) . 
+[LOC Russia  ] noted for clarification that [LOC North Korea  ] calls the [ORG Taepo Dong-2  ] the [MISC Unha-2.  ] <a id='par44' href='#par44'>¶</a>44 . 
+( [ORG S  ] ) [LOC Russia  ] believes the system has an engine with a 100 ton capacity that uses clustered designs based on old technology , and asked whether the [LOC U.S.  ] thought the [ORG Taepo Dong-2  ] uses any new technology . 
+The [LOC U.S.  ] responded that it has not seen any new technology associated with this system . 
+Nevertheless , one path to acquiring a longer range system would be to cluster or stack engines for the new IRBM in the same way [LOC North Korea  ] used [MISC Scud  ] and No [MISC Dong  ] engines in the [ORG Taepo Dong-2  ] . 
+[LOC Russia  ] pointed out that so far this has not been observed and there is no new technology associated with an [LOC ICBM  ] in [LOC North Korea  ] . 
+The [LOC U.S.  ] agreed that no new technology has been observed in the [LOC ICBM  ] , but it has been in the [MISC IRBM.  ] <a id='par45' href='#par45'>¶</a>45 . 
+( [ORG S  ] ) [LOC Russia  ] noted that in its presentations the [LOC U.S.  ] had given a range of 10,000 km - 15,000 km with a 500 kg warhead for the [MISC Taepo Dong  ] and asked how the [LOC U.S.  ] had calculated this . 
+The [LOC U.S.  ] said that for the 10,000 km range , it had assumed a clustered first stage and a [MISC No Dong  ] second stage . 
+For the 15,000 km range , it assumed a 3-stage configuration with the same clustered engines and second stage. <a id='par46' href='#par46'>¶</a>46 . 
+( [ORG S  ] ) [ORG Taepo Dong-2  ] and [ORG Military Applications Russia  ] pointed out that the [ORG Taepo Dong-2  ] would be hard to use for combat due to a lack of sites and its long launch preparation time . 
+The [LOC U.S.  ] noted that [LOC North Korea  ] could mitigate those problems by placing it in a silo or using it as a first strike weapon . 
+These would not be optimal approaches but if [LOC North Korea  ] is sufficiently desperate , it would go with the systems available to it . 
+Moreover , [LOC North Korea  ] puts great political value on these systems . 
+In the wake of the nuclear test and the [ORG UNSCR  ] that followed , [LOC North Korea  ] threatened to conduct an [MISC ICBM  ] test . 
+This is another manifestation of the political value of this program for [ORG North Korea.  ] <a id='par47' href='#par47'>¶</a>47 . 
+( [ORG S  ] ) [ORG North Korean Path  ] to an [MISC ICBM  ] The [LOC U.S.  ] said it saw three potential paths for [LOC North Korea  ] to follow to obtain an [ORG ICBM:  ] 1 ) use the [ORG Taepo Dong-2  ] as an [LOC ICBM  ] ; 2 ) further develop the technology for an IRBM based on their new [ORG MRBM  ] , in the same way the [MISC No Dong  ] was a path to the [MISC Taepo Dong  ] ; and 3 ) use the very large launch facility that is being constructed on the west coast of [LOC North Korea  ] to launch a very large missile . 
+[LOC Russia  ] said that the first two paths could be discussed at a later date. <a id='par48' href='#par48'>¶</a>48 . 
+( [ORG S  ] ) With regard to the third path , [LOC Russia  ] wonders whether [LOC North Korea  ] is building the new launch site to avoid launching over [LOC Japan  ] and for safety reasons . 
+The [LOC U.S.  ] responded that the size of the facility is of concern . 
+It does not simply replicate other sites . 
+This facility is much larger than the [MISC Taepo Dong  ] launch facility . 
+This is not to say there is evidence of a new missile system larger than the [ORG Taepo Dong-2  ] being developed , but it suggests the possibility . 
+[LOC North Korea  ] does not spend money on things unless they really matter . 
+[LOC Russia  ] noted that [LOC North Korea  ] does not have so much money , so it must economize . 
+However , [LOC Russia  ] can probably agree that the new site is being built to test new missiles . 
+That said , [LOC Russia  ] still thinks [LOC North Korea  ] has problems developing more-powerful engines and accurate guidance systems . 
+This merits further observation and analysis. <a id='par49' href='#par49'>¶</a>49 . 
+( [ORG S  ] ) General Comments [LOC Russia  ] said it sees it as significant that [LOC Iran  ] and [LOC North Korea  ] are trying to buy more materials abroad and trying to get around existing export control regimes . 
+However , each country is different and [LOC Russia  ] cannot say they are working according to the same principles . 
+On clustering , [LOC Russia  ] has a different point of view than the [LOC U.S.  ] , but will look further into this . 
+[LOC Russia  ] also has a different view on silos , but that can be discussed in more detail next time . 
+In short , [LOC North Korea  ] is complex and neither the [LOC U.S.  ] nor [LOC Russia  ] fully understands its capabilities . 
+Both sides need to monitor this carefully and work together on this issue. --------------------------------------------- ------------- ( U ) [MISC Russian  ] presentation of a framework for evaluating missile risks , dangers and threats ; and discussion --------------------------------------------- ------------- <a id='par50' href='#par50'>¶</a>50 . 
+( [ORG S  ] ) [PER Nazarov  ] said [LOC Russia  ] believes any missile assessments should be based not only on modeling , but also on consideration of the real technical barriers faced by [LOC Iran  ] . 
+Serious attention must be given to these technical problems . 
+Otherwise , we will use erroneous assumptions to evaluate the problem . 
+For example , we can count the number of centrifuges , multiply by production capabilities , and say [LOC Iran  ] can produce enough uranium for several warheads . 
+However , this would not be correct because the models do not take into account the technical difficulties in cascade technologies that [LOC Iran  ] has not worked out yet. <a id='par51' href='#par51'>¶</a>51 . 
+( [ORG S  ] ) In the same way , [LOC Russia  ] thinks that when talking about the [LOC Shahab-3  ] , there is no possibility of [LOC Iran  ] using these missiles in a launch silo configuration . 
+Also , [LOC Russia  ] does not see [LOC Iran  ] increasing the throw weight or range to the declared capabilities . 
+Thus , as regards attempting to draft a joint report , [LOC Russia  ] foresees no problems in an evaluation of the basic systems , but does foresee a difference in the evaluations of the technical barriers faced by the [MISC Iranians  ] . 
+With regard to timeframes , [PER Nazarov  ] said that if we talk about real threats , and not just potential challenges , then we need to think about all the systems that need to be developed and tested . 
+To facilitate this , [LOC Russia  ] thinks the [ORG JTA  ] discussions should be divided into discussions on missile risks and missile threats . 
+The two sides should agree on what these are and then work to prevent missile risks from growing into missile threats. <a id='par52' href='#par52'>¶</a>52 . 
+( [ORG S  ] ) [PER Nazarov  ] then asked [PER Vladimir Yermakov  ] , Director for [ORG Strategic Capabilities Policy  ] , [MISC Russian  ] Ministry of [ORG Foreign Affairs  ] , to introduce [LOC Russia  ] 's proposed methodology for evaluating missile risks and missile threats . 
+[PER Yermakov  ] said [LOC Russia  ] views the December [ORG JTA  ] talks as the first step in implementing the goals of the July 2009 Presidential Joint Statement . 
+These consultations build on many years of work with the [LOC U.S.  ] on missile defense , including missile threat assessment , and [LOC Russia  ] would like to underscore that the dialogue and close collaboration on missile defense is due to the positive decisions taken by the new administration on missile defense . 
+[LOC Russia  ] 's official assessment of [PER Obama  ] 's missile defense policy is that it is a step in a positive direction . 
+[LOC Russia  ] commends the [LOC U.S.  ] decision to drop the fielding of missile defense elements in [LOC Poland  ] and the [LOC Czech Republic  ] and replace it with a multi-phased program for missile defense in [LOC Europe  ] . 
+[LOC Russia  ] will only be able to give its assessment of the new project after it has seen the implementation of the first phase . 
+Further collaboration in missile defense will depend on how the project will be developed on the [LOC U.S.  ] side . 
+But a key part of our collaboration will be the joint assessment of missile threats. <a id='par53' href='#par53'>¶</a>53 . 
+( [ORG S  ] ) Continuing , [PER Yermakov  ] said [LOC Russia  ] believes that any further practical cooperation on missile defense will be based on a concrete joint assessment of the missile threats . 
+The [LOC U.S.  ] and [LOC Russia  ] need to have a clear understanding of whom we are cooperating against and we need to make clear distinctions between missile risks , missile challenges , and missile threats . 
+[MISC Russian  ] and [LOC U.S.  ] perceptions may coincide and may differ , that is understandable . 
+We can work together to address threats we both agree on . 
+But there may be threats the [LOC U.S.  ] sees as real and [LOC Russia  ] sees only to be perceived ones , and vice versa . 
+In such cases , the extent of our cooperation may be less or lower , but we can still do something jointly to address these threats as well. <a id='par54' href='#par54'>¶</a>54 . 
+( [ORG S  ] ) [PER Yermakov  ] said that [LOC Russia  ] sees as an end-goal of the [ORG JTA  ] consultations a document outlining jointly assessed missile threats and challenges . 
+Naturally , in working on such a document , the [LOC U.S.  ] and [LOC Russia  ] will recognize that their views differ and those differences will have to be reflected in this document . 
+We can take as an example our record of cooperation within the [ORG NATO Russia Council  ] ( [ORG NRC  ] ) . <a id='par55' href='#par55'>¶</a>55 . 
+( [ORG S  ] ) [PER Yermakov  ] then distributed a paper on a framework of criteria for assessing the level of risk of a given missile program . 
+He explained that the material on the first page is a graph presented in simplified form in which [LOC Russia  ] presents two categories - a threat and a challenge . 
+In order for there to be a threat , it is necessary to have two components: intention and capabilities . 
+Only when both components are present does a threat become real . 
+From the [MISC Russian  ] point of view , lack of either component makes the threat hypothetical . 
+When both components are lacking , the threat is only " perceived , " and the threat of a nuclear missile strike is zero. <a id='par56' href='#par56'>¶</a>56 . 
+( [ORG S  ] ) [PER Yermakov  ] noted that on the second page , [LOC Russia  ] suggests four categories: missile challenge , missile danger , missile threat , and missile strike . 
+[LOC Russia  ] views a missile challenge as an aspiration to obtain capabilities in the field of rocketry to fulfill one 's legitimate national goals . 
+These goals can be a space program or missiles as weapons . 
+A missile danger emerges when nations envision in national guidelines a doctrine that they could/could use missiles . 
+A missile threat is a more advanced category in which a country has the intention to use its missile capability to further its national military and political goals . 
+A missile strike is self evident . 
+[PER Yermakov  ] urged the [LOC U.S  ] to review the paper and , at a later stage , provide an assessment of this approach . 
+At that point , the two sides can compare views , theoretical approaches and assessments of threats , and use this framework to develop a joint document of challenges , risks , and threats. <a id='par57' href='#par57'>¶</a>57 . 
+( [ORG S  ] ) [PER Nazarov  ] thanked [PER Yermakov  ] for his presentation , saying that he believed the [LOC U.S.  ] and [LOC Russia  ] needed to continue their joint work based on a shared methodology . 
+The methodology proposed in the [PER Yermakov  ] presentation will allow us to address challenges and threats concretely , and to overcome differences of opinion . 
+[PER Nazarov  ] said he did not see [LOC U.S.  ] and [MISC Russian  ] differences as significant for a joint document and thought they could be overcome . 
+In this context , [LOC Russia  ] has prepared a memorandum with respect to drafting a joint assessment . 
+The essence of the paper is that the two sides would work together to draft a document on a joint understanding of the problems of missile proliferation . 
+It would be an assessment of the current trends , conditions , and factors that make up today 's situation , and appropriate conclusions. <a id='par58' href='#par58'>¶</a>58 . 
+[PER Nazarov  ] suggested the two sides agree on a timeframe for drafting the document , which would lay the foundation for cooperation and make it more dynamic . 
+[LOC Russia  ] thinks the [ORG JTA  ] work could finish by the end of 2010 and believes that following this round , the group could come up with a draft report and then work to improve it and flesh out some of its provisions . 
+Based on the principle of rotation , [LOC Russia  ] also thinks the next round of [ORG JTA  ] talks should be in March or April , 2010 in [LOC Moscow  ] . 
+Finally , given the sensitive nature of the eventual final document , it should be treated as confidential and only made available to third parties with the consent of both our parties . 
+( Passed over non-paper . 
+) <a id='par59' href='#par59'>¶</a>59 . 
+( [ORG S  ] ) [PER Van Diepen  ] appreciated the thought put into the [MISC Russian  ] document and the invitation to [LOC Moscow  ] , which he accepted . 
+He said the [LOC U.S.  ] would study the paper and provide comments at a later date . 
+This will lay the groundwork for productive meetings in [LOC Moscow  ] . 
+However , he also cautioned that the two sides must be careful not to let process get in the way of substance . 
+He said the [LOC U.S.  ] and [LOC Russia  ] need to share assessments first and then think about what to do with them . 
+He also said the two sides should identify the differences in our assessments and the reasons for those differences , rather than get bogged down in wordsmithing and nuances. <a id='par60' href='#par60'>¶</a>60 . 
+( C ) [PER Nazarov  ] said [LOC Russia  ] shares the opinion that the [ORG JTA  ] study has a practical goal . 
+He said [LOC Russia  ] is serious about the problem of future missile threats and that the [ORG JTA  ] work is under the close scrutiny of the President of the [LOC Russian Federation  ] , who demands that the [LOC Russia  ] side give an impartial and objective assessment . 
+[LOC Russia  ] believes there is a danger in over- or underestimating the threat as it could prod us to move in the wrong direction . 
+When it comes to missile and nuclear threats , errors in estimation in both directions are dangerous. <a id='par61' href='#par61'>¶</a>61 . 
+( [ORG S  ] ) [PER Yuriy Korolev  ] , an expert from the [MISC Russian  ] Ministry of [ORG Foreign Affairs  ] , explained that during a meeting in [LOC Budapest  ] in February 2008 , [MISC Russian  ] experts presented a collection of interesting approaches on assessing missile proliferation threats . 
+Using that document , [LOC Russia  ] thought one could give a more unbiased assessment of missile threats . 
+However , there has been no reaction from the [LOC U.S.  ] This may be due to the fact that only limited numbers of the document were distributed and they did not reach all appropriate senior [LOC U.S.  ] officials . 
+[LOC Russia  ] continues to believe this document is interesting and would appreciate [LOC U.S.  ] views , analysis , comments , and proposals on how to make our efforts on countering missile proliferation more effective . 
+[LOC Russia  ] 's view is that the methodology presented would make assessments of missile threats more impartial ( handed over copies ) . --------------------------------------------- ------------- ( U ) [MISC Russian  ] presentation on the security threat presented by instability and [MISC Islamists  ] in [LOC Pakistan  ] and discussion --------------------------------------------- ------------- <a id='par62' href='#par62'>¶</a>62 . 
+( [ORG S  ] ) [PER Korolev  ] noted that while the focus of the discussions had been on the missile threats from [LOC North Korea  ] and [LOC Iran  ] , [LOC Russia  ] did not think discussion should be limited to only those threats from [LOC Iran  ] and [LOC North Korea  ] . 
+In the [MISC Russian  ] view , there is another serious threat that should be discussed: [LOC Pakistan  ] . 
+[LOC Pakistan  ] is a nation with nuclear weapons , various delivery systems , and a domestic situation that is highly unstable . 
+[LOC Russia  ] assesses that [MISC Islamists  ] are not only seeking power in [LOC Pakistan  ] but are also trying to get their hands on nuclear materials . 
+[LOC Russia  ] is aware that [MISC Pakistani  ] authorities , with help from the [LOC U.S.  ] , have created a well-structured system of security for protecting nuclear facilities , which includes physical protection . 
+However , there are 120,000-130,000 people directly involved in [LOC Pakistan  ] 's nuclear and missile programs , working in these facilities and protecting them . 
+However , regardless of the clearance process for these people , there is no way to guarantee that all are 100% loyal and reliable. <a id='par63' href='#par63'>¶</a>63 . 
+( [ORG S  ] ) In addition to the [MISC Islamist  ] interest in these facilities , [LOC Russia  ] also is aware that [LOC Pakistan  ] has had to hire people to protect nuclear facilities that have especially strict religious beliefs , and recently the general educational and cultural levels in [LOC Pakistan  ] has been falling . 
+Due to these facts , extremist organizations have more opportunities to recruit people working in the nuclear and missile programs . 
+Over the last few years extremists have attacked vehicles that carry staff to and from these facilities . 
+Some were killed and a number were abducted and there has been no trace seen of them . 
+Also , even if places are well protected , transportation of materials is a vulnerable point . 
+In [LOC Pakistan  ] , it is hard to guarantee the security of these materials during transportation . 
+For these reasons , [LOC Russia  ] thinks [LOC Pakistan  ] should also be a particular focus of [ORG JTA  ] discussion. <a id='par64' href='#par64'>¶</a>64 . 
+( [ORG S  ] ) [PER Nazarov  ] clarified that [LOC Russia  ] believes the focus of the [ORG JTA  ] discussions should be the missile programs of [LOC Iran  ] and [LOC North Korea  ] . 
+[LOC Russia  ] assumes the nuclear and missile programs of [LOC Pakistan  ] are regionally oriented and thus outside the scope of the current [ORG JTA  ] discussion . 
+However , [LOC Russia  ] recently hosted a delegation led by [MISC Senators  ] [PER Hagel  ] and [PER Harkin  ] . 
+The [PER Senators  ] told a meeting of the [ORG Russian Security Council  ] that [LOC Pakistan  ] poses the greatest threat to the world . 
+Therefore , [LOC Russia  ] would appreciate any additional information the [LOC U.S.  ] can provide on the actual situation with regard to the protection , storage , and transportation of nuclear and missile weaponry in [LOC Pakistan.  ] <a id='par65' href='#par65'>¶</a>65 . 
+( C ) [PER Van Diepen  ] appreciated [LOC Russia  ] 's concern with [LOC Pakistan  ] and interest in getting further information but noted that the issue as described is primarily nuclear materials being acquired by terrorists , it is more of a nuclear issue and less related to ballistic missiles . 
+He undertook to report back and facilitate a response from the appropriate office outside the context of the [LOC JTA.  ] <a id='par66' href='#par66'>¶</a>66 . 
+( [ORG S  ] ) [PER Nazarov  ] said [LOC Russia  ] is interested in using all channels to cooperate with the [LOC U.S.  ] on this subject . 
+First and foremost , [LOC Russia  ] is talking about the threat of nuclear terrorism . 
+If the scenarios include future development , the threat of missile technology getting into the hands of terrorists should also be considered . 
+[LOC Russia  ] would like to put its concern on the record , and particularly with regard to the possibility of [MISC Islamists  ] coming to power in [LOC Pakistan  ] . 
+[LOC Russia  ] would appreciate the [LOC U.S.  ] providing additional information on the subject - perhaps at the follow-up meeting in [LOC Moscow.  ] <a id='par67' href='#par67'>¶</a>67 . 
+( C ) [PER Van Diepen  ] said he would report [LOC Russia  ] 's concerns but noted that the [LOC U.S.  ] response would likely come through diplomatic channels rather than at our April/March meetings . 
+He also urged that [PER Nazarov  ] raise his concerns with [ORG Special Advisor Holbrooke  ] or his Deputy. --------------------------------------------- ------------- ( U ) [MISC Russian  ] presentation on [ORG FSB  ] work to interdict [MISC Iranian  ] and [MISC North Korean  ] attempts to buy restricted technology , or to transship third party materials through [LOC Russia  ] --------------------------------------------- ------------- <a id='par68' href='#par68'>¶</a>68 . 
+( C ) [PER Anatoliy Raikevich  ] , First Deputy Department Director , [ORG Federal Security Service  ] ( [ORG FSB  ] ) , said that both [LOC Iran  ] and [LOC North Korea  ] appear to depend heavily on illegally obtaining equipment and technology from abroad for missile and [ORG WMD  ] programs . 
+The [ORG FSB  ] has information that [LOC Iran  ] and [LOC North Korea  ] both have programs to try to acquire [MISC Russian  ] technology . 
+One of the basic tasks of the [ORG FSB  ] is to prevent them from acquiring WMD-related production technology in [LOC Russia  ] . 
+To do this , the [ORG FSB  ] takes action based on [MISC Russian  ] law and export controls . 
+In particular , the [ORG FSB  ] monitors and takes measures to prevent [ORG WMD  ] technology exports . 
+This includes criminal investigations of attempts to export contraband and items on the prohibited list . 
+[MISC Russian  ] analysis shows that that these efforts have significantly reduced the achievements of the [MISC Iranian  ] security services in this area . 
+However , the [MISC Iranians  ] continue to try to use the territory of [LOC Russia  ] for transits and reexports of such materials. <a id='par69' href='#par69'>¶</a>69 . 
+( C ) A key effort of the [MISC Iranian  ] services is the company to company approach , whereby they use fake companies run by the [MISC Iranian  ] security service to procure [MISC Russian  ] goods . 
+The [ORG FSB  ] has set up sting companies to uncover [MISC Iranian  ] activities . 
+In the past two years , the [ORG FSB  ] has cut off a good deal of the exports of such technology. <a id='par70' href='#par70'>¶</a>70 . 
+( C ) The [ORG FSB  ] has determined that [LOC Iran  ] is trying to get equipment such as measuring devices , high precision amplifiers , pressure indicators , various composite materials , and technology to create new missile engines from [LOC Russia  ] and from sources in [LOC Western Europe  ] . 
+To produce these items itself , [LOC Iran  ] would need to seriously modernize its technological base . 
+To combat this , the [ORG FSB  ] must cooperate with the [LOC U.S.  ] and [MISC European  ] security services . 
+[LOC Russia  ] has many years experience cooperating with [LOC U.S.  ] security services and has moved from information exchanges to operational activities . 
+The [ORG FSB  ] thinks [LOC U.S.  ] services are very professional and well prepared , and hopes cooperation will continue. <a id='par71' href='#par71'>¶</a>71 . 
+( C ) [PER Van Diepen  ] thanked [PER Raikevich  ] for his presentation , noting that he had had lots of experience during the 1990s working with [MISC Russian  ] counterparts on the problem and trying to reduce the success of [LOC Iran  ] in acquiring missile technology . 
+[PER Van Diepen  ] said he was impressed by the people in [LOC Russia  ] working on export controls and appreciated that [LOC Russia  ] recognized that [LOC Iran  ] is still trying to acquire technology from [LOC Russia  ] . 
+He said he would pass on to [LOC U.S.  ] security services the [ORG FSB  ] 's interest in continued cooperation . 
+He added that the [LOC U.S.  ] would want to work with [LOC Russia  ] in those channels as well as in diplomatic channels as the need arose to address specific shipments of concern. <a id='par72' href='#par72'>¶</a>72 . 
+( [ORG S  ] ) [PER Raikevich  ] replied that discussing these issues with the [LOC U.S.  ] will help [LOC Iran  ] and [LOC North Korea  ] to " boil in their own oil . 
+" He said [LOC Iran  ] and [MISC North Korean  ] may have small successes here and there with procurement , but the [ORG FSB  ] will see to it that their successes remain small . 
+The [ORG FSB  ] is grateful for information the [LOC U.S.  ] passes along regarding various [MISC Russian  ] organizations that may be working with [LOC Iran  ] or [LOC North Korea  ] , and wants continue to work together to prevent the spread of this technology from [LOC Russia  ] and other countries. ---------------------- ( U ) Concluding remarks ---------------------- <a id='par73' href='#par73'>¶</a>73 . 
+( [ORG S  ] ) [PER Yermakov  ] said that [LOC Russia  ] thought the discussions had been productive and cooperative . 
+He noted that both sides have significant homework assignments to complete before the next round and can test the results at the end of March/beginning of April . 
+He then offered concluding remarks on behalf of the Deputy Secretary of [LOC Russia  ] 's [ORG National Security Council:  ] -- With regard to [LOC Iran  ] , [LOC Russia  ] believes the possibility of improvement of its liquid propellant missiles is nil. --It is impossible from the [MISC Russian  ] point of view for [LOC Iran  ] to put a nuclear device on existing missiles with an improved range and throw weight. --Iran has no ballistic missiles capable of carrying nuclear weapons at this time , and [LOC Russia  ] sees no threat from missiles in [LOC Iran.  ] --In [LOC Russia  ] 's view , [LOC Iran  ] presents a missile challenge. --A missile threat would only develop if [LOC Iran  ] seceded from the [ORG Nuclear Non-Proliferation Treaty  ] , and successfully developed an [ORG MRBM  ] with a 3,000 km range and a warhead of one ton. --Iran does not have the military-industrial capability to develop such a program . 
+If [LOC Iran  ] could gain access to foreign technology , it might develop such a program but this is unlikely due to export controls. --In any case , even with the assistance of foreign technology , [LOC Russia  ] assesses it will take [LOC Iran  ] 6-8 years to gain the ability to launch an [ORG MRBM  ] with a nuclear warhead. --With regard to an [LOC ICBM  ] , [LOC Russia  ] considers this purely hypothetical and does not see the possibility of [LOC Iran  ] having this capability for the next 10 years. --For [LOC North Korea  ] , [LOC Russia  ] assesses that its only real capabilities are outdated missiles with ranges of no more than 3,500 km. --While it is possible to develop missiles with greater ranges based on an SLV program , that would take many years , even with a successful program. <a id='par74' href='#par74'>¶</a>74 . 
+( C ) [PER Yermakov  ] said these were the basic conclusions [LOC Russia  ] wanted to make . 
+If the conclusions are agreeable to the [LOC U.S.  ] side this could be noted . 
+If not , they can be discussed again at a later date and will be the basis for future work , to continue successful bilateral cooperation . 
+He said [LOC Russia  ] is not at all concerned about differences regarding various aspects of these programs . 
+[LOC Russia  ] sees this as natural . 
+Having differences just means that we need to meet more often and exchange information through appropriate channels . 
+[LOC Russia  ] looks forward to a [LOC U.S.  ] interagency delegation coming to [LOC Moscow  ] . 
+Until then the two sides can communicate through diplomatic channels or even just by telephone. <a id='par75' href='#par75'>¶</a>75 . 
+( [ORG S  ] ) [PER Van Diepen  ] thanked the [LOC Russia  ] side , especially [PER Nazarov  ] , for its thorough preparation and professionalism . 
+He said the [LOC U.S.  ] was pleased with the interagency character of the [MISC Russian  ] delegation and appreciated that [LOC Russia  ] had given a lot of thought to both conceptual issues and technical matters . 
+The challenge going forward - as shown in the contrast between the technical discussions and [LOC Russia  ] 's concluding remarks - will be to come to a greater shared understanding of the issues . 
+On the technical side , there is a fair amount of agreement , but as we go up in range , our views diverge . 
+Based on common data , we have different perceptions . 
+The conclusions the [LOC U.S.  ] would draw would be different in each case from the conclusions [PER Yermakov  ] outlined . 
+That is not bad , but both sides need to work to understand the conceptual and technical basis for these views . 
+There is a great deal to discuss , and we will need to be well prepared for fruitful and informative discussions in [LOC Moscow  ] in the spring . 
+The [LOC U.S.  ] will study the [MISC Russian  ] papers and follow up through diplomatic channels . 
+The [LOC U.S.  ] also will do its homework assignments , propose specific dates for the next round of talks , and be prepared for " our exams " next time in [LOC Moscow.  ] --------------------- ( U ) Participants --------------------- <a id='par76' href='#par76'>¶</a>76 . 
+( [ORG SBU  ] ) [LOC U.S.  ] Delegation: [PER Vann H. Van Diepen  ] , Acting Assistant Secretary , ISN ( [ORG Head of Delegation  ] ) [PER Frank Rose  ] , Deputy Assistant Secretary , VCI [PER Pamela Durham  ] , [PER Director  ] , ISN/MTR [PER Kimberly Hargan  ] , ISN/MTR [PER Michael Kerley  ] , ISN/MTR [PER David Hoppler  ] , [ORG ISN/MDSP  ] [PER Steve Rosenkrantz  ] , [ORG ISN/MDSP  ] [PER Kathleen Morenski  ] , Deputy [PER Director  ] , [PER EUR/PRA Caroline Savage  ] , EUR/RUS [PER Michael Fogo  ] , EUR/RUS [PER Joshua Handler  ] , [ORG INR/SPM  ] [PER Anita Friedt  ] , [PER Director  ] for Arms Control and [ORG Non-Proliferation  ] , [ORG National Security Council  ] ( [ORG NSC  ] ) [PER Daniel Menzel  ] , Intelligence Analyst [PER Michael Barnes  ] , [ORG OSD Office of Russia  ] , [LOC Ukraine  ] and [ORG Eurasia Policy  ] , [PER Defense/OSD Dimitry Zarechnak  ] , Interpreter <a id='par77' href='#par77'>¶</a>77 . 
+( [ORG SBU  ] ) [MISC Russian  ] Delegation: [PER Vladimir Nazarov  ] , Deputy Secretary of [LOC Russia  ] 's [ORG Security Council  ] ( [ORG Head of Delegation  ] ) [PER Vyacheslav Kholodkov  ] , [ORG Deputy Department  ] Director , [ORG Security Council  ] [PER Oleg Khodyrev  ] , Senior Counselor , [ORG Security Council  ] [PER Vladimir Yermakov  ] , [PER Director  ] for [ORG Strategic Capabilities Policy  ] , [ORG Ministry of Foreign Affairs  ] [PER Andrey Shabalin  ] , Second Secretary , [ORG Ministry of Foreign Affairs  ] [PER Yuriy Korolev  ] , Expert , [ORG Ministry of Foreign Affairs  ] [PER Anatoliy Raikevich  ] , [ORG First Deputy Department  ] Director , [ORG Federal Security Service  ] [PER Alexander Novikov  ] , [ORG Deputy Department  ] Director , [ORG Ministry of Defense  ] [PER Evgeny Zudin  ] , Office [PER Director  ] , [ORG Ministry of Defense  ] [PER Alexander Derevlev  ] , Senior Officer , [ORG Ministry of Defense  ] [PER Alexander Serenko  ] , [ORG Deputy Department  ] Director , [ORG Roscosmos  ] [PER Evgeny Bobrovskiy  ] , Counselor , [MISC Russian  ] Embassy [PER Oleg Pozdnyakov  ] , First Secretary , [MISC Russian  ] Embassy [PER Vadim Sergeev  ] , Interpreter , [MISC Russian  ] Embassy [PER CLINTON NNNN End Cable Text</pre></code>  ] 

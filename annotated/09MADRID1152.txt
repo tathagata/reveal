@@ -1,0 +1,90 @@
+<code><pre>UNCLAS SECTION 01 OF 04 [LOC MADRID  ] 001152 SENSITIVE SIPDIS STATE FOR EUR/WE AND EEB/TPP/IPE STATE PASS USTR FOR D.WEINER AND J.GROVES STATE PASS [ORG U.S. COPYRIGHT OFFICE  ] FOR M.WOODS AND M.PALLANTE COMMERCE FOR 4212/DON CALVERT COMMERCE ALSO FOR [MISC USPTO E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/KIPR_0.html'>KIPR</a> <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/ECPS_0.html'>ECPS</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: [ORG MADRID IPR  ] CONFERENCE: [ORG GOS  ] MOVES TOWARDS ANTI-INTERNET PIRACY MEASURES REF: A. [LOC MADRID  ] 1137 <a id='parB' href='#parB'>¶</a>B . 
+[LOC MADRID  ] 1096 <a id='parC' href='#parC'>¶</a>C . 
+[LOC MADRID  ] 1075 <a id='parD' href='#parD'>¶</a>D . 
+[LOC MADRID  ] 1052 <a id='parE' href='#parE'>¶</a>E . 
+[LOC MADRID  ] 982 [LOC MADRID  ] 00001152 001.3 OF 004 SUMMARY <a id='par1' href='#par1'>¶</a>1 . 
+( U ) As part of [ORG FICOD  ] 2009 ( see ref A ) , on November 18 the [MISC Spanish  ] government hosted a [ORG Conference  ] on [ORG IPR  ] in the [ORG Digital Environment  ] . 
+The [ORG Conference  ] featured several speeches and a series of roundtables on different aspects of online [ORG IPR  ] protection . 
+[PER Michele Woods  ] of the [ORG U.S Copyright Office  ] was a panelist in a roundtable on policies and legislative measures . 
+[ORG MPAA  ] CEO [PER Dan Glickman  ] delivered remarks outlining the rights-holders' point of view . 
+The [ORG Conference  ] was informative , with high-quality presentations The roundtable discussions helped shed light on efforts underway in various countries to address the problem of [MISC Internet  ] piracy ; the [ORG Conference  ] was thus particularly timely as the [ORG GOS  ] is expected to unveil a series of measures to combat piracy-promoting websites by the end of the year. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) [ORG MPAA  ] CEO [PER Glickman  ] told the Charge that his meetings with the two [MISC Ministers  ] most responsible for combating [MISC Internet  ] piracy were encouraging . 
+Minister of Industry , Tourism , and Trade ( [ORG MITYC  ] ) [PER Miguel Sebastian  ] told [PER Glickman  ] unambiguously that the [ORG Inter-Ministerial Commission  ] 's recommendations will include an administrative course of action to block or take down pirate websites . 
+[ORG MITYC  ] had heretofore been believed to oppose such an approach , and [PER Sebastian  ] 's embrace of it may be a sign that the [ORG GOS  ] is preparing to implement measures with teeth , though not as much as rights-holders would like to see . 
+End Summary. <a id='par3' href='#par3'>¶</a>3 . 
+( U ) [ORG MITYC  ] 's [ORG Secretariat of State for Telecommunications  ] and the [ORG Information Society  ] ( [ORG SETSI  ] ) organized the conference as part of the third annual [ORG FICOD  ] . 
+It opened with an address by [PER Paul Brown  ] , Vice-President of [LOC Spotify  ] , a free , legal online music service that has recently become available in [LOC Spain  ] and that was also featured recently in Economist articles about successes in reducing online music piracy . 
+[LOC Spotify  ] is supported by advertising revenue or , for those who wish to avoid the ads , paid subscriptions . 
+The increased prevalence of legitimate vehicles for making content available , and the need for much more legal content online as a means of reducing the temptation to pirate , were major recurring themes of the conference . 
+LEGISLATIVE ISSUES <a id='par4' href='#par4'>¶</a>4 . 
+( U ) The roundtable on policies and legislative measures included government officials from the [LOC U.S.  ] , the [LOC UK  ] , [LOC Germany  ] , [LOC Sweden  ] , and [LOC France  ] , and a [ORG WIPO  ] representative . 
+[PER Michele Woods  ] , Senior Counsel for [LOC Policy  ] and [ORG International Affairs  ] at the [ORG U.S. Copyright Office  ] , discussed the [ORG Google Books  ] case , its Revised Settlement Agreement , and implications for orphan works . 
+[PER Steve Rowan  ] of the [ORG UK Intellectual Property Office  ] ( [ORG IPO  ] ) , reported on recent developments in that country , including new draft legislation adopting a " three strikes " approach , which involves cutting [MISC Internet  ] service to those who repeatedly download illegally . 
+Representatives of the [MISC German  ] and [ORG Swiss Justice Ministries  ] addressed various enforcement issues , including implementation of the [ORG EU Enforcement Directive  ] and prosecution of the Pirate Bay principals . 
+A [ORG French Culture Ministry  ] official updated the audience on the [MISC HADOPI  ] law , which after many setbacks is to take effect at the beginning of the year with the promulgation of implementing regulations . 
+It is evident that in the [LOC United States  ] and many [MISC European  ] countries , there is a great deal of activity taking place on a variety of fronts . 
+APPROACHES TO COMBATING ONLINE PIRACY <a id='par5' href='#par5'>¶</a>5 . 
+( U ) The roundtable on The [MISC Fight Against IPR-Infringing Activities  ] on the [MISC Internet  ] was moderated by [PER Guillermo Corral  ] , Director General for [LOC Policy  ] and [ORG Cultural Industries  ] at the [ORG Ministry of Culture  ] , who spoke about [ORG GOS  ] efforts to encourage negotiations between the [ORG Coalition  ] of [ORG Creators  ] and [ORG Content Industries  ] and the [ORG Internet Service Providers'  ] ( [ORG ISP  ] ) association ( [ORG Redtel  ] ) . 
+He also alluded to the [ORG Inter-Ministerial Commission  ] formed October 9 ( ref D ) to make [LOC MADRID  ] 00001152 002.3 OF 004 recommendations to the government . 
+The first panelist , [PER Aldo Olcese  ] , spoke of changes that have taken place in his first year as president of the [ORG Coalition  ] , which previously consisted of copyright management entities and various film and music producers and distributors and audiovisual groups . 
+The [ORG Spanish Association of Video Game Publishers and Distributors  ] ( aDeSe ) joined the [ORG Coalition  ] in January , and [LOC Spain  ] 's major book publishing industry association joined later in the year . 
+Awareness on the part of the government and the general public has grown , [PER Olcese  ] said , and the content providers don't feel as isolated as they did before . 
+He characterized continuing efforts to finalize an agreement between the [ORG Coalition  ] and [ORG Redtel  ] as " difficult " and predicted that such an agreement will only be realized " at the last minute . 
+" <a id='par6' href='#par6'>¶</a>6 . 
+( U ) [PER Olcese  ] outlined what he called the " [MISC Spanish  ] model " for combating piracy , a model which he characterized as " more democratic " than the approach in other countries , as it seeks to reduce online availability of pirated material while leaving the end user alone . 
+The [MISC Spanish  ] model is focused on the producers and distributors of pirated content , the pirates' " supermarket . 
+" Per ref D , on October 19 the [ORG Coalition  ] delivered a list of 200 alleged commercial-scale pirate websites to the [ORG MITYC  ] to be passed to the Prosecutor General 's Office ( [PER Fiscalia  ] ) for investigation and prosecution , and also urged [ORG MITYC  ] to take independent action against the sites . 
+( Comment: It remains unclear what authority [ORG MITYC  ] may have beyond the ability to levy modest fines , nor are we aware whether the any [ORG GOS  ] entity is contemplating action against any of the listed websites . 
+End Comment . 
+) At the same time , the [ORG Coalition  ] has been actively developing a " business model' approach and plans to launch a " macro website " to help users in [LOC Spain  ] gain access to legal content online so that they will be less inclined to download it without authorization . 
+Both [ORG MITYC  ] and the [ORG Ministry of Culture  ] have expressed the intention to provide financial support to the macroweb . 
+[PER Olcese  ] noted that identifying the right mix of incentives and sanctions to deter [MISC Internet  ] piracy is still a matter of trial and error ; nobody knows which model will work best. <a id='par7' href='#par7'>¶</a>7 . 
+( U ) [PER Maria Teresa Arcos  ] , Executive Director for [ORG ISP  ] association [ORG Redtel  ] , hailed the creation of the [ORG Inter-Ministerial Commission  ] and said the [ORG ISPs  ] seek the continued growth of a legal online market and an end to the dichotomy between technology and culture . 
+She also cited the [MISC European  ] [ORG Parliament  ] 's recent approval of the telecom package " and the importance of finding a balance between competing rights . 
+While acknowledging the importance of dissuasive measures , [PER Arcos  ] focused on the need for attractive legal offer with flexible prices and said [ORG Redtel  ] looks forward to the launching of the [ORG Coalition  ] 's macroweb. <a id='par8' href='#par8'>¶</a>8 . 
+( U ) [PER Jesus Rubi  ] of the [ORG Spanish Data Protection Agency  ] ( [ORG AEPD  ] ) stated that data protection is not inimical to intellectual property protection . 
+He noted , however , that under [MISC Spanish  ] law , [MISC Internet  ] Protocol addresses and their association with individual users are personal data and thus protected from disclosure in most circumstances . 
+Under the [ORG European Court of Justice  ] 's January 2008 ruling in [ORG Promusicae  ] v. [ORG Telefonica  ] , [ORG ISPs  ] are not required to disclose users' identities in civil litigation , and governments are not obliged to compel them to do so . 
+Governments are only required to seek a balance between privacy and property rights . 
+[PER Rubi  ] noted that the [ORG Congressional Sub-committee  ] on [ORG Intellectual Property  ] had recently sent a questionnaire to [ORG AEPD  ] , which had replied by suggesting several points to be taken into account if [ORG Congress  ] wishes to consider amending existing legislation . 
+RIGHTS-HOLDERS' CONCERNS <a id='par9' href='#par9'>¶</a>9 . 
+( U ) [PER Juan Junquera  ] , Chief of Staff to Secretary of State for [LOC Telecommunications  ] and the [ORG Information Society Francisco Ros  ] , moderated the panel on the rights-holders' point of view . 
+[PER Olivia Regnier  ] of the [ORG International Federation of Phonographic Industries  ] ( [ORG IFPI  ] ) cited figures showing that 95 percent of peer-to-peer ( [ORG P2P  ] ) downloads of music are unauthorized and thus illegal . 
+She also pointed to figures showing a steady decline in traditional music sales in [LOC Spain  ] since 2001 and said called for more cooperation on the part [LOC MADRID  ] 00001152 003.3 OF 004 of [ORG ISPs  ] in combating illicit downloads. <a id='par10' href='#par10'>¶</a>10 . 
+( U ) [PER Dan Glickman  ] , Chairman and CEO of the [ORG Motion Picture Association of America  ] ( [ORG MPAA  ] ) , referred to President [PER Zapatero  ] 's October 21 speech to the [ORG American Business Council  ] ( ref D ) in which he outlined the concerns of both the [ORG USG  ] and the [ORG GOS  ] over [ORG IPR  ] protection in [LOC Spain  ] . 
+Calling piracy a " dagger through the heart " of creators , [PER Glickman  ] noted that great quality works of art require both a conduit and an artist . 
+The [MISC Internet  ] can be a powerful tool for the dissemination of culture but also poses unique challenges for which there is no magic solution . 
+Voluntary agreements with [ORG ISPs  ] are welcome but are not enough in themselves ; government has a necessary role to play . 
+The digital environment will continue to grow as a medium for cultural transmission , but the physical environment should not be overlooked . 
+The notion of " free content , " while seductive to some , is an invitation to anarchy . 
+Legal online offers of content will not work unless they are well-implemented within an adequate legal infrastructure . 
+[PER Glickman  ] stressed the importance of a constructive , balanced solution and said [ORG MPAA  ] looks forward to the [ORG GOS  ] announcement of concrete measures by year 's end. <a id='par11' href='#par11'>¶</a>11 . 
+( U ) [PER Antonio Guisasola  ] of the Music Producers of [LOC Spain  ] ( [ORG Promusicae  ] ) , in an oblique reference to State Secretary [PER Ros  ] 's characterization ( ref E ) of [LOC Spain  ] 's [MISC Internet  ] piracy problem as an " urban legend , " sought to dispel two urban legends of his own . 
+The first is that the music industry wants to do away with the [MISC Internet  ] ; the second is that a lack of legal online alternatives is the reason piracy flourishes in [LOC Spain  ] . 
+There are , he said , 370 legal music services in [LOC Europe  ] , with more appearing all the time . 
+Consumers are able to choose from among a range of options and are increasingly getting better deals . 
+[PER Guisasola  ] announced the launch of [ORG Promusicae  ] 's own portal , www.elportaldemusica.es , to link [MISC Spanish  ] users to prominent legal sites . 
+But legal offer , he said , is not enough . 
+He cited a [ORG Jupiter Research Study  ] showing that 32% of users in [LOC Spain  ] frequently use [ORG P2P  ] facilities , compared to an average of 15% for [LOC Europe  ] . 
+Of those , 52% say that free downloading has reduced their purchases of original music . 
+Also , only 32% of [MISC Spaniards  ] surveyed said they thought [ORG P2P  ] activity was illegal , compared to 64% in [LOC France  ] , 79% in [LOC Germany  ] , and 70% in [LOC Europe  ] as a whole . 
+[PER Guisasola  ] said more cooperation is needed from [ORG ISPs  ] , and there must be a credible risk of real punishment to deter wrongdoers . 
+Carrots can help , but sticks are needed as well . 
+Responding to [PER Junquera  ] 's reminder that [ORG P2P  ] is not illegal per se , but is a technology that can be put to legal or illegal uses , [PER Guisasola  ] countered that almost all [ORG P2P  ] downloads of music are illegal. <a id='par12' href='#par12'>¶</a>12 . 
+( U ) During the question-and-answer period , one questioner asked whether the [ORG Inter-Ministerial Commission  ] will recommend dissuasive action only against websites that house infringing material , or also against [ORG P2P  ] portals . 
+[PER Junquera  ] replied that the [ORG GOS  ] is constrained from going after [ORG P2P  ] activity by the basic [MISC Constitutional  ] principle protecting private communications from government interference . 
+[ORG IFPI  ] 's [PER Olivia Regnier  ] demurred , pointing out that [ORG P2P  ] activity is a form of public , not private , communication . 
+[PER Junquera  ] , however , reiterated that the focus of [ORG GOS  ] enforcement efforts will be on websites that host or provide links to infringing content . 
+He also sought to clarify State Secretary [PER Ros  ] 's " urban legend " remark , which has been much-criticized by content providers . 
+The [ORG GOS  ] , he said , does not deny that [MISC Internet  ] piracy is a serious problem in [LOC Spain  ] , deserving of government attention . 
+The [ORG GOS  ] does , however , take issue with assertions that [LOC Spain  ] has significantly higher rates of [MISC Internet  ] piracy than its [MISC European  ] neighbors , and that it is among the worst in the world in this regard. <a id='par13' href='#par13'>¶</a>13 . 
+( U ) The Conference included one final roundtable , on implications for [ORG IPR  ] of online social networks , and a speech by [ORG Duke University Law  ] Professor [PER James Boyle  ] . 
+COMMENT <a id='par14' href='#par14'>¶</a>14 . 
+( [ORG SBU  ] ) Though 2009 has been a frustrating year for right-holders , there is a good chance it will end on a positive note . 
+In a meeting with Charge , [ORG MPAA  ] CEO [PER Dan Glickman  ] expressed satisfaction with his meetings with Industry , Tourism , and Trade Minister [PER Miguel Sebastian  ] and [LOC MADRID  ] 00001152 004.3 OF 004 Minister of [ORG Culture Angeles Gonzalez-Sinde  ] . 
+[PER Sebastian  ] , he said , was quite forthright and specific about the [ORG Commission  ] 's work: It will deliver its recommendations by year 's end ; these will include amending the law to give government more tools to combat piracy ; and one component will be " an administrative course of action " to block offending websites . 
+According to various sources , State Secretary [PER Ros  ] ( who reports to [PER Sebastian  ] and was present at his meeting with [PER Glickman  ] ) and his staffers had been opposing such an administrative remedy in the [ORG Commission  ] 's discussions ( refs [MISC B-C  ] ) , but have apparently been brought around by the other Ministries represented . 
+Rights-holders , however , remain concerned that the government may implement only half-measures . 
+[ORG Promusicae  ] staged a demonstration in front of [LOC MITYC  ] on December 1 and presented Minister [PER Sebastian  ] with a peition signed by 2,500 music professionals calling on the government to take " valiant measures , as the [MISC French  ] and [MISC British  ] governments have already done , to protect their culture and jobs . 
+" End Comment . 
+CHACON</pre></code> 

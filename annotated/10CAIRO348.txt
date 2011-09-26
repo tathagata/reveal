@@ -1,0 +1,24 @@
+<code><pre>UNCLAS [LOC CAIRO  ] 000348 SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/ENRG_0.html'>ENRG</a> <a href='/tag/EG_0.html'>EG</a> <a href='/tag/ATRN_0.html'>ATRN</a> <a href='/tag/PGOV_0.html'>PGOV</a> SUBJECT: EGYPT'S ECONOMY: FEBRUARY 22 PRESS ROUND-UP <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) The following are notable economic news stories that appeared over the past two weeks in the [MISC Egyptian  ] press: [ORG Ministries Clash over Energy Needs of Cement Industry  ] <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) The [ORG Ministry of Petroleum  ] announced that it is considering importing cement to meet domestic demand , instead of supplying natural gas to new cement factories . 
+Unnamed sources in the [ORG Ministry of Trade and Industry  ] opposed the [ORG Ministry of Petroleum  ] 's proposal , referring to it as " not logical " and asking the [ORG Ministry of Petroleum  ] to allow factories to import natural gas from abroad . 
+According to the news report , the [ORG Ministry of Trade and Industry  ] has issued 8 new licenses for cement factories , each of which will have a production capacity of 1.5 million tons . 
+The report projects that [MISC Egyptian  ] demand for cement will be high for the next five years ( [LOC Al  ] Masry [LOC Al  ] [PER Youm  ] , 2/14/2010 and 2/16/2010 ) . 
+Traffic Accidents in [LOC Egypt  ] on the Rise <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG U  ] ) An investigation by a special parliamentary committee found that railway and traffic accidents are increasing in [LOC Egypt  ] . 
+According to the report , there were 22,400 traffic accidents in 2008 , up from 19,200 in 2007 . 
+The report also noted that [LOC Cairo  ] 's 100 kilometer-long Ring Road is considered to be one of the most dangerous roads in [LOC Egypt  ] ( [LOC Al  ] Masry [LOC Al  ] [PER Youm  ] , 2/9/2010 ) . 
+Safety of [ORG Maritime Ferries Questioned  ] <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG U  ] ) In an interview with [LOC Al  ] Masry [LOC Al  ] [PER Youm  ] , Admiral [PER Mokhtar Ammar  ] , the ex-Chairman of the [ORG Maritime Authority  ] , confirmed reports that maritime ferries used in the [LOC Red Sea  ] are not safe . 
+[LOC Al  ] Masry [LOC Al  ] [PER Youm  ] had previously published internal documents from the [ORG Ministry of Transportation  ] indicating that ferries were unsafe . 
+[PER Ammar  ] added that there are four ferries currently operating in the [LOC Red Sea  ] , but their safety records are poor , which may lead to another maritime crisis on the scale of the major ferry capsizing in 2006 ( [LOC Al  ] Masry [LOC Al  ] [PER Youm  ] , 2/19/2010 ) . 
+Call for a [ORG Nuclear Advisory Committee of Expatriates  ] <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG U  ] ) [PER Mohammed Abu El Anin  ] , the Chairman of the [ORG Parliament 's Industry Committee  ] , suggested that the GOE establish an advisory council of distinguished [MISC Egyptian  ] nuclear scientists living in [LOC Europe  ] and the [LOC United States  ] . 
+Minister of Electricity Dr. [PER Hassan Younis  ] welcomed the suggestion , and recommended that the proposed council focus on research and development rather than monitoring and setting regulations . 
+The [ORG Shura Council  ] approved the latest draft law for the regulation of nuclear activities last December ( [LOC Al  ] Alam [LOC Al  ] [PER Youm  ] , Feb 18 ) . 
+Strong Growth in [ORG Cell Phone Market  ] <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG U  ] ) The number of cell phone users in [LOC Egypt  ] grew by 39% in 2009 in [LOC Egypt  ] , reaching 55.5 million , according to statistics released by the [MISC Egyptian  ] [ORG Ministry of Communication  ] . 
+[ORG Mobinil  ] has 25.4 million subscribers , accounting for 45.7% of the total market , [ORG Vodafone Egypt  ] has 23.3 million subscribers , constituting 42.1% of the market , and [ORG Etisalat Egypt  ] has 6.7 million subscribers , 12.2% of total subscribers . 
+Industry experts expect the market to continue to grow for the next three years . 
+( [PER Al Mal  ] , 2/18/2010 ) . 
+SCOBEY</pre></code> 

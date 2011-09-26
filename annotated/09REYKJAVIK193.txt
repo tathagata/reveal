@@ -1,0 +1,65 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000193 SIPDIS DEPT FOR CA/FPP DHS FOR CIS/FDNS DEPT PASS KCC WILLIAMSBURG KY E.O. 12958: N/A TAGS: <a href='/tag/KFRD_0.html'>KFRD</a> <a href='/tag/CVIS_0.html'>CVIS</a> <a href='/tag/CPAS_0.html'>CPAS</a> <a href='/tag/CMGT_0.html'>CMGT</a> <a href='/tag/ASEC_0.html'>ASEC</a> <a href='/tag/IC_0.html'>IC</a> [ORG SUBJECT: Fraud  ] Summary - Reykjavik: March to August 2009 <a id='par1' href='#par1'>¶</a>1 . 
+SUMMARY: [LOC Iceland  ] is a low-fraud country with no identifiable , consistant fraud patterns involving [LOC U.S.  ] passports or visas . 
+No signficant changes or fraud trends were noted in [LOC Iceland  ] during the reporting period March 1 to August 31 , 2009 . 
+END SUMMARY . 
+COUNTRY CONDITIONS ------------------ <a id='par2' href='#par2'>¶</a>2 . 
+[LOC Iceland  ] , a stable democracy with a dynamic consumer economy , suffered an economic meltdown in October 2008 . 
+The banking sector collapsed and the [ORG Icelandic Government  ] turned to the [ORG International Monetary Fund  ] ( [ORG IMF  ] ) for assistance . 
+This was a marked change from the economic boom [LOC Iceland  ] had experienced from several years of strong economic growth spurred by economic reforms , deregulation , and low inflation . 
+Despite the recent economic collapse , [LOC Iceland  ] is not generally characterized by social conditions which create widespread fraud . 
+[LOC Iceland  ] has a proportionally large foreign-born population of approximately 12 percent . 
+This group consists of both naturalized [MISC Icelandic  ] citizens and permanent residents . 
+Integration into [MISC Icelandic  ] society by non-native populations can vary widely depending on individual circumstances and factors such as language , culture , employment and housing . 
+[LOC Iceland  ] participates in the [MISC Visa Waiver Program  ] ( [ORG VWP  ] ) and most [MISC Icelandic  ] citizens travel to the [LOC U.S.  ] using their [MISC Machine Readable Passports  ] ( MRPs ) and an approved [MISC Electronic System  ] for [ORG Travel Authorization  ] ( [ORG ESTA  ] ) . 
+Most [MISC Icelandic  ] passports and national IDs are machine-readable and [LOC Iceland  ] started to produce bio-metric passports in 2006 . 
+Obtaining fraudulent birth certificates or other registry items is difficult since all records are computerized , centrally stored , and easy to verify . 
+[ORG NIV Fraud  ] --------- <a id='par3' href='#par3'>¶</a>3 . 
+[ORG NIV  ] fraud is minimal in [LOC Iceland  ] , and [ORG Post  ] did not discover any confirmed cases of [ORG NIV  ] fraud during this reporting period . 
+[ORG Post  ] pays careful attention to applicants seeking visas for extended visits , young [MISC Icelandic  ] applicants applying for a B1/B2 ( with the intention of working as baby sitters ) , " new Icelanders " ( who only recently obtained [MISC Icelandic  ] citizenship ) , third-country nationals resident in [LOC Iceland  ] , and non-resident [ORG NIV  ] applicants . 
+During this reporting period , post received [ORG NIV  ] applications from citizens from 39 countries . 
+The most significant third country national groups are citizens of [LOC Poland  ] and [LOC Russia.  ] <a id='par4' href='#par4'>¶</a>4 . 
+[ORG Post  ] receives approximately two [MISC I-275  ] " turnaround " reports from DHS each month , mainly for previous overstays on the [MISC Visa Waiver Program  ] or evidence of intended illegal employment . 
+[ORG IV Fraud  ] -------- <a id='par5' href='#par5'>¶</a>5 . 
+Post did not uncover any cases involving [ORG IV  ] fraud during this reporting period . 
+The [ORG IV  ] unit 's main fraud concern is family based [ORG IV  ] applications from third-country nationals with foreign birth , marriage and police certificates . 
+[ORG DV Fraud  ] -------- <a id='par6' href='#par6'>¶</a>6 . 
+Post did not uncover any cases involving [ORG DV  ] fraud during this reporting period . 
+All [ORG DV  ] winners in FY 2009 were [MISC Icelandic  ] citizens and documents proving family relationships are easily verified by the [MISC Icelandic  ] authorities . 
+ACS and [ORG U.S. Passport Fraud  ] --------------------------- <a id='par7' href='#par7'>¶</a>7 . 
+[LOC U.S.  ] passport fraud is minimal at post . 
+False claims to [LOC U.S.  ] citizenship and photo-substituted identification documents are the main fraud concerns in the ACS unit . 
+Lost or stolen passport cases are frequent as the numbers of [LOC U.S.  ] visitors to [LOC Iceland  ] have steadily increased over the last five years . 
+Local authorities are diligent about turning in found [LOC U.S.  ] passports to the [ORG Consular Section  ] . 
+[ORG Adoption Fraud  ] -------------- <a id='par8' href='#par8'>¶</a>8 . 
+[ORG Post  ] does not handle any adoption documents . 
+Use of [ORG DNA Testing  ] ------------------ <a id='par9' href='#par9'>¶</a>9 . 
+[ORG DNA  ] testing is readily available and not susceptible to fraud . 
+Socially , it is very common for Icelanders not to marry and a large percentage of children are born to unmarried parents . 
+[MISC Icelandic  ] authorities only require [ORG DNA  ] tests when the father disputes paternity or the paternity of a child is unknown . 
+Asylum and Other DHS Benefits Fraud ----------------------------------- <a id='par10' href='#par10'>¶</a>10 . 
+Post did not uncover any cases involving asylum fraud during this reporting period . 
+[LOC Iceland  ] has a low asylum approval rate as all international flights to [LOC Iceland  ] are from countries characterized as safe havens ( [LOC USA  ] , [LOC Western Europe  ] , and [LOC Canada  ] ) . 
+[PER Alien Smuggling  ] , [LOC Trafficking  ] , [ORG Organized Crime , Terrorist Travel  ] ------------------------------------ <a id='par11' href='#par11'>¶</a>11 . 
+[LOC Iceland  ] is a destination country and possibly a transit point for small numbers of alien traffickers and asylum seekers from the [LOC Baltic States  ] , [LOC Eastern Europe  ] , [LOC China  ] , and [LOC Africa  ] . 
+A report published in September by the [ORG Icelandic Red Cross  ] estimates that there were between 59 and 128 cases of human trafficking to [LOC Iceland  ] in the past three years . 
+[MISC Icelandic  ] border authorities devote considerable attention to suspicious travelers from outside the [LOC Schengen Area  ] , but are limited in their ability to detain citizens from [LOC Schengen  ] countries for questioning . 
+DS Criminal Fraud Investigations -------------------------------- <a id='par12' href='#par12'>¶</a>12 . 
+[ORG Post  ] did not refer any cases to the [ORG Regional Security Office  ] ( [ORG RSO  ] ) for criminal investigations during this reporting period . 
+The [ORG Consular Section  ] and [ORG RSO  ] maintain a strong working relationship . 
+[ORG Host Country Passport  ] , [ORG Identity Documents  ] and [ORG Civil Registry  ] ---------------------------- <a id='par13' href='#par13'>¶</a>13 . 
+[LOC Iceland  ] issues biometric passports both domestically and overseas at their embassies and consulates . 
+[MISC Icelandic  ] documents are characteristically secure and easy to verify through a computerized record keeping system . 
+Cooperation with [ORG Host Government Officials  ] ------------------------------------------ <a id='par14' href='#par14'>¶</a>14 . 
+Cooperation between [ORG Post  ] and the [MISC Icelandic  ] authorities is excellent . 
+The [ORG Consular Section  ] has a particularly strong working relationship with the [ORG Border Police  ] at [ORG Keflavik International Airport  ] who have willingly allowed us to examine documents using their top of the line fraud detection equipment whenever we have requested it . 
+Ares of [ORG Particular Concern  ] -------------------------- <a id='par15' href='#par15'>¶</a>15 . 
+[ORG Post  ] pays careful attention to the increasing numbers of third-country nationals applying in [LOC Iceland  ] . 
+We have encountered attempts by immigration lawyers to avoid perceived rigorous adjudication procedures by flying in [LOC H1B  ] and L applicants from other parts of the world for the sole purpose of having them apply for visas in [LOC Iceland  ] in the expectation of fast and easy issuance . 
+[ORG Post  ] continues to discourage third country national first-time applicants from applying in [LOC Iceland  ] . 
+Staffing and Training --------------------- <a id='par16' href='#par16'>¶</a>16 . 
+[ORG Post  ] has one consular assistant , [PER Helga Magnusdottir  ] , who is designated as the primary fraud prevention analyst , in addition to her normal ACS and [ORG IV  ] duties . 
+[PER Helga  ] attended a one-day training class on fraud prevention at [ORG Embassy Stockholm  ] in May 2007 . 
+The sole consular officer at [ORG Post  ] is the [ORG Fraud Prevention Manager  ] . 
+All four [ORG LES  ] in the [ORG Consular Section  ] are expected to be aware of fraud and report any possible cases to the [ORG Consular Officer.  ] <a id='par17' href='#par17'>¶</a>17 . 
+For questions regarding fraud prevention at [ORG Embassy Reykjavik  ] please contact [ORG Consular Officer  ] [PER Kristyna Rabassa  ] - rabassakl@state.gov or 354-562-9100 x2287 . 
+WATSON</pre></code> 

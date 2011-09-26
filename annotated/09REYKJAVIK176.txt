@@ -1,0 +1,38 @@
+<code><pre>UNCLAS [ORG REYKJAVIK  ] 000176 SENSITIVE NSC FOR HOVENIER TREASURY FOR NORTON SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/EFIN_0.html'>EFIN</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: TAX INCREASES AND FISCAL CUTS IN ICELAND'S 2010 BUDGET BILL <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG U  ] ) [ORG Summary:  ] The [ORG Minister of Finance  ] announced next year 's economic forecast and submitted the 2010 state budget bill to parliament October 1 when the parliament reconvened after its summer break . 
+The forecast presented a bleak economic picture for the next two years and the budget was laden with significant tax increases and budget cuts . 
+The budget proposal is traditionally the first bill to be submitted to parliament , and must pass before January 1 as the [MISC Icelandic  ] fiscal year ends December 31 . 
+End summary . 
+Facts and Figures ---------------- <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG U  ] ) The [ORG Ministry of Finance  ] recently announced the economic forecast for [LOC Iceland  ] , which serves as a basis for the calculation of revenues and expenses in the 2010 state budget bill . 
+The forecast presented a bleak picture for the [MISC Icelandic  ] economy in the next two years . 
+It noted that , despite a surplus of 88.6 billion [MISC ISK  ] ( $708 million [MISC USD  ] ) in 2007 , the economic crisis created a deficit of 216.0 billion [MISC ISK  ] ( $1.73 billion [MISC USD  ] ) , amounting to 42% of GDP in 2008 . 
+The deficit is predicted to decrease slightly to 182.3 billion [MISC ISK  ] ( $1.46 billion [MISC USD  ] ) in 2009 and drop to 87.4 billion [MISC ISK  ] ( $699 million [MISC USD  ] ) in 2010 . 
+State coffers are not expected to post positive gains until 2013 , even with the assistance of stringent fiscal restraint. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG U  ] ) The forecast predicted purchasing power to fall by 10.4 percent in 2009 and by 11.4 percent in 2010 ; and for GDP to contract by 8.4 percent in 2009 , a little less than previously expected , and by 1.9 percent in 2010 . 
+Unemployment for 2009 is expected to reach 8.6 percent and grow to 10.6 percent in 2010 , a significant rise in a country where unemployment was about two percent before the financial collapse . 
+Tax Increases ---------------- <a id='par4' href='#par4'>¶</a>4 . 
+( SBU ) According to the 2010 budget bill , the government 's goal is to reduce the deficit to 87.4 billion [MISC ISK  ] ( $699 million [MISC USD  ] ) , or 6% of GDP , in 2010 , in part by increasing revenues by 61.3 billion [MISC ISK  ] ( $490 million [MISC USD  ] ) , primarily through tax increases . 
+Significant income , fuel , alcohol and tobacco sales taxes are included among the proposed tax increases . 
+One prospective new tax being debated is an energy , environmental , and resource tax , which could generate 16 billion [MISC ISK  ] ( $128 million [MISC USD  ] ) in revenue . 
+Details on this proposed tax are scarce ; however , the bill mentions the option of imposing a tax of one [MISC ISK  ] per kWh of sold electricity . 
+Aluminum companies are greatly displeased with this possibility . 
+As the three aluminum smelters utilize 70 percent of all electricity in [LOC Iceland  ] , this could result in a significant blow to those companies' profits . 
+They are thus studying their long-term agreements with the government to determine whether or not they would be exempt from the tax . 
+The spokesperson of one aluminum company , [MISC RioTintoAlcan  ] , stated that such a tax would wipe out all of the company 's profits from its aluminum smelter in [LOC Straumsvik  ] . 
+[ORG Alcoa  ] 's managing director said this tax is directed towards companies creating jobs in [LOC Iceland  ] and that he doubts such a step would help the country in attracting investors . 
+Budget Cuts ---------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG U  ] ) To meet the goal of reducing the deficit to 87.4 billion [MISC ISK  ] ( $699 million [MISC USD  ] ) in 2010 , the government also plans to implement 33.6 billion [MISC ISK  ] ( $269 million [MISC USD  ] ) in budget cuts next year . 
+Among the proposed reductions are cuts for all ministries and the closure of three [MISC Icelandic  ] embassies abroad . 
+The reduction for the [ORG Ministry of Health  ] , which operates the public health sector , will amount to 4 percent . 
+Investment in transportation and infrastructure will fall by 33 percent . 
+Allocations to the [ORG Icelandic Defense Agency  ] ( [ORG IDA  ] ) will be reduced by 21.5 percent in advance of its anticipated closure in 2010 . 
+Contributions to international development aid will be cut by 24.3 percent and the budget of the [ORG Icelandic International Development Agency  ] will decrease by 16.1 percent . 
+Salary reductions for state employees , ranging from three to 10 percent , are rumored to be imminent . 
+Comment ---------------- <a id='par6' href='#par6'>¶</a>6 . 
+( SBU ) Although the government is taking steps to turn the economy around , few expect to see any improvement until late 2010 , at the earliest . 
+Several cabinet members have confided to us that they expect this winter will be more difficult than last year . 
+The full force of the economic crisis has not reached the general population , but will do so once the proposed cuts in benefits and services are implemented alongside significant tax hikes . 
+At the same time , the government 's bleak prognosis , which anticipates no economic growth until 2013 , could also prove to be overly optimistic . 
+For example , [LOC Iceland  ] could fail to meet these targets due to several key variables , including how the [ORG Icesave  ] dispute will be resolved , when the [ORG IMF  ] loan will be disbursed and the success of the lifting of capital restrictions . 
+WATSON</pre></code> 

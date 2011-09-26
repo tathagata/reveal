@@ -1,0 +1,16 @@
+<code><pre>UNCLAS [LOC TRIPOLI  ] 000167 SENSITIVE SIPDIS STATE FOR NEA/MAG ; [ORG NSC  ] FOR [MISC S. AGUIRRE E.O.  ] 12958: [PER N/A TAGS:  ] <a href='/tag/PREL_0.html'>PREL</a> <a href='/tag/MARR_0.html'>MARR</a> <a href='/tag/MCAP_0.html'>MCAP</a> <a href='/tag/MNUC_0.html'>MNUC</a> <a href='/tag/PARM_0.html'>PARM</a> <a href='/tag/LY_0.html'>LY</a> REF: [LOC TRIPOLI  ] 115 1 . 
+( [ORG SBU  ] ) This is an action request ; please see para 4 . 
+2 . 
+( [ORG SBU  ] ) On February 15 , 2010 , the [MISC Embassy  ] received a diplomatic note from the [ORG International Organizations Office  ] at the General [PER People  ] 's [ORG Committee for Foreign Liaison  ] and [ORG International Cooperation  ] ( [ORG Ministry of Foreign Affairs  ] equivalent ) , formally requesting [LOC U.S.  ] support for [LOC Libya  ] 's upcoming bid for full [ORG Missile Technology Control Regime  ] membership . 
+Full text of the diplomatic note is included at para 5 . 
+3 . 
+( [ORG SBU  ] ) The diplomatic note inaccurately claimed that the Ambassador had already committed to support [LOC Libya  ] 's candidacy . 
+In response , the [MISC Embassy  ] sent a diplomatic note to the MFA on February 23 , refuting the statement and explaining that the [MISC Embassy  ] would refer the overall matter of USG support for [LOC Libya  ] 's bid to the [ORG Department  ] . 
+4 . 
+( [ORG SBU  ] ) The [MISC Embassy  ] requests [ORG Department  ] guidance on replying to the GOL on this issue . 
+5 . 
+( [ORG SBU  ] ) Informal [MISC Embassy  ] translation of [MISC Libyan  ] diplomatic note number 341/38/1/35 , which was forwarded by e-mail to NEA/MAG on February 15: The General [PER People  ] 's [ORG Committee  ] for [ORG Foreign Liaison  ] and [ORG International Cooperation  ] ( [ORG International Organizations Office  ] ) sends its compliments to the [LOC U.S.  ] [MISC Embassy  ] in the [LOC Great Jamahiriya  ] . 
+Further to the meeting held on February 9 , 2010 at the [ORG Command  ] and [ORG Staff School  ] in [LOC Libya  ] between the [MISC Libyan  ] side represented by the head of the [ORG Technical Cooperation Department  ] and the [ORG National Committees  ] at the [ORG Defense Interim Committee  ] , and the [MISC American  ] side represented by [PER H.E.  ] the [LOC U.S.  ] Ambassador accredited to [LOC Great Jamhiriya  ] , this office would like to note that among the topics referred to was [LOC Libya  ] 's recurrent request to join [ORG MTCR  ] as a member , and [PER H.E.  ] the [LOC U.S.  ] Ambassador promised to support [LOC Libya  ] to accede to such membership . 
+Therefore , we would like hereby to request your country 's support to [LOC Libya  ] during the next meeting of the [ORG MTCR  ] forum expected to convene this year . 
+The General [PER People  ] 's [ORG Committee Secretariat for Foreign Liaison  ] and [ORG International Cooperation  ] ( [ORG International Organizations Office  ] ) avails itself of this opportunity to renew to the esteemed [LOC U.S.  ] [MISC Embassy  ] the assurances of its highest considerations . 
+( Seal of the General [PER People  ] 's Secretary for Foreign Liaison and [ORG International Cooperation  ] ) To: [LOC U.S.  ] Embassy - [LOC Tripoli  ] Date: February 14 , 2010 [MISC POLASCHIK</pre></code>  ] 

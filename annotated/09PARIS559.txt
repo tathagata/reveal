@@ -1,0 +1,58 @@
+<code><pre>UNCLAS SECTION 01 OF 03 [LOC PARIS  ] 000559 SENSITIVE SIPDIS STATE PASS USTR FOR RBAE E.O. 19523: N/A TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/FR_0.html'>FR</a> SUBJECT: FRANCE'S INTERNET PIRACY LAW: [ORG UMP  ] CALLING TOTO <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) Summary: In a theater-of-the absurd parliamentary maneuver , [LOC France  ] 's " three-strikes- you're-out " law to crack down on internet piracy was torpedoed April 9 by the man ( or rather 10 Socialist [MISC MPs  ] ) behind the curtain . 
+The government intends to bring the law back for a second reading in the [ORG National Assembly  ] on April 29 , and to a formal vote on May 12 . 
+GOF sources are confident the government will control the vote this time around , though admit there are some policy differences within the [ORG UMP  ] majority ( primarily over whether those who are ultimately cut off from internet service should pay for the balance of their internet subscriptions ) . 
+End summary. <a id='par2' href='#par2'>¶</a>2 . 
+( [ORG SBU  ] ) [LOC France  ] 's closely-watched graduated response law that would deny users access to the [MISC Internet  ] after three piracy violations was torpedoed by the [ORG National Assembly  ] on April 9 . 
+[PER Olivier Henrard  ] , legal advisor to the Minister of Culture and point-person for the " Creation and [MISC Internet  ] " bill , told us that the opposition [MISC Socialists  ] had managed to spirit 10 of their [MISC MPs  ] into a broom closet concealed by a heavy curtain in the entranceway to the Chamber . 
+Under normal circumstances the majority would have put a stop to proceedings had it noticed a cluster of oppositions [MISC MPs  ] hovering outside the Chamber . 
+But with the [MISC Socialists  ] out of view , the [ORG UMP  ] allowed the session 's presiding MP , a Socialist , to bring the measure to a vote . 
+At which point the [MISC MPs  ] rushed from their hiding place to cast their " no " votes . 
+( Note: It is not uncommon for votes in the [ORG National Assembly  ] to take place in a near-empty chamber . 
+The final " Creation and [MISC Internet  ] " law vote was voted down by 21 Q 15 . 
+End note . 
+) <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) [PER Henrard  ] indicated the government will present the same text for a second reading on April 29 , following a parliamentary recess . 
+Current plans call for a final vote on May 12 . 
+Although [PER Henrard  ] is confident in the bill 's ultimate passage , he admitted there was some disagreement within the majority over a stipulation that requires users who have been disconnected from the internet for IP violations to continue paying their [ORG ISP  ] contracts . 
+An amendment has been proposed from the [ORG National Assembly  ] floor that would alter that arrangement. <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG SBU  ] ) The Socialist opposition , some [ORG UMP  ] [MISC MPs  ] , and consumers groups insist the April 9 defeat was indicative of a greater level of discontent over the bill than the government cares to admit . 
+[PER UFC-Que Choisir  ] , a consumers group linked to the dust-up over the 2006 digital copyright law ( in which the [ORG GOF  ] ultimately lost control of proposed legislation in the [ORG National Assembly  ] ) , said the [MISC MPs  ] had " heard the displeasure of consumers . 
+" [ORG UMP  ] MP [PER Herve Mariton  ] said the government " was afraid of its own majority " and had tried to pass the bill below the radar ( a notion rejected by the [ORG Culture Ministry  ] 's [PER Henrard  ] , who says the press regularly turns to the same four or five [ORG UMP  ] MPs who oppose the bill to generate controversy . 
+) [ORG U.S. Industry Views  ] ------------------- <a id='par5' href='#par5'>¶</a>5 . 
+( [ORG SBU  ] ) [LOC U.S.  ] industry continues to watch the bill closely . 
+[ORG Motion Picture Association of America  ] ( [ORG MPAA  ] ) President [PER Robert Pisano  ] told the Charge on March 20 that the graduated response law is " very important " to the fight against online piracy , and to [ORG MPAA  ] . 
+The [ORG Recording Industry of America  ] has expressed similar sentiments. <a id='par6' href='#par6'>¶</a>6 . 
+( [ORG SBU  ] ) The [ORG Business Software Alliance  ] ( [ORG BSA  ] ) has expressed concern over a proposed amendment to Article 15 of the 2006 [MISC French  ] [ORG Digital Copyright Law  ] that has been included in the " Creation and [MISC Internet  ] " bill . 
+That article , which industry has contested since its inception , requires firms to provide source code of software that includes technical protection measures to the [MISC French  ] authorities . 
+Originally introduced as an amendment from the [ORG National Assembly  ] floor , the measure was designed to address spyware concerns ( reportedly in the wake of the 2005 [ORG Sony  ] rootkit scandal in which [ORG Sony  ] had sold CDs in the [LOC United States  ] with copyright protection measures that installed onto users' PCs and enabled remote [LOC PARIS  ] 00000559 002 OF 003 monitoring ) . 
+Article 15 has neither been enforced nor the subject of implementing regulations since the [ORG Copyright Law  ] was passed. <a id='par7' href='#par7'>¶</a>7 . 
+( [ORG SBU  ] ) [ORG BSA  ] says it had hoped the " Creation and [MISC Internet  ] " law would fully repeal article 15 . 
+Instead , the draft amendment would have firms turn over source code only " at the request of [MISC French  ] authorities , " rather than automatically , as the law currently stipulates . 
+[ORG GOF  ] officials , including [PER Henrard  ] , advisors to [ORG Digital Economy Junior  ] Minister [PER Nathalie Kosciusko-Morizet  ] , and the Secretary General of the [ORG Technical Measures Authority  ] ( an independent body established to implement aspects of the Copyright law , to be replaced by a new body subsequent to passage of the " Creation and [MISC Internet  ] " law ) tell us there is no appetite in the [ORG GOF  ] for implementing Article 15 . 
+But outright repeal of a measure passed only two years ago by the [ORG National Assembly  ] would have opened another political front in a legislative climate that was proving challenging . 
+And , they say , leaving vague the conditions under which a request for source code could be initiated allows the [ORG GOF  ] to let the provision languish . 
+Challenges to Implementation ---------------------------- <a id='par8' href='#par8'>¶</a>8 . 
+( [ORG SBU  ] ) While most observers expect the " Creation and the [MISC Internet  ] " bill to be approved this time around , there are hurdles ahead . 
+Opposition MPs intend to make implementation and enforcement as difficult as possible , starting with a likely challenge before the [ORG Constitutional Court  ] ( which rules on whether new laws comply with [LOC France  ] 's constitution ) . 
+They have also taken their case to the [MISC European  ] Parliament , where debate over the right to disconnect users from the internet has been injected into discussion of the [ORG EU  ] telecoms package . 
+The [ORG Culture Ministry  ] 's [PER Henrard  ] decried Socialists' efforts to politicize the telecoms package , and indicated the [ORG GOF  ] would push back on any [ORG EU  ] efforts to preclude the [ORG GOF  ] from implementing its law . 
+( Note: The telecoms package is being shepherded through the [ORG EP  ] by Socialist group [ORG MEP  ] [PER Catherine Trautmann  ] , [MISC French  ] Culture Minister from 1997 Q 2000 in the [MISC Jospin  ] government . 
+End note . 
+) Socialist [ORG MEP  ] candidates for the June [ORG EP  ] elections are also trying to make political hay by stressing the [ORG GOF  ] 's " contempt for representative democracy " in presenting a bill that is essentially identical to one so recently rejected by the [ORG National Assembly.  ] <a id='par9' href='#par9'>¶</a>9 . 
+( [ORG SBU  ] ) Then there are the sheer logistical challenges of implementing the legislation . 
+Users caught downloading illegal content will first receive an e-mail warning from the [ORG ISP  ] . 
+Following a second " strike , " users will receive a ( computer-generated ) warning letter in the mail from the soon-to-be- established [ORG High Authority  ] for the [ORG Distribution of Works  ] and the [ORG Protection of Rights  ] on the [MISC Internet  ] ( " [MISC HADOPI  ] " in [MISC French  ] ) . 
+Culture Minister [PER Albanel  ] has told the [ORG National Assembly Cultural Affairs Committee  ] that , under a worst-case scenario , the [MISC HADOPI  ] would be sending out up to 10,000 letters a day . 
+If the same user is caught a third time , his or her [MISC Internet  ] connection will be suspended for up to one year. <a id='par10' href='#par10'>¶</a>10 . 
+( [ORG SBU  ] ) [PER Henrard  ] says the independent [MISC HADOPI  ] authority , whose structure and legal standing will be loosely- patterned on [LOC France  ] 's financial markets regulatory authority [ORG AMF  ] , will have a 90 million euro budget to contact , warn , suspend and deny [MISC Internet  ] access . 
+It will have the right to obtain and peruse a year 's worth of personal records from ISPs , order ISPs to include new filtering systems in their infrastructure and fine them up to 5,000 euros if they provide access to " blacklisted " users . 
+But ultimately the point of the legislation , [PER Henrard  ] concluded , is to sensitize law-abiding citizens to the importance of fighting internet piracy through personal responsibility ( including through such steps as locking [MISC WiFi  ] connections to keep pirates from piggybacking onto [ORG ISP  ] accounts ) . <a id='par11' href='#par11'>¶</a>11 . 
+( [ORG SBU  ] ) Comment: The opposition handed President [PER Sarkozy  ] an embarrassing , if temporary , parliamentary defeat with this episode . 
+Majority leader Jean- [LOC PARIS  ] 00000559 003 OF 003 [PER Francois Cope  ] and Parliamentary Relations State Secretary [PER Roger Karoutchi  ] both reportedly received tongue-lashings from the President after the debacle , and press reports suggest [PER Karoutchi  ] even offered to tender his resignation . 
+With the [ORG UMP  ] 's commanding majority in parliament , and pressure from the President ( who personally initiated and supported the draft law ) , the [ORG GOF  ] should get its bill through on the second reading . 
+But although the bill 's initial failure was mostly a result of party politics and clever parliamentary maneuvering , there are strong undercurrents of dissent on the policy . 
+The legislation was based on a consultative process that included rights-holders , [MISC Internet  ] companies and public authorities . 
+But an alliance of consumers groups and open internet advocates has steadily opposed the measure . 
+And their argument that the little guys' rights are being trampled by big entertainment resonates , even in a country as culturally-sensitive as [LOC France  ] . 
+PEKALA</pre></code> 

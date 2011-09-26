@@ -1,0 +1,205 @@
+<code><pre>S E C R E T STATE 037566 NOFORN E.O. 12958: [LOC DECL:  ] 04/16/2034 TAGS: <a href='/tag/PINR_0.html'>PINR</a> <a href='/tag/KSPR_0.html'>KSPR</a> <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/CD_0.html'>CD</a> <a href='/tag/CV_0.html'>CV</a> <a href='/tag/GA_0.html'>GA</a> <a href='/tag/ML_0.html'>ML</a> <a href='/tag/MR_0.html'>MR</a> <a href='/tag/NG_0.html'>NG</a> <a href='/tag/SG_0.html'>SG</a> <a href='/tag/UV_0.html'>UV</a> SUBJECT: ( S ) REPORTING AND COLLECTION NEEDS: WEST AFRICA SAHEL REGION REF: A. 08 STATE 124337 <a id='parB' href='#parB'>¶</a>B . 
+04 STATE 179667 Classified By: CATHERINE BROWN , DAS IPC . 
+REASON: 1.4 ( C ) . <a id='par1' href='#par1'>¶</a>1 . 
+( [LOC S/NF  ] ) This cable provides the full text of the new [ORG National HUMINT Collection Directive  ] ( [ORG NHCD  ] ) on the [LOC West Africa  ] [LOC Sahel region  ] ( paragraph 3-end ) as well as a request for continued DOS reporting of biographic information relating to the [LOC West Africa  ] [LOC Sahel region  ] ( paragraph 2 ) . <a id='parA' href='#parA'>¶</a>A . 
+( [LOC S/NF  ] ) The [ORG NHCD  ] below supercedes the [ORG NHCD  ] contained in Ref B and reflects the results of a recent [LOC Washington  ] review of reporting and collection needs focused on the [LOC West Africa  ] [LOC Sahel region  ] ( [LOC Ref A  ] ) . 
+The review produced a comprehensive list of strategic priorities ( paragraph 3 ) and reporting and collection needs ( paragraph 4 ) intended to guide participating USG agencies as they allocate resources and update plans to collect information on the [LOC West Africa  ] [LOC Sahel region  ] . 
+The priorities should also serve as a useful tool to help the [ORG Embassy  ] manage reporting and collection , including formulation of [MISC Mission Strategic Plans  ] ( MSPs ) . <a id='parB' href='#parB'>¶</a>B . 
+( [LOC S/NF  ] ) This [ORG NHCD  ] is compliant with the [ORG National Intelligence Priorities Framework  ] ( [ORG NIPF  ] ) , which was established in response to NSPD-26 of February 24 , 2003 . 
+If needed , [ORG GRPO  ] can provide further background on the [ORG NIPF  ] and the use of [ORG NIPF  ] abbreviations ( shown in parentheses following each sub-issue below ) in [LOC NHCDs.  ] <a id='parC' href='#parC'>¶</a>C . 
+( [LOC S/NF  ] ) Important information often is available to non-State members of the [ORG Country Team  ] whose agencies participated in the review of this [ORG National HUMINT Collection Directive  ] . 
+COMs , DCMs , and State reporting officers can assist by coordinating with other [ORG Country Team  ] members to encourage relevant reporting through their own or [ORG State Department  ] channels. <a id='par2' href='#par2'>¶</a>2 . 
+( [LOC S/NF  ] ) State biographic reporting: <a id='parA' href='#parA'>¶</a>A . 
+( [LOC S/NF  ] ) The intelligence community relies on State reporting officers for much of the biographical information collected worldwide . 
+Informal biographic reporting via email and other means is vital to the community 's collection efforts and can be sent to the [MISC INR/B  ] ( Biographic ) office for dissemination to the [ORG IC.  ] <a id='parB' href='#parB'>¶</a>B . 
+( [LOC S/NF  ] ) Reporting officers should include as much of the following information as possible when they have information relating to persons linked to the [LOC West Africa  ] Sahel region: office and organizational titles ; names , position titles and other information on business cards ; numbers of telephones , cell phones , pagers and faxes ; compendia of contact information , such as telephone directories ( in compact disc or electronic format if available ) and e-mail listings ; internet and intranet " handles " , internet e-mail addresses , web site identification-URLs ; credit card account numbers ; frequent flyer account numbers ; work schedules , and other relevant biographical information. <a id='par3' href='#par3'>¶</a>3 . 
+( [LOC S/NF  ] ) Priority issues and issues outline: This directive covers eight countries of [MISC Sahelian  ] [ORG West Africa: Burkina Faso  ] , [LOC Cape Verde  ] , [LOC Chad  ] , The [LOC Gambia  ] , [LOC Mali  ] , [LOC Mauritania  ] , [LOC Niger  ] , and [LOC Senegal  ] . 
+The coastal countries to the south ( [LOC Guinea-Bissau  ] , [LOC Guinea  ] , [LOC Sierra Leone  ] , [LOC Liberia  ] , [LOC Cote d'Ivoire  ] , [LOC Ghana  ] , [LOC Togo  ] , and [LOC Benin  ] ) are covered separately in the [LOC West Africa  ] Littoral directive. <a id='parI' href='#parI'>¶</a>I . 
+[ORG Regional Issues  ] <a id='parA' href='#parA'>¶</a>A . 
+Security 1 ) [ORG International Terrorism  ] ( [ORG TERR  ] ) 2 ) [ORG Response To Terrorism  ] ( [ORG TERR  ] ) 3 ) Military ( [ORG FMCC  ] ) 4 ) Support for [ORG U.S. Military Contingency Planning  ] ( [ORG HREL  ] ) 5 ) [ORG Insurgent  ] and [ORG Separatist Groups  ] ( [ORG SRCC  ] ) 6 ) Relations With The [LOC United States  ] ( [ORG FPOL  ] ) 7 ) Drug Trafficking ( DRUG ) 8 ) Peacekeeping ( [ORG SRCC  ] ) 9 ) [ORG GRPO  ] can provide text of this issue. <a id='parB' href='#parB'>¶</a>B . 
+[ORG Governance  ] 1 ) [PER Leadership  ] ( LEAD ) 2 ) Government Stability and Support For Democracy ( [ORG DEPS  ] ) 3 ) [ORG Human Rights  ] ( [ORG HRWC  ] ) 4 ) [ORG Political Opposition  ] ( [ORG DEPS  ] ) <a id='parC' href='#parC'>¶</a>C . 
+[ORG Socio-Economic Issues  ] 1 ) [ORG Agriculture and Food Security  ] ( [ORG FOOD  ] ) 2 ) Foreign Aid and Relations ( [ORG FPOL  ] ) 3 ) [ORG Criminal Activities  ] ( [ORG CRIM  ] ) 4 ) Health and [ORG Infectious Diseases  ] ( [ORG HLTH  ] ) 5 ) [ORG Population and Refugee Issues  ] ( [ORG DEMG  ] ) 6 ) [ORG Economic Institutions and Initiatives  ] ( [ORG ECFS  ] ) 7 ) [ORG Environmental Issues  ] ( [ORG ENVR  ] ) <a id='parD' href='#parD'>¶</a>D . 
+[ORG Information Systems and Telecommunications Infrastructure  ] ( [ORG INFR  ] ) II . 
+[ORG Country-Specific Issues  ] <a id='parA' href='#parA'>¶</a>A . 
+[ORG Chad: Sudan/Darfur Issues  ] ( [ORG SRCC-2  ] ) <a id='par4' href='#par4'>¶</a>4 . 
+( [ORG S/NF  ] ) Reporting and collection needs: <a id='parI' href='#parI'>¶</a>I . 
+[ORG Regional Issues  ] <a id='parA' href='#parA'>¶</a>A . 
+Security 1 ) [ORG International Terrorism  ] ( [ORG TERR  ] ) . 
+-- Details , presence , and activities related to al-Qa'ida in the land of the [ORG Islamic Maghreb  ] and other terrorist-related individuals and organizations . 
+-- Plans and intentions for operations against [LOC U.S.  ] or allied personnel or interests . 
+-- Links to weapons of mass destruction or related materials . 
+-- Presence and activities of fighters returning from [LOC Iraq  ] and [LOC Afghanistan  ] . 
+-- Information on organizations , leadership , personnel , tradecraft , intelligence and counterintelligence capabilities , financing , front companies , recruitment , and training . 
+-- Weapons and methodologies , particularly for improvised explosive devices . 
+-- Details about local support networks , particularly for transshipments . 
+-- Details about couriers operating in , or originating outside of , the region . 
+-- Presence and activities of non-North [MISC African  ] fighters in the region . 
+-- Indications that international terrorist groups are seeking to take advantage of political , ethnic , tribal , or religious conflict . 
+-- Health , biographic , biometric , and assessment information on leaders . 
+[ORG NIPF  ] Priority for [ORG TERR Chad:  ] 1 , [PER Mali:  ] 1 , [PER Mauritania:  ] 1 , [PER Niger:  ] 1 [ORG NIPF Priority for Non-State Actors  ] for [ORG TERR  ] Al-Qa'ida and [ORG Sunni Affiliates:  ] 1 , [PER Hizballah  ] ( [MISC Lebanese  ] ) : 1 , [ORG Jama'at Tablighi:  ] 3 [ORG HUMINT Priority for TERR Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [LOC Senegal:  ] 5H 2 ) [ORG Response To Terrorism  ] ( [ORG TERR  ] ) . 
+-- Capability , willingness and intent of countries to cooperate with [LOC U.S.  ] counterterrorism ( [MISC CT  ] ) efforts and policies , and to conduct counterterrorist operations . 
+-- Details about [MISC CT  ] legislation , organizations , capabilities , equipment , operations , tactics , and limitations . 
+-- Data regarding the impact of [LOC U.S.  ] and multilateral economic sanctions -- Policies , attitudes , and actions regarding [LOC U.S.  ] and other western [MISC CT  ] training . 
+-- Military and security forces' attitudes towards [MISC CT  ] training and operations . 
+-- Interaction and interoperability of security and military forces with foreign [MISC CT  ] forces . 
+-- Public attitudes towards [MISC CT  ] policies and activities . 
+-- Plans to deploy biometric systems to enhance domestic counterterrorism efforts . 
+[ORG NIPF Priority for TERR Chad:  ] 1 , [PER Mali:  ] 1 , [PER Mauritania:  ] 1 , [PER Niger:  ] 1 [ORG NIPF Priority for Non-State Actors  ] for [ORG TERR  ] Al-Qa'ida and [ORG Sunni Affiliates:  ] 1 , [PER Hizballah  ] ( [MISC Lebanese  ] ) : 1 , [ORG Jama'at Tablighi:  ] 3 [ORG HUMINT Priority for TERR Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [LOC Senegal:  ] 5H 3 ) Military ( [ORG FMCC  ] ) -- Plans , intentions , status and details of the national defense policy and strategy . 
+-- Military relations with other countries , including training exercises . 
+-- Capabilities , disposition , vulnerabilities , and readiness of forces . 
+-- Details about military personnel , units , equipment , and tactics . 
+-- Plans and efforts regarding military reform , procurement , and modernization . 
+-- Government cooperation regarding [LOC U.S.  ] POW/MIAs and detained [LOC U.S.  ] citizens . 
+-- Evidence of coup plotting in military ranks . 
+-- Evidence of criminal activity in military ranks and impact . 
+-- Extent and effects of ethnic , religious , and political factions within the military . 
+-- Public attitudes towards the military and other security forces . 
+-- Details of covert arms acquisitions and arms sales . 
+[ORG NIPF Priority for FMCC Chad:  ] 3 , [PER Mali:  ] 4 , [PER Mauritania:  ] 4 , [PER Niger:  ] 4 , [ORG Senegal:  ] 4 [ORG HUMINT Priority for FMCC Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H 4 ) Support for [ORG U.S. Military Contingency Planning  ] ( [ORG HREL  ] ) . 
+-- Plans , intentions , and capability of host governments to support evacuation or humanitarian assistance by [LOC U.S.  ] forces , including host nations' ability and willingness to protect [LOC U.S.  ] citizens and/or facilities . 
+-- Internal developments that could prompt [LOC U.S.  ] contingency planning for [ORG Non-combatant Evacuation Operations  ] ( [ORG NEO  ] ) or humanitarian assistance . 
+-- Host government 's emergency management capabilities and points-of-contact . 
+-- Details about infrastructure , medical facilities , and communication networks . 
+-- Geocoordinates and description of third-country diplomatic , humanitarian aid , and non-governmental organization ( [ORG NGO  ] ) facilities . 
+-- Evacuation routes , including official/unofficial checkpoints , chokepoints , and potential impediments . 
+[ORG NIPF Priority for HREL Chad:  ] 3 , [PER Niger:  ] 5 [ORG HUMINT Priority for HREL Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 5H , [LOC Senegal:  ] 5H 5 ) [ORG Insurgent  ] and [ORG Separatist Groups  ] ( [ORG SRCC  ] ) . 
+-- Plans , intentions , and capabilities of separatist , insurgent or radical opposition groups or organizations to influence or destabilize host country government . 
+-- Clandestine efforts to subvert peace accords and reconciliation efforts . 
+-- Plans and intentions relating to [LOC U.S.  ] citizens and military personnel in the region . 
+-- [PER Leadership  ] , organization , recruitment and training , tactics , sources of financing , and [ORG Command , Control , Communications  ] , Computer , and Intelligence capabilities . 
+-- Goals and attitudes toward peace accords and reconciliation efforts . 
+-- Links to foreign governments and non-state actors in foreign countries . 
+-- Public support for groups . 
+-- Links to international terrorist groups . 
+-- Health , biographic , biometric , and assessment information on leaders . 
+[ORG NIPF Priority for SRCC Chad:  ] 2 [ORG HUMINT Priority for SRCC Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 4H , [PER Mauritania:  ] 5H , [PER Niger:  ] 4H , [LOC Senegal:  ] 5H 6 ) Relations with the [LOC United States  ] ( [ORG FPOL  ] ) . 
+-- Plans and intentions of government and government leaders concerning relations with the [LOC United States  ] , including plans and efforts to support or oppose [LOC U.S.  ] policies and efforts in international fora . 
+-- Decision-making , policies , plans , negotiating strategies , and efforts , particularly regarding [LOC Burkina Faso  ] . 
+-- Impact of relations with [LOC China  ] on relations with the [LOC United States  ] . 
+-- Public opinion about [LOC U.S.  ] actions in [LOC Africa  ] , particularly regarding the [ORG U.S. Africa Command  ] ( [ORG AFRICOM  ] ) and the [ORG Millennium Challenge Corporation  ] foreign aid program . 
+-- Response to [LOC U.S.  ] policies regarding the [LOC Sahel  ] region , the [LOC Middle East  ] , [LOC Iraq  ] , [LOC Afghanistan  ] , [LOC Iran  ] , and the global war on terror . 
+-- Impact of trade relations with [LOC India  ] and [LOC Brazil  ] on relations with the [LOC United States  ] . 
+[ORG HUMINT Priority for FPOL Burkina Faso:  ] 3H , [LOC Cape Verde:  ] 5H , [ORG Chad:  ] 4H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 3H , [PER Niger:  ] 5H , [LOC Senegal:  ] 4H 7 ) Drug Trafficking ( DRUG ) . 
+-- Government plans and intentions regarding drug production and trafficking . 
+-- Use of transportation networks for drug production , trafficking , or storage . 
+-- Details about types of drugs trafficked and associated transportation networks and seizures . 
+-- Details about front companies , financial institutions , and money flow . 
+-- Links to international terrorist groups . 
+-- Links to drug producers outside of region , particularly [MISC Latin American  ] cocaine cartels . 
+-- Links to regional or international drug distribution networks . 
+-- Law enforcement and judiciary capabilities to combat drug trafficking and production . 
+-- Drug traffickers' efforts to corrupt or undermine law enforcement and government . 
+-- Presence , use , or transshipment of precursor chemicals and associated equipment for drug production . 
+-- Information about terrorist or insurgent groups' income derived from the drug trade , including drug types and quantities . 
+-- Information on impact of drug trafficking and use , particularly on public health and crime , and supporting internal statistics . 
+[ORG NIPF Priority  ] for DRUG [ORG Senegal:  ] 5 [ORG HUMINT Priority  ] for DRUG [ORG Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 4H , [ORG Chad:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 3H , [PER Niger:  ] 5H 8 ) Peacekeeping ( [ORG SRCC  ] ) . 
+-- [ORG Governments'  ] plans and intentions to participate in or support peacekeeping operations and funding allocated/spent . 
+-- Military and security forces' willingness and capability to train with other nations and participate in peacekeeping operations , and details of peacekeeping experience . 
+-- Military and security forces' capabilities and willingness to accept international military assistance and joint training . 
+-- Perception of troops' performance during peacekeeping operations . 
+[ORG NIPF Priority  ] for [ORG SRCC Chad:  ] 2 [ORG HUMINT Priority  ] for [ORG SRCC Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 4H , [PER Mauritania:  ] 5H , [PER Niger:  ] 5H , [LOC Senegal:  ] 5H 9 ) [ORG GRPO  ] can provide text of this issue and related requirements. <a id='parB' href='#parB'>¶</a>B . 
+[ORG Governance  ] 1 ) [PER Leadership  ] ( LEAD ) . 
+-- Key issues of concern to national and opposition leadership , particularly dynamics and decision-making processes of key civilian and military officials and of ruling political parties , including coup plotting . 
+-- Attitude toward political opposition . 
+-- Personal financial resources , financial institutions used , and personal relationships . 
+-- Biographic data , including opinions about the [LOC United States  ] . 
+[ORG HUMINT Priority  ] for LEAD [ORG Burkina Faso:  ] 3H , [LOC Cape Verde:  ] 5H , [ORG Chad:  ] 3H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 3H , [PER Niger:  ] 5H , [LOC Senegal:  ] 4H 2 ) Government Stability and Support For Democracy ( [ORG DEPS  ] ) . 
+-- Internal or external threats to government stability , democracy , or rule of law , including government efforts to address these threats . 
+-- Government control over national territory and borders , including areas where government authority is weak or absent . 
+-- Commitment to representative government and democratic reforms , particularly during election cycle . 
+-- Laws , policies , and prospects for political succession and elections . 
+-- Details on corruption and anti-corruption measures . 
+-- Drivers of , and responses to , political instability or economic deterioration . 
+-- Details on administrative , judicial , and legislative organs and related decision-making . 
+-- Signs of ethnic , religious , or generational polarization and impact on decision-making . 
+-- Political and social infrastructure development in remote regions . 
+[ORG NIPF Priority  ] for [ORG DEPS Chad:  ] 4 , [PER Mauritania:  ] 5 , [ORG Senegal:  ] 5 [ORG HUMINT Priority  ] for [ORG DEPS Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Niger:  ] 5H 3 ) [ORG Human Rights  ] ( [ORG HRWC  ] ) . 
+-- Details of human rights abuses by intelligence and security services , military , paramilitary , police , or other officials , or by insurgent , separatist , or other groups . 
+-- Details of government efforts and capability to prevent or respond to abuses . 
+-- Government reaction to foreign and domestic criticism of alleged human rights abuses . 
+-- Details of alleged disenfranchisement or enslavement of individuals or groups , including government complicity or inaction . 
+-- Government relationship with international peacekeeping and aid organizations . 
+[ORG NIPF Priority  ] for [ORG HRWC Chad:  ] 2 , [PER Mauritania:  ] 5 , [PER Niger:  ] 5 [ORG HUMINT Priority  ] for [ORG HRWC Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 4H , [PER Mali:  ] 5H , [LOC Senegal:  ] 5H 4 ) Political Opposition ( [ORG DEPS  ] ) . 
+-- Plans , intentions , and role of opposition parties in political system , including intention to use extra-legal means to depose government . 
+-- Activities , plans , intentions , and sources of funding and support . 
+-- [PER Leadership  ] , organization , agendas , membership , and level of influence . 
+-- Plans and intentions related to the election cycle . 
+-- Alliances , factions , and evidence of links to foreign governments or insurgent/separatist groups . 
+-- Opinions of ethnic , religious , and other population groups towards the government and political opposition . 
+[ORG NIPF Priority  ] for [ORG DEPS Chad:  ] 4 , [PER Mauritania:  ] 5 , [ORG Senegal:  ] 5 [ORG HUMINT Priority  ] for [ORG DEPS Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Niger:  ] 5H <a id='parC' href='#parC'>¶</a>C . 
+[ORG Socio-Economic Issues  ] 1 ) Agriculture and Food Security ( FOOD ) . 
+-- Government plans and actions regarding agricultural output , food security , and food safety . 
+-- Willingness to cooperate with [ORG U.N.  ] and other donor agencies on food-related issues . 
+-- Details about food prices and food trade and public reaction to increasing food prices . 
+-- Indications of environmental factors affecting agricultural output . 
+-- Government policies and initiatives to increase agricultural producer income . 
+-- Status of , and prospects for , cash and subsistence crops . 
+-- Indications of invasive species affecting food security or development . 
+-- Details about manipulation of food aid by government or warlords to enhance power . 
+[ORG NIPF Priority  ] for FOOD [ORG Chad:  ] 5 [ORG HUMINT Priority  ] for FOOD [ORG Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 5H , [PER Niger:  ] 5H , [LOC Senegal:  ] 5H 2 ) Foreign Aid and Relations ( [ORG FPOL  ] ) . 
+-- [ORG Governments'  ] and leaders' views on foreign nations and international organizations , particularly [LOC China  ] , [LOC Iran  ] , and [LOC India  ] . 
+-- Foreign alliances , aid , and activities , including those withheld from public view . 
+-- Details on international trade issues and economic assistance needs and requests . 
+-- [ORG Governments'  ] actions and intentions regarding existing [LOC U.S.  ] Status of [ORG Forces Agreements  ] and the [ORG Rome Convention  ] 's [ORG International Criminal Court  ] ( [ORG Article  ] 98 ) . 
+[ORG HUMINT Priority  ] for [ORG FPOL Burkina Faso:  ] 3H , [LOC Cape Verde:  ] 5H , [ORG Chad:  ] 4H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 5H , [PER Niger:  ] 5H , [LOC Senegal:  ] 4H 3 ) Criminal Activities ( [ORG CRIM  ] ) . 
+-- Details of corruption and cross-border criminal activity , including weapons trafficking , human trafficking , alien smuggling , illicit finance , and cigarette smuggling . 
+-- Government and law enforcement plans and intentions to combat criminal activity . 
+-- Organizations , activities , methodologies , alliances , and vulnerabilities . 
+-- Cooperation with terrorist or insurgent groups . 
+-- Key investors , facilitators , beneficiaries , and corrupt officials . 
+[ORG HUMINT Priority  ] for [ORG CRIM Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 4H , [ORG Chad:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 4H , [PER Mauritania:  ] 3H , [PER Niger:  ] 4H , [LOC Senegal:  ] 5H 4 ) Health and [ORG Infectious Diseases  ] ( [ORG HLTH  ] ) . 
+-- Details of infectious diseases and general health conditions , including number of cases , percentage of population affected , fatalities , dates , areas of occurrence , and impact . 
+-- Government policies , plans , and efforts for disease prevention and identification . 
+-- Nutrition-related health of population , including refugees . 
+-- Vaccination practices , capabilities , and response related to drug-resistant and Emerging and [ORG Re-Emerging Diseases  ] , particularly polio and tuberculosis . 
+-- [ORG Effect of HIV/AIDS  ] or other diseases on military , government , or economic performance . 
+-- Public attitudes towards disease prevention and treatment programs . 
+-- Indications of infectious plant , animal , or zoonotic diseases ( animal to human transmission ) with potential economic or public health consequences . 
+-- Details about contaminated food , water , air , and soil . 
+-- Information on medical facilities , including capabilities and training . 
+[ORG NIPF Priority  ] for [ORG HLTH Chad:  ] 4 [ORG HUMINT Priority  ] for [ORG HLTH Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 5H , [PER Niger:  ] 5H , [LOC Senegal:  ] 5H 5 ) Population and [ORG Refugee Issues  ] ( [ORG DEMG  ] ) . 
+-- Population movements in the region , and governments' involvement and response . 
+-- Indications of actual or potential refugee movements within or into the region . 
+-- Locations and conditions of refugee camps and informal refugee and internally displaced persons ( [ORG IDP  ] ) gathering sites and transit routes . 
+-- Government capability and willingness to assist refugees and [MISC IDPs  ] . 
+-- Health and demographic statistics of refugees and [MISC IDPs  ] . 
+-- Dynamics and impact of migration and demographic shifts . 
+-- Efforts to repatriate refugees . 
+[ORG NIPF Priority  ] for [ORG DEMG Chad:  ] 3 , [PER Mali:  ] 4 , [PER Mauritania:  ] 4 , [PER Niger:  ] 4 [ORG HUMINT Priority  ] for [ORG DEMG Burkina Faso:  ] 4H , [LOC Cape Verde:  ] 4H , The [MISC Gambia:  ] 4H , [LOC Senegal:  ] 4H 6 ) [ORG Economic Institutions and Initiatives  ] ( [ORG ECFS  ] ) . 
+-- Policies , strategies , and efforts to improve economic growth . 
+-- [PER Leadership  ] views on economic , trade , and fiscal policies and regulatory enforcement . 
+-- Identities and roles of governments' economic policy-making and regulatory bodies/officials . 
+-- Macroeconomic statistics regarding trade , budget , balance of payments , and national economies , including reliability or manipulation of data . 
+-- Public perception of economic conditions , including youth employment prospects . 
+-- [ORG Nature  ] and extent of underground banking systems . 
+-- Details on economic assistance needs and partnerships , and effectiveness of aid . 
+-- Financial data transmission systems and accounting methods . 
+-- Details of natural resource development activities , including financing . 
+[ORG HUMINT Priority  ] for [ORG ECFS Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , [ORG Chad:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 4H , [PER Niger:  ] 5H , [LOC Senegal:  ] 5H 7 ) [ORG Environmental Issues  ] ( [ORG ENVR  ] ) . 
+-- Details of plans and efforts by governments , [ORG NGOs  ] , and others to combat deforestation and desertification , including the [LOC Great Green Wall  ] project . 
+-- [ORG Governments'  ] willingness and ability to manage exploitation of natural resources and respond to natural and man-made environmental disasters . 
+-- Capability and willingness to protect nearby sea lanes , and fishing grounds and other Exclusive [ORG Economic Zone  ] claims . 
+-- Negotiating positions at international environmental meetings . 
+-- Government and public perceptions regarding environmental issues . 
+[ORG NIPF Priority  ] for [ORG ENVR Niger:  ] 5 [ORG HUMINT Priority  ] for [ORG ENVR Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , [ORG Chad:  ] 4H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 5H , [LOC Senegal:  ] 5H <a id='parD' href='#parD'>¶</a>D . 
+Information Systems and [ORG Telecommunications Infrastructure  ] ( [ORG INFR  ] ) . 
+-- Current specifications , vulnerabilities , capabilities , and planned upgrades to , national telecommunications infrastructure and information systems , command and control systems , networks , and technologies used by government , military , and private sector . 
+-- National leadership use of , and dependencies on , dedicated telecommunications infrastructures and information systems . 
+-- Details about national and regional telecommunications policies , programs , regulations , service providers , vendors , and training . 
+-- Details about internet and intranet use , infrastructure , and government oversight . 
+-- Plans and efforts to acquire [LOC U.S.  ] export-controlled telecommunications technology . 
+-- Details about information repositories for [ORG Radio Frequency Identification-enabled  ] systems used for passports , government badges , and transportation systems . 
+-- Official and personal phone numbers , fax numbers , and e-mail addresses of principal civilian and military leaders . 
+[ORG NIPF Priority  ] for [ORG INFR Chad:  ] 4 [ORG HUMINT Priority  ] for [ORG INFR Burkina Faso:  ] 5H , [LOC Cape Verde:  ] 5H , The [MISC Gambia:  ] 5H , [PER Mali:  ] 5H , [PER Mauritania:  ] 5H , [PER Niger:  ] 5H , [LOC Senegal:  ] 5H II . 
+[ORG Country-Specific Issues  ] <a id='parA' href='#parA'>¶</a>A . 
+[ORG Chad: Sudan/Darfur Issues  ] ( [MISC SRCC-2  ] ) . 
+-- Details about [MISC Sudanese-backed  ] insurgency in [LOC Chad  ] and [MISC Chadian-backed  ] insurgency in [LOC Sudan  ] and related population movements . 
+-- Indications of actual or potential refugee or [ORG IDP  ] movements , especially [MISC Sudanese  ] and [LOC Central African Republic  ] refugees . 
+-- Human rights abuses against refugees currently located in [LOC Chad  ] . 
+-- Government 's political will and intention to engage [MISC Sudanese-backed  ] separatists . 
+-- Military capability to combat [MISC Sudanese-backed  ] separatists . 
+-- Role of international institutions in stabilizing domestic uprising . 
+-- Details about [MISC Chadian  ] insurgents' relationship with the Government of [LOC Sudan  ] . 
+-- Details about the government 's relationship with [MISC Sudanese  ] insurgents in [LOC Darfur  ] . 
+-- Presence or activities of international terrorist groups in insurgencies . 
+CLINTON</pre></code> 

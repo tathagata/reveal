@@ -1,0 +1,87 @@
+<code><pre>UNCLAS SECTION 01 OF 03 [LOC TRIPOLI  ] 000010 SIPDIS DEPARTMENT FOR NEA/MAG , INL , SCT , AND EEB ; DEPT . 
+OF [ORG JUSTICE  ] FOR AFMLS , [LOC OIA  ] , AND OPDAT ; DEPT OF TREASURY FOR FINCEN E.O. 12958: N/A TAGS: <a href='/tag/KCRM_0.html'>KCRM</a> <a href='/tag/EFIN_0.html'>EFIN</a> <a href='/tag/PTER_0.html'>PTER</a> <a href='/tag/SNAR_0.html'>SNAR</a> <a href='/tag/LY_0.html'>LY</a> SUBJECT: LIBYA: 2009 INTERNATIONAL NARCOTICS CONTROL STRATEGY REPORT ( INCSR ) MONEY LAUNDERING AND FINANCIAL CRIMES REF: STATE 114960 [LOC TRIPOLI  ] 00000010 001.2 OF 003 1.Libya is not considered to be an important financial sector in the [LOC Middle East  ] and northern [LOC Africa  ] . 
+The [MISC Libyan  ] economy depends primarily upon revenues from the oil and gas sector , which constitute practically all export earnings and over 70 percent of GDP . 
+The combination of oil revenues and a small population give [LOC Libya  ] one of the highest per capita GDPs in [LOC Africa  ] . 
+[LOC Libya  ] has a cash-based economy and large underground markets . 
+[LOC Libya  ] is a destination and transit point for smuggled goods , particularly alcohol and black market/counterfeit goods from [LOC sub-Saharan Africa  ] , [LOC Egypt  ] and [LOC China  ] . 
+Contraband smuggling includes narcotics , particularly hashish/cannabis and heroin . 
+[LOC Libya  ] is not considered to be a production location for illegal drugs , although its geographic position , porous borders and limited law enforcement capacity make it an attractive transit point for illegal drugs . 
+[LOC Libya  ] is a transit and destination country for men and women from [LOC sub-Saharan Africa  ] and [LOC Asia  ] trafficked for the purposes of forced labor and commercial sexual exploitation . 
+While most foreigners in [LOC Libya  ] are economic migrants , some are forced into prostitution , or forced to work as laborers and beggars to pay off their smuggling debts . 
+[LOC Hawala  ] and informal value transfer networks are present . 
+2.The [MISC Libyan  ] banking system consists of a [ORG Central Bank  ] , three state-owned commercial banks , two recently-privatized banks , forty-eight national banks and a handful of privately-owned [MISC Libyan  ] banks . 
+[MISC Libyan  ] banks suffer from a lack of modern equipment and trained personnel , and substantial investment in both will be required to bring [MISC Libyan  ] banks up to international standards . 
+[MISC Libyan  ] banks offer little in the way of services for their customers , and most [MISC Libyans  ] make little use of the banking system . 
+[MISC Libyan  ] Banking Law [ORG No.  ] 1 of 2005 allows for the entry of foreign banks into [LOC Libya  ] . 
+[LOC Libya  ] is not considered to be an offshore financial center . 
+Offshore banks , international business companies and other forms of exempt/shell companies are not licensed by the [MISC Libyan  ] government . 
+3.Libya 's privatization of its public banks is proceeding as part of the [ORG Central Bank  ] 's efforts to modernize [LOC Libya  ] 's banking sector . 
+In 2007 , [ORG Sahara Bank  ] was privatized and entered into an agreement with the [MISC French  ] bank [ORG BNP Paribas  ] in which [ORG BNP  ] owns nineteen percent and has majority representation on the Board of Directors . 
+The privatized [ORG Sahara Bank  ] is embarking on a comprehensive modernization process , including the development of a consolidated information technology system and customer service training . 
+Similarly , another formerly state-owned bank , [ORG Wahda Bank  ] was privatized in 2007 in a deal that awarded a nineteen percent stake to [LOC Jordan  ] 's [ORG Arab Bank  ] . 
+Two other state-run banks , [ORG Umma Bank  ] and [ORG Jamahiriya Bank  ] , were merged in 2008 as part of the government 's plans to privatize and consolidate its state-owned banks . 
+The [ORG Central Bank  ] continues to formulate a program of banking sector modernization and retains western consulting firms to assist in reforms . 
+[LOC Libya  ] is also cooperating with the [ORG IMF  ] and [ORG World Bank  ] by soliciting their advice and assistance for economic reforms . 
+In general , training and resources are lacking for anti-money laundering awareness and countermeasure implementation . 
+A considerable transition time is anticipated while [LOC Libya  ] 's banking system is reformed and gradually reintegrated into the international system following the lifting of [ORG UN  ] and [LOC U.S.  ] sanctions . 
+4.The [ORG Central Bank  ] is responsible for the establishment of regulations relevant to combating money laundering and terrorist finance under the terms of [ORG Article  ] 57 of Banking Law [ORG No.  ] 1 of 2005 . 
+Money laundering is illegal in [LOC Libya  ] , and terms and penalties are clearly laid out in Banking Law [ORG No.  ] 2 of 2005 on [MISC Combating Money  ] Laundering . 
+This law does not make specific mention of drug-related money laundering . 
+These crimes are dealt with under [LOC Libya  ] 's [ORG Penal Code  ] , [ORG Criminal Procedures Law  ] , and related supplementary laws . 
+Penalties for money laundering under Law [ORG No.  ] 2 include imprisonment ( for an unspecified duration ) and a fine equal to the amount of relevant illegal goods/property . 
+An increased penalty is used if the malefactor participated in the predicate offense , whether as a perpetrator or accomplice . 
+Penalties ranging from 1,000 to 10,000 [MISC Libyan  ] dinars ( approximately $770 to $7,700 ) are also imposed on persons withholding information on money laundering offenses , persons warning offenders of an ongoing investigation and persons in violation of foreign currency importation regulations . 
+The offense of falsely accusing others of money laundering offenses is punishable by imprisonment of not less than a year . 
+5.Banking Law [ORG No.  ] 2 directed the [ORG Central Bank  ] to establish a Financial Information Unit ( [ORG FIU  ] ) . 
+It also established a [ORG National Committee  ] for [MISC Combating Money  ] Laundering chaired by the Governor or Deputy Governor of the [ORG Central Bank  ] . 
+The [ORG National Committee  ] includes representatives from the [ORG Secretariat of the General People 's Committee  ] for [ORG Finance  ] and [ORG Planning  ] , the [ORG Secretariat of the General People 's Committee  ] for Justice , the [ORG Secretariat of the General People 's Committee  ] for [ORG Public Security  ] , the [LOC TRIPOLI  ] 00000010 002.2 OF 003 [ORG Secretariat of the General People 's Committee  ] for Industry , Economy , and Trade , the [ORG Secretariat of the General People 's Committee  ] for Foreign Liaison and [ORG International Cooperation  ] , the [ORG Customs Authority  ] and the [ORG Tax Authority  ] . 
+6.Libyan banks are required to record and report the identity of customers engaged in all transactions . 
+Records of transactions are retained for a considerable ( but indeterminate ) period , although a lack of computerized records and systems , particularly among [LOC Libya  ] 's more than forty-eight regional banks and branches in remote areas of the country , preclude reliable record-keeping and data retrieval . 
+7.Libya 's Banking Law No.1 forbids " possessing , owning , using , exploiting , disposing of in any manner , transferring , transporting , depositing , or concealing illegal property in order to disguise its unlawful source . 
+" The broad scope of the law , and its complimentary relationship to existing criminal law , extends the scope of money laundering controls and penalties to non-banking financial institutions . 
+All entities , either financial or non-financial in nature , are required to report money laundering activity to [MISC Libyan  ] authorities under penalty of law . 
+The [ORG Central Bank  ] is responsible for supervision of all banks , financial centers and money changing institutions . 
+All banks are required to undergo an annual audit and establish an administrative unit called the " compliance unit " which is directly subordinate to the board of directors . 
+The [ORG Central Bank  ] 's [ORG Banking Supervision Division  ] is also responsible for examining banks to ensure that they are operating in compliance with law . 
+8.Libya established a Financial Information Unit ( [ORG FIU  ] ) under the terms of Banking Law [ORG No.  ] 2.The [ORG Central Bank  ] is responsible for establishing and housing the [MISC Libyan  ] [ORG FIU  ] . 
+According to the director of the [ORG FIU  ] , the unit now has a staff of 15 and is an independent body that reports directly to the [ORG Central Bank  ] Governor , who heads the [ORG National Committee  ] for [MISC Combating Money  ] Laundering . 
+[LOC Libya  ] has welcomed an offer by the [ORG U.S. Department of Treasury  ] to provide technical assistance to the [ORG FIU  ] and other government entities in 1 ) Combating money laundering , terrorist financing and other financial crimes ; 2 ) Confronting organized crime and corruption ; and 3 ) reorganizing law enforcement and financial entities to help them detect , investigate and prosecute complex international financial crimes . 
+9.The [ORG FIU  ] is tasked to gather all reports on suspicious transactions from all financial and commercial establishments and individual persons . 
+It is authorized by law to exchange information and reports on cases suspected of being linked to money laundering activities with its counterparts in other countries , in accordance with [LOC Libya  ] 's international commitments . 
+All banks operating in [LOC Libya  ] are required by law to establish a " [MISC Subsidiary Unit  ] for Information on [MISC Combating Money  ] Laundering " responsible for monitoring all activities and transactions suspected of being linked to money laundering activities . 
+The [ORG FIU  ] is responsible for reporting this information to the Governor of the [ORG Central Bank  ] for appropriate action . 
+However , given the limitations of the [MISC Libyan  ] banking sector both in terms of human and technological resources and the lead time necessary to establish new internal mechanisms , these subsidiary units are either non-existent or nonfunctional in most cases . 
+All entities cooperating with the [ORG FIU  ] and/or law enforcement entities are granted confidentiality . 
+Furthermore , anyone reporting acts of money laundering before they are discovered by [MISC Libyan  ] authorities is exempted from punishment under the law ( safe harbor ) . 
+As in previous years , there is no reliable information on the number of suspicious transaction reports ( STRs ) issued in 2007 , nor information on the scope of prosecutions and convictions on the part of [MISC Libyan  ] government authorities . 
+10.It is illegal to transfer funds outside of [LOC Libya  ] without the approval of the [ORG Central Bank  ] . 
+Cash courier operations are in clear violation of [MISC Libyan  ] law . 
+It is estimated that up to ten percent of foreign transfers are made through illegal means ( i.e. , not through the [ORG Central Bank  ] ) . 
+[LOC Libya  ] is seeking foreign assistance to bring tighter control over these transactions ; however , fund transfers by migrant workers ( mainly from [LOC sub-Saharan Africa  ] and [LOC Asia  ] ) are difficult for the [MISC Libyan  ] government to monitor , particularly transfers by criminal organizations . 
+Between 1.5 and 2 million foreigners are thought to live and work in [LOC Libya  ] in violation of immigration laws . 
+It is illegal for these workers to take cash out of the country ; however , porous borders and limited law enforcement capacity enable some degree of smuggling and illicit transfer of goods and currency . 
+11.Informal hawala money dealers ( muhawaleen ) exist in [LOC Libya  ] , and are often used to facilitate trade and small project finance . 
+[MISC Libyan  ] officials have indicated that they intend to require registration of all muhawaleen in the near future . 
+Given the poor quality and limited reach of [LOC Libya  ] 's banking system , many [MISC Libyans  ] and foreigners rely on informal mechanisms for cash [LOC TRIPOLI  ] 00000010 003.2 OF 003 payments and transactions . 
+This is done largely for practical reasons , as [LOC Libya  ] 's socialist practices and commercial rivalries among regime insiders discourage disclosure of income and business transactions . 
+Until the recent revision of the tax code , rates of up to 80-90 percent encouraged off-the-book transactions . 
+12.Reportedly , there is no evidence of extensive money laundering or terrorist financing taking place in the [ORG Free Trade Zone  ] ( [ORG FTZ  ] ) in the city of [LOC Misrata  ] . 
+[LOC Misrata  ] , 210 kilometers east of [LOC Tripoli  ] , is currently [LOC Libya  ] 's sole operating [ORG FTZ  ] . 
+Projects in the free zone enjoy standard " Five [MISC Freedoms  ] " privileges , including tax and customs exemptions . 
+At present , the zone occupies 430 hectares , including a portion of the Port of [LOC Misrata  ] . 
+13.Libya is a party to the 1988 [ORG UN Drug Convention  ] , the [ORG UN Convention  ] against [ORG Transnational Organized Crime  ] and the [ORG UN Convention  ] against Corruption . 
+[LOC Libya  ] is a party to all 12 of the [ORG UN Conventions  ] and Protocols dealing with terrorism , including the [ORG International Convention  ] for the Suppression of the Financing of Terrorism . 
+However , [LOC Libya  ] has not criminalized terrorist financing . 
+The [ORG GOL  ] has demonstrated some willingness to circulate [ORG UN  ] and [LOC U.S.  ] lists of terrorist entities ; however , there are no indications to suggest that the [ORG GOL  ] has made any effort to freeze , seize or forfeit assets of suspected terrorists or financiers of terrorism . 
+14.In 2006 , the [ORG Department of State  ] rescinded [LOC Libya  ] 's designation as a [ORG State Sponsor of Terrorism  ] . 
+The Government of [LOC Libya  ] ( [ORG GOL  ] ) should enact counterterrorist financing legislation and adopt anti-money laundering and counterterrorist finance policies and programs that adhere to world standards . 
+[LOC Libya  ] has joined the [LOC Middle East  ] and [LOC North Africa  ] Financial Action [ORG Task Force  ] and regularly participates in the [ORG Task Force  ] 's conferences . 
+[LOC Libya  ] should continue to modernize its banking sector and adopt full transparency procedures . 
+Tax reform should continue so as to shrink the underground economy . 
+Working with the international community , the [MISC Libyan  ] [ORG FIU  ] and financial police should avail themselves of training . 
+Appropriate entities should become familiar with money laundering and terrorist finance methodologies . 
+In particular , [MISC Libyan  ] law enforcement and customs authorities should examine the underground economy , including smuggling networks , and informal value transfer systems . 
+The [ORG GOL  ] should continue measures aimed at combating corruption in government and commerce . 
+The Government should endeavor to provide statistics on the number of money laundering investigations , prosecutions , and convictions . 
+15.The Point of Contact for this report is [PER Allison Lee  ] ( xxxxxxxxxxxx ) . 
+CRETZ</pre></code> 

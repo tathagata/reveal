@@ -1,0 +1,9 @@
+<code><pre>UNCLAS [LOC REYKJAVIK  ] 000214 SENSITIVE SIPDIS E.O. 12958: N/A TAGS: <a href='/tag/ASIG_0.html'>ASIG</a> <a href='/tag/ASEC_0.html'>ASEC</a> <a href='/tag/ABLD_0.html'>ABLD</a> <a href='/tag/IC_0.html'>IC</a> SUBJECT: REYKJAVIK [ORG OIG  ] COMPLIANCE UPDATE/REUEST FOR EXTENSION REF: A. STATE 2995 , [PER B. STATE085363  ] , [PER C. SIO-I-03-61  ] <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) [ORG Post  ] is committd to closing [ORG Recommendation  ] 2 in the [ORG OIG  ] 's 2003 eport ( ref c ) as soon as possible . 
+[ORG Post  ] continues to advise the [ORG OIG  ] on the status of the [LOC Perimeter  ] ecurity [ORG Upgrade Project  ] in line with [ORG Recommendaton  ] 2 in ref c . 
+As previously reported , [ORG Post  ] hasbeen denied a permit by the city of [LOC Reykjavik  ] to bild on the property because of opposition by the neighbors in the vicinity of the [ORG Mission.  ] <a id='par2' href='#par2'>¶</a>2 . 
+[ORG SBU  ] ) [ORG Post  ] is still awaiting the appointment of a [ORG Cief of Mission  ] , a process that has delayed a final decision on the construction project . 
+Due to an anticipated arrival of a new [ORG COM  ] sometime in spring 2010 , [ORG Post  ] requests an extension on the final decision on the project until July 2010 . 
+This extension should allow the incoming [ORG COM  ] enough time to fully examine this complex issue and make a determination on how to proceed. <a id='par3' href='#par3'>¶</a>3 . 
+( [ORG SBU  ] ) [ORG POC  ] is [ORG Marco A. Fernandez  ] , [ORG RSO  ] . 
+Watson</pre></code> 

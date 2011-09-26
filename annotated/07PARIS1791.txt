@@ -1,0 +1,26 @@
+<code><pre>UNCLAS [LOC PARIS  ] 001791 SIPDIS SIPDIS DEPT ALSO FOR EUR/WE , [ORG DRL/IL  ] , [ORG INR/EUC  ] , [ORG EUR/ERA  ] , [ORG EUR/PPD  ] , [PER AND EB  ] DEPT OF COMMERCE FOR ITA DEPT OF LABOR FOR ILAB E.O. 12958: N/A TAGS: <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/ELAB_0.html'>ELAB</a> <a href='/tag/EU_0.html'>EU</a> <a href='/tag/FR_0.html'>FR</a> <a href='/tag/PINR_0.html'>PINR</a> <a href='/tag/SOCI_0.html'>SOCI</a> <a href='/tag/ECON_0.html'>ECON</a> SUBJECT: IT'S PRESIDENT [PER SARKOZY  ] -- IN A CLEAR-CUT VICTORY OVER SEGOLENE ROYAL REF: A . 
+( A ) [LOC PARIS  ] 1784 AND PREVIOUS <a id='parB' href='#parB'>¶</a>B . 
+( B ) EMBASSY [LOC PARIS  ] DAILY SIPRNET REPORT FOR MAY 4 <a id='parC' href='#parC'>¶</a>C . 
+2007 AND PREVIOUS SENSITIVE BUT UNCLASSIFIED -- HANDLE ACCORDINGLY SUMMARY ------- <a id='par1' href='#par1'>¶</a>1 . 
+( [ORG SBU  ] ) [PER Nicolas Sarkozy  ] has won [LOC France  ] 's presidency by a clear cut , 53 percent majority . 
+Official results -- 53 percent of the vote for [PER Sarkozy  ] and 47 percent for Socialist [PER Segolene Royal  ] -- were announced by [LOC France  ] 's [ORG Interior Ministry  ] 8 P.M. [LOC Paris  ] time on Sunday May 6 . 
+President [PER Bush  ] called president-elect [PER Sarkozy  ] at 8:05 P.M. [LOC Paris  ] time to congratulate him . 
+A record turn-out of 85 percent of registered voters confirms the intense interest this election has generated among the [MISC French  ] , just as [PER Sarkozy  ] 's convincing victory confirms their collective decision to endorse the market-oriented reform platform that he ran on . 
+END SUMMARY A CLEAR-CUT , CONVINCING VICTORY ------------------------------- <a id='par2' href='#par2'>¶</a>2 . 
+Former Interior Minister [PER Nicolas Sarkozy  ] 's second-round win over Socialist Party candidate [PER Segolene Royal  ] in [LOC France  ] 's 2007 presidential election is , by any measure , a clear-cut , convincing victory . 
+Official , if preliminary , results announced by [LOC France  ] 's [ORG Interior Ministry  ] at 8 P.M. [LOC Paris  ] time on Sunday May 6 show that [PER Sarkozy  ] got 53 percent of the 38 million votes cast and [PER Royal  ] got 47 percent . 
+Final , official vote tallies will be posted as they come in on the [MISC French  ] [ORG Interior Ministry  ] 's website at http://www.interieur.gouv.fr . 
+The participation rate in this election is the highest for a second-round presidential contest in [LOC France  ] since the election of 1981 . 
+Of [LOC France  ] 's 44.5 million registered voters , 85.5 percent cast ballots on May 6 for either [PER Sarkozy  ] or [PER Royal  ] , or cast null ballots . 
+THAT GIVES [PER SARKOZY  ] A MANDATE ---------------------------- <a id='par3' href='#par3'>¶</a>3 . 
+( U ) In electing -- by a clear-cut majority -- the activist , mold-breaking [PER Sarkozy  ] the [MISC French  ] have clearly endorsed the largely market-oriented reform agenda that [PER Sarkozy  ] ran on . 
+They have also given him a vote of confidence , betting that he will grow in office -- and that his unsettling , often divisive , personality traits that put off so many will be attenuated by the responsibilities of office . 
+WHAT HAPPENS NEXT ----------------- <a id='par4' href='#par4'>¶</a>4 . 
+( U ) [PER Sarkozy  ] has said that he expects to be inaugurated shortly before the end of President [PER Chirac  ] 's term , probably on Wednesday May 16 ( [PER Chirac  ] 's five-year term ends at midnight on the 16 ) . 
+[PER Sarkozy  ] and [PER Chirac  ] might agree to transfer power earlier , possibly as early as May 14 . 
+In the interim , between his election and inauguration , [PER Sarkozy  ] has promised that , accompanied by a small group of advisors , he will take some days off to " reflect on the heavy responsibilities ahead . 
+" Something more than speculation about who will head the [PER Sarkozy  ] administration 's first government should emerge from this " retreat " led by the president-elect . 
+[PER Sarkozy  ] has promised that he will try to achieve gender parity in his administration 's first cabinet . 
+Former Education Minister [PER Francois Fillon  ] and current Minister of Social Solidarity [PER Jean-Louis Borloo  ] are generally viewed as the two leading candidates for the prime minister 's slot . 
+In coming days president-elect [PER Sarkozy  ] 's statements should confirm how , and how quickly , he plans to proceed with his reform agenda , and we will report accordingly . 
+Please visit [MISC Paris' Classified  ] Website at: http://www.state.sgov.gov/p/eur/paris/index.c fm STAPLETON</pre></code> 

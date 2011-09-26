@@ -1,0 +1,126 @@
+<code><pre>C O N F I D E N T I A L SECTION 01 OF 06 [ORG MADRID  ] 002128 SIPDIS SIPDIS STATE FOR EB/TPP/IPE ( [ORG JURBAN  ] , [ORG JBOGER  ] ) AND EUR/WE ( [ORG ESAMSON  ] ) STATE PASS USTR ( [ORG JGROVES  ] , [ORG CWILSON  ] ) STATE PASS COMMERCE ( ITA - [ORG DCALVERT  ] ) STATE PASS USPTO ( [ORG MSHAPIRO  ] ) STATE PASS [LOC U.S.  ] [ORG COPYRIGHT OFFICE  ] ( [ORG MSKELTON  ] ) [ORG E.O.  ] 12958: [LOC DECL:  ] 11/15/2012 TAGS: <a href='/tag/ECON_0.html'>ECON</a> <a href='/tag/ETRD_0.html'>ETRD</a> <a href='/tag/KIPR_0.html'>KIPR</a> <a href='/tag/PGOV_0.html'>PGOV</a> <a href='/tag/ADCO_0.html'>ADCO</a> <a href='/tag/SP_0.html'>SP</a> SUBJECT: USG REPRESENTATIVES REITERATE INTEREST IN WORKING WITH [LOC SPAIN  ] ON COPYRIGHT ISSUES IN CONNECTION WITH NOVEMBER 7-8 , 2007 [ORG MADRID  ] CONFERENCE REF: ( A ) [ORG MADRID  ] 01807 ( B ) [ORG SECSTATE  ] 107629 Classified By: Deputy Charge d'Affaires a.i. , [PER Hugo Llorens  ] , for reasons 1.5 b and d. <a id='par1' href='#par1'>¶</a>1 . 
+( U ) Summary: Associate Register of Copyrights [PER David Carson  ] , [ORG U.S. Patent & Trademark Office Senior Counsel Michael Shapiro  ] and Deputy Chief of Mission [PER Hugo Llorens  ] used the [MISC Spanish  ] government organized [ORG Madrid November  ] 7-8 , 2007 " Conference on [ORG Intellectual Property Rights  ] in the [MISC Digital Environment  ] " to reiterate to the [MISC Spanish  ] government our continuing interest in working with [LOC Spain  ] on copyright-related intellectual property rights ( [ORG IPR  ] ) issues . 
+[ORG Ministry of Industry  ] , [ORG Tourism  ] and Trade Secretary of State [PER Francisco Ros  ] expressed an interest in judge-to-judge exchanges on [ORG IPR  ] matters . 
+The [MISC Spanish  ] government 's view remains that [ORG Internet Service Providers  ] ( [ORG ISPs  ] ) and content providers should engage in self-regulation to limit internet piracy . 
+However , the government is considering mandating that [ORG ISPs  ] include in service contracts a provision that service can be cut off if users infringe copyrights . 
+Moreover , the government is considering making a special effort to encourage stakeholders to move quickly on an internet notice system , leaving takedown for later . 
+These would be positive steps that would begin to address [LOC U.S.  ] concerns . 
+[ORG Para  ] 2 provides background . 
+[ORG Paras  ] 3-4 report on the [MISC U.S.-Spain  ] bilateral held on the margins of the conference . 
+[ORG Paras  ] 5-6 report on the lunch [ORG DCM  ] hosted in connection with the conference . 
+[ORG Paras  ] 7-8 report on an industry-government meeting held following the conference . 
+[ORG Para  ] 9 summarizes highlights from the conference . 
+[ORG Para  ] 10 contains an Embassy concluding comment . 
+End Summary BACKGROUND ---------- <a id='par2' href='#par2'>¶</a>2 . 
+( C ) The [MISC Spanish  ] government is aware that it came very close to being watchlisted during the latest Special 301 process . 
+This no doubt partly explained Secretary of State Ros' desire to host the November 7-8 conference . 
+His staff made a point of inviting [PER David Carson  ] from the [ORG Copyright Office  ] to speak at the conference . 
+The organizers also invited representatives from the [LOC UK  ] , [LOC France  ] , [LOC South Korea  ] and the [ORG EU  ] , as well as important local stakeholders . 
+The government is juggling sometimes conflicting objectives . 
+These objectives include , but are not necessarily limited to: increasing broadband internet penetration , thereby benefiting national champion [ORG Telefonica  ] ; limiting piracy both because the [MISC Spanish  ] government agrees with that objective and also to keep [LOC Spain  ] off the Special 301 watchlist ; and containing the possible political damage caused by consumer groups and internet surfer ( " internauta " ) groups . 
+There are not many [MISC Spaniards  ] in the latter category , but they have a media impact out of all proportion to their numbers . 
+With elections coming up in March 2008 , the government is sensitive to them . 
+[LOC U.S.  ] - [LOC SPAIN  ] BILATERAL NOVEMBER 7 , 2007 ---------------------- <a id='par3' href='#par3'>¶</a>3 . 
+( U ) [ORG Participants: DCM Hugo Llorens  ] , Associate Register of Copyright [PER David Carson  ] , [ORG U.S. Patent and Trademark Office Senior Counsel Michael Shapiro and Economic  ] Officer [PER Carl Schonander  ] participated for the [ORG U.S. Ministry of Industry  ] , [ORG Tourism  ] and Trade Secretary of State for Telecommunications [PER Francisco Ros  ] was accompanied by Chief of Staff [PER Juan Junquera Temprano  ] and [ORG Subdirector General for Information Society Services  ] [PER Salvador Luis Soriano Maldonado.  ] <a id='par4' href='#par4'>¶</a>4 . 
+( C ) [ORG DCM  ] said that the [LOC U.S.  ] remained very interested in working with [LOC Spain  ] on combatting internet related copyright piracy , and that the conference was a laudable initiative . 
+[PER Ros  ] emphasized that the problems discussed at the conference were " important " and " difficult . 
+" He expressed pleasure that the attendees were " first level . 
+" [PER Ros  ] said that the internet had to accomodate different business models , including those who favored traditional copyright protection and those who were interested in other models . 
+[PER Junquera  ] said that it was very difficult to change the " mentality " of [MISC Spaniards  ] with respect to internet downloading even though the government had conducted several anti-piracy campaigns . 
+He also said that legal instruments were available to rights-holders to protect their their intellectual property . 
+[PER Carson  ] emphasized that the [LOC U.S.  ] experience was that public awareness campaigns [ORG MADRID  ] 00002128 002 OF 006 had to be accompanied by the prospect of " personal consequences " for those who engaged in internet piracy . 
+[PER Ros  ] said that [MISC Spanish  ] law did , in fact , permit action against internet pirates , although the law had not been used adequately by rights-holders . 
+He also explained that his ministry 's proposed notice and takedown legislation had been struck down because the [ORG Council of State  ] found that the proper consultation procedures had not been followed . 
+[PER Shapiro  ] recounted that a conference participant had said that the cultural industry accounted for 4% of [LOC Spain  ] 's GDP and that this should be kept in mind in framing internet piracy policy . 
+[PER Ros  ] reiterated that [MISC Spanish  ] law provided for ways in which rights-holders could protect their property , although his Chief Staff added that the law was very " garantista , " which in practice made it difficult for rights-holders to protect their intellectual property . 
+[PER Shapiro  ] suggested the possibity of meetings between [LOC U.S.  ] judges and [MISC Spanish  ] judges to compare experiences on how to deal with internet-related piracy matters . 
+[PER Ros  ] said he would talk to his [ORG Ministry of Justice  ] counterpart about this possibility . 
+[PER Soriano  ] mentioned that in the last two months , [MISC Spanish  ] police had shut down two internet portals and that the owners were being prosecuted . 
+( [PER Note: Rights-holders  ] typically have nothing but praise for the police . 
+Rights-holders' complaints center on the judiciary , as well as a [ORG Justice Ministry  ] " circular " to prosecutors that effectively decriminalizes peer to peer file sharing unless there is a commercial profit motive . 
+) [PER Ros  ] concluded by saying that his ministry would focus on judge to judge meetings and more publicity campaigns . 
+DCM-HOSTED LUNCH NOVEMBER 8 , 2007 ---------------- <a id='par5' href='#par5'>¶</a>5 . 
+( U ) [ORG Participants: Industry Ministry Subdirector General  ] [PER Salvador Soriano  ] , [ORG Industry Ministry Advisor  ] for [ORG EU Trade Policy Carmen Jordan Asensi  ] , Promusicae Chairman and CEO [PER Antonio Guisasola  ] , [PER Federacion Antipiratera  ] ( [ORG FAP  ] ) Director General [PER Jose Manuel Tourne  ] , [ORG Spanish General Society of Authors and Publishers Corporate Relations  ] Director [PER Pedro Farre Lopez  ] , [ORG Microsoft Iberia  ] Director [PER Arnedo Txema  ] , [ORG National Association of Electronic and Telecommunications Industries  ] ( [ORG AETIC  ] ) President [PER D. Edmundo Fernandez  ] participated from the [MISC Spanish  ] side . 
+[PER DCM  ] [PER Hugo LLorens  ] was accompanied by Economic Counselor [PER James Dudley  ] , [PER David Carson  ] , [PER Michael Shapiro  ] and [PER Carl Schonander.  ] <a id='par6' href='#par6'>¶</a>6 . 
+( C ) [ORG DCM  ] opened by saying that the [ORG USG  ] remained committed to working with [LOC Spain  ] to find ways to combat internet piracy , and that he hoped the conference and the lunch would prove to be two fora that contributed to achieving this goal . 
+The lunch exposed once again the divisions between the content providers and the [MISC ISPs  ] . 
+The [ORG AETIC  ] representative ( [ORG AETIC  ] represents major [MISC ISPs  ] such as [ORG Telefonica  ] ) emphasized that no notice and takedown system for the internet could be developed without " legal security . 
+" Content providers complained that it was virtually impossible to obtain information from [MISC ISPs  ] on customers suspected of trafficking in pirated property , and that [MISC ISPs  ] were too slow to act against internet piracy . 
+Complaints from the content providers were then directed to the [ORG Ministry of Industry  ] , [ORG Tourism  ] and Trade representative , [PER Salvador Soriano  ] . 
+He said that the government remained committed to self-regulation among the stakeholders . 
+[PER Soriano  ] acknowledged , however , that in the meantime a tremendous amount of piracy was taking place on the internet . 
+He suggested that the government and stakeholders focus on developing a notice system for the internet , leaving takedown for later . 
+CONFERENCE GENERATES MOMENTUM IPR INDUSTRY - GOVERNMENT MEETING NOVEMBER 13 , 2007 --------------------------------- <a id='par7' href='#par7'>¶</a>7 . 
+( C ) Chief of Staff [PER Juan Junquera Temprano  ] and [ORG Subdirector General Soriano  ] met with [ORG FAP  ] Director General [PER Jose Manuel Tourne  ] and Promusicae President [PER Antonio Guisasola  ] on 11/13/07 . 
+( [PER Note: EconOff  ] received a read-out on this meeting from [PER Tourne  ] . 
+) [PER Tourne  ] said that [PER Junquera  ] had agreed to work on the following measures: a ) An amendment to the 2002 [ORG Information Society Law in Article  ] 16.1 that would absolve [MISC ISPs  ] of liability with respect to rights-holders if they acted pursuant to voluntary agreements with rights-holders . 
+This would provide a measure [ORG MADRID  ] 00002128 003 OF 006 of legal security for [MISC ISPs  ] with respect to lawsuits generated by rights-holders , although presumably [MISC ISPs  ] would still be liable for " consumer " generated lawsuits . 
+The point of this legal amendment would be to encourage content provider-ISP anti-piracy agreements. b ) Contracts between [MISC ISPs  ] and customers would include a clause stating that [MISC ISPs  ] can suspend service to customers who are found to be infringing copyrights. c ) A government-sponsored " urgent " negotiation on a notice process , leaving takedown for later. d ) Assess the current " private copy " exception 's negative impact and make clear to the public that peer to peer downloads are illegal. e ) Encourage sectoral meetings with a view to creating a climate favoring the protection of content on the internet. <a id='par8' href='#par8'>¶</a>8 . 
+( C ) Comment: In principle these measures are positive . 
+However , we have seen the [ORG Ministry of Industry  ] , [ORG Tourism  ] and Trade promise action to the content industry in the past and then fold when faced with opposition . 
+Indeed , [PER Tourne  ] received an 11/14/07 phone call from [PER Junquera  ] saying that [ORG Senate  ] approval would be difficult to obtain for the first measure . 
+Rights-holders and the government have agreed on a low key approach for now . 
+However , if the government wants to do something serious to protect content on the internet , it will have to withstand some criticism . 
+HIGHLIGHTS FROM THE CONFERENCE --------------- <a id='par9' href='#par9'>¶</a>9 . 
+( U ) For those who are interested in a conference agenda , please contact [PER Carl Schonander  ] at [LOC SchonanderCE@state.gov  ] . 
+Conference highlights follow below . 
+Secretary of State SIPDIS for Telecommunications [PER Francisco Ros  ] ---------------------- [PER Ros  ] opened the conference . 
+He spent a lot of time talking about the vast quantities of information on the internet . 
+The Secretary of State emphasized the need for self-regulation among the stakeholders . 
+He called for internet regulation which respected different business models , including a model based on traditional copyright law . 
+[PER Douglas Lippoldt Directorate  ] for Science , [ORG Technology and Industry  ] , [ORG OECD  ] ------------------- [PER Lippoldt  ] mentioned the [ORG OECD  ] 's emphasis on fostering innovation and shared tentative empirical findings suggesting a positive relationship between protection for IPRs and the flow of [LOC FDI  ] . 
+[PER Michael Keplinger  ] Deputy Director General [PER WIPO  ] ----------------------- [PER Keplinger  ] went through the fundamental tenets of the internet treaties and mentioned that [PER WIPO  ] has posted a guide to the treaties on its website . 
+He said [PER WIPO  ] was committed to creating an [ORG IPR  ] " culture " . 
+[PER Tilman Luder Unit Chief DG Internal Market  ] and [ORG Services European Commission  ] ------------------- [PER Luder  ] said that his Commissioner , [PER Charles McGreevy  ] , firmly believed that " less is more " and that the [ORG EU  ] was therefore currently in an " evaluation mode " with respect to [ORG IPR  ] legislation in [LOC Europe  ] . 
+He spent quite a bit of time reviewing a number of [MISC European  ] cases that have to do with [ORG MADRID  ] 00002128 004 OF 006 defining what a reproduction is . 
+He said that the [ORG Commission  ] was reviewing how effective [MISC ISPs  ] were in preventing their services from being abused to commit copyright policy violations . 
+[PER Helen Montluc Head  ] of [ORG Intellectual Property Office Ministry of Culture France  ] -------------------- [PER Montluc  ] said that President [PER Sarkozy  ] was interested in reducing internet piracy . 
+The head of [LOC France  ] 's biggest music retailer , [ORG FNAC  ] , was working with stakeholders on proposals . 
+[PER Montluc  ] acknowledged that peer to peer file sharing caused " grave damages " . 
+She said that peer to peer file sharing must be curbed . 
+The [MISC French  ] government is considering whether to reform the criminal code to provide for " proportional sanctions " more along the lines of traffic fines , rather than the maximum of three years in jail and/or a euros 300,000 fine that the law currently permits . 
+[PER David Carson  ] Associate Register [ORG U.S. Copyright Office  ] --------------------- [PER Carson  ] gave two presentations focusing on the main provisions of the [ORG Digital Millenium Copyright Act  ] ( [ORG DMCA  ] ) and [ORG ISP  ] liability . 
+He reviewed other legislation affecting [ORG ISP  ] liability and the [PER Napster  ] and Grokster cases . 
+[PER Carson  ] emphasized that consumers must believe that there will be consequences for illegal downloading if piracy is to be stemmed . 
+He also suggested that because [MISC ISPs  ] are now getting into the content business , their traditional reluctance to accomodate rights-holders' concerns may be receding . 
+[PER Pedro Farre  ] Corporate Relations Director Society of Authors and Editors ( [ORG SGAE  ] ) ------------------------------ [PER Farre  ] made an impassioned plea for understanding that " content is king " on the internet , i.e. without content nobody would buy internet services . 
+He noted that cultural industries represented 4% of [LOC Spain  ] 's GDP . 
+[PER Farre  ] complained that the government was not doing enough to stop internet piracy . 
+He said that the copyright levies that [ORG SGAE  ] collects on the sales of blank CDs and some electronic devices were only a " palliative " compared with the losses his members were suffering as a result of piracy . 
+[PER Barbaro Navarro  ] Antipiracy Director [ORG NBC Universal Spain  ] ------------------- [PER Navarro  ] shared information on successful anti-piracy publicity campaigns in the [LOC UK  ] . 
+[PER Txema Arnedo  ] [ORG IP Development  ] Director [ORG Microsoft Spain  ] and Vice President [ORG Business Software Alliance  ] ( [ORG BSA  ] ) [LOC Spain  ] ----------------------- [PER Arnedo  ] said that [LOC Spain  ] 's software piracy rate of 46% compared unfavorably with 20% in the [LOC U.S.  ] [PER Georg Herrnleben Director  ] for Central and [ORG Eastern Europe  ] , [ORG BSA  ] ------------------------ [PER Herrnleben  ] said that the software piracy rate in [LOC Spain  ] in 2006 was 10% higher than the [ORG EU  ] average , 12% higher than the western [MISC European  ] average , 11% higher than the world average , and 25% higher than the [LOC U.S.  ] average . 
+[PER Herrnleben  ] attributed this to the fact that small and medium sized businesses are dominant in [LOC Spain  ] , and that they do not take software [ORG MADRID  ] 00002128 005 OF 006 seriously . 
+He also said that retailers , eager to sell computers , often loaded machines with free software to entice customers . 
+However , the [ORG BSA  ] representative mentioned that the [MISC Spanish  ] government had conducted with [ORG BSA  ] awareness campaigns , and that the police had been cooperative . 
+[PER Thierry Desurmont  ] Vice President SACEM [LOC France  ] ----------------- Desurmont called peer to peer file sharing " hugely detrimental " . 
+He emphasized that nothing could be done about the problem without real [ORG ISP  ] collaboration . 
+He said the [ORG EU  ] 's 2000 [MISC E-commerce  ] directive needs to be " reopened " because it does not impose effective responsibility on [MISC ISPs  ] . 
+[PER Luis Javier Martinez Director  ] of [ORG Pixbox Distribution Platform Telefonica  ] --------------------- [PER Martinez  ] acknowledged that content providers ( [PER Martinez  ] was a former [PER Walt Disney  ] executive before taking his current position at [ORG Telefonica  ] ) had been slow to pass on some of the savings that the new technologies made possible to consumers , thereby contributing to engendering a consumer backlash against content providers . 
+However , he insisted that the current culture of " gratis total " ( totally free product over the internet ) was not sustainable . 
+[PER Antonio Guisasola  ] President Promusicae ----------------- [PER Guisasolo  ] noted that in 2006 there was only euros 22 million worth of legal internet music sales in [LOC Spain  ] , and that 87% of those sales were in the cell phone market . 
+He said this was because cell phone P2P file sharing does not work so consumers were compelled to go the legal route for music . 
+[PER Guisasola  ] said that the big [MISC French  ] music retailer , [ORG FNAC  ] , did no internet busines in [LOC Spain  ] because internet piracy levels were too high . 
+[PER Victor Domingo President Internet Users Association  ] ( [ORG AI  ] ) [LOC Spain  ] ---------------- [PER Domingo  ] said he wanted to issue a " declaration of innocence " on behalf of internet users . 
+He rejected the notion of illegal internet downloads , saying that the levy system compensates creators . 
+Besides , judges had consistently ruled in favor of internet users . 
+He rejected the notion that consumers believed in totally free content and referred to the relatively high prices [MISC Spanish  ] consumers pay for internet service connections . 
+[PER Juan Junquera Temprano Chief  ] of Staff to Secretary of State for [ORG SIPDIS Telecommunications Francisco Ros Ministry of Industry  ] , [ORG Tourism  ] and Trade ----------------------------- [ORG Temprano  ] made it very clear that the levy system did not compensate for peer to peer file sharing . 
+( Note and Comment: The levy system theoretically exists to compensate rights-holders for the private copies that consumers are allowed to make in [LOC Spain  ] . 
+However , the copy has to be from a legally acquired product . 
+Material obtained through peer to peer file sharing is not legally acquired so by definition it is not a copy and therefore outside the levy system . 
+[ORG Temprano  ] 's statement was important because there is a tremendous amount of damaging misinformation in [LOC Spain  ] about the levy system . 
+End Note and Comment ) [PER Jose Manuel Tourne  ] [ORG MADRID  ] 00002128 006 OF 006 Director General Antipiracy Federaton ( [ORG FAP  ] ) -------------------------- [PER Tourne  ] said that certain aspects of [MISC Spanish  ] law had created a " perfect storm " for the copyright-based industries . 
+Notably , he said that the " effective knowledge " requirement , i.e. a court order rather than information provided by a rights-holder , for [MISC ISPs  ] to act against infringers puts an undue burden on the movie and music industries . 
+[PER Tourne  ] said that in the [LOC UK  ] , [LOC Germany  ] and [LOC France  ] , the law permitted rights-holders to provide " effective knowledge " to rights-holders . 
+In [LOC Italy  ] , " effective knowledge " is not defined according to [PER Tourne  ] . 
+The [ORG FAP  ] representative said that within the [ORG EU  ] , [LOC Finland  ] has a functioning notice and takedown system . 
+[PER Edmundo Fernandez Electronics  ] and Environment Director ( [ORG AETIC  ] ) -------------------- [PER Fernandez  ] , representing [MISC ISPs  ] , said his organization remained willing to discuss internet issues with rights-holders . 
+However , he said that [ORG AETIC  ] demanded " legal security " for its members . 
+COMMENT ------- <a id='par10' href='#par10'>¶</a>10 . 
+( C ) Clearly , there are limits as to what can be achieved between now and [LOC Spain  ] 's national elections , which will be held in March 2008 . 
+However , we will be consulting closely with industry and the government to see what can be done . 
+Certainly the kinds of actions described in para . 
+8 would be welcome . 
+Embassy appreciates [PER David Carson  ] 's and [PER Michael Shapiro  ] 's participation in the bilateral and conference as they helped highlight the [ORG USG  ] 's intense interest in internet piracy . 
+While the [ORG GOS  ] will continue to cite political limits on what it can achieve , the government is aware that it needs to show some progress for Special 301 purposes . 
+LLORENS</pre></code> 
